@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eczane ve Hastane Listeleme</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Eczane ve Hastane Listeleme</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Filtreleme</h2>
+            <form id="filterForm">
+                <label for="city">Şehir:</label>
+                <select id="city" name="city">
+                    <option value="">Şehir seçin</option>
+                </select>
+
+                <label for="district">İlçe:</label>
+                <select id="district" name="district" disabled>
+                    <option value="">İlçe seçin</option>
+                </select>
+
+                <button type="submit">Listele</button>
+            </form>
+        </section>
+        <section>
+            <h2>Sonuçlar</h2>
+            <ul id="resultList"></ul>
+        </section>
+    </main>
+    <script src="js/app.js"></script>
+</body>
+</html>
