@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const resultList = document.getElementById("resultList");
 
     // Şehir ve ilçe verilerini JSON'dan al
-    fetch("data/eczane.json")
+    fetch("eczane.json")  // Yolu güncelledim
         .then((response) => response.json())
         .then((data) => {
             const cities = [...new Set(data.map((item) => item.city))];
