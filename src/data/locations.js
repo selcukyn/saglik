@@ -23811,5 +23811,7536 @@ export const locations = [
     "contract": true,
     "latitude": 38.6119335,
     "longitude": 27.3818762
+  },
+
+    {
+    "name": "ÖZEL BALDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ ÇAN ŞUBESİ",
+    "type": "hastane",
+    "city": "ÇANAKKALE",
+    "district": "ÇAN",
+    "address": "no:33 çan",
+    "contract": true,
+    "latitude": 40.028167,
+    "longitude": 27.046634
+  },
+  {
+    "name": "ÖZEL BALDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ EDREMİT ŞUBESİ",
+    "type": "hastane",
+    "city": "BALIKESİR",
+    "district": "EDREMİT",
+    "address": "NO:67/A EDREMİT",
+    "contract": true,
+    "latitude": 39.594664,
+    "longitude": 27.021888
+  },
+  {
+    "name": "ÖZEL BALDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ BİGA ŞUBESİ",
+    "type": "hastane",
+    "city": "ÇANAKKALE",
+    "district": "BİGA",
+    "address": "no:46 biga",
+    "contract": true,
+    "latitude": 40.226527,
+    "longitude": 27.243625
+  },
+  {
+    "name": "ÖZEL BİNGÖL HASTANESİ",
+    "type": "hastane",
+    "city": "BİNGÖL",
+    "district": "MERKEZ",
+    "address": "ŞİRKET NEVİ DEĞİŞİKLİĞİ",
+    "contract": true,
+    "latitude": 38.885464,
+    "longitude": 40.496625
+  },
+  {
+    "name": "ÖZEL KOZYATAĞI CENTRAL HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "KOZYATAGI MAH. KOZYATAGI SK. B BLOK NO:19/1 KADIKÖY / İSTANBUL",
+    "contract": true,
+    "latitude": 40.9650267,
+    "longitude": 29.0993129
+  },
+  {
+    "name": "ÖZEL ELBİSTAN YAŞAM HASTANESİ",
+    "type": "hastane",
+    "city": "KAHRAMANMARAŞ",
+    "district": "ELBİSTAN",
+    "address": "BATTALGAZI MAH. KIZILELMA SK. NO: 1 IC KAPI NO: 1 ELBISTAN/ KAHRAMANMARAŞ",
+    "contract": true,
+    "latitude": 38.2110886,
+    "longitude": 37.1888225
+  },
+  {
+    "name": "ÖZEL KARŞIYAKA GÖZ DAL MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "ÇİĞLİ",
+    "address": "1715 SK NO:54/1 çiğli izmir",
+    "contract": true,
+    "latitude": 38.4498063,
+    "longitude": 27.2378455
+  },
+  {
+    "name": "ÖZEL KARŞIYAKA GÖZ HASTANESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KARŞIYAKA",
+    "address": "YALI MAH. CAHER DUDAYEV BULVARI NO:71KARŞIYAKA/İZMİR",
+    "contract": true,
+    "latitude": 38.4722131,
+    "longitude": 27.0843823
+  },
+  {
+    "name": "DATALAB TIBBİ TAHLİL LABORATUVARI YALOVA",
+    "type": "hastane",
+    "city": "YALOVA",
+    "district": "MERKEZ",
+    "address": "ADNAN MENDERES MAH. ŞEHİT YAŞAR KUŞ CAD. A BLOK 10 NOLU DÜKKAN NO: 15 B MERKEZ/YALOVA",
+    "contract": true,
+    "latitude": 40.6433994,
+    "longitude": 29.2577299
+  },
+  {
+    "name": "DATALAB TIBBİ TAHLİL LABORATUVARI BAKIRKÖY",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAKIRKÖY",
+    "address": "SAKIZAĞACI MAHALLESİ KENNDY CAD. NO: 103/9A PRUVA 34 SİTESİ BAKIRKÖY/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9798678,
+    "longitude": 28.8862581
+  },
+  {
+    "name": "DATALAB TIBBİ TAHLİL LABORATUVARI PENDİK",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "PENDİK",
+    "address": "YENİ MAH. PLEVNE CAD. - NO: 6 İÇ KAPI NO: 1 PENDİK/ İSTANBUL",
+    "contract": true,
+    "latitude": 40.8835237,
+    "longitude": 29.2310471
+  },
+  {
+    "name": "ÖZEL DENTGEN BEYTEPE AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "NO:1C-18",
+    "contract": true,
+    "latitude": 39.886111,
+    "longitude": 32.856111
+  },
+  {
+    "name": "ÖZEL DENTGEN AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "NO:165/B ÇANKAYA ANKARA",
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "ÖZEL ÜMRAN TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜSKÜDAR",
+    "address": "BULGURLU MAH.İZZETTİNBEY SOKAK NO:3/AÜSKÜDAR/İSTANBUL",
+    "contract": true,
+    "latitude": 41.0230073,
+    "longitude": 29.0807219
+  },
+  {
+    "name": "ÖZEL AYDIN GÖZ HASTANESİ",
+    "type": "hastane",
+    "city": "AYDIN",
+    "district": "EFELER",
+    "address": "İSTİKLAL MAH.MUĞLA BULVARI NO:26 /1EFELER/AYDIN",
+    "contract": true,
+    "latitude": 37.83292,
+    "longitude": 27.844249
+  },
+  {
+    "name": "Mert Test 2",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": NaN,
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.9333635,
+    "longitude": 32.8597419
+  },
+  {
+    "name": "ÇANAKKALE ÖZEL ATLAS TIP MERKEZİ",
+    "type": "hastane",
+    "city": "ÇANAKKALE",
+    "district": "MERKEZ",
+    "address": "İSMETPASA MAH. ESKI HAVRA SK.NO:23/1 MERKEZ/ÇANAKKALE",
+    "contract": true,
+    "latitude": 40.1458662,
+    "longitude": 26.4061254
+  },
+  {
+    "name": "ÖZEL HOSPİTADENT BODRUM AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "MUĞLA",
+    "district": "BODRUM",
+    "address": NaN,
+    "contract": true,
+    "latitude": 37.034407,
+    "longitude": 27.43054
+  },
+  {
+    "name": "ÖZEL MEGAPOİNT HASTANESİ",
+    "type": "hastane",
+    "city": "KAHRAMANMARAŞ",
+    "district": "ONİKİŞUBAT",
+    "address": "YAMACTEPE MAH. DOKTOR MUSTAFA BEY CAD. NO: 15 ONIKISUBAT/ KAHRAMANMARAS",
+    "contract": true,
+    "latitude": 37.5943595,
+    "longitude": 36.8438656
+  },
+  {
+    "name": "ÖZEL BİLGİ HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "YENİMAHALLE",
+    "address": "İNÖNÜ MAH.BATI BULVARI NO:99 BATIKENTYENİMAHALLE/ANKARA",
+    "contract": true,
+    "latitude": 39.9520003,
+    "longitude": 32.7116545
+  },
+  {
+    "name": "İSTANBUL BEYKENT ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ TEVFİKATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BÜYÜKÇEKMECE",
+    "address": "CUMHURİYET MAH.GÜRPINAR YOLU CAD.ŞAFAK SOKAK NO:1 BÜYÜKÇEKMECE İSTANBUL",
+    "contract": true,
+    "latitude": 40.9881963,
+    "longitude": 28.6523022
+  },
+  {
+    "name": "MADALYON PSİKİYATRİ MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": "KARANFİL ( GONCA ) SK NO 5 LEVENT/İSTANBUL",
+    "contract": true,
+    "latitude": 41.0753138,
+    "longitude": 29.0172842
+  },
+  {
+    "name": "MADALYON PSİKİYATRİ MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "GÖZTEPE LOFT, TÜTÜNCÜ MEHMET EFENDİ CAD. MERYEM ATMACA SK NO:1 K:5 KADIKÖY/ İSTANBUL",
+    "contract": true,
+    "latitude": 40.9792417,
+    "longitude": 29.0675465
+  },
+  {
+    "name": "ÖZEL MEDİCAL PALACE HASTANESİ",
+    "type": "hastane",
+    "city": "KAYSERİ",
+    "district": "MELİKGAZİ",
+    "address": "no:3 melikgazi kayseri",
+    "contract": true,
+    "latitude": 38.720489,
+    "longitude": 35.48259700000001
+  },
+  {
+    "name": "ÖZEL MADALYON PSİKİYATRİ MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "no:229 kavaklıdere ankara",
+    "contract": true,
+    "latitude": 39.9125435,
+    "longitude": 32.857805
+  },
+  {
+    "name": "ÖZEL HG HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "KAHRAMANMARAŞ",
+    "district": "ONİKİŞUBAT",
+    "address": "ÜNGÜT MAH. PROF. DR. NECMEDDİN ERBAKAN BLV. NO:209 ONİKİŞUBAT / KAHRAMANMARAŞ",
+    "contract": true,
+    "latitude": 37.5996022,
+    "longitude": 36.819586
+  },
+  {
+    "name": "ÖZEL ESKİŞEHİR GÖZ SAĞLIĞI VE HASTALIKLARI TIP MERKEZİ",
+    "type": "hastane",
+    "city": "ESKİŞEHİR",
+    "district": "ODUNPAZARI",
+    "address": "ISTIKLAL MAH. CINAR SK. NO: 6 /1 IC KAPI NO:1 ODUNPAZARI/ESKİŞEHİR",
+    "contract": true,
+    "latitude": 39.7751946,
+    "longitude": 30.5169796
+  },
+  {
+    "name": "ÖZEL ESKİŞEHİR ANADOLU HASTANESİ",
+    "type": "hastane",
+    "city": "ESKİŞEHİR",
+    "district": "ODUNPAZARI",
+    "address": "AKARBASI MAH. KIBRIS SEHITLERI CAD. NO: 55 ODUNPAZARI/ ESKISEHIR",
+    "contract": true,
+    "latitude": 39.767456,
+    "longitude": 30.5135993
+  },
+  {
+    "name": "ÖZEL PALMERSTİLL FİZİK TEDAVİ VE REHABİLİTASYON MÜESSESESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ATAŞEHİR",
+    "address": "BARBAROS MAH. MIMAR SINAN CAD. NO: 170 IC KAPI NO: 2 ATASEHIR/ ISTANBUL",
+    "contract": true,
+    "latitude": 40.9902519,
+    "longitude": 29.1020478
+  },
+  {
+    "name": "ÖZEL İSTANBUL İBNİ SİNA TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MALTEPE",
+    "address": "KUCUKYALI MERKEZ MAH. TALAT BEY SK. HACI HASAN BEY APT. NO: 28 B MALTEPE ISTANBUL",
+    "contract": true,
+    "latitude": 40.9487821,
+    "longitude": 29.1124845
+  },
+  {
+    "name": "ACIBADEM KARTAL HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KARTAL",
+    "address": "ÇAVUŞOĞLU MAH.SANAYİ CADDESİ NO:1/1 KARTAL İSTANBUL",
+    "contract": true,
+    "latitude": 40.8859901,
+    "longitude": 29.2064196
+  },
+  {
+    "name": "ÖZEL ANKARA MAYAGÖZ HASTALIKLARI MERKEZİ MALTEPE",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "CELAL BAYAR BULVARI TOK SOK.NO:7 MALTEPE/ANKARA",
+    "contract": true,
+    "latitude": 39.9296573,
+    "longitude": 32.8484452
+  },
+  {
+    "name": "ÖZEL MAYAGÖZ TIP MERKEZİ ETİMESGUT",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ETİMESGUT",
+    "address": "İSTASYON MAH.ALPARSLAN TÜRKEŞ CAD. NO:33 ETİMESGUT/ANKARA",
+    "contract": true,
+    "latitude": 39.9440842,
+    "longitude": 32.6638715
+  },
+  {
+    "name": "ÖZEL MAYAGÖZ TIP MERKEZİ KEÇİÖREN",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "KEÇİÖREN",
+    "address": "GÜÇLÜKAYA MAH .KIZLARPINARI CAD. NO:7 KEÇİÖREN/ANKARA",
+    "contract": true,
+    "latitude": 39.97928090000001,
+    "longitude": 32.8727407
+  },
+  {
+    "name": "ÖZEL DÜZTEPE YAŞAM HASTANESİ",
+    "type": "hastane",
+    "city": "GAZİANTEP",
+    "district": "ŞAHİNBEY",
+    "address": "DUZTEPE MAH. SADIKLAR CAD. NO: 2 SAHINBEY/GAZİANTEP",
+    "contract": true,
+    "latitude": 37.047635,
+    "longitude": 37.3827289
+  },
+  {
+    "name": "ÖZEL HÜMA KADIN HASTALIKLARI VE DOĞUM HASTANESİ",
+    "type": "hastane",
+    "city": "KAYSERİ",
+    "district": "MELİKGAZİ",
+    "address": "TACETTİN VELİ MAH.SEYYİD BURHANEDDİN BLV. NO:58 MELİKGAZİ/KAYSERİ",
+    "contract": true,
+    "latitude": 38.71371,
+    "longitude": 35.4957914
+  },
+  {
+    "name": "ÖZEL GAZİANTEP ANKA HASTANESİ",
+    "type": "hastane",
+    "city": "GAZİANTEP",
+    "district": "ŞEHİTKAMİL",
+    "address": "EYÜPSULTAN MAH.HAFIZ TEVFİK CAD.NO:162/1 ŞEHİTKAMİL/GAZİANTEP",
+    "contract": true,
+    "latitude": 37.0892795,
+    "longitude": 37.3877695
+  },
+  {
+    "name": "ÖZEL DİVAN HASTANESİ",
+    "type": "hastane",
+    "city": "MALATYA",
+    "district": "YEŞİLYURT",
+    "address": "CAVUSOGLU MAH. BUHARA CAD. NO: 224 A YESILYURT/ MALATYA",
+    "contract": true,
+    "latitude": 38.354532,
+    "longitude": 38.3003225
+  },
+  {
+    "name": "ÖZEL DEMİRTEPE LİFE HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "MALTEPE MAH.ÖZVEREN CADDESİ NO:17ÇANKAYA/ANKARA",
+    "contract": true,
+    "latitude": 39.9262265,
+    "longitude": 32.8437059
+  },
+  {
+    "name": "ÖZEL KEÇİÖREN HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "KEÇİÖREN",
+    "address": "Köşk, Anavatan Cd. No:20, 06300 Keçiören/Ankara",
+    "contract": true,
+    "latitude": 40.00226600000001,
+    "longitude": 32.873532
+  },
+  {
+    "name": "WELLDENT",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜMRANİYE",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0151029,
+    "longitude": 29.15149
+  },
+  {
+    "name": "ÖZEL PARKHAYAT AKŞEHİR HASTANESİ",
+    "type": "hastane",
+    "city": "KONYA",
+    "district": "AKŞEHİR",
+    "address": "İSTASYON BULVARI NO :119 AKŞEHİR/KONYA",
+    "contract": true,
+    "latitude": 38.3640563,
+    "longitude": 31.4309335
+  },
+  {
+    "name": "ÖZEL PARKHAYAT KÜTAHYA HASTANESİ",
+    "type": "hastane",
+    "city": "KÜTAHYA",
+    "district": "MERKEZ",
+    "address": "100. YIL DUMLUPINAR BLV. NO:26",
+    "contract": true,
+    "latitude": 39.39493239999999,
+    "longitude": 30.0290234
+  },
+  {
+    "name": "ÖZEL PARKHAYAT HASTANESİ AFYON",
+    "type": "hastane",
+    "city": "AFYONKARAHİSAR",
+    "district": "MERKEZ",
+    "address": "HASAN KARAAĞAÇ MAHALLESİ TURGUT ÖZAL CADDESİ NO : 37 AFYONKARAHİSAR",
+    "contract": true,
+    "latitude": 38.7655258,
+    "longitude": 30.5135161
+  },
+  {
+    "name": "İZMİR TINAZTEPE ÜNİVERSİTESİ ÖZEL GALEN HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "BUCA",
+    "address": "INKILAP MAH/SEMT KOSU YOLU CAD. NO: 2 BUCA/ IZMIR",
+    "contract": true,
+    "latitude": 38.389654,
+    "longitude": 27.150986
+  },
+  {
+    "name": "ÖZEL MOZAİK KADIN HASTALIKLARI VE DOĞUM HASTANESİ",
+    "type": "hastane",
+    "city": "HATAY",
+    "district": "ANTAKYA",
+    "address": "F.PASA MAH. .ÖRGU CAD. NO: 12 MERKEZ/HATAY",
+    "contract": true,
+    "latitude": 36.1965723,
+    "longitude": 36.1627206
+  },
+  {
+    "name": "ÖZEL MEDİKAR HASTANESİ",
+    "type": "hastane",
+    "city": "KARABÜK",
+    "district": "MERKEZ",
+    "address": "ÜNİVERSİTE MAH. ŞEHİT ATEŞE REŞAT MORALI",
+    "contract": true,
+    "latitude": 41.19562,
+    "longitude": 32.622654
+  },
+  {
+    "name": "ÖZEL MEDİSUN ÇAYYOLU HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "MUTLUKENT MAH. 1920 CAD. NO: 61 CANKAYA/ANKARA",
+    "contract": true,
+    "latitude": 39.890672,
+    "longitude": 32.71046
+  },
+  {
+    "name": "ÖZEL MUŞ ŞİFA HASTANESİ",
+    "type": "hastane",
+    "city": "MUŞ",
+    "district": "MERKEZ",
+    "address": "No:6 İç Kapı No:1 Merkez/MUŞ",
+    "contract": true,
+    "latitude": 38.8542266,
+    "longitude": 41.4369459
+  },
+  {
+    "name": "ÖZEL MERSİN FORUM YAŞAM HASTANESİ",
+    "type": "hastane",
+    "city": "MERSİN",
+    "district": "YENİŞEHİR",
+    "address": "GÜVENEVLER MAH.20.CAD.NO:48 YENİŞEHİR/MERSİN",
+    "contract": true,
+    "latitude": 36.7895714,
+    "longitude": 34.5874443
+  },
+  {
+    "name": "KAYSERİ İDEAL CERRAHİ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "KAYSERİ",
+    "district": "MELİKGAZİ",
+    "address": "no:279/a melikgazi/kayseri",
+    "contract": true,
+    "latitude": 38.720489,
+    "longitude": 35.48259700000001
+  },
+  {
+    "name": "ÖZEL LİFEMED TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "GÖZTEPE MAH.BAĞDAT CAD.NO:191/1",
+    "contract": true,
+    "latitude": 40.975029,
+    "longitude": 29.054953
+  },
+  {
+    "name": "ÖZEL BAŞAK ÇOCUK HASTALIKLARI TIP MERKEZİ",
+    "type": "hastane",
+    "city": "AKSARAY",
+    "district": "MERKEZ",
+    "address": "CERDIGIN MAH. 8 / CUMHURIYET BLV. NO: 152/A MERKEZ/AKSARAY",
+    "contract": true,
+    "latitude": 38.380298,
+    "longitude": 34.027857
+  },
+  {
+    "name": "ÖZEL BÜYÜK ANADOLU HASTANESİ DİŞ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "DARICA",
+    "address": "NO117 DARICA KOCAELİ",
+    "contract": true,
+    "latitude": 40.7575047,
+    "longitude": 29.3904838
+  },
+  {
+    "name": "ÖZEL ULTRALAB TANI LABORATUVARI",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ATAŞEHİR",
+    "address": "ICERENKÖY MAH. ERZURUM SK. NO: 9 A ATASEHIR/İSTANBUL",
+    "contract": true,
+    "latitude": 40.972459,
+    "longitude": 29.1082597
+  },
+  {
+    "name": "ÖZEL SPEKTRUM LABORATUVARI",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEYOĞLU",
+    "address": "SUTLUCE MAH. IMRAHOR CAD. NO: 2 /2F BEYOGLU/ İSTANBUL",
+    "contract": true,
+    "latitude": 41.0536399,
+    "longitude": 28.9443795
+  },
+  {
+    "name": "ÖZEL SANATORYUM TIP MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "KEÇİÖREN",
+    "address": "CICEKLI MAH. SANATORYUM CAD. NO: 119 IC KAPI NO: 1 KECIÖREN/ ANKARA",
+    "contract": true,
+    "latitude": 39.9820343,
+    "longitude": 32.8590288
+  },
+  {
+    "name": "ÖZEL BATI ANADOLU HASTANESİ CENTRAL HOSPİTAL",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "BAYRAKLI",
+    "address": "BAYRAKLI MAH.ZEKİ YAVAŞ SOKAK.NO:2",
+    "contract": true,
+    "latitude": 38.4606837,
+    "longitude": 27.1667348
+  },
+  {
+    "name": "MEDİSTATE KAVACIK HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEYKOZ",
+    "address": "RÜZGARLIBAHÇE MAH.CUMHURİYET CAD. NO:24 BEYKOZ/İSTANBUL",
+    "contract": true,
+    "latitude": 41.0945357,
+    "longitude": 29.10100469999999
+  },
+  {
+    "name": "ÖZEL SERDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ESKİŞEHİR",
+    "district": "TEPEBAŞI",
+    "address": "NO:12/A TEPEBAŞI ESKİŞEHİR",
+    "contract": true,
+    "latitude": 39.7667061,
+    "longitude": 30.52563109999999
+  },
+  {
+    "name": "ÖZEL DATÇA YÜCELEN POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "MUĞLA",
+    "district": "DATÇA",
+    "address": "DATÇA MAH.KAZIM YILMAZ BULVARI 551.SK.NO:4 DATÇA/MUĞLA",
+    "contract": true,
+    "latitude": 36.7545073,
+    "longitude": 27.6687829
+  },
+  {
+    "name": "ÖZEL GAZİEMİR CERRAHİ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "GAZİEMİR",
+    "address": "ATIFBEY MAH.AKÇAY CADDESİ NO:266GAZİEMİR/İZMİR",
+    "contract": true,
+    "latitude": 38.3258162,
+    "longitude": 27.1362413
+  },
+  {
+    "name": "ÖZEL MECİDİYEKÖY ÇEVRE HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": "Mecidiyeköy, Cemal Sahir Sokaği No:2, 34394 Şişli/İstanbul",
+    "contract": true,
+    "latitude": 41.0671665,
+    "longitude": 29.0012697
+  },
+  {
+    "name": "ÖZEL STAR MEDİCA HASTANESİ",
+    "type": "hastane",
+    "city": "TEKİRDAĞ",
+    "district": "SÜLEYMANPAŞA",
+    "address": "NO:12",
+    "contract": true,
+    "latitude": 40.9780919,
+    "longitude": 27.511674
+  },
+  {
+    "name": "ÖZEL SANİTA İZMİR AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "BAYRAKLI",
+    "address": "NO:6/F BAYRAKLI İZMİR",
+    "contract": true,
+    "latitude": 38.4793887,
+    "longitude": 27.1382404
+  },
+  {
+    "name": "ÖZEL SANİTA ŞİŞLİ AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": "NO:18 ŞİLİ İSTANBUL",
+    "contract": true,
+    "latitude": 41.06270809999999,
+    "longitude": 28.9961353
+  },
+  {
+    "name": "ÖZEL MERAM AŞKAN AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "KONYA",
+    "district": "MERAM",
+    "address": NaN,
+    "contract": true,
+    "latitude": 37.8746429,
+    "longitude": 32.4931554
+  },
+  {
+    "name": "ÖZEL SANİTA ŞİŞLİ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0536216,
+    "longitude": 28.9819731
+  },
+  {
+    "name": "ÖZEL ABAT TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEYLİKDÜZÜ",
+    "address": "kavaklı mah.ibrahim müteferika cad.mesken no:3 içkapı no:1 beylikdüzü",
+    "contract": true,
+    "latitude": 40.9840377,
+    "longitude": 28.6599139
+  },
+  {
+    "name": "GÜVEN TIP LABORATUVARI",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "NİLÜFER",
+    "address": "Ahmet Vefik Paşa Cd. Kurtuluş Apt. No:3-A",
+    "contract": true,
+    "latitude": 40.2154598,
+    "longitude": 28.9850832
+  },
+  {
+    "name": "İNTERMED SAĞLIK NİŞANTAŞI",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": "NO:63 ŞİŞLİ İSTANBUL",
+    "contract": true,
+    "latitude": 41.0536216,
+    "longitude": 28.9819731
+  },
+  {
+    "name": "İNTERMED SAĞLIK CADDEBOSTAN",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0110715,
+    "longitude": 29.0384885
+  },
+  {
+    "name": "ÖZEL DENT ANKA AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "ÇİĞLİ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 38.4950276,
+    "longitude": 26.9970153
+  },
+  {
+    "name": "ÖZEL POZİTİF KLİNİK AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "ÖZEL DENT İNN AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ORDU",
+    "district": "ALTINORDU",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.986166,
+    "longitude": 37.879721
+  },
+  {
+    "name": "ÖZEL M DENTAL DİŞ POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "MERSİN",
+    "district": "YENİŞEHİR",
+    "address": NaN,
+    "contract": true,
+    "latitude": 36.8661859,
+    "longitude": 34.4863567
+  },
+  {
+    "name": "ÖZEL ÖZKAYADENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "ÖZEL DENTPLATİNUM AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "İZMİT",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.7654408,
+    "longitude": 29.9408089
+  },
+  {
+    "name": "ÖZEL BİOLAB TIBBİ MİKROBİYOLOJİ VE BİYOKİMYA LABORATUVARI MAVİŞEHİR ŞUBESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KARŞIYAKA",
+    "address": "YALI MAH. 6523 SK. NO: 32 AC KARSIYAKA",
+    "contract": true,
+    "latitude": 38.4784305,
+    "longitude": 27.0816588
+  },
+  {
+    "name": "ÖZEL BAYRAMPAŞA KOLAN HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAYRAMPAŞA",
+    "address": "TERAZİDERE MAH.60.YIL CAD.NO:3 BAYRAMPAŞA/İSTANBUL",
+    "contract": true,
+    "latitude": 41.032946,
+    "longitude": 28.8993628
+  },
+  {
+    "name": "HATAY ARSUZ DEVLET HASTANESİ",
+    "type": "hastane",
+    "city": "HATAY",
+    "district": "ARSUZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 36.4122745,
+    "longitude": 35.890322
+  },
+  {
+    "name": "ÖZEL EPC HASTANESİ",
+    "type": "hastane",
+    "city": "ADANA",
+    "district": "SEYHAN",
+    "address": "YÜZÜNCÜYIL MAH.85019 SK.NO:8/A ÇUKUROVA/ADANA",
+    "contract": true,
+    "latitude": 37.0476984,
+    "longitude": 35.2506029
+  },
+  {
+    "name": "TAPDİ BUCA TIP MERKEZİ TEVFİKATSIZ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "BUCA",
+    "address": "İNKILAP MAH.KOŞUYOLU CAD.506 SOK. NO:2 BUCA/İZMİR",
+    "contract": true,
+    "latitude": 38.3884779,
+    "longitude": 27.1490828
+  },
+  {
+    "name": "KÜTAHYA ŞEHİR HASTANESİ",
+    "type": "hastane",
+    "city": "KÜTAHYA",
+    "district": NaN,
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.4199547,
+    "longitude": 29.985732
+  },
+  {
+    "name": "ÖZEL MEDİCALPARK İZMİR HASTANESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "KAHRAMANLAR, 1397. SK. NO:1, 35230 KONAK/İZMİR",
+    "contract": true,
+    "latitude": 38.4251285,
+    "longitude": 27.1496422
+  },
+  {
+    "name": "ÖZEL MEDİCALPARK ATAŞEHİR HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ATAŞEHİR",
+    "address": "KAYIŞDAĞI MAH. RACİ CAD.NO 1 ATAŞEHİR İSTANBUL",
+    "contract": true,
+    "latitude": 40.9878475,
+    "longitude": 29.1443309
+  },
+  {
+    "name": "ÖZEL VM MEDİCALPARK GEBZE HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "GEBZE",
+    "address": "Osman Yılmaz Mah. İstanbul Cad. No 26 Gebze",
+    "contract": true,
+    "latitude": 40.7892936,
+    "longitude": 29.4197223
+  },
+  {
+    "name": "Başakşehir Ağız ve Diş Sağlığı Merkezi",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAŞAKŞEHİR",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.1015173,
+    "longitude": 28.7897558
+  },
+  {
+    "name": "ÖZEL MAVİ DENİZ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "BUCA",
+    "address": "INKILAP MAH. MEHMET AKIF CAD. DENIZ TIP MERKEZI NO:101 BUCA/İZMİR",
+    "contract": true,
+    "latitude": 38.3934232,
+    "longitude": 27.1415929
+  },
+  {
+    "name": "ÖZEL YÜZÜNCÜ YIL HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "MUHSİN YAZICIOĞLU CAD.NO:54 BALGATÇANKAYA/ANKARA",
+    "contract": true,
+    "latitude": 39.8921798,
+    "longitude": 32.8104531
+  },
+  {
+    "name": "ÖZEL ROSEDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "KEÇİÖREN",
+    "address": "AŞAĞI EĞLENCE MAH.HALİL SEZAİ ERKUT CAD.NO:8/B KEÇİÖREN ANKARA",
+    "contract": true,
+    "latitude": 39.9690381,
+    "longitude": 32.8297228
+  },
+  {
+    "name": "ÖZEL TÜRKMENBAŞI TIP MERKEZİ",
+    "type": "hastane",
+    "city": "ADANA",
+    "district": "SEYHAN",
+    "address": "2000 EVLER MAH.TÜRKMENBAŞI BULV. BOTANİK EVLER OSMANBEY APT C BLOK NO:3/B SEYHAN/ADANA",
+    "contract": true,
+    "latitude": 37.0281133,
+    "longitude": 35.2750817
+  },
+  {
+    "name": "ÖZEL REYAP HASTANESİ",
+    "type": "hastane",
+    "city": "TEKİRDAĞ",
+    "district": "ÇORLU",
+    "address": "KAZIMIYE MAH. SEVGI SK. REYAP HASTANESI NO: 2 CORLU/TEKİRDAĞ",
+    "contract": true,
+    "latitude": 41.1535021,
+    "longitude": 27.8285784
+  },
+  {
+    "name": "ÖZEL ARTI KLİNİK AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "YENİMAHALLE",
+    "address": "YENİ BATI MAH.MÜLK CADDESİ NO:20/AB YENİMAHALLE/ANKARA",
+    "contract": true,
+    "latitude": 39.98593100000001,
+    "longitude": 32.6576217
+  },
+  {
+    "name": "ÖZEL MEDİCANA ZİNCİRLİKUYU HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": "Esentepe, Büyükdere Cd. No:165, 34394 Şişli/İstanbul",
+    "contract": true,
+    "latitude": 41.0715006,
+    "longitude": 29.0152048
+  },
+  {
+    "name": "ÖZEL KOLMED HASTANESİ",
+    "type": "hastane",
+    "city": "AMASYA",
+    "district": "MERKEZ",
+    "address": "ELLİBEŞEVLER MAH. ALPASLAN TÜRKEŞ CAD. BEKİR SAMİBEY SK. NO:2 MERKEZ / AMASYA",
+    "contract": true,
+    "latitude": 40.668638,
+    "longitude": 35.8451049
+  },
+  {
+    "name": "ÖZEL İLGİ ÇOCUK TIP MERKEZİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "İZMİT",
+    "address": "YAHYA KAPTAN MAH.DEMOKRASİ BULV.NO:10 İZMİT/KOCAELİ",
+    "contract": true,
+    "latitude": 40.7683026,
+    "longitude": 29.9769441
+  },
+  {
+    "name": "ÖZEL İLGİ ÇOCUK VE FİZİK TEDAVİ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "GEBZE",
+    "address": "OSMAN YILMAZ MAH.İSTANBUL CD.NO:38",
+    "contract": true,
+    "latitude": 40.7900658,
+    "longitude": 29.4210222
+  },
+  {
+    "name": "ÖZEL SİİRT HAYAT HASTANESİ",
+    "type": "hastane",
+    "city": "SİİRT",
+    "district": "MERKEZ",
+    "address": "BAHÇELİEVLER MAH.HÜKÜMET BULVARI NO:32 MERKEZ SİİRT",
+    "contract": true,
+    "latitude": 37.9287459,
+    "longitude": 41.940743
+  },
+  {
+    "name": "GAZİANTEP KARŞIYAKA AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+    "type": "hastane",
+    "city": "GAZİANTEP",
+    "district": NaN,
+    "address": NaN,
+    "contract": true,
+    "latitude": 37.065953,
+    "longitude": 37.37811
+  },
+  {
+    "name": "DENTAVİRA AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜMRANİYE",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0151029,
+    "longitude": 29.15149
+  },
+  {
+    "name": "ÖZEL İNTEGRA RADYOLOJİ MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "J.F.Kennedy Cad. No:101/11 ÇANKAYA/ANKARA",
+    "contract": true,
+    "latitude": 39.9041865,
+    "longitude": 32.8664224
+  },
+  {
+    "name": "ÖZEL TARSUS ORTADOĞU HASTANESİ",
+    "type": "hastane",
+    "city": "MERSİN",
+    "district": "TARSUS",
+    "address": "ÖĞRETMENLER MAH. 2901. SK. NO: 17 TARSUS/ MERSIN",
+    "contract": true,
+    "latitude": 36.9135996,
+    "longitude": 34.8822176
+  },
+  {
+    "name": "ÖZEL KLİNİK 23 NİSAN AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "NİLÜFER",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.1885281,
+    "longitude": 29.0609636
+  },
+  {
+    "name": "ÖZEL MEDİEST İNTERNATIONAL TIP MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "ÇUKURAMBAR MAH. EROL YASAR TURKALP CAD. NO: 19 ÇANKAYA/ANKARA",
+    "contract": true,
+    "latitude": 39.8996211,
+    "longitude": 32.7999889
+  },
+  {
+    "name": "ÖZEL PRODENTA AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ SUADİYE SUBESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "SUADİYE MAH. AYŞEÇAVUŞ CADDESİ ÇOLAK İSMAİL SOKAK BEDRİ TOKER AP. NO:37/1 SUADİYE / KADİKÖY/ İSTANBUL",
+    "contract": true,
+    "latitude": 40.9604909,
+    "longitude": 29.08443269999999
+  },
+  {
+    "name": "ÖZEL PRODENTA AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ATAŞEHİR",
+    "address": "KUCUKBAKKALK.Y M. ISIKLAR C. NO: 11 ATASEHIR/ ISTANBUL",
+    "contract": true,
+    "latitude": 40.9839675,
+    "longitude": 29.1133874
+  },
+  {
+    "name": "ÖZEL JİMER AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "NİLÜFER",
+    "address": "ODUNLUK MAH. AKPINAR CAD. NO: 12 NİLÜFER-BURSA",
+    "contract": true,
+    "latitude": 40.2109509,
+    "longitude": 28.9992263
+  },
+  {
+    "name": "DENTİN AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ ALSANCAK",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "KÜLTÜR MAH.CUMHURİYET MEYDANI NO:10/A KONAK/İZMİR",
+    "contract": true,
+    "latitude": 38.429065,
+    "longitude": 27.135225
+  },
+  {
+    "name": "ÖZEL DENTİN AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "HÜRRİYET BULVARI NO:3/1 D:102 KONAK/",
+    "contract": true,
+    "latitude": 38.4261829,
+    "longitude": 27.1390598
+  },
+  {
+    "name": "KOCAELİ AKTİF HASTANESİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "BAŞİSKELE",
+    "address": "YENİKÖY MERKEZ MAH. TEKNOPARK CAD. NO:13 BAŞİSKELE/KOCAELİ",
+    "contract": true,
+    "latitude": 40.6896527,
+    "longitude": 29.8873054
+  },
+  {
+    "name": "ÖZEL AKTİF HASTANESİ",
+    "type": "hastane",
+    "city": "YALOVA",
+    "district": "ÇİFTLİKKÖY",
+    "address": "SAHİL MAH. YALOVA İZMİT KARAYOLU CAD. NO:81 ÇİFTLİKKÖY / YALOVA",
+    "contract": true,
+    "latitude": 40.6673581,
+    "longitude": 29.3177746
+  },
+  {
+    "name": "ÖZEL AKTİF INTERNATİONAL HOSPİTAL YALOVA",
+    "type": "hastane",
+    "city": "YALOVA",
+    "district": "MERKEZ",
+    "address": "FEVZİ ÇAKMAK MAH. FIRIN SK. NO:33 MERKEZ/YALOVA",
+    "contract": true,
+    "latitude": 40.6540337,
+    "longitude": 29.2749784
+  },
+  {
+    "name": "ÖZEL NET GÖZ CERRAHİ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KARŞIYAKA",
+    "address": "YALI MAH.CAHER DUDAYEV BLV.NO:67 KARŞIYAKA İZMİR",
+    "contract": true,
+    "latitude": 38.4739975,
+    "longitude": 27.0835914
+  },
+  {
+    "name": "ÖZEL AKÇA DİŞ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": "FULYA MAH. PROF. DR. BULENT TARCAN CAD. VEFA APARTMANI NO: 6 IC KAPI NO: 1 SISLI",
+    "contract": true,
+    "latitude": 41.0622028,
+    "longitude": 29.0014829
+  },
+  {
+    "name": "ÖZEL LADİNDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "MERSİN",
+    "district": "ERDEMLİ",
+    "address": "AKDENIZ MAH. SERINLER CAD. NO: 13 A ERDEMLI/ MERSIN",
+    "contract": true,
+    "latitude": 36.6041966,
+    "longitude": 34.3012441
+  },
+  {
+    "name": "ÖZEL DOĞAN TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KÜÇÜKÇEKMECE",
+    "address": "CENNET MAH.ZİYA GÖKALP CAD.NO:6KÜÇÜKÇEKMECE/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9905119,
+    "longitude": 28.7818275
+  },
+  {
+    "name": "ÖZEL MEDİCALPARK İNCEK HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "GÖLBAŞI",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.79829300000001,
+    "longitude": 32.805752
+  },
+  {
+    "name": "ÖZEL ADIYAMAN PARK HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "ADIYAMAN",
+    "district": "MERKEZ",
+    "address": "YENİ SANAYİ MAHALLESİ 2819 .SOKAKNO:13/1 MERKEZ/ADIYAMAN",
+    "contract": true,
+    "latitude": 37.7518687,
+    "longitude": 38.2431609
+  },
+  {
+    "name": "ÖZEL İMPLADENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MALTEPE",
+    "address": "FEYZULLAH MAH. MIMAR SINAN CAD. FULYA APT NO: 8 A IC KAPI NO: 1 MALTEPE/ ISTANBUL",
+    "contract": true,
+    "latitude": 41.0171125,
+    "longitude": 29.1840418
+  },
+  {
+    "name": "ÖZEL AKADEMİ MERAM HASTANESİ",
+    "type": "hastane",
+    "city": "KONYA",
+    "district": "MERAM",
+    "address": "ALAVARDI MAH.BEYŞEHİR CD.181 MERAM/KONYA",
+    "contract": true,
+    "latitude": 37.8795863,
+    "longitude": 32.44868720000001
+  },
+  {
+    "name": "ÖZEL AKADEMİ KONYA HASTANESİ",
+    "type": "hastane",
+    "city": "KONYA",
+    "district": "MERAM",
+    "address": "PİREBİ MAH.FURGANDEDE CD NO:12 MERAMKONYA",
+    "contract": true,
+    "latitude": 37.865765,
+    "longitude": 32.4910805
+  },
+  {
+    "name": "ÖZEL KONYA HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "KONYA",
+    "district": "KARATAY",
+    "address": "SEMSITEBRIZI MAH. SERAFEDDIN CAD. NO: 95 A IC KAPI NO: 1 KARATAY/ KONYA",
+    "contract": true,
+    "latitude": 37.87701,
+    "longitude": 32.494221
+  },
+  {
+    "name": "ÖZEL ASYA HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "GAZİOSMANPAŞA",
+    "address": "YENİMAHALLE MAH.537.SOKAK NO:5/A1 GAZİOSMANPAŞA/ İSTANBUL",
+    "contract": true,
+    "latitude": 41.0739347,
+    "longitude": 28.9038319
+  },
+  {
+    "name": "ÖZEL İSTANBUL ŞAFAK HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "GAZİOSMANPAŞA",
+    "address": "MERKEZ MH HASTANE SOK NO:2-4 B GAZİOSMANPAŞA İSTANBUL",
+    "contract": true,
+    "latitude": 41.0618031,
+    "longitude": 28.9270288
+  },
+  {
+    "name": "ÖZEL AVRUPA ŞAFAK HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "GAZİOSMANPAŞA",
+    "address": "MERKEZ MH HASTANE SOK NO:2-4 B GAZİOSMANPAŞA İSTANBUL",
+    "contract": true,
+    "latitude": 41.0618031,
+    "longitude": 28.9270288
+  },
+  {
+    "name": "ÖZEL REYHANLI MMT AMERİKAN HASTANESİ",
+    "type": "hastane",
+    "city": "HATAY",
+    "district": "REYHANLI",
+    "address": "YENİŞEHİR MAH.RECEP TAYYİP ERDOĞAN CD.NO:55 REYHANLI/HATAY",
+    "contract": true,
+    "latitude": 36.268523,
+    "longitude": 36.567593
+  },
+  {
+    "name": "ÖZEL MMT AMERİKAN HASTANESİ",
+    "type": "hastane",
+    "city": "GAZİANTEP",
+    "district": "ŞAHİNBEY",
+    "address": "TEPEBAŞI MAH.EMİR SOKAK NO:3 İÇ KAPI NO:1ŞAHİNBEY/GAZİANTEP",
+    "contract": true,
+    "latitude": 37.05994,
+    "longitude": 37.3733531
+  },
+  {
+    "name": "ÖZEL AKAR DENTAL AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "KONYAALTI",
+    "address": "ALTINKUM MAH.ATATÜRK BULVARI NO:133İÇKAPI NO: 1 KONYAALTI /ANTALYA",
+    "contract": true,
+    "latitude": 36.9164407,
+    "longitude": 30.717549
+  },
+  {
+    "name": "ÖZEL DENTGEN AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜMRANİYE",
+    "address": "ŞERİFALİ MAH.MİRAS SOKAK EKO PLAZA NO:20 İÇKAPI NO:1 ÜMRANİYE/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9963626,
+    "longitude": 29.1486798
+  },
+  {
+    "name": "İSTANBUL OKAN ÜNİVERSİTESİ SAĞLIK UYGULAMA VE ARAŞTIRMA MERKEZİ TEVKİFATSIZ - DİŞ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "TUZLA",
+    "address": "AYDINLI YOLU CAD.AYDEMİR SOKAK NO:2TUZLA/İSTANBUL",
+    "contract": true,
+    "latitude": 40.8501603,
+    "longitude": 29.3001807
+  },
+  {
+    "name": "ÖZEL ÜMİTKÖY AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "MUTLUKENT MAH.1964.CADDE NO:10 ÇANKAYA",
+    "contract": true,
+    "latitude": 39.8988371,
+    "longitude": 32.707958
+  },
+  {
+    "name": "ÖZEL ALTUNİZADE AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜSKÜDAR",
+    "address": "ALTUNİZADE MAH.ORD.PROF.FAHRETTİN KERİM GÖKAY CAD.EURO İŞ MERKEZİ BBLOK NO:31/2A",
+    "contract": true,
+    "latitude": 40.997544,
+    "longitude": 29.066398
+  },
+  {
+    "name": "ÖZEL ZEYTİNBURNU HOSPİTADENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ZEYTİNBURNU",
+    "address": "MERKEZEFENDİ MAH.GÜMÜŞSUYU DAVUTPAŞA CAD.NO:76/A ZEYTİNBURNU/İSTANBUL",
+    "contract": true,
+    "latitude": 41.01260910000001,
+    "longitude": 28.9099568
+  },
+  {
+    "name": "ÖZEL DEVREK IŞIN TIP MERKEZİ",
+    "type": "hastane",
+    "city": "ZONGULDAK",
+    "district": "DEVREK",
+    "address": "YENI MAH. OKUL SK. NO: 6 IC KAPI NO: 1 DEVREK/ZONGULDAK",
+    "contract": true,
+    "latitude": 41.21822350000001,
+    "longitude": 31.9534684
+  },
+  {
+    "name": "ÖZEL BATMAN DÜNYA HASTANESİ",
+    "type": "hastane",
+    "city": "BATMAN",
+    "district": "MERKEZ",
+    "address": "ÇAMLITEPE MAH.TPAO BULVARI NO:174",
+    "contract": true,
+    "latitude": 37.9005822,
+    "longitude": 41.1453698
+  },
+  {
+    "name": "BEZMİALEM VAKIF ÜNİVERSİTESİ DRAGOS HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MALTEPE",
+    "address": "Yalı Mahallesi, Sahil Yolu Sokak, No:16, 34844 Maltepe/İstanbul",
+    "contract": true,
+    "latitude": 40.9103014,
+    "longitude": 29.138556
+  },
+  {
+    "name": "BEZMİALEM VAKIF ÜNİVERSİTESİ MERKEZ HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "FATİH",
+    "address": "Adnan Menderes Bulvarı Vatan Cad. 34093/ Fatih /İstanbul",
+    "contract": true,
+    "latitude": 41.0202539,
+    "longitude": 28.935678
+  },
+  {
+    "name": "ÖZEL ATAKÖY HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAHÇELİEVLER",
+    "address": "HÜRRİYET MAH.DUMLUPINAR CAD.NO:22 BAHÇELİEVLER /İSTANBUL",
+    "contract": true,
+    "latitude": 40.992367,
+    "longitude": 28.8407216
+  },
+  {
+    "name": "ÖZEL ANADOLU HASTANESİ",
+    "type": "hastane",
+    "city": "SAMSUN",
+    "district": "İLKADIM",
+    "address": "KALE MAH. SAHİL CAD. NO : 160 İLKADIM-samsun",
+    "contract": true,
+    "latitude": 41.2919373,
+    "longitude": 36.334738
+  },
+  {
+    "name": "ÖZEL BEYAZ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "AYDIN",
+    "district": "KUŞADASI",
+    "address": "CUMHURİYET MAH.CEMALİ DAĞYARAN SOK. NO:8/A KUŞADASI/AYDIN",
+    "contract": true,
+    "latitude": 37.8593499,
+    "longitude": 27.2664634
+  },
+  {
+    "name": "ÖZEL GÖKTÜRK HOSPİTADENT DENTAL SPA AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "EYÜP",
+    "address": "GÖKTÜRK MERKEZ MAH.İSTANBUL CAD. YALINEVLER NO:56/H EYÜPSULTAN/İSTANBUL",
+    "contract": true,
+    "latitude": 41.1858986,
+    "longitude": 28.880209
+  },
+  {
+    "name": "ÖZEL MUSA GÜL HASTANESİ",
+    "type": "hastane",
+    "city": "KIRŞEHİR",
+    "district": "MERKEZ",
+    "address": "AHİ EVRAN MAH.726.SOKAK NO:2 MERKEZ/KIRŞEHİR",
+    "contract": true,
+    "latitude": 39.1502182,
+    "longitude": 34.1587496
+  },
+  {
+    "name": "MEDİCANA ATAKÖY HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAKIRKÖY",
+    "address": "Ataköy 2-5-6. Kısım Mah. Rauf Orbay Cad. No:2/1V İç Kapı No:1 BAKIRKÖY",
+    "contract": true,
+    "latitude": 40.9758801,
+    "longitude": 28.8570405
+  },
+  {
+    "name": "MEDİCANA KADIKÖY HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "Zühtüpaşa Mah. Recep Peker Cad. No:11 Kadıköy / İSTANBUL",
+    "contract": true,
+    "latitude": 40.985637,
+    "longitude": 29.0375489
+  },
+  {
+    "name": "ÖZEL ÇEŞME MEDİCANA TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "ÇEŞME",
+    "address": "Ilıca Mah. 5003 SK. No: 58 Çeşme /İZMİR",
+    "contract": true,
+    "latitude": 38.2944996,
+    "longitude": 26.3703587
+  },
+  {
+    "name": "MEDİCANA BURSA HASTANESİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "NİLÜFER",
+    "address": "Odunluk Mahallesi, Liman Cd. No:4, 16110 Nilüfer / BURSA",
+    "contract": true,
+    "latitude": 40.2097258,
+    "longitude": 28.997232
+  },
+  {
+    "name": "ÖZEL ÇAĞIN GÖZ HASTALIKLARI HASTANESİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "İZMİT",
+    "address": "YAHYAKAPTAN MAH.DEMOKRASİ BULVARINO:38 İZMİT/KOCAELİ",
+    "contract": true,
+    "latitude": 40.7644307,
+    "longitude": 29.9674589
+  },
+  {
+    "name": "ÖZEL KAPADOKYA HASTANESİ",
+    "type": "hastane",
+    "city": "NEVŞEHİR",
+    "district": "MERKEZ",
+    "address": "GÜZELYURT MAH.VEFA KÜÇÜK CAD.NO:9 MERKEZ/NEVŞEHİR",
+    "contract": true,
+    "latitude": 38.6446143,
+    "longitude": 34.7330523
+  },
+  {
+    "name": "ÖZEL DENTASARIM AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "NİLÜFER",
+    "address": "KONAK MAH.LEFKOŞE CAD.NO:10/B NİLÜFER BURSA",
+    "contract": true,
+    "latitude": 40.2107145,
+    "longitude": 28.9924951
+  },
+  {
+    "name": "ÖZEL TERMESSOS HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "DÖŞEMEALTI",
+    "address": "YENİKÖY MAH.106 SOKAK.NO:11 DÖŞEMEALTI/ANTALYA",
+    "contract": true,
+    "latitude": 37.0351908,
+    "longitude": 30.6035225
+  },
+  {
+    "name": "ÖZEL SANTRA AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "ÇAYYOLU MAH.2675 SOKAK NO:2BAÇANKAYA/ANKARA",
+    "contract": true,
+    "latitude": 39.8836255,
+    "longitude": 32.6978525
+  },
+  {
+    "name": "ÖZEL DOKTOR NAZİF BAĞRIAÇIK KADIKÖY HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "ACIBADEM MAH.SOKULLU SOKAK NO:1KADIKÖY/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9990781,
+    "longitude": 29.0334759
+  },
+  {
+    "name": "ÇAMLICA ERDEM HASTAHANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜSKÜDAR",
+    "address": "ALEMDAĞ YANYOLU CAD. NO:36 ÜSKÜDAR - İSTANBUL",
+    "contract": true,
+    "latitude": 41.0253529,
+    "longitude": 29.0824464
+  },
+  {
+    "name": "ÇAKMAK ERDEM HASTAHANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜMRANİYE",
+    "address": "Saray Mahallesi Alemdağ Caddesi, Sezer Sk. No:3 D:5, 34768 Ümraniye/İstanbul",
+    "contract": true,
+    "latitude": 41.0214699,
+    "longitude": 29.1198968
+  },
+  {
+    "name": "MEDİCANA INTERNATIONAL ATAŞEHİR HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ATAŞEHİR",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.9869642,
+    "longitude": 29.1319157
+  },
+  {
+    "name": "ÖZEL ERİKLİ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "YILDIRIM",
+    "address": "ERİKLİ MAH.ANKARAYOLU CAD.NO:478-482CYILDIRIM/BURSA",
+    "contract": true,
+    "latitude": 40.19143950000001,
+    "longitude": 29.1389232
+  },
+  {
+    "name": "KOCAELİ ŞEHİR HASTANESİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": NaN,
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.7654408,
+    "longitude": 29.9408089
+  },
+  {
+    "name": "ÖZEL DENİPOLLİFE HASTANESİ",
+    "type": "hastane",
+    "city": "DENİZLİ",
+    "district": "MERKEZEFENDİ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 37.8071457,
+    "longitude": 29.1071617
+  },
+  {
+    "name": "ÖZEL MEDİLİNES HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "ELAZIĞ",
+    "district": "MERKEZ",
+    "address": "YILDIZ BAĞLARI MAH.YUNUS EMRE BULV.NO:133 MERKEZ/ELAZIĞ",
+    "contract": true,
+    "latitude": 38.6839331,
+    "longitude": 39.2257074
+  },
+  {
+    "name": "ÖZEL ERA GÖZ HASTALIKLARI MERKEZİ SİNCAN",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "SİNCAN",
+    "address": "AHİ EVRAN MAH.AYAŞ CAD. NO:47/B SİNCAN /ANKARA",
+    "contract": true,
+    "latitude": 39.9736237,
+    "longitude": 32.5793853
+  },
+  {
+    "name": "ÖZEL ERA GÖZ TIP MERKEZİ ANTALYA",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MURATPAŞA",
+    "address": "VARLIK MAH.100.YIL BULV.172 SK.NO:11/1-2-3 MURATPAŞA/ANTALYA",
+    "contract": true,
+    "latitude": 36.8880781,
+    "longitude": 30.6859404
+  },
+  {
+    "name": "AFYONKARAHİSAR İSCEHİSAR KARAMEHMET DEVLET HASTANESİ",
+    "type": "hastane",
+    "city": "AFYONKARAHİSAR",
+    "district": NaN,
+    "address": NaN,
+    "contract": true,
+    "latitude": 38.7568852,
+    "longitude": 30.5387038
+  },
+  {
+    "name": "LOKMAN HEKİM ÜNİVERSİTESİ SAĞLIK UYGULAMA VE ARAŞTIRMA MERKEZİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "SİNCAN",
+    "address": "Andiçen Mah. Polatlı 2 Cad. İdil sok. No:44 Sincan / ANKARA",
+    "contract": true,
+    "latitude": 39.9566676,
+    "longitude": 32.583186
+  },
+  {
+    "name": "ÖZEL DENT362 AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "SAMSUN",
+    "district": "ATAKUM",
+    "address": "CUMHURİYET MAH.6.SOKAK NO:7/1ATAKUM/SAMSUN",
+    "contract": true,
+    "latitude": 41.3416356,
+    "longitude": 36.2620193
+  },
+  {
+    "name": "ÜROTAŞ HAYAT TIP MERKEZİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "NİLÜFER",
+    "address": "KARAMAN, SELİM SK. NO:3, 16130 NİLÜFER/BURSA",
+    "contract": true,
+    "latitude": 37.181009,
+    "longitude": 33.22224300000001
+  },
+  {
+    "name": "AKTİF HAYAT TIP MERKEZİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "OSMANGAZİ",
+    "address": "YENİ KARAMAN MAH. SANAYİ CAD. NO:105 H MUDANYA YOLU ÜZERİ UMİ PLAZA GİRİŞ KATI OSMANGAZİ/BURSA",
+    "contract": true,
+    "latitude": 40.2259483,
+    "longitude": 28.9919228
+  },
+  {
+    "name": "PENDİK ŞİFA HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "PENDİK",
+    "address": "BAHÇELİEVLER MAH. AYDINLI YOLU CADDESİZIPKIN SOKAK NO:10 PENDİK/İSTANBUL",
+    "contract": true,
+    "latitude": 40.8821694,
+    "longitude": 29.235576
+  },
+  {
+    "name": "ÖZEL RİNA DENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "KEÇİÖREN",
+    "address": "OVACIK MAH.548 CAD.NO:19 KEÇİÖREN/ANKARA",
+    "contract": true,
+    "latitude": 40.01826,
+    "longitude": 32.8253741
+  },
+  {
+    "name": "ÖZEL EDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ETİMESGUT",
+    "address": "ERYAMAN MAH.AKINCI CAD.BULUT APT.NO:26ETİMESGUT/ANKARA",
+    "contract": true,
+    "latitude": 39.9709701,
+    "longitude": 32.6157054
+  },
+  {
+    "name": "İSTANBUL BİRUNİ ÜNİVERSİTESİ SAĞLIK EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KÜÇÜKÇEKMECE",
+    "address": "BEŞYOL MAH.ESKİ LONDRA ASFALTI NO:10 KÜÇÜKÇEKMECE/İSTANBUL",
+    "contract": true,
+    "latitude": 40.98823600000001,
+    "longitude": 28.7958648
+  },
+  {
+    "name": "ACIBADEM ÖZEL BAYRAKLI TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "BAYRAKLI",
+    "address": "Mansuroğlu Mah. 286/10 Sok. No:7/A BAYRAKLI/İZMİR",
+    "contract": true,
+    "latitude": 38.45309770000001,
+    "longitude": 27.1881061
+  },
+  {
+    "name": "ACIBADEM ÖZEL KENT HASTANESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "ÇİĞLİ",
+    "address": "8229/1 Sok. No:56 ÇİĞLİ/İZMİR",
+    "contract": true,
+    "latitude": 38.4969075,
+    "longitude": 26.9507989
+  },
+  {
+    "name": "ÖZEL ANADOLU SAĞLIK MERKEZİ HASTANESİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "GEBZE",
+    "address": "Cumhuriyet Mah, 2255. Sk. No: 3, 41400 Gebze/Kocaeli",
+    "contract": true,
+    "latitude": 40.8184161,
+    "longitude": 29.3533479
+  },
+  {
+    "name": "KOÇAK OPTİK",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "KORKUTREİS MAH.SEZENLER CADDESİ NO:4/D ÇANKAYA/ANKARA",
+    "contract": true,
+    "latitude": 39.925736,
+    "longitude": 32.852403
+  },
+  {
+    "name": "ÖZEL SEVGİ GÖZ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "ADANA",
+    "district": "SEYHAN",
+    "address": "GAZİPAŞA MAH.MUSTAFA KEMAL PAŞA BULVARI NO:25/1 SEYHAN/ADANA",
+    "contract": true,
+    "latitude": 37.0055424,
+    "longitude": 35.3181186
+  },
+  {
+    "name": "ÖZEL UZMANLAR AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEŞİKTAŞ",
+    "address": "IHLAMURDERE CAD.ENGİN APT.NO:124/3BEŞİKTAŞ/İSTANBUL",
+    "contract": true,
+    "latitude": 41.0456093,
+    "longitude": 29.0029797
+  },
+  {
+    "name": "ÖZEL AVRASYA MEDİ TECH HASTANESİ",
+    "type": "hastane",
+    "city": "ORDU",
+    "district": "FATSA",
+    "address": "EVKAF MAH.KUMRU KORGAN YOLU 12/1FATSA/ORDU",
+    "contract": true,
+    "latitude": 40.8569944,
+    "longitude": 37.2694659
+  },
+  {
+    "name": "ÖZEL DERMAN AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "YOZGAT",
+    "district": "BOĞAZLIYAN",
+    "address": "ÇARŞI MAH.MESCİT CAD.NO:11 İÇKAPI:1BOĞAZLIYAN/YOZGAT",
+    "contract": true,
+    "latitude": 39.1919693,
+    "longitude": 35.2448274
+  },
+  {
+    "name": "ÖZEL ÇANKAYA YAŞAM HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "BİRLİK MAH.ŞEHİT KURBANİ AKBOĞA SOK.NO:26 ÇANKAYA/ANKARA",
+    "contract": true,
+    "latitude": 39.8829208,
+    "longitude": 32.8717218
+  },
+  {
+    "name": "ÖZEL DENTİSYON AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAHÇELİEVLER",
+    "address": "BAHÇELİEVLER MAH.RESSAM HALİM SK.ERKAM APT NO:8/7-10 B.EVLER/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9966396,
+    "longitude": 28.8651022
+  },
+  {
+    "name": "LOKMAN HEKİM İSTANBUL HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "PENDİK",
+    "address": "YENİŞEHİR MAH. KARDELEN SOK. NO.2 KURTKÖY PENDİK/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9256074,
+    "longitude": 29.2910906
+  },
+  {
+    "name": "LOKMAN HEKİM DEMET TIP MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "YENİMAHALLE",
+    "address": "DEMETEVLER MAH. VATAN CAD. NO.81 YENİMAHALLE/ANKARA",
+    "contract": true,
+    "latitude": 39.9692663,
+    "longitude": 32.7820433
+  },
+  {
+    "name": "ÖZEL IŞIK DİŞ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ KADIKÖY",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "FENERBAHÇE MAH. BAĞDAT CAD. KOZ APT. NO:206/B KADIKÖY/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9775294,
+    "longitude": 29.047393
+  },
+  {
+    "name": "ÖZEL IŞIK DİŞ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ BAKIRKÖY",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAKIRKÖY",
+    "address": "KARTALTEPE MAH. İNCİRLİ CAD. YEŞİL ADALISK. NO:1 BAKIRKÖY/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9853625,
+    "longitude": 28.8720213
+  },
+  {
+    "name": "ÖZEL KEMALÖZ ÖZTAN HASTANESİ",
+    "type": "hastane",
+    "city": "UŞAK",
+    "district": "MERKEZ",
+    "address": "KEMALÖZ MAH.ATATÜRK BULVARI NO:139 MERKEZ/UŞAK",
+    "contract": true,
+    "latitude": 38.6757508,
+    "longitude": 29.38806719999999
+  },
+  {
+    "name": "ÖZEL ŞENGEL KLİNİK AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": "DUATEPE MAH.İNCİRLİ DEDE CAD.NO:8/A ŞİŞLİ",
+    "contract": true,
+    "latitude": 41.0577555,
+    "longitude": 28.9751606
+  },
+  {
+    "name": "ANKARA GÜDÜL ENTEGRE İLÇE HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": NaN,
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.9333635,
+    "longitude": 32.8597419
+  },
+  {
+    "name": "ATAŞEHİR MEDAR HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ATAŞEHİR",
+    "address": "KAYIŞDAĞI MAH. RACİ CAD. NO:1 ATAŞEHİR / İSTANBUL",
+    "contract": true,
+    "latitude": 40.9878475,
+    "longitude": 29.1443309
+  },
+  {
+    "name": "İZMİT MEDAR TIP MERKEZİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "İZMİT",
+    "address": "YENİ ŞEHİR MAH. DEMOKRASİ BULVARI NO:37 İZMİT / KOCAELİ",
+    "contract": true,
+    "latitude": 40.7632418,
+    "longitude": 29.9625008
+  },
+  {
+    "name": "GÖLCÜK MEDAR HASTANESİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "GÖLCÜK",
+    "address": "İHSANİYE ÇİFTLİK MAH. 4179 SOK. NO:1 GÖLCÜK / KOCAELİ",
+    "contract": true,
+    "latitude": 40.7059564,
+    "longitude": 29.8479946
+  },
+  {
+    "name": "SAKARYA MEDAR HASTANESİ",
+    "type": "hastane",
+    "city": "SAKARYA",
+    "district": "SERDİVAN",
+    "address": "KEMALPAŞA MAH. BAĞLAR CAD. NO:116 SERDİVAN / SAKARYA",
+    "contract": true,
+    "latitude": 40.7605157,
+    "longitude": 30.3621065
+  },
+  {
+    "name": "GEBZE MEDAR HASTANESİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "GEBZE",
+    "address": "OSMAN YILMAZ MAH. İSTANBUL CAD. NO:26 GEBZE / KOCAELİ",
+    "contract": true,
+    "latitude": 40.7892936,
+    "longitude": 29.4197223
+  },
+  {
+    "name": "ÖZEL EGEMED KUŞADASI HASTANESİ",
+    "type": "hastane",
+    "city": "AYDIN",
+    "district": "KUŞADASI",
+    "address": "TÜRKMEN MAH. ANT SOKAK NO:23MERKEZ/KUŞADASI",
+    "contract": true,
+    "latitude": 37.8608197,
+    "longitude": 27.2680604
+  },
+  {
+    "name": "ÖZEL DİDİM EGEMED TIP MERKEZİ",
+    "type": "hastane",
+    "city": "AYDIN",
+    "district": "DİDİM",
+    "address": "CUMHURİYET MAHALLESİ 19 MAYIS CAD. DIŞ KAPI NO:65",
+    "contract": true,
+    "latitude": 37.3734108,
+    "longitude": 27.2767877
+  },
+  {
+    "name": "ÖZEL ACIBADEM ATAŞEHİR HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ATAŞEHİR",
+    "address": "atatürk mah.turgut özel bulvarı no:11 ataşehir istanbul",
+    "contract": true,
+    "latitude": 40.9869642,
+    "longitude": 29.1319157
+  },
+  {
+    "name": "ÖZEL AKDENİZ ŞİFA KONYAALTI TIP MERKEZİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "KONYAALTI",
+    "address": "KUŞKAVAĞI MAH.ATATÜRK BULV.NO:81 KONYAALTI/ANTALYA",
+    "contract": true,
+    "latitude": 36.8733566,
+    "longitude": 30.6424149
+  },
+  {
+    "name": "ÖZEL AKDENİZ ŞİFA HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "KEPEZ",
+    "address": "KUZEYYAKA MAH.YEŞİLIRMAK CAD.NO:367KEPEZ/ANTALYA",
+    "contract": true,
+    "latitude": 36.9368245,
+    "longitude": 30.7110407
+  },
+  {
+    "name": "ÖZEL DORUK ESENTEPE TIP MERKEZİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "OSMANGAZİ",
+    "address": "BAĞLARBAŞI MH. SANAYİ CD. NO:242 OSMANGAZİ/BURSA",
+    "contract": true,
+    "latitude": 40.2283297,
+    "longitude": 28.9879874
+  },
+  {
+    "name": "ÖZEL DORUK NİLÜFER HASTANESİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "NİLÜFER",
+    "address": "KONAK MH. LEFKOŞE CD. NO:22 NİLÜFER BURSA",
+    "contract": true,
+    "latitude": 40.207341,
+    "longitude": 28.9925215
+  },
+  {
+    "name": "ÖZEL BEYHEKİM HASTANESİ",
+    "type": "hastane",
+    "city": "SAKARYA",
+    "district": "ADAPAZARI",
+    "address": "TEPEKUM MAH.BEYHEKİM SOKAK.NO:10/1ADAPAZARI/SAKARYA",
+    "contract": true,
+    "latitude": 40.7668215,
+    "longitude": 30.41348869999999
+  },
+  {
+    "name": "ÖZEL EREN HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ATAŞEHİR",
+    "address": "KÜÇÜKBAKKALKÖY MAH. KAYIŞDAĞI CAD.NO:57/1 ATAŞEHİR/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9790789,
+    "longitude": 29.1114085
+  },
+  {
+    "name": "ÖZEL KOZYATAĞI CENTRAL HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "KOZYATAĞI MAH.KOZYATAĞI SOKAK NO:19/1KADIKÖY/İSTANBUL",
+    "contract": true,
+    "latitude": 40.96503,
+    "longitude": 29.099248
+  },
+  {
+    "name": "ÖZEL BEYKENT HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BÜYÜKÇEKMECE",
+    "address": "CUMHURİYET MAH.ŞAFAK SOKAK E BLOK NO:1/1 BÜYÜKÇEKMECE/İSTANBUL",
+    "contract": true,
+    "latitude": 41.024474,
+    "longitude": 28.585453
+  },
+  {
+    "name": "ÖZEL HOSPİTADENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ BURSA",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "NİLÜFER",
+    "address": "İHSANİYE MAH.KANUNİ CAD.AKYÜKSELEN SİTESİ NO:1/C-D NİLÜFER/BURSA",
+    "contract": true,
+    "latitude": 40.2173169,
+    "longitude": 28.9778794
+  },
+  {
+    "name": "ÖZEL BULVAR BAĞLICA AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ETİMESGUT",
+    "address": "YENİ BAĞLICA MAH.MERCAN SİTESİ A BLOKNO: 30/E ETİMESGUT /ANKARA",
+    "contract": true,
+    "latitude": 39.9422321,
+    "longitude": 32.6437828
+  },
+  {
+    "name": "ÖZEL BATIGÖZ CERRAHİ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "BATMAN",
+    "district": "MERKEZ",
+    "address": "GÜLTEPE MAH.BEŞİKÇİ CADDESİ NO:44 MERKEZ/BATMAN",
+    "contract": true,
+    "latitude": 37.9177979,
+    "longitude": 41.1417343
+  },
+  {
+    "name": "ÖZEL KÖRFEZ MARMARA HASTANESİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "KÖRFEZ",
+    "address": "GÜNEY MAH.ALBAY SOKAK NO:7 İÇKAPI NO:1KÖRFEZ/KOCAELİ",
+    "contract": true,
+    "latitude": 40.7600556,
+    "longitude": 29.7875636
+  },
+  {
+    "name": "ÖZEL DERİNCE MARMARA TIP MERKEZİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "DERİNCE",
+    "address": "ÇENEDAĞ MAH.DENİZCİLER CAD.NO:13/1 DERİNCE /KOCAELİ",
+    "contract": true,
+    "latitude": 40.75754,
+    "longitude": 29.8373341
+  },
+  {
+    "name": "ÖZEL MERCAN HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "TUZLA",
+    "address": "YAYLA MAH.ALİ İHSAN PAŞA CAD.NO:52 TUZLA/İSTANBUL",
+    "contract": true,
+    "latitude": 40.8282868,
+    "longitude": 29.3079841
+  },
+  {
+    "name": "VİP EGE OPTİK",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "ESATOĞLU MAH.ESAT CAD.NO:87/B ÇANKAYA/ANKARA",
+    "contract": true,
+    "latitude": 39.9096949,
+    "longitude": 32.8635971
+  },
+  {
+    "name": "ÖZEL BURSA AÇIK MR RADYOLOJİ MÜESSESESİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "NİLÜFER",
+    "address": "ODUNLUK MAH.AKPINAR CAD.DORUK ZORLUÇELEBİ PLAZA B BLOK NO:13/B-A NİLÜFER/",
+    "contract": true,
+    "latitude": 40.209562,
+    "longitude": 28.997868
+  },
+  {
+    "name": "ÖZEL MEDİCALPARK ADANA HASTANESİ",
+    "type": "hastane",
+    "city": "ADANA",
+    "district": "SEYHAN",
+    "address": "ATATÜRK CADDESİ NO:23 SEYHAN/ADANA",
+    "contract": true,
+    "latitude": 36.9935817,
+    "longitude": 35.32442169999999
+  },
+  {
+    "name": "ÖZEL MEDİCALPARK SEYHAN HASTANESİ",
+    "type": "hastane",
+    "city": "ADANA",
+    "district": "SEYHAN",
+    "address": "KURTULUŞ MAH.MUSTAFA KEMAL PAŞA BULV.NO:15 SEYHAN/ADANA",
+    "contract": true,
+    "latitude": 37.0047623,
+    "longitude": 35.3157742
+  },
+  {
+    "name": "ÖZEL BİGA ROYAL HASTANESİ",
+    "type": "hastane",
+    "city": "ÇANAKKALE",
+    "district": "BİGA",
+    "address": "şirintepe mah.şehit uzm.onb ulaş açıkgöz cad.no:3 biga çanakkale",
+    "contract": true,
+    "latitude": 40.242784,
+    "longitude": 27.2705509
+  },
+  {
+    "name": "ÖZEL AVRUPA HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "ADANA",
+    "district": "ÇUKUROVA",
+    "address": "TOROS MAH.ŞEHİTLER BULVARI NO:43/A ÇUKUROVA/ADANA",
+    "contract": true,
+    "latitude": 37.0355615,
+    "longitude": 35.3067537
+  },
+  {
+    "name": "ÖZEL ZEYNEP YILDIRIM AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "MUTLUKENT MAH.1963 CAD.NO:8 İÇKAPI NO:1ÇANKAYA/ANKARA",
+    "contract": true,
+    "latitude": 39.8883801,
+    "longitude": 32.7124903
+  },
+  {
+    "name": "ÖZEL MİNEDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "KAVAKLIDERE MAH.ATATÜRK BULV.NO:175NO:14 ÇANKAYA/ANKARA",
+    "contract": true,
+    "latitude": 39.9108249,
+    "longitude": 32.8554776
+  },
+  {
+    "name": "ÖZEL MEDİKAL HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "ELAZIĞ",
+    "district": "MERKEZ",
+    "address": "OLGUNLAR MAH.ATATÜRK BULVARI NO:4 MERKEZ/ELAZIĞ",
+    "contract": true,
+    "latitude": 38.6698382,
+    "longitude": 39.2075363
+  },
+  {
+    "name": "ÖZEL GÜLTEPE AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KAĞITHANE",
+    "address": "TELSİZLER MAH.TALATPAŞA CADDESİ NO:143/ A KAĞITHANE/İSTANBUL",
+    "contract": true,
+    "latitude": 41.0787171,
+    "longitude": 28.9991365
+  },
+  {
+    "name": "ÖZEL BALDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ GÖNEN ŞUBESİ",
+    "type": "hastane",
+    "city": "BALIKESİR",
+    "district": "GÖNEN",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.102572,
+    "longitude": 27.658373
+  },
+  {
+    "name": "ÖZEL MEDİVA TIP MERKEZİ",
+    "type": "hastane",
+    "city": "BİNGÖL",
+    "district": "MERKEZ",
+    "address": "inönü mah.kültür cad.no:14 merkez bingöl",
+    "contract": true,
+    "latitude": 38.885019,
+    "longitude": 40.506193
+  },
+  {
+    "name": "ÖZEL GRUP MEDİKA TIP MERKEZİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "NİLÜFER",
+    "address": "ahmet yasevi mah.piknik caddesi no:2 /7 nilüfer bursa",
+    "contract": true,
+    "latitude": 40.2685757,
+    "longitude": 28.9466731
+  },
+  {
+    "name": "ÖZEL BAYINDIR LEVENT TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEŞİKTAŞ",
+    "address": "NİSBETİYE MAH.AYTAR CAD.D BLOK NO 8 BEŞİKTAŞ İSTANBUL",
+    "contract": true,
+    "latitude": 41.0747869,
+    "longitude": 29.0182968
+  },
+  {
+    "name": "ÖZEL BİRLAB MERKEZİ LABORATUVARI",
+    "type": "hastane",
+    "city": "ADANA",
+    "district": "SEYHAN",
+    "address": "CEMALPAŞA MAH.FERAH APT.NO:3 SEYHANADANA",
+    "contract": true,
+    "latitude": 37.0242284,
+    "longitude": 35.2667586
+  },
+  {
+    "name": "ÖZEL İRMET HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "TEKİRDAĞ",
+    "district": "ÇERKEZKÖY",
+    "address": "GAZİ OSMAN PAŞA MAH.NAMIK KEMAL BULV. NO:17-21 ÇERKEZKÖY/TEKİRDAĞ",
+    "contract": true,
+    "latitude": 41.293639,
+    "longitude": 27.995063
+  },
+  {
+    "name": "ÖZEL GRUP DENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEŞİKTAŞ",
+    "address": "LEVENT CADDESİ NO:5 1.LEVENT BEŞİKTAŞ/İSTANBUL",
+    "contract": true,
+    "latitude": 41.0759372,
+    "longitude": 29.0151434
+  },
+  {
+    "name": "ÖZEL DENTAVEGA AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "MERDİVENKÖY MAH.FAHRETTİN KERİM GÖKAY CAD.NO:187/A KADIKÖY/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9835601,
+    "longitude": 29.0623036
+  },
+  {
+    "name": "ÖZEL ADANA METRO HASTANESİ",
+    "type": "hastane",
+    "city": "ADANA",
+    "district": "SEYHAN",
+    "address": "NAMIK KEMAL MAH.MUSTAFA KEMAL PAŞA BULVARI NO:15 SEYHAN/ADANA",
+    "contract": true,
+    "latitude": 37.0047623,
+    "longitude": 35.3157742
+  },
+  {
+    "name": "AYDENT ÖZEL AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "SİVAS",
+    "district": "MERKEZ",
+    "address": "YEŞİLYURT MAH.SULTANŞEHİR BULVARINO:42/1 MERKEZ/SİVAS",
+    "contract": true,
+    "latitude": 39.7594768,
+    "longitude": 37.023176
+  },
+  {
+    "name": "ÖZEL TARSUS MMT AMERİKAN HASTANESİ",
+    "type": "hastane",
+    "city": "MERSİN",
+    "district": "TARSUS",
+    "address": "ÖĞRETMENLER MAH.DUMLUPINAR BULVARINO:1 TARSUS/MERSİN",
+    "contract": true,
+    "latitude": 36.9103672,
+    "longitude": 34.8798542
+  },
+  {
+    "name": "ÖZEL AKTIP HASTANESİ",
+    "type": "hastane",
+    "city": "BARTIN",
+    "district": "MERKEZ",
+    "address": "KEMER KÖPRÜ MAH.151.CAD. NO:2 MERKEZ",
+    "contract": true,
+    "latitude": 41.6257507,
+    "longitude": 32.3282823
+  },
+  {
+    "name": "ANTALYA YAŞAM ASV ŞUBESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MURATPAŞA",
+    "address": "Gebizli Mah. 1116 sok.",
+    "contract": true,
+    "latitude": 36.8981671,
+    "longitude": 30.7250418
+  },
+  {
+    "name": "ÖZEL LEVENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEŞİKTAŞ",
+    "address": "NİSBETİYE MAH.NİSBETİYE CAD.NO:2 İÇKAPI NO:3 BEŞİKTAŞ/İSTANBUL",
+    "contract": true,
+    "latitude": 41.0724497,
+    "longitude": 29.0165848
+  },
+  {
+    "name": "ÖZEL BÜYÜK ANADOLU HASTANESİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "GEBZE",
+    "address": "Bayramoğlu Mah. Fatih Sultan Mehmet Cad. No: 138 Darıca/ KOCAELİ",
+    "contract": true,
+    "latitude": 40.7914869,
+    "longitude": 29.367207
+  },
+  {
+    "name": "ÖZEL KIZILAY KÂĞITHANE HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KAĞITHANE",
+    "address": "MERKEZ MAH.ÇOBANÇEŞME CAD.BURCU SK.NO:9 KÂĞITHANE/İSTANBUL",
+    "contract": true,
+    "latitude": 41.082064,
+    "longitude": 28.9697472
+  },
+  {
+    "name": "ÖZEL MARASH LİFE HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "KAHRAMANMARAŞ",
+    "district": "ONİKİŞUBAT",
+    "address": "YÖRÜKSELİM MAH.12 ŞUBAT CADDESİ NO:11/A ONİKİŞUBAT/KAHRAMANMARAŞ",
+    "contract": true,
+    "latitude": 37.5928901,
+    "longitude": 36.9226221
+  },
+  {
+    "name": "ÖZEL MESLİFE DENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "KIZILAY MAH.FEVZİ ÇAKMAK 2 SOKAK SALUR İŞMERKEZİ NO:30/B ÇANKAYA/ ANKARA",
+    "contract": true,
+    "latitude": 39.9222437,
+    "longitude": 32.8491123
+  },
+  {
+    "name": "ÖZEL NEW HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "ŞANLIURFA",
+    "district": "HALİLİYE",
+    "address": "PAŞABAĞI MAH.ŞANİ EFENDİ CAD.NO:169HALİLİYE/ŞANLIURFA",
+    "contract": true,
+    "latitude": 37.1544984,
+    "longitude": 38.8038408
+  },
+  {
+    "name": "ÖZEL HC İNTERNATİONAL CLİNİC CERRAHİ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "AZİZE MAH.HOŞDERE CAD.NO:147 ÇANKAYA",
+    "contract": true,
+    "latitude": 39.8875859,
+    "longitude": 32.8472949
+  },
+  {
+    "name": "ÖZEL VM MEDİCALPARK MALTEPE HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MALTEPE",
+    "address": "CEVİZLİ MAH. BAĞDAT CAD. NO : 547 MALTEPE İSTANBUL",
+    "contract": true,
+    "latitude": 40.9170465,
+    "longitude": 29.1452171
+  },
+  {
+    "name": "LİV GAZİANTEP HASTANESİ",
+    "type": "hastane",
+    "city": "GAZİANTEP",
+    "district": "ŞEHİTKAMİL",
+    "address": "SEYRANTEPE MAH. 65040 CAD. B BLOK NO : 1 ŞEHİTKAMİL/GAZİANTEP",
+    "contract": true,
+    "latitude": 37.0703623,
+    "longitude": 37.4195183
+  },
+  {
+    "name": "ÖZEL VM MEDİCALPARK ANKARA HASTANESİ KEÇİÖREN",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "KEÇİÖREN",
+    "address": "ANAVATAN MAH.NO:20 KEÇİÖREN / ANKARA",
+    "contract": true,
+    "latitude": 40.0063029,
+    "longitude": 32.874789
+  },
+  {
+    "name": "ÖZEL İZMİRYOLU SEVGİ HASTANESİ",
+    "type": "hastane",
+    "city": "BALIKESİR",
+    "district": "ALTIEYLÜL",
+    "address": "G.O.P. MAH. YENİ İZMİR CAD. NO:180-A/1ALTIEYLÜL/BALIKESİR",
+    "contract": true,
+    "latitude": 39.65329759999999,
+    "longitude": 27.8903423
+  },
+  {
+    "name": "ÖZEL SEVGİ HASTANESİ PAŞA ALANI",
+    "type": "hastane",
+    "city": "BALIKESİR",
+    "district": "KARESİ",
+    "address": "PAŞAALANI MAH.128.SOK.NO:20 KARESİ/BALIKESİR",
+    "contract": true,
+    "latitude": 39.66508109999999,
+    "longitude": 27.9093155
+  },
+  {
+    "name": "ÖZEL DRFATİH ÖĞÜÇ FERTİLLİFE AFYON HASTANESİ",
+    "type": "hastane",
+    "city": "AFYONKARAHİSAR",
+    "district": "MERKEZ",
+    "address": "DERVİŞ PAŞA MAH.HACI ABDULLAH GÖBELOĞLU CD.NO:10/1 MERKEZ",
+    "contract": true,
+    "latitude": 38.7623411,
+    "longitude": 30.5462483
+  },
+  {
+    "name": "ÖZEL HOSPİTADENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ ANTALYA",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MURATPAŞA",
+    "address": "DEMİRCİKARA MAH.BURHANETTİN ONAT CD.NO:59/B MURATPAŞA/ANTALYA",
+    "contract": true,
+    "latitude": 36.8818169,
+    "longitude": 30.7185879
+  },
+  {
+    "name": "ÖZEL HOSPİTADENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "İZMİT",
+    "address": "KADIKÖY MAH.ATATÜRK BULVARI NO:8/A İZMİT/KOCAELİ",
+    "contract": true,
+    "latitude": 40.7654345,
+    "longitude": 29.9435025
+  },
+  {
+    "name": "ÖZEL DENTAÇORUM AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+    "type": "hastane",
+    "city": "ÇORUM",
+    "district": "MERKEZ",
+    "address": "YAVRUTURNA MAH.MALİYE 3 SK.NO:6 MERKEZ çorum",
+    "contract": true,
+    "latitude": 40.5518645,
+    "longitude": 34.9598724
+  },
+  {
+    "name": "MEDMAR GÖRÜNTÜLEME MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": "TEŞVİKİYE MAH.GÜZELBAHÇE SOKAK NO:31 /1 ŞİŞLİ/ İSTANBUL",
+    "contract": true,
+    "latitude": 41.053711,
+    "longitude": 28.995049
+  },
+  {
+    "name": "SULAR AKADEMİ HASTANESİ",
+    "type": "hastane",
+    "city": "KAHRAMANMARAŞ",
+    "district": "DULKADİROĞLU",
+    "address": "İSTASYON MAH. 78001 SK. NO:27/1DULKADİROĞLU/K.MARAŞ",
+    "contract": true,
+    "latitude": 37.5539114,
+    "longitude": 36.9299219
+  },
+  {
+    "name": "ÖZEL KADIKÖY FLORENCE NIGHTINGALE TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "FENERYOLU MAH.BAGDAT CAD.NO:69 KADIKÖY/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9809706,
+    "longitude": 29.0424366
+  },
+  {
+    "name": "ÖZEL EMSEY HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "PENDİK",
+    "address": "ÇAMLIK MAH.SELÇUKLU CAD.NO:22 PENDİK",
+    "contract": true,
+    "latitude": 40.92360619999999,
+    "longitude": 29.2889121
+  },
+  {
+    "name": "ÖZEL MEDİPOL BAHÇELİEVLER HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAHÇELİEVLER",
+    "address": "ÇOBANÇEŞME MAH. FATİH CAD. OKUL SOK NO:2 YENİBOSNA BAHÇELİEVLER /İSTANBUL",
+    "contract": true,
+    "latitude": 41.008418,
+    "longitude": 28.823256
+  },
+  {
+    "name": "ÖZEL SYNLAB ESKİŞEHİR TIBBİ TAHLİL LABORATUVARI",
+    "type": "hastane",
+    "city": "ESKİŞEHİR",
+    "district": "TEPEBAŞI",
+    "address": "ERTUĞRULGAZİ MAH.AYŞEN SOKAKNO:21/A TEPEBAŞI/ESKİŞEHİR",
+    "contract": true,
+    "latitude": 39.7845749,
+    "longitude": 30.492426
+  },
+  {
+    "name": "ÖZEL KENT KLİNİK ÜMİTKÖY AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "MUTLU KENT MAH.DOĞAN TAŞDELEN BLVNO: 31 06810 ÇANKAYA/ANKARA",
+    "contract": true,
+    "latitude": 39.8883801,
+    "longitude": 32.7124903
+  },
+  {
+    "name": "ÖZEL RİCH HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MURATPAŞA",
+    "address": "kızıltoprak mah.921 sokak no:27 muratpasa antalya",
+    "contract": true,
+    "latitude": 36.8881243,
+    "longitude": 30.7335162
+  },
+  {
+    "name": "ÖZEL KENT KLİNİK AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "YENİMAHALLE",
+    "address": "İLK YERLEŞİM MAH. BAŞKENT BULVARI NO: 204/45 YENİMAHALLE/ANKARA",
+    "contract": true,
+    "latitude": 39.9690689,
+    "longitude": 32.7263209
+  },
+  {
+    "name": "ÖZEL BUHARA HASTANESİ",
+    "type": "hastane",
+    "city": "ERZURUM",
+    "district": "PALANDÖKEN",
+    "address": "YUNUSEMRE MAH.ATATÜRK BULVARI.NO:5 PALANDÖKEN/ERZURUM",
+    "contract": true,
+    "latitude": 39.8864326,
+    "longitude": 41.2700489
+  },
+  {
+    "name": "ÖZEL MALTEPE BÖLGE HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MALTEPE",
+    "address": "BAĞLARBAŞI MAH.BAĞDAT CAD.NO:475MALTEPE /İSTANBUL",
+    "contract": true,
+    "latitude": 40.9209002,
+    "longitude": 29.1372558
+  },
+  {
+    "name": "ÖZEL ÇORLU VATAN HASTANESİ",
+    "type": "hastane",
+    "city": "TEKİRDAĞ",
+    "district": "ÇORLU",
+    "address": "ESENTEPE MAH.DEVA SOKAK NO:11/A ÇORLU /",
+    "contract": true,
+    "latitude": 41.155812,
+    "longitude": 27.8137319
+  },
+  {
+    "name": "ÖZEL GÖZTEPE HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "MERDİVEN KÖY YOLU ŞAHİKA SOKAK NO:32 GÖZTEPE /KADIKÖY-İSTANBUL",
+    "contract": true,
+    "latitude": 40.9877338,
+    "longitude": 29.0620551
+  },
+  {
+    "name": "ÖZEL KOZDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "YENİMAHALLE",
+    "address": "DEMETGÜL MAH.İVEDİK CAD.UZAY APT.NO:69YENİMAHALLE/ANKARA",
+    "contract": true,
+    "latitude": 39.9658242,
+    "longitude": 32.7955667
+  },
+  {
+    "name": "ÖZEL KARATAŞ HASTANESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "AKDENİZ MAH.GAZİ BULVARI NO:56-58KONAK/İZMİR",
+    "contract": true,
+    "latitude": 38.4242022,
+    "longitude": 27.1358072
+  },
+  {
+    "name": "ÖZEL HOSPİTADENT ALANYA AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "ALANYA",
+    "address": "KADIPAŞA MAH.ŞEVKET TOKUŞ CAD.NO:61/2ALANYA/ANTALYA",
+    "contract": true,
+    "latitude": 36.547054,
+    "longitude": 31.995386
+  },
+  {
+    "name": "ÖZEL MALATYA SEVGİ HASTANESİ",
+    "type": "hastane",
+    "city": "MALATYA",
+    "district": "BATTALGAZİ",
+    "address": "SARAY MAH.ATATÜRK CAD.NO:14 BATTALGAZİ/MALATYA",
+    "contract": true,
+    "latitude": 38.3491258,
+    "longitude": 38.3209486
+  },
+  {
+    "name": "ÖZEL ÇANKAYA TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "AKDENİZ MAH.GAZİ BULVARI NO:56-58KONAK/İZMİR",
+    "contract": true,
+    "latitude": 38.4242022,
+    "longitude": 27.1358072
+  },
+  {
+    "name": "ÖZEL NCR İNTERNATİONAL HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "GAZİANTEP",
+    "district": "ŞEHİTKAMİL",
+    "address": "MÜCAHİTLER MAH.GAZİ MUHTARPAŞA BULV. NO:56 İÇKAPI NO:1 ŞEHİTKAMİL/GAZİANTEP",
+    "contract": true,
+    "latitude": 37.0777001,
+    "longitude": 37.3671055
+  },
+  {
+    "name": "ÖZEL FİZYOMER TIP MERKEZİ",
+    "type": "hastane",
+    "city": "ESKİŞEHİR",
+    "district": "TEPEBAŞI",
+    "address": "SAZOVA MAH.DOĞANAY SOKAK NO:1 TEPEBAŞI/ESKİŞEHİR",
+    "contract": true,
+    "latitude": 39.7701652,
+    "longitude": 30.4618514
+  },
+  {
+    "name": "ÖZEL BALDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ BANDIRMA BİGADİÇ ŞUBESİ",
+    "type": "hastane",
+    "city": "BALIKESİR",
+    "district": "BİGADİÇ",
+    "address": "ABACI MAH. 1 TEMMUZ CAD. NO: 46/B BİGADİÇ",
+    "contract": true,
+    "latitude": 39.3950316,
+    "longitude": 28.1295217
+  },
+  {
+    "name": "ÖZEL BALDENT AĞIZ VE DİŞ SAĞLIĞIPOLİKLİNİĞİ BANDIRMA ORDU ŞUBESİ",
+    "type": "hastane",
+    "city": "BALIKESİR",
+    "district": "BANDIRMA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.340297,
+    "longitude": 27.938723
+  },
+  {
+    "name": "ÖZEL BALDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ BAHÇELİEVLER ŞUBESİ",
+    "type": "hastane",
+    "city": "BALIKESİR",
+    "district": "ALTIEYLÜL",
+    "address": "BAHÇELİEVLER MAH. TEKNİK LİSE CAD. NO: 135-137/A/1 ALTIEYLÜL/BALIKESİR",
+    "contract": true,
+    "latitude": 39.6261375,
+    "longitude": 27.8995876
+  },
+  {
+    "name": "ÖZEL BALDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "BALIKESİR",
+    "district": "KARESİ",
+    "address": "PAŞAALANI MAH. 200. SOK. NO: 7/A KARESİ",
+    "contract": true,
+    "latitude": 39.6664371,
+    "longitude": 27.909789
+  },
+  {
+    "name": "ÖZEL BALDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ BANDIRMA ŞUBESİ",
+    "type": "hastane",
+    "city": "BALIKESİR",
+    "district": "BANDIRMA",
+    "address": "17 EYLÜL MAH. ATATÜRK CAD. NO: 149/B D: 72",
+    "contract": true,
+    "latitude": 40.34983270000001,
+    "longitude": 27.9744433
+  },
+  {
+    "name": "ÖZEL EGE UMUT HASTANESİ - MANİSA",
+    "type": "hastane",
+    "city": "MANİSA",
+    "district": "TURGUTLU",
+    "address": NaN,
+    "contract": true,
+    "latitude": 38.500161,
+    "longitude": 27.70841
+  },
+  {
+    "name": "ÖZEL KOŞUYOLU İLERİ TANI MERKEZİ MÜESSESESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "KOŞUYOLU MAH.MUHİTTİN ÜSTÜNDAĞ CAD. NO:3/1 KADIKÖY/İSTANBUL",
+    "contract": true,
+    "latitude": 41.0059941,
+    "longitude": 29.0365994
+  },
+  {
+    "name": "ÖZEL DENİPOL HASTANESİ",
+    "type": "hastane",
+    "city": "DENİZLİ",
+    "district": "MERKEZEFENDİ",
+    "address": "MERKEZ EFENDİ MAH.29 EKİM BULVARI NO:102/A İÇ KAPI NO:1 MERKEZEFENDİ/DENİZLİ",
+    "contract": true,
+    "latitude": 37.7777986,
+    "longitude": 29.0569345
+  },
+  {
+    "name": "ÖZEL ATAKENT CERRAHİ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "ORHANGAZİ",
+    "address": "MURADİYE MAH.TURİST YOLU CAD.NO:104ORHANGAZİ/BURSA",
+    "contract": true,
+    "latitude": 40.4921438,
+    "longitude": 29.3116043
+  },
+  {
+    "name": "ÖZEL ATAKENT GEMLİK TIP MERKEZİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "GEMLİK",
+    "address": "DR.ZİYA KAYA MAH.HÜRRİYET CAD.NO:45 İÇKAPI NO:1 GEMLİK/BURSA",
+    "contract": true,
+    "latitude": 40.4266399,
+    "longitude": 29.1615799
+  },
+  {
+    "name": "ÖZEL ATAGÖZ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "BAYRAKLI",
+    "address": ".",
+    "contract": true,
+    "latitude": 38.4793887,
+    "longitude": 27.1382404
+  },
+  {
+    "name": "ÖZEL EGEKENT HASTANESİ",
+    "type": "hastane",
+    "city": "DENİZLİ",
+    "district": "MERKEZEFENDİ",
+    "address": "MURATDEDE MAH.KARCI YOLU CAD.NO:57MERKEZEFENDİ//DENİZLİ",
+    "contract": true,
+    "latitude": 37.7851498,
+    "longitude": 29.0721748
+  },
+  {
+    "name": "ÖZEL İSTANBUL BÖLGE HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "SANCAKTEPE",
+    "address": "SARIGAZİ MAH.OSMANGAZİ CAD.NO:34SANCAKTEPE/İSTANBUL",
+    "contract": true,
+    "latitude": 41.00563330000001,
+    "longitude": 29.2154496
+  },
+  {
+    "name": "ÖZEL ALAB LABORATUVARLARI",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "sögütözü mah.2178 cadde no:6/1 çankaya ankara",
+    "contract": true,
+    "latitude": 39.9105435,
+    "longitude": 32.796812
+  },
+  {
+    "name": "ÖZEL BATIGÖZ CERRAHİ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "1371 SOK. NO:9 ÇANKAYA /İZMİR",
+    "contract": true,
+    "latitude": 38.4247045,
+    "longitude": 27.1392906
+  },
+  {
+    "name": "ÖZEL KARAMAN TIP MERKEZİ",
+    "type": "hastane",
+    "city": "KARAMAN",
+    "district": NaN,
+    "address": NaN,
+    "contract": true,
+    "latitude": 37.181009,
+    "longitude": 33.22224300000001
+  },
+  {
+    "name": "ÖZEL ŞİRİNYER BATIGÖZ CERRAHİ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "BUCA",
+    "address": "337 SOK. NO:4/A ŞİRİNYER / İZMİR",
+    "contract": true,
+    "latitude": 38.3928043,
+    "longitude": 27.1510497
+  },
+  {
+    "name": "ÖZEL BATIGÖZ CERRAHİ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜSKÜDAR",
+    "address": "ALTUNİZADE MAH. PROF Dr. FAHRETTİN KERİM GÖKAY CAD. NO:15 ÜSKÜDARİSTANBUL",
+    "contract": true,
+    "latitude": 40.9936298,
+    "longitude": 29.0383241
+  },
+  {
+    "name": "ÖZEL BATIGÖZ CERRAHİ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "MANİSA",
+    "district": "YUNUSEMRE",
+    "address": "75. YIL MAH.BAHRİ SARITEPE MAH. NO:49/AYUNUSEMRE/MANİSA",
+    "contract": true,
+    "latitude": 38.6179033,
+    "longitude": 27.38173
+  },
+  {
+    "name": "ÖZEL BATIGÖZ CERRAHİ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "HATAY",
+    "district": "İSKENDERUN",
+    "address": "MUSTAFA KEMAL MAH. EYÜP SULTAN CAD. NO:79 İSKENDERUN/HATAY",
+    "contract": true,
+    "latitude": 36.5680134,
+    "longitude": 36.1500473
+  },
+  {
+    "name": "ÖZEL BİYOFİZ MUDANYA TIP MERKEZİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "MUDANYA",
+    "address": "GÜZELYALI SİTELER MAH.BURSA ASFALTI CAD.ULUTAŞ PARK SİT. NO 160 MUDANYA/BURSA",
+    "contract": true,
+    "latitude": 40.3711592,
+    "longitude": 28.8913781
+  },
+  {
+    "name": "ÖZEL KONUR TIP MERKEZİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "OSMANGAZİ",
+    "address": "ZÜBEYDE HANIM CD.KÜKÜRTLÜ MH.NO:12/1 OSMANGAZİ/BURSA",
+    "contract": true,
+    "latitude": 40.205035,
+    "longitude": 29.020412
+  },
+  {
+    "name": "ÖZEL BURTOM ÖZLÜCE TIP MERKEZİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "NİLÜFER",
+    "address": "29 EKİM MAH. İZMİR YOLU CAD. NO.412 NİLÜFER/BURSA",
+    "contract": true,
+    "latitude": 40.2153356,
+    "longitude": 28.8969616
+  },
+  {
+    "name": "ÖZEL BURTOM BİYOFİZ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "NİLÜFER",
+    "address": "KARAMAN MAH KÜLTÜR CAD BİÇEN SOK N:10NİLÜFER/BURSA",
+    "contract": true,
+    "latitude": 40.2152716,
+    "longitude": 28.9942033
+  },
+  {
+    "name": "LOKMAN HEKİM ÜNİVERSİTESİ AĞIZ VE DİŞ SAĞLIĞI UYGULAMA VE ARAŞTIRMA MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "SÖĞÜTÖZÜ MAH.2179 CAD.NO:4/1 ÇANKAYAANKARA",
+    "contract": true,
+    "latitude": 39.9154323,
+    "longitude": 32.7943436
+  },
+  {
+    "name": "ÖZGÜR OPTİK",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAKIRKÖY",
+    "address": "ZEYTİNLİK MAH.CUMHIRİYETÇİ SOK.NO:23 NO:1BAKIRKÖY/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9772572,
+    "longitude": 28.8735159
+  },
+  {
+    "name": "BESİM GEYLANİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": NaN,
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0082376,
+    "longitude": 28.9783589
+  },
+  {
+    "name": "OPTİRAMA OPTİK",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "DUMLUPINAR BULVARI ARMADA AVM.2.BLOK ZEMİN KAT NO:50 SÖGÜTÖZÜ/ANKARA",
+    "contract": true,
+    "latitude": 39.912828,
+    "longitude": 32.809639
+  },
+  {
+    "name": "ÖZEL ANTALYA RİCH HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MURATPAŞA",
+    "address": "HÜMEYRA AYGÜN HESAP KAPALI OLMASI NEDFENİYLE GECİCİ HESAP YARATILMISTIR.",
+    "contract": true,
+    "latitude": 36.8827594,
+    "longitude": 30.769476
+  },
+  {
+    "name": "İSTANBUL KENT ÜNİVERSİTESİ AĞIZ VE DİŞ SAĞLIĞI UYGULAMA VE ARAŞTIRMA MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEYOĞLU",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.028001,
+    "longitude": 28.9723478
+  },
+  {
+    "name": "ÖZEL BATIGÖZ CERRAHİ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "İSMET KAPTAN MAH.1371.SOKAK NO:9/101KONAK/İZMİR",
+    "contract": true,
+    "latitude": 38.4247045,
+    "longitude": 27.1392906
+  },
+  {
+    "name": "ÖZEL BARIŞ RADYOLOJİ MÜESSESESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "MİMAR SİNAN MAH.1420 SOK.NO:78/A KONAK/İZMİR",
+    "contract": true,
+    "latitude": 38.4313395,
+    "longitude": 27.1502566
+  },
+  {
+    "name": "ÖZEL NEOLİFE TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEŞİKTAŞ",
+    "address": "NİSPETİYE CAD.YÜCEL SOKAK NO:6 BEŞİKTAŞ",
+    "contract": true,
+    "latitude": 41.0716281,
+    "longitude": 29.0190064
+  },
+  {
+    "name": "ÖZEL HOSPİTADENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ ÇAYYOLU",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "ALTINTEPE KIZILAY TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MALTEPE",
+    "address": "CİHADİYE CAD.NO:40 MALTEPE/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9550397,
+    "longitude": 29.1045311
+  },
+  {
+    "name": "BAKIRKÖY KIZILAY NİYAZİ METEALİ RIZA METE TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAKIRKÖY",
+    "address": "ZEYTİNLİK MAH.YAKUT SOKAK NO:19 BAKIRKÖY/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9787003,
+    "longitude": 28.8712176
+  },
+  {
+    "name": "TÜRK KIZILAYI ÖZEL TÜRKİYE TEKSTİL SANAYİ İŞVERENLERİ SENDİKASIKIZILAY HASTANESİ",
+    "type": "hastane",
+    "city": "KAYSERİ",
+    "district": "MELİKGAZİ",
+    "address": "TACETTİN VELİ MAH.HALİT NARİN CAD.NO:5",
+    "contract": true,
+    "latitude": 38.71344029999999,
+    "longitude": 35.4932082
+  },
+  {
+    "name": "ÖZEL TÜRKİYE KIZILAY DERNEĞİ TİCARET BORSASI HASTANESİ",
+    "type": "hastane",
+    "city": "KONYA",
+    "district": "MERAM",
+    "address": "ŞÜKRAN MAHALLESİ TAŞKAPI MEDRESE SOKAK NO:7/1 KONYA",
+    "contract": true,
+    "latitude": 37.8658942,
+    "longitude": 32.4982032
+  },
+  {
+    "name": "TÜRK KIZILAYI ÖZEL KARTAL HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KARTAL",
+    "address": "YUKARI MAH.KIZILAY BULVARI NO:30 KARTAL/İSTANBUL",
+    "contract": true,
+    "latitude": 40.8911379,
+    "longitude": 29.1815645
+  },
+  {
+    "name": "ÖZEL MEDİGOLD SULTAN HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "SULTANGAZİ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.1255794,
+    "longitude": 28.8713314
+  },
+  {
+    "name": "ÖZEL TRUDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "ÇİĞLİ",
+    "address": "ATAŞEHİR MAH.ANADOLU CADDESI NO :875 ÇİĞLİ İZMİR",
+    "contract": true,
+    "latitude": 38.488919,
+    "longitude": 27.0703261
+  },
+  {
+    "name": "ÖZEL SİİRT İBNİ SİNA HASTANESİ",
+    "type": "hastane",
+    "city": "SİİRT",
+    "district": "MERKEZ",
+    "address": "BAHÇELİEVLER MAH.HZ.FAKİRULLAH CAD. NO:77 MERKEZ/SİİRT",
+    "contract": true,
+    "latitude": 37.9214897,
+    "longitude": 41.9478531
+  },
+  {
+    "name": "ÖZEL NEFES HASTANESİ",
+    "type": "hastane",
+    "city": "KASTAMONU",
+    "district": "MERKEZ",
+    "address": "TOPÇUOĞLU MAH.VELİ ENİS PAŞA MAH. NO:7 KASTAMONU",
+    "contract": true,
+    "latitude": 41.3799437,
+    "longitude": 33.7754299
+  },
+  {
+    "name": "ÖZEL ALTINKOZA HASTANESİ",
+    "type": "hastane",
+    "city": "ADANA",
+    "district": "YÜREĞİR",
+    "address": "TAHSİLLİ MAH.KOZAN CAD.NO:321YÜREĞİR/ADANA",
+    "contract": true,
+    "latitude": 36.9986226,
+    "longitude": 35.3607167
+  },
+  {
+    "name": "MESUT GÜRDAL",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "nextlevel no:3 iç kapı: 69",
+    "contract": true,
+    "latitude": 39.911559,
+    "longitude": 32.811621
+  },
+  {
+    "name": "ÖZEL ATAŞEHİR FLORENCE NIGHTINGALEHASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ATAŞEHİR",
+    "address": "IŞIKLAR CAD.NO:35/A ATAŞEHİR/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9848509,
+    "longitude": 29.1089769
+  },
+  {
+    "name": "ÖZEL MEDOVA HASTANESİ",
+    "type": "hastane",
+    "city": "KONYA",
+    "district": "SELÇUKLU",
+    "address": "Ş.ŞAMİL MAHALLESİ DOSTELİ CADDESİ NO:52 İÇKAPI NO:1 SELÇUKLU/KONYA",
+    "contract": true,
+    "latitude": 37.94624659999999,
+    "longitude": 32.5029792
+  },
+  {
+    "name": "ÖZEL HOSPİTADENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ VE ÖZEL HOSPİTADENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ TUNALI ŞUBESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "PROF.DR.AHMET TANER KIŞLALI CAD. 2873.CAD.ULUCAN SİT.NO:3 ÇANKAYA ANKARA",
+    "contract": true,
+    "latitude": 39.8692281,
+    "longitude": 32.6831713
+  },
+  {
+    "name": "ÖZEL HOSPİTADENT AĞIZ VE DİŞ SAĞLIĞI MERKEZİ ŞERİFALİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜMRANİYE",
+    "address": "ŞERİFALİ MAH.TURGUT ÖZAL BULVARI NO:99 ATAŞEHİR",
+    "contract": true,
+    "latitude": 41.0015122,
+    "longitude": 29.1436903
+  },
+  {
+    "name": "ÖZEL SADA HASTANESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": NaN,
+    "address": NaN,
+    "contract": true,
+    "latitude": 38.423734,
+    "longitude": 27.142826
+  },
+  {
+    "name": "ÖZEL YÖNTEM TIBBİ BİYOKİMYA VE TIBBİMİKROBİYOLOJİ LABORATUVARI",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": ": MİMAR SİNAN MAH.1359 SOKAK NO:2 İÇ KAPI NO:13 KONAK/İZMİR",
+    "contract": true,
+    "latitude": 38.4328854,
+    "longitude": 27.1496474
+  },
+  {
+    "name": "ÖZEL İO DİŞ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "BOSTANCI MAH.BAĞDAT CAD.NO:468 İÇKAPINO:4 KADIKÖY/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9566708,
+    "longitude": 29.087732
+  },
+  {
+    "name": "ÖZEL DENİZLİ TEKDEN HASTANESİ",
+    "type": "hastane",
+    "city": "DENİZLİ",
+    "district": "MERKEZEFENDİ",
+    "address": "MURATDEDE MAH.KARCI YOLU CAD.NO:57 MERKEZEFENDİ//DENİZLİ",
+    "contract": true,
+    "latitude": 37.7806894,
+    "longitude": 29.0691624
+  },
+  {
+    "name": "ÖZEL NEON HASTANESİ",
+    "type": "hastane",
+    "city": "ERZİNCAN",
+    "district": "MERKEZ",
+    "address": "ERGENEKON MAH.104.SOKAK NO:2 İÇKAPINO:1 MERKEZ/ERZİNCAN",
+    "contract": true,
+    "latitude": 39.7494289,
+    "longitude": 39.4671718
+  },
+  {
+    "name": "ELAZIĞ ÖZEL HAYAT HASTANESİ",
+    "type": "hastane",
+    "city": "ELAZIĞ",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 38.674816,
+    "longitude": 39.22251500000001
+  },
+  {
+    "name": "ÖZKAYA GÖRÜNTÜLEME MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "ÖZEL ONKOMER ONKOLOJİ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "BORNOVA",
+    "address": "KAZIMDİRİK MAH.SANAYİ CAD.NO:78 BORNOVA/İZMİR",
+    "contract": true,
+    "latitude": 38.4433695,
+    "longitude": 27.1843754
+  },
+  {
+    "name": "ÖZEL TATVAN CAN HASTANESİ",
+    "type": "hastane",
+    "city": "BİTLİS",
+    "district": "MERKEZ",
+    "address": "KÜLTÜR MAH.BİTLİS YOLU CAD.NO:20/1 BİTLİS",
+    "contract": true,
+    "latitude": 38.4879216,
+    "longitude": 42.1826287
+  },
+  {
+    "name": "ÖZEL LİV HOSPİTAL VADİ İSTANBUL HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "SARIYER",
+    "address": "AYAZAĞA MAH.KEMERBURGAZ CAD.NO:7/FSARIYER/İSTANBUL",
+    "contract": true,
+    "latitude": 41.1133178,
+    "longitude": 28.9851976
+  },
+  {
+    "name": "DARICA OPTİK",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "DARICA",
+    "address": "BAĞLARBAŞI MAH.HAMAM KUYU CAD.NO:2 B DARICA/KOCAELİ",
+    "contract": true,
+    "latitude": 40.7597724,
+    "longitude": 29.3857924
+  },
+  {
+    "name": "ÖZEL EKOL BALÇOVA TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "BALÇOVA",
+    "address": "BAHÇELERARASI MAHALLESİ MİTHATPAŞA CADDESİ MEDİA MARKET BLOK NO: 24/A",
+    "contract": true,
+    "latitude": 38.3943356,
+    "longitude": 27.0546831
+  },
+  {
+    "name": "ÖZEL EKOL İNTERNATİONAL TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "ÇİĞLİ",
+    "address": "8019/13 Sokak No:2/2 Çiğli / İZMİR",
+    "contract": true,
+    "latitude": 38.4855166,
+    "longitude": 27.0612146
+  },
+  {
+    "name": "ÖZEL EKOL GÖZ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "ÇİĞLİ",
+    "address": "8019/19 SOKAK NO:2 ÇİĞLİ / İZMİR",
+    "contract": true,
+    "latitude": 38.3976304,
+    "longitude": 27.0840162
+  },
+  {
+    "name": "ÖZEL EKOL HASTANESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "ÇİĞLİ",
+    "address": "8019/ 16 SOKAK NO:4 ÇİĞLİ / İZMİR",
+    "contract": true,
+    "latitude": 38.4854813,
+    "longitude": 27.0596314
+  },
+  {
+    "name": "ÖZEL ERBİL TIP LABORATUVARI",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "KOCATEPE MAH.MEŞRUTİYET CAD.SAADETAPT.NO:26 İÇKAPI NO:9 ÇANKAYA/ANKARA",
+    "contract": true,
+    "latitude": 39.9183252,
+    "longitude": 32.8582655
+  },
+  {
+    "name": "ÖZEL MEDİCABİL YILDIRIM HASTANESİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "YILDIRIM",
+    "address": "ORTABAĞLAR MAH.ANKARA YOLU CAD.NO:325 YILDIRIM/BURSA",
+    "contract": true,
+    "latitude": 40.1918582,
+    "longitude": 29.1208084
+  },
+  {
+    "name": "ÖZEL MEDİCABİL HASTANESİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "NİLÜFER",
+    "address": "FETHİYE MAH.KÜRE SOKAK A BLOK NO:1/A NİLÜFER/BURSA",
+    "contract": true,
+    "latitude": 40.1913942,
+    "longitude": 29.0943643
+  },
+  {
+    "name": "ÖZEL VİROMED İSTANBUL MERKEZİ LABORATUVARI",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": "MERKEZ MAH.ABİDEİ HÜRRİYET CAD. BLACKOUT İŞ MERKEZİ NO:211/A KAT:6 ŞİŞLİ/İSTANBUL",
+    "contract": true,
+    "latitude": 41.0496212,
+    "longitude": 28.9873504
+  },
+  {
+    "name": "ÖZEL GÖZ NURUNU KORUMA VAKFI",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAYRAMPAŞA",
+    "address": "YENİDOĞAN MAH.ABDİ İPEKÇİ CAD.NO:89 İÇ KAPI NO:1 BAYRAMPAŞA/İSTANBUL",
+    "contract": true,
+    "latitude": 41.0394094,
+    "longitude": 28.9122062
+  },
+  {
+    "name": "ÖZEL DÜZEN LABORATUVARI ATAŞEHİR",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ATAŞEHİR",
+    "address": "BARBAROS MAH.MOR SÜMBÜL SOKAK NİDAKULE NO:7/3C ATAŞEHİR İSTANBUL",
+    "contract": true,
+    "latitude": 40.9960842,
+    "longitude": 29.099435
+  },
+  {
+    "name": "ÖZEL GÜRLİFE HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "ESKİŞEHİR",
+    "district": "TEPEBAŞI",
+    "address": "FEVZİ ÇAKMAK MAH.AKINSEL SOKAK. NO:1 TEPEBAŞI/ESKİŞEHİR",
+    "contract": true,
+    "latitude": 39.79520369999999,
+    "longitude": 30.5350476
+  },
+  {
+    "name": "İZMİR ÖZEL CAN HASTANESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "ÇİĞLİ",
+    "address": "ATAŞEHİR MAH.8019/16 SOKAK NO:18 ÇİĞLİ/İZMİR",
+    "contract": true,
+    "latitude": 38.4829718,
+    "longitude": 27.0580748
+  },
+  {
+    "name": "ANKARA CERRAHİ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "AŞAĞI ÖVEÇLER MAH.1332.SOKAK NO:15 ÇANKAYA /ANKARA",
+    "contract": true,
+    "latitude": 39.892547,
+    "longitude": 32.82636
+  },
+  {
+    "name": "ÖZEL MAVİ HOSPİTAL HASTANESİ MEDİGÜN AKHİSAR HASTANESİ",
+    "type": "hastane",
+    "city": "MANİSA",
+    "district": "AKHİSAR",
+    "address": NaN,
+    "contract": true,
+    "latitude": 38.91766399999999,
+    "longitude": 27.83662
+  },
+  {
+    "name": "ÖZEL TROYA GÖZ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "KEÇİÖREN",
+    "address": "GÜÇLÜKAYA MAH.EZİNE SOKAK NO:1 KEÇİÖREN/ANKARA",
+    "contract": true,
+    "latitude": 39.98015789999999,
+    "longitude": 32.872836
+  },
+  {
+    "name": "ÖZEL AKROPOL HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "KEÇİÖREN",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.0210623,
+    "longitude": 32.831015
+  },
+  {
+    "name": "MEDİPOL ÜNİVERSİTESİ PENDİK HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "PENDİK",
+    "address": "BAHÇELİEVLER MAHALLESİ, ADNAN MENDERES BLV. NO:31 D:33, 34893 PENDİK/ İSTANBUL",
+    "contract": true,
+    "latitude": 40.8847061,
+    "longitude": 29.2354609
+  },
+  {
+    "name": "MEDİPOL ÜNİVERSİTESİ ÇAMLICA HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜSKÜDAR",
+    "address": "BULGURLU MAH. ALEMDAĞ CAD. NO:100 ÜSKÜDAR / İSTANBUL",
+    "contract": true,
+    "latitude": 41.0237772,
+    "longitude": 29.0820569
+  },
+  {
+    "name": "MEDİPOL ÜNİVERSİTESİ VATAN KLİNİKLERİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "FATİH",
+    "address": "VATAN CAD. HALICILAR KÖŞKÜ SOK. NO:11 AKSARAY, FATİH / İSTANBUL",
+    "contract": true,
+    "latitude": 41.0150813,
+    "longitude": 28.9419395
+  },
+  {
+    "name": "MEDİPOL ÜNİVERSİTESİ FINDIKZADE HAS TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "FATİH",
+    "address": "MOLLA GÜRANİ MAH. FINDIKZADE SOK. NO:3 FINDIKZADE FATİH/İSTANBUL",
+    "contract": true,
+    "latitude": 41.0126003,
+    "longitude": 28.940126
+  },
+  {
+    "name": "MEDİPOL ÜNİVERSİTESİ SEFAKÖY HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KÜÇÜKÇEKMECE",
+    "address": "TEVFİK BEY MAH. MASLAK ÇEŞME CAD. NO: 30 SEFAKÖY / İSTANBUL",
+    "contract": true,
+    "latitude": 41.0148115,
+    "longitude": 28.797923
+  },
+  {
+    "name": "MEDİPOL ÜNİVERSİTESİ ESENLER HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ESENLER",
+    "address": "BİRLİK MAH. BAHÇELER CAD. NO:5 ESENLER İSTANBUL",
+    "contract": true,
+    "latitude": 41.0511436,
+    "longitude": 28.8657954
+  },
+  {
+    "name": "ÖZKAN ÇALIŞKAN OPTİK",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "PROF.DR.AHMET TANER KIŞLALI MAHBANGABANDHU ŞEYH MUCİBURRAHMAN NO:94/D-9 ÇANKAYA/ANKARA",
+    "contract": true,
+    "latitude": 39.8883161,
+    "longitude": 32.6863287
+  },
+  {
+    "name": "HAYRİ OPTİK",
+    "type": "hastane",
+    "city": "GİRESUN",
+    "district": "MERKEZ",
+    "address": "ŞEYHKERAMETTİN MAH.CEMAL GÜRSEL CD.NO:1 İÇ KAPI NO:A MERKEZ/GİRESUN",
+    "contract": true,
+    "latitude": 40.9168818,
+    "longitude": 38.3865194
+  },
+  {
+    "name": "ÖZEL A LİFE PARK HOSPİTAL ANKARA",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ETİMESGUT",
+    "address": "ELVAN MAH. 1935.SOK NO:5 ETİMESGUT ANKARA",
+    "contract": true,
+    "latitude": 39.9540568,
+    "longitude": 32.6281971
+  },
+  {
+    "name": "ÖZEL A LİFE PARK HOSPİTAL KUZEY ANKARA HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "PURSAKLAR",
+    "address": "FATİH MAH. YAVUZ BULVARI NO:15 PURSAKLAR/ANKARA",
+    "contract": true,
+    "latitude": 40.0433285,
+    "longitude": 32.9065919
+  },
+  {
+    "name": "ÖZEL ÜMİT TIP MERKEZİ",
+    "type": "hastane",
+    "city": "ESKİŞEHİR",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.7667061,
+    "longitude": 30.52563109999999
+  },
+  {
+    "name": "ÖZEL TEKDEN HASTANESİ",
+    "type": "hastane",
+    "city": "KAYSERİ",
+    "district": "KOCASİNAN",
+    "address": "GEVHER NESİBE MAH.GÜR SOKAK NO:4 KOCASİNAN/KAYSERİ",
+    "contract": true,
+    "latitude": 38.7226835,
+    "longitude": 35.4825573
+  },
+  {
+    "name": "ÖZEL ÜMİT VİŞNELİK HASTANESİ",
+    "type": "hastane",
+    "city": "ESKİŞEHİR",
+    "district": "ODUNPAZARI",
+    "address": "AKARBAŞI MAH.ŞEHİT YUSUF TURGUT SOKAK NO:5 ESKİŞEHİR",
+    "contract": true,
+    "latitude": 39.762702,
+    "longitude": 30.499276
+  },
+  {
+    "name": "ÖZEL ÜMİT HASTANESİ",
+    "type": "hastane",
+    "city": "ESKİŞEHİR",
+    "district": "ODUNPAZARI",
+    "address": "KURTULUŞ MAH.ASARCIKLI CAD.NO:94/AODUNPAZARI/ESKİŞEHİR",
+    "contract": true,
+    "latitude": 39.773604,
+    "longitude": 30.526185
+  },
+  {
+    "name": "ÖZEL GÖZDE KUŞADASI HASTANESİ",
+    "type": "hastane",
+    "city": "AYDIN",
+    "district": "KUŞADASI",
+    "address": "TÜRKMEN MAH.RIZA SARAÇ CADDESİ NO:1/2 KUŞADASI/İZMİR",
+    "contract": true,
+    "latitude": 37.8658315,
+    "longitude": 27.2656437
+  },
+  {
+    "name": "ALTIN OPTİK İSTANBUL",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "CAFERAĞA MAH.GENERAL ASIM GÜNDÜZ CAD.NO:46/B KADIKÖY İSTANBUL",
+    "contract": true,
+    "latitude": 40.9883006,
+    "longitude": 29.0284281
+  },
+  {
+    "name": "ÖZEL VERSA HASTANESİ",
+    "type": "hastane",
+    "city": "NEVŞEHİR",
+    "district": "MERKEZ",
+    "address": "GÜZELYURT MAH.ÜRGÜP CAD.NO:43 MERKEZ NEVŞEHİR",
+    "contract": true,
+    "latitude": 38.6309521,
+    "longitude": 34.7379072
+  },
+  {
+    "name": "ÖZEL DOĞU ANADOLU HASTANESİ",
+    "type": "hastane",
+    "city": "ELAZIĞ",
+    "district": "MERKEZ",
+    "address": "ATAŞEHİR MAH.MALATYA CAD.NO:99 İÇKAPI NO:1 MERKEZ/ELAZIĞ",
+    "contract": true,
+    "latitude": 38.6568612,
+    "longitude": 39.1564506
+  },
+  {
+    "name": "ÖZEL MERKEZ PRİME HASTANESİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "GEBZE",
+    "address": "YENİKENT MAH.2424 SOKAK NO:25 GEBZE",
+    "contract": true,
+    "latitude": 40.8218,
+    "longitude": 29.4176192
+  },
+  {
+    "name": "MEDİSTANBUL HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "GAZİOSMANPAŞA",
+    "address": "YILDIZTABYA MAH.YILDIZTABYA CAD.ÖZEL ACADEMİ HASTANESİ NO:77-79/A İÇKAPI NO:1 GAZİOSMANPAŞA/İSTANBUL",
+    "contract": true,
+    "latitude": 41.09595909999999,
+    "longitude": 28.8760755
+  },
+  {
+    "name": "ÖZEL AKDAMAR HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "VAN",
+    "district": "İPEKYOLU",
+    "address": "HATUNİYE MAH.ASMİN SOKAK NO:8 İPEKYOLU/VAN",
+    "contract": true,
+    "latitude": 38.48882589999999,
+    "longitude": 43.3583249
+  },
+  {
+    "name": "YENİ AYDIN OPTİK",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "REMZİ OĞUZ ARIK MAH.TUNALI HİLMİ CAD. NO:78/B ÇANKAYA",
+    "contract": true,
+    "latitude": 39.9068616,
+    "longitude": 32.860976
+  },
+  {
+    "name": "OPTİK GALERİ GÖZLÜK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAHÇELİEVLER",
+    "address": "ŞİRİNEVLER MAH.MİTHATPAŞA CAD.NO:2İÇ KAPI NO:24 BAHÇELİEVLER/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9942132,
+    "longitude": 28.8493147
+  },
+  {
+    "name": "ÖZEL BOSSAN HOSPİTAL HASTANESİ",
+    "type": "hastane",
+    "city": "GAZİANTEP",
+    "district": "ŞEHİTKAMİL",
+    "address": "ATAKENT MAH.SEMT 02015 NOLU CAD.NO:8 İÇKAPI NO:1 ŞEHİTKAMİL/GAZİANTEP",
+    "contract": true,
+    "latitude": 37.08636,
+    "longitude": 37.440218
+  },
+  {
+    "name": "ÖZEL SYSTEM HOSPİTAL",
+    "type": "hastane",
+    "city": "KAYSERİ",
+    "district": "KOCASİNAN",
+    "address": "GEVHER NESİBE MAH.GÖK GEÇİDİ SK.NO:17 İÇ KAPI NO:47 KOCASİNAN/KAYSERİ",
+    "contract": true,
+    "latitude": 38.7257584,
+    "longitude": 35.4813705
+  },
+  {
+    "name": "ÖZEL ONKO RADYASYON ONKOLOJİ MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "BÜYÜKESAT MAH. UĞUR MUMCU CADDESİ NO:100 ÇANKAYA/ANKARA",
+    "contract": true,
+    "latitude": 39.8965182,
+    "longitude": 32.880284
+  },
+  {
+    "name": "ÖZEL PALMİYE HASTANESİ",
+    "type": "hastane",
+    "city": "HATAY",
+    "district": "İSKENDERUN",
+    "address": "ismet inönü mah.720.sk no:4 iskenderun hatay",
+    "contract": true,
+    "latitude": 36.5563672,
+    "longitude": 36.1575401
+  },
+  {
+    "name": "ÖZEL MEDİFEMA HASTANESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "TORBALI",
+    "address": "AYRANCILAR MAH.KOCATEPE CAD.NO:1 TORBALI/İZMİR",
+    "contract": true,
+    "latitude": 38.2413326,
+    "longitude": 27.2756027
+  },
+  {
+    "name": "ÖZEL UZDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "KAYSERİ",
+    "district": "KOCASİNAN",
+    "address": "GEVHER NESİBE MAH.ATATÜRK BULVARI NO:44 İÇ KAPI NO:1 KOCASİNAN/KAYSERİ",
+    "contract": true,
+    "latitude": 38.7239703,
+    "longitude": 35.4811068
+  },
+  {
+    "name": "ÖZEL TRİODENTPLUS AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "SUADİYE MAH.ŞEMSETTİN GÜNALTAY CAD. NO:53/A İÇ KAPI NO:1 KADIKÖY/İSTANBUL",
+    "contract": true,
+    "latitude": 40.962185,
+    "longitude": 29.0911941
+  },
+  {
+    "name": "ÖZEL AVRUPADENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "BUCA",
+    "address": "GÖKSU MAH.GAZETECİ YAZAR İSMAİL SİVRİ BLV.NO:338/A BUCA/İZMİR",
+    "contract": true,
+    "latitude": 38.3630884,
+    "longitude": 27.1495492
+  },
+  {
+    "name": "ÖZEL DOKTORÖZ GÖZ VE CERRAHİ LAZER TIP MERKEZİ",
+    "type": "hastane",
+    "city": "KAYSERİ",
+    "district": "MELİKGAZİ",
+    "address": "YILDIRIM BEYAZIT MAH.NARLI SOKAK EYLÜL SİTESİ NO:1/11 MELİKGAZİ/KAYSERİ",
+    "contract": true,
+    "latitude": 38.7188469,
+    "longitude": 35.5082254
+  },
+  {
+    "name": "ÖZEL DENTOFFİCAL AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ SANCAKTEPE",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "SANCAKTEPE",
+    "address": "Yunus Emre, Veysel Karani Cd. NO:37A, 34791",
+    "contract": true,
+    "latitude": 41.0167512,
+    "longitude": 29.2487404
+  },
+  {
+    "name": "ÖZEL DENTOFFİCAL AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MALTEPE",
+    "address": "ZÜMRÜTEVLER MAH.NİL CAD.DANIŞPARK D BLOK NO:2 B MALTEPE/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9419265,
+    "longitude": 29.14508189999999
+  },
+  {
+    "name": "ÖZEL MALATYA PARK HASTANESİ",
+    "type": "hastane",
+    "city": "MALATYA",
+    "district": "BATTALGAZİ",
+    "address": "FIRAT MAH.ŞEFİK TUGAY CAD.NO:15 İÇKAPINO:1 BATTALGAZİ/MALATYA",
+    "contract": true,
+    "latitude": 38.344814,
+    "longitude": 38.3298606
+  },
+  {
+    "name": "ÖZEL EGM HAYAT HASTANESİ",
+    "type": "hastane",
+    "city": "MALATYA",
+    "district": "BATTALGAZİ",
+    "address": "B.HÜSEYİNBEY MAH.ATATÜRK CAD.NO:47/A BATTALGAZİ/MALATYA",
+    "contract": true,
+    "latitude": 38.349085,
+    "longitude": 38.3227313
+  },
+  {
+    "name": "ÖZEL KOCAELİ HASTANESİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "İZMİT",
+    "address": "YENİŞEHİR MAH.DEMOKRASİ BLV.NO:37 İZMİT",
+    "contract": true,
+    "latitude": 40.77316889999999,
+    "longitude": 29.9639357
+  },
+  {
+    "name": "İZMİR SAĞLIK HASTANESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "MİMAR SİNAN MAH.IŞILAY SAYGIN SOK.EGE SAĞLIK APT.NO:25 KONAK/İZMİR",
+    "contract": true,
+    "latitude": 38.432633,
+    "longitude": 27.14864
+  },
+  {
+    "name": "ÖZEL TANFER HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": "FULYA MAH.AYTEKİN KOTİL CAD.NO:25 ŞİŞLİ",
+    "contract": true,
+    "latitude": 41.0629294,
+    "longitude": 28.9944735
+  },
+  {
+    "name": "ÖZEL METROLİFE HASTANESİ",
+    "type": "hastane",
+    "city": "ŞANLIURFA",
+    "district": "KARAKÖPRÜ",
+    "address": "ŞENEVLER MAH.6129 SK.NO:2 C KARAKÖPRÜ ŞANLIURFA",
+    "contract": true,
+    "latitude": 37.2178292,
+    "longitude": 38.8050634
+  },
+  {
+    "name": "ÖZEL BATI HASTANESİ",
+    "type": "hastane",
+    "city": "DİYARBAKIR",
+    "district": "KAYAPINAR",
+    "address": "DİCLEKENT MAH.KAYAPINAR CAD.HASTANE NO:80 KAYAPINAR/DİYARBAKIR",
+    "contract": true,
+    "latitude": 37.9441433,
+    "longitude": 40.1746178
+  },
+  {
+    "name": "ÖZEL BANDIRMA ROYAL HASTANESİ",
+    "type": "hastane",
+    "city": "BALIKESİR",
+    "district": "BANDIRMA",
+    "address": "PAŞAKONAK MAH.SAĞLIK CAD.ÖZEL HASTANE 16/1 BANDIRMA/BALIKESİR",
+    "contract": true,
+    "latitude": 40.3402505,
+    "longitude": 27.9658139
+  },
+  {
+    "name": "ÖZEL İLKE AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KARABAĞLAR",
+    "address": "BAHÇELİEVLER MAH.HALİDE EDİP ADIVAR CADDESİ NO:22 KARABAĞLAR/İZMİR",
+    "contract": true,
+    "latitude": 38.4041323,
+    "longitude": 27.1223496
+  },
+  {
+    "name": "NUH NACİ YAZGAN ÜNİVERSİTESİ DİŞ HASTANESİ",
+    "type": "hastane",
+    "city": "KAYSERİ",
+    "district": "KOCASİNAN",
+    "address": "ERTUĞRUL GAZİ MAH.NUH NACİ YAZGAN YERLEŞKESİ KÜME EVLER NO:23 KOCASİNAN",
+    "contract": true,
+    "latitude": 38.785728,
+    "longitude": 35.4063701
+  },
+  {
+    "name": "ÖZEL PENDİK BAYPARK HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "PENDİK",
+    "address": "DOĞU MAH.PAPATYA SK.NO:15 İÇKAPI NO:1 PENDİK / İSTANBUL",
+    "contract": true,
+    "latitude": 40.8787546,
+    "longitude": 29.2367298
+  },
+  {
+    "name": "ÖZEL BAYPARK HOSPİTAL HASTANESİ BAYRAMPAŞA",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAYRAMPAŞA",
+    "address": "YILDIRIM MAH.ALİ FUAT BAŞGİL CAD.NO:112",
+    "contract": true,
+    "latitude": 41.06307049999999,
+    "longitude": 28.8912309
+  },
+  {
+    "name": "ÖZEL UZMANDENT DİŞ HASTANESİ",
+    "type": "hastane",
+    "city": "KAYSERİ",
+    "district": "MELİKGAZİ",
+    "address": "TACETTİN VELİ MAH ÖZER SK.DİŞ HASTANESİ NO:3 MELİKGAZİ KAYSERİ",
+    "contract": true,
+    "latitude": 38.7580156,
+    "longitude": 35.4586136
+  },
+  {
+    "name": "ÖZEL DEVA HASTANESİ",
+    "type": "hastane",
+    "city": "GAZİANTEP",
+    "district": "ŞEHİTKAMİL",
+    "address": "BEKİRBEY MAH.TÜFEKÇİ YUSUF BULVARI NO:98 ŞEHİTKAMİL/GAZİANTEP",
+    "contract": true,
+    "latitude": 37.064211,
+    "longitude": 37.394704
+  },
+  {
+    "name": "ÖZEL KARADENİZ EREĞLİ ECHOMAR HASTANESİ",
+    "type": "hastane",
+    "city": "ZONGULDAK",
+    "district": "EREĞLİ",
+    "address": "MÜFTÜ MAH.ŞEHİT ÖMER HALİSDEMİR BLV.NO:18 EREĞLİ ZONGULDAK",
+    "contract": true,
+    "latitude": 41.260273,
+    "longitude": 31.4212468
+  },
+  {
+    "name": "ÖZEL 7M HASTANESİ",
+    "type": "hastane",
+    "city": "TRABZON",
+    "district": "AKÇAABAT",
+    "address": "KAVAKLI MAH.SAMSUN CAD.NO:3 İÇKAPI NO:1 AKÇAABAT/TRABZON",
+    "contract": true,
+    "latitude": 41.022042,
+    "longitude": 39.570868
+  },
+  {
+    "name": "YEŞİLYURT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ BOZYAKA ŞUBESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KARABAĞLAR",
+    "address": "ESKİ İZMİR CAD.BOZYAKA MAH.NO:221 KARABAĞLAR /İZMİR",
+    "contract": true,
+    "latitude": 38.3899123,
+    "longitude": 27.121375
+  },
+  {
+    "name": "YEŞİLYURT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ KEMALPAŞA ŞUBESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KEMALPAŞA",
+    "address": "KİRAZLI CAD.8 EYLÜL MAH.NO:89/A KEMALPAŞA/İZMİR",
+    "contract": true,
+    "latitude": 38.4310273,
+    "longitude": 27.4147333
+  },
+  {
+    "name": "YEŞİLYURT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ BALÇOVA ŞUBESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "BALÇOVA",
+    "address": "ONUR MAH.ATA CAD.NO:12/A BALÇOVA İZMİR",
+    "contract": true,
+    "latitude": 38.3941823,
+    "longitude": 27.057863
+  },
+  {
+    "name": "YEŞİLYURT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ BOSTANLI ŞUBESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KARŞIYAKA",
+    "address": "YALI MAH.CAHER DUDAYEV BULVARI NO:135 /A BOSTANLI /İZMİR",
+    "contract": true,
+    "latitude": 38.466645,
+    "longitude": 27.089343
+  },
+  {
+    "name": "YEŞİLYURT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KARABAĞLAR",
+    "address": "ESENLİK MH.MIZRAKLI CD.NO:76/A",
+    "contract": true,
+    "latitude": 38.394733,
+    "longitude": 27.110165
+  },
+  {
+    "name": "ÖZEL KASTAMONU ANADOLU HASTANESİ",
+    "type": "hastane",
+    "city": "KASTAMONU",
+    "district": "MERKEZ",
+    "address": "BEYÇELEBİ MAH.ATATÜRK CAD.NO:36 İÇKAPI NO:1 MERKEZ KASTAMONU",
+    "contract": true,
+    "latitude": 41.3663648,
+    "longitude": 33.7695963
+  },
+  {
+    "name": "ÖZEL MEDİCANA İNTERNATİONAL İZMİR HASTANESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "yenişehir mah.işçiler caddesi no:126 konak izmir",
+    "contract": true,
+    "latitude": 38.4294315,
+    "longitude": 27.1571192
+  },
+  {
+    "name": "UZMAN DİŞ HEKİMİ REFİKA SALİHA OLKUN ALKAN",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "KAVAKLIDERE MAH.KONUR SOKAK NO:50 İÇKAPI NO:5 ÇANKAYA/ANKARA",
+    "contract": true,
+    "latitude": 39.9147596,
+    "longitude": 32.8568757
+  },
+  {
+    "name": "ÖZEL DENTA ADRESS AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "MALATYA",
+    "district": "BATTALGAZİ",
+    "address": "ŞİFA MAH.İNÖNÜ CAD.153/A BATTALGAZİ / MALATYA",
+    "contract": true,
+    "latitude": 38.3477371,
+    "longitude": 38.3040489
+  },
+  {
+    "name": "ÖZEL SİLİVRİ ANADOLU HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0082376,
+    "longitude": 28.9783589
+  },
+  {
+    "name": "ÖZEL EREĞLİ ANADOLU HASTANESİ",
+    "type": "hastane",
+    "city": "ZONGULDAK",
+    "district": "EREĞLİ",
+    "address": "MÜFTÜ MAH. ERDEMİR CAD. NO:52 KDZ.EREĞLİ/ZONGULDAK",
+    "contract": true,
+    "latitude": 41.279909,
+    "longitude": 31.42026
+  },
+  {
+    "name": "ÖZEL AVCILAR ANADOLU HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "AVCILAR",
+    "address": "MUSTAFA KEMAL PAŞA MAH. KAYABAŞI SOK.NO:3 AVCILAR/İSTANBUL",
+    "contract": true,
+    "latitude": 41.00577639999999,
+    "longitude": 28.7056756
+  },
+  {
+    "name": "ÖZEL YAKADENT AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "SULTANBEYLİ",
+    "address": "ABDURRAHMANGAZİ MAH.MAHMUT EFENDİ SK.NO:12/A SULTANBEYLİ İSTANBUL",
+    "contract": true,
+    "latitude": 40.9692984,
+    "longitude": 29.25928739999999
+  },
+  {
+    "name": "ÖZEL BAŞARI HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "GAZİOSMANPAŞA",
+    "address": "YENİ MAH.SEMT HEKİMSUYU CAD.NO:53 GAZİOSMANPAŞA/İSTANBUL",
+    "contract": true,
+    "latitude": 41.0799233,
+    "longitude": 28.9067115
+  },
+  {
+    "name": "TOSUN TIBBİ TAHLİLLER LABORATUVARI",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MURATPAŞA",
+    "address": "SİNAN MAH.ALİ ÇETİNKAYA CAD. NO:30/1 İÇ KAPI NO:104 MURATPAŞA / ANTALYA",
+    "contract": true,
+    "latitude": 36.8886444,
+    "longitude": 30.7105445
+  },
+  {
+    "name": "MEGA DİŞ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "EYÜP",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.1871598,
+    "longitude": 28.8829816
+  },
+  {
+    "name": "ÖZEL CANDENT ÜMİTKÖY AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "HAKKI OPTİK",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "KIZILAY MAH.KUMRULAR CAD.NO:8 F ÇANKAYA /ANKARA",
+    "contract": true,
+    "latitude": 39.9200106,
+    "longitude": 32.8508276
+  },
+  {
+    "name": "ÖZEL SYNLAB MERKEZİ LABORATUVARI İSTANBUL ŞUBESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0082376,
+    "longitude": 28.9783589
+  },
+  {
+    "name": "ÖZEL SYNLAB MERKEZİ LABORATUVARI",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "PİANO AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "MUSTAFA KEMAL MAH.DUMLUPINAR BULVARIMAHAL ANKARA B BLOK NO:274/7-103 ÇANKAYA",
+    "contract": true,
+    "latitude": 39.9133797,
+    "longitude": 32.77177
+  },
+  {
+    "name": "VİSTA OPTİK",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "KIZILAY MAH.MENEKŞE 2 CAD. NO:35 B ÇANKAYA",
+    "contract": true,
+    "latitude": 39.9205042,
+    "longitude": 32.8499837
+  },
+  {
+    "name": "DR MEHMET CEM KELEŞOĞLU",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "Üniversiteler Mah. 1613 Cad. No:26 İç Kapı No:29 Çankaya/Ankara",
+    "contract": true,
+    "latitude": 39.856089,
+    "longitude": 32.7569526
+  },
+  {
+    "name": "ÖZEL MELTEM TIBBİ MİKROBİYOLOJİ LABORATUVARI",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KARŞIYAKA",
+    "address": "1723. SOK. NO:6 D:403 KARŞIYAKA/İZMİR",
+    "contract": true,
+    "latitude": 38.4553932,
+    "longitude": 27.1192068
+  },
+  {
+    "name": "ÖZEL GÜNEŞLİ ERDEM HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0082376,
+    "longitude": 28.9783589
+  },
+  {
+    "name": "MÜKERRER",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜMRANİYE",
+    "address": "ALEMDAĞ CAD SEZER SOK NO 3-5 ÜMRANİYE/İSTANBUL",
+    "contract": true,
+    "latitude": 41.0214699,
+    "longitude": 29.1198968
+  },
+  {
+    "name": "DEMİRHAN ECZANE OPTİK",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "KIZILAY MAH. KUMRULAR CAD. NO:16/A ÇANKAYA ANKARA",
+    "contract": true,
+    "latitude": 39.9204164,
+    "longitude": 32.8500328
+  },
+  {
+    "name": "MUSTAFA OPTİK",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ALTINDAĞ",
+    "address": "ATATÜRK BULV ULUS İŞHANI B BLOK NO:14 ULUS/ANKARA",
+    "contract": true,
+    "latitude": 39.9420631,
+    "longitude": 32.8554099
+  },
+  {
+    "name": "ÖZEL MEDİCALPARK ÇANAKKALE HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "ÇANAKKALE",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.14671999999999,
+    "longitude": 26.408587
+  },
+  {
+    "name": "Vakýf Deneme1",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEYOĞLU",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.028001,
+    "longitude": 28.9723478
+  },
+  {
+    "name": "Vakıf Deneme1",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEYOĞLU",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.028001,
+    "longitude": 28.9723478
+  },
+  {
+    "name": "Vakıf Deneme",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEYOĞLU",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.028001,
+    "longitude": 28.9723478
+  },
+  {
+    "name": "Vakıf Deneme",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEYOĞLU",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.028001,
+    "longitude": 28.9723478
+  },
+  {
+    "name": "ÖZEL MEDİCA TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0536216,
+    "longitude": 28.9819731
+  },
+  {
+    "name": "MODERN OPTİK",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "ETAP OPTİK",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "MUSON GRUP OPTİK PAZARLAMA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "MOR PTİK",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "ŞEHİT ADEM YAVUZ SOKAK NO:16/A ÇANKAYA ANKARA",
+    "contract": true,
+    "latitude": 39.9208453,
+    "longitude": 32.8524348
+  },
+  {
+    "name": "NECATİBEY ÇINAR OPTİK",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "MALTEPE NECATİBEY CAD.NO:76/A ÇANKAYA ANKARA",
+    "contract": true,
+    "latitude": 39.9225721,
+    "longitude": 32.8476274
+  },
+  {
+    "name": "KUMRULAR OPTİK",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "Mert Test",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": NaN,
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.9333635,
+    "longitude": 32.8597419
+  },
+  {
+    "name": "ÖZEL ELİTPARK HASTANESİ",
+    "type": "hastane",
+    "city": "ÇORUM",
+    "district": "MERKEZ",
+    "address": "Bahçelievler Mah.Dumlupınar 7. Sok .No:1 ÇORUM",
+    "contract": true,
+    "latitude": 40.5552931,
+    "longitude": 34.9748735
+  },
+  {
+    "name": "ÖZEL ÇORUM HASTANESİ",
+    "type": "hastane",
+    "city": "ÇORUM",
+    "district": "MERKEZ",
+    "address": "Buharaevler Mah. Buhara 1. Sk. No:2 Merkez / Çorum",
+    "contract": true,
+    "latitude": 40.5720379,
+    "longitude": 34.9617525
+  },
+  {
+    "name": "TEST DİŞ KLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.9333635,
+    "longitude": 32.8597419
+  },
+  {
+    "name": "ÖZEL ERDEM TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜMRANİYE",
+    "address": "SARAY MAHALLESİ,SANAYİ CADDESİ NO:8",
+    "contract": true,
+    "latitude": 41.0223977,
+    "longitude": 29.1192902
+  },
+  {
+    "name": "TEST HASTANESİ HUV",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": NaN,
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0082376,
+    "longitude": 28.9783589
+  },
+  {
+    "name": "ÖZEL KONYA FARABİ HASTANESİ",
+    "type": "hastane",
+    "city": "KONYA",
+    "district": "SELÇUKLU",
+    "address": "Kosova Mah. Ebru Sok. No:14 Selçuklu/KONYA",
+    "contract": true,
+    "latitude": 37.9792151,
+    "longitude": 32.5233076
+  },
+  {
+    "name": "MEDİCALPARK MERSİN TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "MERSİN",
+    "district": "MEZİTLİ",
+    "address": "ATATÜRK MAH.GMK BULVARI NO.676 MEZİTLİ MERSİN",
+    "contract": true,
+    "latitude": 36.7399699,
+    "longitude": 34.5184936
+  },
+  {
+    "name": "ALSANCAK ÖZEL KENT TIP MERKEZİ BAYRAKLI ŞUBESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "BAYRAKLI",
+    "address": "MANSUROĞLU MH.286/10 SK. 7/A BAYRAKLI İZMİR",
+    "contract": true,
+    "latitude": 38.45309770000001,
+    "longitude": 27.1881061
+  },
+  {
+    "name": "ACIBADEM ZEKERİYAKÖY TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "SARIYER",
+    "address": "ZEKERİYAKÖY MAH. KARDELEN CAD. NO:2",
+    "contract": true,
+    "latitude": 41.2054814,
+    "longitude": 29.0444629
+  },
+  {
+    "name": "ACIBADEM ALTUNİZADE HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜSKÜDAR",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.032236,
+    "longitude": 29.031938
+  },
+  {
+    "name": "ACIBADEM KAYSERİ HASTANESİ",
+    "type": "hastane",
+    "city": "KAYSERİ",
+    "district": "MELİKGAZİ",
+    "address": "SEYİTGAZİ MAH. M.K.PAŞA BULV. NO:1/1-A",
+    "contract": true,
+    "latitude": 38.720489,
+    "longitude": 35.48259700000001
+  },
+  {
+    "name": "ACIBADEM ESKİŞEHİR HASTANESİ",
+    "type": "hastane",
+    "city": "ESKİŞEHİR",
+    "district": "TEPEBAŞI",
+    "address": "HOŞNUDİYE MAH. ACIBADEM SOK. NO:19 ESKİBAĞLAR",
+    "contract": true,
+    "latitude": 39.7566579,
+    "longitude": 30.464219
+  },
+  {
+    "name": "ACIBADEM BODRUM HASTANESİ",
+    "type": "hastane",
+    "city": "MUĞLA",
+    "district": "BODRUM",
+    "address": "ORTAKENT MAH. GÖLBAŞI SOK. NO:11",
+    "contract": true,
+    "latitude": 37.0552511,
+    "longitude": 27.3489582
+  },
+  {
+    "name": "ACIBADEM ANKARA HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "TURAN GÜNEŞ BULV. 630. SOK.NO:6 ORAN",
+    "contract": true,
+    "latitude": 39.847504,
+    "longitude": 32.83859899999999
+  },
+  {
+    "name": "ANLAŞMASIZ SAĞLIK TESİSİS (KATILIM PAYI MUAFİYETİ)",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.9333635,
+    "longitude": 32.8597419
+  },
+  {
+    "name": "SAMSUN LİV",
+    "type": "hastane",
+    "city": "SAMSUN",
+    "district": "İLKADIM",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.2797031,
+    "longitude": 36.3360667
+  },
+  {
+    "name": "BEYSUDENT DİŞ POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.9333635,
+    "longitude": 32.8597419
+  },
+  {
+    "name": "İSTANBUL ONKOLOJİ HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MALTEPE",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.9498022,
+    "longitude": 29.1739513
+  },
+  {
+    "name": "TEST HASTANESİ TTB",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.9333635,
+    "longitude": 32.8597419
+  },
+  {
+    "name": "İSTANBUL AYDIN ÜNİVERSİTESİ HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KÜÇÜKÇEKMECE",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0086579,
+    "longitude": 28.775342
+  },
+  {
+    "name": "İSTİNYE ÜNİVERSİTESİ HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ESENYURT",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0343177,
+    "longitude": 28.6614809
+  },
+  {
+    "name": "İSTİNYE ÜNİVERSİTESİ GAZİOSMANPAŞA HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "GAZİOSMANPAŞA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.07594770000001,
+    "longitude": 28.90045529999999
+  },
+  {
+    "name": "MEDİCAL PARK PENDİK HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "PENDİK",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.879326,
+    "longitude": 29.258135
+  },
+  {
+    "name": "ANKARA ÖZEL ORTADOĞU HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "YENİMAHALLE",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.0129334,
+    "longitude": 32.740723
+  },
+  {
+    "name": "MEMORİAL BAHÇELİEVLER HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAHÇELİEVLER",
+    "address": "B.EVLER MAH. ADNAN KAHVECİ BULV. NO:227",
+    "contract": true,
+    "latitude": 40.998462,
+    "longitude": 28.8579091
+  },
+  {
+    "name": "GÜNGÖR OPTİK KIZILAY 2",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.9333635,
+    "longitude": 32.8597419
+  },
+  {
+    "name": "GÜNGÖR OPTİK KIZILAY 1",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.9333635,
+    "longitude": 32.8597419
+  },
+  {
+    "name": "KUDRET INTERNATIONAL HOSPITAL",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "ÖZEL GOFİCS GÖRÜNTÜLEME MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "VOM HİZMET BİNASI REVİRİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0082376,
+    "longitude": 28.9783589
+  },
+  {
+    "name": "ÜMRANİYE EBİS HİZMET BİNASI REVİRİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜMRANİYE",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0151029,
+    "longitude": 29.15149
+  },
+  {
+    "name": "MERSİN SAĞLIK MERKEZİ",
+    "type": "hastane",
+    "city": "MERSİN",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 36.8121041,
+    "longitude": 34.6414811
+  },
+  {
+    "name": "KARŞIYAKA ŞUBESİ REVİRİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KARŞIYAKA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 38.5183996,
+    "longitude": 27.1382404
+  },
+  {
+    "name": "ANADOLU YAKASI SAĞLIK MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0110715,
+    "longitude": 29.0384885
+  },
+  {
+    "name": "İZMİR SAĞLIK MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 38.423734,
+    "longitude": 27.142826
+  },
+  {
+    "name": "İSTANBUL BEYOĞLU - KADIKÖY KLİNİK",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0110715,
+    "longitude": 29.0384885
+  },
+  {
+    "name": "İSTANBUL 5.BÖLGE HİZMET BİNASI REVİRİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0082376,
+    "longitude": 28.9783589
+  },
+  {
+    "name": "GENEL MÜDÜRLÜK HİZMET BİNASI REVİRİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0082376,
+    "longitude": 28.9783589
+  },
+  {
+    "name": "BURSA SAĞLIK MERKEZİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.1885281,
+    "longitude": 29.0609636
+  },
+  {
+    "name": "MECİDİYEKÖY SAĞLIK MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEYOĞLU",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.028001,
+    "longitude": 28.9723478
+  },
+  {
+    "name": "ANKARA SAĞLIK MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.9333635,
+    "longitude": 32.8597419
+  },
+  {
+    "name": "ANKARA EK HİZMET BİNASI",
+    "type": "hastane",
+    "city": "ADANA",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 36.9914194,
+    "longitude": 35.3308285
+  },
+  {
+    "name": "ADANA SAĞLIK MERKEZİ",
+    "type": "hastane",
+    "city": "ADANA",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 36.9914194,
+    "longitude": 35.3308285
+  },
+  {
+    "name": "ÖZEL MEDICALPOINT BATMAN HASTANESİ",
+    "type": "hastane",
+    "city": "BATMAN",
+    "district": "MERKEZ",
+    "address": "atatürk bulvarı no 141",
+    "contract": true,
+    "latitude": 37.8881545,
+    "longitude": 41.1284499
+  },
+  {
+    "name": "MEDICAL PARK TRABZON HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "TRABZON",
+    "district": "AKÇAABAT",
+    "address": "yıldızlı beldesi merkez mah.devlet sahil cad.no.46",
+    "contract": true,
+    "latitude": 41.003146,
+    "longitude": 39.627885
+  },
+  {
+    "name": "MEDICAL PARK TOKAT HASTANESİ",
+    "type": "hastane",
+    "city": "TOKAT",
+    "district": "MERKEZ",
+    "address": "ZEKAİ GÜMÜŞ DIŞ CAD.NO.29",
+    "contract": true,
+    "latitude": 40.3234643,
+    "longitude": 36.5521928
+  },
+  {
+    "name": "MEDICAL PARK SAMSUN HASTANESİ",
+    "type": "hastane",
+    "city": "SAMSUN",
+    "district": "ATAKUM",
+    "address": "MİMAR SİNAN MAH.ALPARSLAN BULVARI NO 17",
+    "contract": true,
+    "latitude": 41.334,
+    "longitude": 36.272029
+  },
+  {
+    "name": "MEDICAL PARK ORDU HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "ORDU",
+    "district": "MERKEZ",
+    "address": "akyazı mah.gaffar okkan cad.no 9",
+    "contract": true,
+    "latitude": 40.979162,
+    "longitude": 37.9092246
+  },
+  {
+    "name": "ÖZEL MEDICALPOINT GAZİANTEP HASTANESİ",
+    "type": "hastane",
+    "city": "GAZİANTEP",
+    "district": "ŞEHİTKAMİL",
+    "address": "mücahitler mah 52063 nolu sok no 2",
+    "contract": true,
+    "latitude": 37.1293635,
+    "longitude": 37.4272381
+  },
+  {
+    "name": "MEDICAL PARK BURSA TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "OSMANGAZİ",
+    "address": "haşim işcan cad.fomara meydanı no 1",
+    "contract": true,
+    "latitude": 40.1889244,
+    "longitude": 29.0613739
+  },
+  {
+    "name": "MEDICAL PARK ANTALYA TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MURATPAŞA",
+    "address": "FENER MAH.TEKELİOĞLU CAD.NO 7 LARA",
+    "contract": true,
+    "latitude": 36.8566124,
+    "longitude": 30.7468716
+  },
+  {
+    "name": "VAKIF",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.9333635,
+    "longitude": 32.8597419
+  },
+  {
+    "name": "GÜVEN HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "ŞİMŞEK SOK.NO.29/D ÇANKAYA/ANKARA",
+    "contract": true,
+    "latitude": 39.9045032,
+    "longitude": 32.8546808
+  },
+  {
+    "name": "ÖZEL MEDSTAR TOPÇULAR HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MURATPAŞA",
+    "address": "YILDIZ MAHALLESİ ÇAKIRLAR CAD. NO:19",
+    "contract": true,
+    "latitude": 36.894744,
+    "longitude": 30.6862916
+  },
+  {
+    "name": "MEDİCANA SİVAS HASTANESİ",
+    "type": "hastane",
+    "city": "SİVAS",
+    "district": "MERKEZ",
+    "address": "KIZILIRMAK MAH. ŞEHİT FETHİ AKYÜZ CAD. NO:8 SİVAS",
+    "contract": true,
+    "latitude": 39.7390272,
+    "longitude": 37.0259041
+  },
+  {
+    "name": "MEDICANA SAMSUN HASTANESİ",
+    "type": "hastane",
+    "city": "SAMSUN",
+    "district": "CANİK",
+    "address": "YENİMAHALLE ŞEHİT MESUT BİRİNCİ CAD. NO:85 CANİK",
+    "contract": true,
+    "latitude": 41.2668433,
+    "longitude": 36.3515518
+  },
+  {
+    "name": "LİV HOSPITAL ULUS TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEŞİKTAŞ",
+    "address": "AHMET ADNAN SAYGUN CADDESİ CANAN SOKAK NO:5",
+    "contract": true,
+    "latitude": 41.0609918,
+    "longitude": 29.0284592
+  },
+  {
+    "name": "BİOLAB ÖZEL SAĞLIK HİZMETLERİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "1399 Sok. No: 8/B 35220 Alsancak",
+    "contract": true,
+    "latitude": 38.4326465,
+    "longitude": 27.1475217
+  },
+  {
+    "name": "DENTAPOL AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MALTEPE",
+    "address": "Altayçeşme Mah. Bağdat Cad. No: 317",
+    "contract": true,
+    "latitude": 40.93388119999999,
+    "longitude": 29.1264166
+  },
+  {
+    "name": "SKAYDENT AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KÜÇÜKÇEKMECE",
+    "address": "Kartaltepe Mah. Göktepe Sok. No:1",
+    "contract": true,
+    "latitude": 41.00113169999999,
+    "longitude": 28.8052773
+  },
+  {
+    "name": "ÖZEL DENTAWORLD AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "Florya cad. No: 41 Şenlikköy/Bakırköy",
+    "contract": true,
+    "latitude": 40.9832287,
+    "longitude": 28.7945116
+  },
+  {
+    "name": "T.C. OKAN ÜNV. DİŞ HEKİMLİĞİ FAKÜLTESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": "Okan Üniversitesi Diş Hekimliği Fakültesi",
+    "contract": true,
+    "latitude": 41.0536216,
+    "longitude": 28.9819731
+  },
+  {
+    "name": "DMR DENT",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEŞİKTAŞ",
+    "address": "Levent Mah. Levent Cad. No: 18/2 Beşiktaş",
+    "contract": true,
+    "latitude": 41.0781943,
+    "longitude": 29.015772
+  },
+  {
+    "name": "SİSTEM TIP LABORATUVARI",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ATAŞEHİR",
+    "address": "Küçükbakkalköy Işıklar Caddesi No: 5 Ataşehir",
+    "contract": true,
+    "latitude": 40.983859,
+    "longitude": 29.1146042
+  },
+  {
+    "name": "REFERANS LAB.VE SAĞ.HİZM.SAN.TİC.A.Ş.",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "Fener-Kalamış Cad. No:8 Kızıltoprak",
+    "contract": true,
+    "latitude": 40.9808285,
+    "longitude": 29.04132539999999
+  },
+  {
+    "name": "ANT MODERN ÖZEL AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MURATPAŞA",
+    "address": "Fener Mah. B.Ecevit Bulvarı No:58",
+    "contract": true,
+    "latitude": 36.8579673,
+    "longitude": 30.7500642
+  },
+  {
+    "name": "ÖZEL KOCAEFE AĞIZ VE DİŞ SAĞLIĞI PLK.(ORALDENT)",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "OSMANGAZİ",
+    "address": "İnönü Cad. No:18 Nurettin Yavuz hüseyin bey işhanı",
+    "contract": true,
+    "latitude": 40.2702289,
+    "longitude": 29.0982169
+  },
+  {
+    "name": "ÖZEL MAYA DİŞ AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+    "type": "hastane",
+    "city": "KAYSERİ",
+    "district": "MELİKGAZİ",
+    "address": "Tacettin Veli Mah. Lalezade Cad. 23/a",
+    "contract": true,
+    "latitude": 38.7158327,
+    "longitude": 35.4936129
+  },
+  {
+    "name": "ÖZEL DENTAL PARK AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+    "type": "hastane",
+    "city": "KAYSERİ",
+    "district": "MERKEZ",
+    "address": "Gevhernesibe Mah. Atatürk Blv. No:30",
+    "contract": true,
+    "latitude": 38.723015,
+    "longitude": 35.4815873
+  },
+  {
+    "name": "ÖZEL BİNGÖL HASTANESİ",
+    "type": "hastane",
+    "city": "BİNGÖL",
+    "district": "MERKEZ",
+    "address": "İNÖNÜ MAHALLESİ KÜLTÜR CAD.NO:17",
+    "contract": true,
+    "latitude": 38.8846397,
+    "longitude": 40.5063182
+  },
+  {
+    "name": "PROVİDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "BORNOVA",
+    "address": "Kazım Dirik Mah. 357/3 Sokak No:3/1-A",
+    "contract": true,
+    "latitude": 38.445152,
+    "longitude": 27.1991524
+  },
+  {
+    "name": "ÖZEL TALATPAŞA TIP LABORATUVARI",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "Talatpaşa Bulvarı No:61/2",
+    "contract": true,
+    "latitude": 38.43621,
+    "longitude": 27.14516
+  },
+  {
+    "name": "DENTİSTANBUL AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEŞİKTAŞ",
+    "address": "Abbasağa Mah. Yıldız Cad. No:71",
+    "contract": true,
+    "latitude": 41.0511147,
+    "longitude": 29.0078479
+  },
+  {
+    "name": "HAYAT HASTANESİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "OSMANGAZİ",
+    "address": "inönü cad.no:51",
+    "contract": true,
+    "latitude": 40.184981,
+    "longitude": 29.0689395
+  },
+  {
+    "name": "ÖZEL FATMA HATUN HASTANESİ",
+    "type": "hastane",
+    "city": "BOLU",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.732541,
+    "longitude": 31.608209
+  },
+  {
+    "name": "BOLU ÖZEL ÇAĞSU HASTANESİ",
+    "type": "hastane",
+    "city": "BOLU",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.732541,
+    "longitude": 31.608209
+  },
+  {
+    "name": "AKDENİZ SAĞLIK VAKFI HASTANESİ İKTİSADİ İŞLETMESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MURATPAŞA",
+    "address": "Gebizli Mah. 1116 sok.",
+    "contract": true,
+    "latitude": 36.8981671,
+    "longitude": 30.7250418
+  },
+  {
+    "name": "ÖZEL OFM ANTALYA HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 36.8968908,
+    "longitude": 30.7133233
+  },
+  {
+    "name": "ÖZEL ERYAMAN HASTANESİ (DELTA TIP MERKEZİ)",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": NaN,
+    "address": "Şehit Osman Avcı Mah. 2649. Sok.No:2 Eryaman",
+    "contract": true,
+    "latitude": 39.9717264,
+    "longitude": 32.6522934
+  },
+  {
+    "name": "ÖZEL GİRESUN KENT HASTANESİ",
+    "type": "hastane",
+    "city": "GİRESUN",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.91753200000001,
+    "longitude": 38.392653
+  },
+  {
+    "name": "ÖZEL GİRESUN ADA HASTANESİ",
+    "type": "hastane",
+    "city": "GİRESUN",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.91753200000001,
+    "longitude": 38.392653
+  },
+  {
+    "name": "ECHOMAR GÖRÜNTÜLEME VE TANI MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": "19 MAYIS CAD. NOVA BARAN PLAZA NO:4 K:5 ŞİŞLİ/İSTA",
+    "contract": true,
+    "latitude": 41.06062319999999,
+    "longitude": 28.9896526
+  },
+  {
+    "name": "HATEM HASTANESİ",
+    "type": "hastane",
+    "city": "GAZİANTEP",
+    "district": "ŞAHİNBEY",
+    "address": "Kemal Köker Cad. No:41 (Ulu Camii Karşısı)",
+    "contract": true,
+    "latitude": 37.0632501,
+    "longitude": 37.3682402
+  },
+  {
+    "name": "ÖZEL BURTOM TIBBİ GÖRÜNTÜLEME VE TANI MERKEZLERİ ESENTEPE",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "OSMANGAZİ",
+    "address": "Esent. Mah. Sanayi cad Deniz Bora İş merk no324/11",
+    "contract": true,
+    "latitude": 40.2423995,
+    "longitude": 28.9685353
+  },
+  {
+    "name": "ÖZEL GENESİS HOSPİTAL",
+    "type": "hastane",
+    "city": "DİYARBAKIR",
+    "district": "KAYAPINAR",
+    "address": "Seyrantepe Bulv. No:18, Kayapınar",
+    "contract": true,
+    "latitude": 37.9653913,
+    "longitude": 40.0815606
+  },
+  {
+    "name": "ÖZEL SULTAN HASTANESİ",
+    "type": "hastane",
+    "city": "DİYARBAKIR",
+    "district": "BAĞLAR",
+    "address": "Sel Eyyübi Mah. Aydın Arslan Bulvarı MTA BÖL MÜD K",
+    "contract": true,
+    "latitude": 37.9328521,
+    "longitude": 40.2046703
+  },
+  {
+    "name": "ÖZEL ÜNYE ÇAKIRTEPE HASTANESİ",
+    "type": "hastane",
+    "city": "ORDU",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.986166,
+    "longitude": 37.879721
+  },
+  {
+    "name": "ÖZEL KARAMAN SELÇUKLU HASTANESİ",
+    "type": "hastane",
+    "city": "KARAMAN",
+    "district": "MERKEZ",
+    "address": "sakabaşı mah.860 sok. no/4",
+    "contract": true,
+    "latitude": 37.1710512,
+    "longitude": 33.2215768
+  },
+  {
+    "name": "ÖZEL SALİHLİ HASTANESİ",
+    "type": "hastane",
+    "city": "MANİSA",
+    "district": "SALİHLİ",
+    "address": "menderes bulvarı no:48 cumhuriyet mah.",
+    "contract": true,
+    "latitude": 38.4824711,
+    "longitude": 28.1503254
+  },
+  {
+    "name": "DENGE TIP LABORATUVARI VE GÖRÜNTÜLEME",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "Çankaya Mah. Alaçam Sok. No:1/5 İç Kapı No: 28",
+    "contract": true,
+    "latitude": 39.89581580000001,
+    "longitude": 32.8571625
+  },
+  {
+    "name": "LAMED GÖRÜNTÜLEME",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "Mimar Sinan Mh. 1355 Sk. Deniz Apt. No:5/7",
+    "contract": true,
+    "latitude": 38.434074,
+    "longitude": 27.149896
+  },
+  {
+    "name": "SONO NÜKLEER GÖRÜNTÜLEME",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "1359 Sok. No:6/1 Alsancak",
+    "contract": true,
+    "latitude": 38.432922,
+    "longitude": 27.150175
+  },
+  {
+    "name": "EMAR PARK GÖRÜNTÜLEME MERKESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAKIRKÖY",
+    "address": "Yüce Tarla Caddesi No:67 Dikilitaş/Bakırköy",
+    "contract": true,
+    "latitude": 40.99174259999999,
+    "longitude": 28.8697282
+  },
+  {
+    "name": "BARIŞ GÖRÜNTÜLEME",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "1431 Sokak No:14/C Alsancak",
+    "contract": true,
+    "latitude": 38.4313355,
+    "longitude": 27.1506404
+  },
+  {
+    "name": "STARMED SAĞLIK HİZM. A.Ş.",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": "Valikonağı Cad. Sezai Selek Sok. No: 21",
+    "contract": true,
+    "latitude": 41.0541463,
+    "longitude": 28.9948348
+  },
+  {
+    "name": "SPEKTROMAR TIBBİ GÖRÜNTÜLEME",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAKIRKÖY",
+    "address": "Fişekhane Cad. Sporcu Sokak. No:1/A",
+    "contract": true,
+    "latitude": 40.9780597,
+    "longitude": 28.8736478
+  },
+  {
+    "name": "BETATOM GÖRÜNTÜLEME MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAHÇELİEVLER",
+    "address": "Çalışlar Caddesi, No:40 İncirli",
+    "contract": true,
+    "latitude": 41.00089000000001,
+    "longitude": 28.8702361
+  },
+  {
+    "name": "MALTEPE GÖRÜNTÜLEME MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MALTEPE",
+    "address": "E5 Karayolu Cevizli Yanyol Filyokuşu No:22 34846",
+    "contract": true,
+    "latitude": 40.9233777,
+    "longitude": 29.1547615
+  },
+  {
+    "name": "EUROMED GÖRÜNTÜLEME VE TANI MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "Recep Peker Cad. No. 27/1-3 34724",
+    "contract": true,
+    "latitude": 40.9845915,
+    "longitude": 29.039112
+  },
+  {
+    "name": "DÜZCE ÖZEL ÇAĞSU HASTANESİ",
+    "type": "hastane",
+    "city": "DÜZCE",
+    "district": "MERKEZ",
+    "address": "Cumhuriyet mah. D-100 karayolu",
+    "contract": true,
+    "latitude": 40.832015,
+    "longitude": 31.181527
+  },
+  {
+    "name": "ÖZEL ŞANMED HASTANESİ",
+    "type": "hastane",
+    "city": "ŞANLIURFA",
+    "district": "MERKEZ",
+    "address": "Ertuğrulgazi mah. Yunus Emre cad. no:76",
+    "contract": true,
+    "latitude": 37.1711727,
+    "longitude": 39.0710754
+  },
+  {
+    "name": "ÖZEL IMPERIAL HASTANESİ",
+    "type": "hastane",
+    "city": "TRABZON",
+    "district": "MERKEZ",
+    "address": "Kemerkaya mah iller sok. devlet sahil yolu no:27",
+    "contract": true,
+    "latitude": 41.0080058,
+    "longitude": 39.7288345
+  },
+  {
+    "name": "SAMSUN ÖZEL LİMAN HASTANESİ",
+    "type": "hastane",
+    "city": "SAMSUN",
+    "district": "MERKEZ",
+    "address": "Hançerli mah. Atatürk bulv. no:122 ilkadım",
+    "contract": true,
+    "latitude": 41.29725639999999,
+    "longitude": 36.3320312
+  },
+  {
+    "name": "BÜYÜK ANADOLU MERKEZ HASTANESİ SAMSUN",
+    "type": "hastane",
+    "city": "SAMSUN",
+    "district": "İLKADIM",
+    "address": "ULUGAZİ MAH. İSTİKLAL CAD. NO:48",
+    "contract": true,
+    "latitude": 41.2872599,
+    "longitude": 36.3317072
+  },
+  {
+    "name": "ÖZEL ŞAR HASTANESİ",
+    "type": "hastane",
+    "city": "RİZE",
+    "district": "MERKEZ",
+    "address": "Eminettin mah. Cumhuriyet cad. no:73",
+    "contract": true,
+    "latitude": 41.0304844,
+    "longitude": 40.5133173
+  },
+  {
+    "name": "ÖZEL ORDU UMUT HASTANESİ",
+    "type": "hastane",
+    "city": "ORDU",
+    "district": "MERKEZ",
+    "address": "Zübeyda hanım cad. Şahincili mah. no:218",
+    "contract": true,
+    "latitude": 40.9635839,
+    "longitude": 37.8994681
+  },
+  {
+    "name": "ÖZEL MEGAPARK HASTANESİ",
+    "type": "hastane",
+    "city": "KAHRAMANMARAŞ",
+    "district": "MERKEZ",
+    "address": "Hacıbayram veli mah. Alisezai bulv no:6",
+    "contract": true,
+    "latitude": 37.5752755,
+    "longitude": 36.9228223
+  },
+  {
+    "name": "ÖZEL SEVGİ HASTANESİ",
+    "type": "hastane",
+    "city": "ORDU",
+    "district": "MERKEZ",
+    "address": "Karşıyaka mah. 906. sok. no:5 Bahçelievler",
+    "contract": true,
+    "latitude": 40.9687029,
+    "longitude": 37.9109111
+  },
+  {
+    "name": "ÖZEL MEDİGÜNEŞ HASTANESİ",
+    "type": "hastane",
+    "city": "MANİSA",
+    "district": "MERKEZ",
+    "address": "Zafer Mah. 629 Sok. No:27 Salihli / Manisa",
+    "contract": true,
+    "latitude": 38.4843023,
+    "longitude": 28.1296357
+  },
+  {
+    "name": "ÖZEL MÜJDE HASTANESİ",
+    "type": "hastane",
+    "city": "MALATYA",
+    "district": "MERKEZ",
+    "address": "Fırat mah. Hastane cad. no:16 Beydağı",
+    "contract": true,
+    "latitude": 38.3337075,
+    "longitude": 38.3123788
+  },
+  {
+    "name": "ÖZEL KÜTAHYA ANADOLU HASTANESİ",
+    "type": "hastane",
+    "city": "KÜTAHYA",
+    "district": "MERKEZ",
+    "address": "Fatih sultan mehmet bulv. ali paşa mah no:9",
+    "contract": true,
+    "latitude": 39.4176691,
+    "longitude": 29.9911348
+  },
+  {
+    "name": "GEBZE MERKEZ HASTANESİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "GEBZE",
+    "address": "Güzeller mah. Yeni bağdat cad. no:583",
+    "contract": true,
+    "latitude": 40.8011162,
+    "longitude": 29.43169749999999
+  },
+  {
+    "name": "ÇEVRE HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ESENYURT",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0343177,
+    "longitude": 28.6614809
+  },
+  {
+    "name": "ÖZEL KONAK HASTANESİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "İZMİT",
+    "address": "YENİŞEHİR MAH. DEMOKRASİ BUL. NO:44",
+    "contract": true,
+    "latitude": 40.7634942,
+    "longitude": 29.9669734
+  },
+  {
+    "name": "MEDİPOL MEGA HASTANELER KOMPLEKSİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "TEM AVRUPA OTOYOLU GÖZTEPE ÇIKIŞI NO:1",
+    "contract": true,
+    "latitude": 40.9771558,
+    "longitude": 29.066357
+  },
+  {
+    "name": "MEDİPOL HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "KOŞUYOLU MAH. LAMBACI SOK. NO:2/1-2",
+    "contract": true,
+    "latitude": 41.00474380000001,
+    "longitude": 29.0334161
+  },
+  {
+    "name": "TC MALTEPE ÜNİVERSİTESİ TIP FAKÜLTESİ MARMARA EĞT VE ARŞ HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MALTEPE",
+    "address": "BAĞLARBAŞI MAH.FEYZULLAH CAD. NO:39",
+    "contract": true,
+    "latitude": 40.92517,
+    "longitude": 29.1352452
+  },
+  {
+    "name": "TEKİRDAĞ ÖZEL YAŞAM HASTANESİ",
+    "type": "hastane",
+    "city": "TEKİRDAĞ",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.9780919,
+    "longitude": 27.511674
+  },
+  {
+    "name": "RADYOMAR GÖRÜNTÜLEME",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "Kızılelma Cad.No:16/1 Fındıkzade",
+    "contract": true,
+    "latitude": 41.0113116,
+    "longitude": 28.9384829
+  },
+  {
+    "name": "ÖZEL ENTO KULAK BURUN BOĞAZ CERRAHİ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": NaN,
+    "contract": true,
+    "latitude": 38.4144802,
+    "longitude": 27.1441227
+  },
+  {
+    "name": "ATLAS HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜMRANİYE",
+    "address": "İSTİKLAL MAH. ALEMDAĞ CAD. TABİB SOK. NO:5",
+    "contract": true,
+    "latitude": 41.0241142,
+    "longitude": 29.1040192
+  },
+  {
+    "name": "MEDİCİNE HOSPITAL",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "Hoca ahmet yesevi cad. Barbaros mah. no:149",
+    "contract": true,
+    "latitude": 41.0305758,
+    "longitude": 28.8387909
+  },
+  {
+    "name": "LEVENT HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEŞİKTAŞ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.028001,
+    "longitude": 28.9723478
+  },
+  {
+    "name": "ÖZEL PARK TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "BAYRAKLI",
+    "address": "SOĞUK KUYU MAH.1846/7 SOK. NO:3",
+    "contract": true,
+    "latitude": 38.469942,
+    "longitude": 27.1134881
+  },
+  {
+    "name": "ÖZEL MEDİVİA HOSPITAL",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜSKÜDAR",
+    "address": "Güzeltepe Mah. Zübeyde Hanım Cad. No:15 Çengelköy",
+    "contract": true,
+    "latitude": 41.0524288,
+    "longitude": 29.0761502
+  },
+  {
+    "name": "ÖZEL AVRASYA HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ZEYTİNBURNU",
+    "address": "Beştelsiz Mah. Seyitnizam Cd. 101 Sok No:107",
+    "contract": true,
+    "latitude": 41.0031482,
+    "longitude": 28.9064761
+  },
+  {
+    "name": "ÖZEL LEVEL HASTANESİ",
+    "type": "hastane",
+    "city": "ZONGULDAK",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.45352099999999,
+    "longitude": 31.78938
+  },
+  {
+    "name": "ÖZEL MEDSTAR ANTALYA HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MERKEZ",
+    "address": "yıldız mah. çakırlar cad. no:19",
+    "contract": true,
+    "latitude": 36.8943013,
+    "longitude": 30.6849859
+  },
+  {
+    "name": "ÖZEL ÇAMLIK HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "yücetarla cad. no:46",
+    "contract": true,
+    "latitude": 40.9896369,
+    "longitude": 28.8695201
+  },
+  {
+    "name": "ÖZEL YAŞAM BATMAN HASTANESİ",
+    "type": "hastane",
+    "city": "BATMAN",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 37.8895167,
+    "longitude": 41.1292832
+  },
+  {
+    "name": "ÖZEL ANKARA MAYA GÖZ HASTALIKLARI MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "Celal Bayar Bulvarı Tok Sokak No:7",
+    "contract": true,
+    "latitude": 39.9296573,
+    "longitude": 32.8484452
+  },
+  {
+    "name": "LÖSEV LÖSEMİLİ ÇOCUKLAR SAĞLIK VE EĞİTİM VAKFI HASTANESİ İKTİSADİ İŞLETMESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "GÖLBAŞI",
+    "address": "Kızılcaşar Mah.2705 cad. No: 20",
+    "contract": true,
+    "latitude": 39.8325039,
+    "longitude": 32.7186673
+  },
+  {
+    "name": "ÖZEL KARADENİZ TRABZON MEDİKAL PARK HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "TRABZON",
+    "district": "MERKEZ",
+    "address": "inönü mah.yavuz selim bulvarı no 190",
+    "contract": true,
+    "latitude": 40.9969354,
+    "longitude": 39.6822163
+  },
+  {
+    "name": "ÖZEL DEFA LİFE HOSPİTAL",
+    "type": "hastane",
+    "city": "GAZİANTEP",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 37.065953,
+    "longitude": 37.37811
+  },
+  {
+    "name": "ORTADOĞU HASTANESİ",
+    "type": "hastane",
+    "city": "ADANA",
+    "district": "SEYHAN",
+    "address": NaN,
+    "contract": true,
+    "latitude": 36.9914194,
+    "longitude": 35.3308285
+  },
+  {
+    "name": "ACADEMIC HOSPITAL",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "Nuhkuyusu Cad. No:94 Bağlarbaşı / Üsküdar",
+    "contract": true,
+    "latitude": 41.0199335,
+    "longitude": 29.0346226
+  },
+  {
+    "name": "ORTACA ÖZEL YÜCELEN HASTANESİ",
+    "type": "hastane",
+    "city": "MUĞLA",
+    "district": "ORTACA",
+    "address": "Muğla-Fethiye Karayolu Üzeri Atatürk Cad. No:80",
+    "contract": true,
+    "latitude": 36.6219402,
+    "longitude": 29.1158366
+  },
+  {
+    "name": "MARMARİS ÖZEL YÜCELEN HASTANESİ",
+    "type": "hastane",
+    "city": "MUĞLA",
+    "district": "MARMARİS",
+    "address": "Turgut Özal Bulv. No:1",
+    "contract": true,
+    "latitude": 36.8521233,
+    "longitude": 28.2516683
+  },
+  {
+    "name": "ÖZEL YÜCELEN HASTANESİ",
+    "type": "hastane",
+    "city": "MUĞLA",
+    "district": "MENTEŞE",
+    "address": "Kötekli Mevkii Marmaris Yol Kavşağı",
+    "contract": true,
+    "latitude": 36.854936,
+    "longitude": 28.270878
+  },
+  {
+    "name": "ÖZEL GAZİ HASTANESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": NaN,
+    "contract": true,
+    "latitude": 38.4144802,
+    "longitude": 27.1441227
+  },
+  {
+    "name": "ÖZEL İZMİR HASTANESİ(HAYSU SAĞ.HİZM)",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "MERKEZ",
+    "address": "Gaziler cad. Oğuzlar mah. no:155 kapılar",
+    "contract": true,
+    "latitude": 38.423734,
+    "longitude": 27.142826
+  },
+  {
+    "name": "EGEPOL HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "HALİDE EDİP ADIVAR BUL. 507.SOK. NO:3 KONAK",
+    "contract": true,
+    "latitude": 38.4016544,
+    "longitude": 27.1269832
+  },
+  {
+    "name": "ÖZEL SU HOSPITAL (HAYSU SAĞ.HİZM)",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 38.423734,
+    "longitude": 27.142826
+  },
+  {
+    "name": "ÖZEL ATAGÖZ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "BUCA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 38.3337361,
+    "longitude": 27.2911248
+  },
+  {
+    "name": "ÖZEL TINAZTEPE HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "BUCA",
+    "address": "Ahmet Priştina bulv. kuruçeşme mah. 203 sok. no:51",
+    "contract": true,
+    "latitude": 38.3700155,
+    "longitude": 27.1885599
+  },
+  {
+    "name": "KOLAN HOSPITAL ŞİŞLİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": "KAPTANPAŞA MAH. DARÜLACEZE CAD.B BLOK NO:14/11",
+    "contract": true,
+    "latitude": 41.0300159,
+    "longitude": 28.9097576
+  },
+  {
+    "name": "KOLAN HOSPITAL BÜYÜKÇEKMECE",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BÜYÜKÇEKMECE",
+    "address": "FATİH MAH. FEDAKAR SOK. NO:3",
+    "contract": true,
+    "latitude": 41.0215858,
+    "longitude": 28.5859075
+  },
+  {
+    "name": "KOLAN HOSPITAL SİLİVRİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "ALİBEY MAH. ÇETİNKAYA CAD. NO:105",
+    "contract": true,
+    "latitude": 41.0082376,
+    "longitude": 28.9783589
+  },
+  {
+    "name": "KOLAN HOSPITAL BEYLİKDÜZÜ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEYLİKDÜZÜ",
+    "address": "GÜRPINAR BELDESİ ADNAN KAHVECİ MAH. NO: 23",
+    "contract": true,
+    "latitude": 40.997793,
+    "longitude": 28.6047629
+  },
+  {
+    "name": "MERSİN SİSTEM CERRAHİ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "MERSİN",
+    "district": "AKDENİZ",
+    "address": "Atatürk Cad. Kültür mah. no:66 Çamlıbel",
+    "contract": true,
+    "latitude": 36.7923706,
+    "longitude": 34.623633
+  },
+  {
+    "name": "TÜRKİYE GAZETESİ HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": "Merkez Mah. Darülacaze Cad. No:14/1 34381 Şişli",
+    "contract": true,
+    "latitude": 41.0660012,
+    "longitude": 28.9818014
+  },
+  {
+    "name": "ÖZEL ISPARTA HASTANESİ",
+    "type": "hastane",
+    "city": "ISPARTA",
+    "district": "MERKEZ",
+    "address": "Eski sanayi mah. İstanbul caddesi altın sok. no16",
+    "contract": true,
+    "latitude": 37.7274986,
+    "longitude": 30.6487508
+  },
+  {
+    "name": "ÖZEL ŞİFA HASTANESİ",
+    "type": "hastane",
+    "city": "ISPARTA",
+    "district": "MERKEZ",
+    "address": "Yayla mah. 1615 sokak no:40",
+    "contract": true,
+    "latitude": 37.762561,
+    "longitude": 30.5494002
+  },
+  {
+    "name": "ÖZEL DAVRAZ YAŞAM HASTANESİ",
+    "type": "hastane",
+    "city": "ISPARTA",
+    "district": "MERKEZ",
+    "address": "Pirimehmet mah. 1724 sok. no:1 Kutlubey",
+    "contract": true,
+    "latitude": 37.767956,
+    "longitude": 30.5514734
+  },
+  {
+    "name": "ÖZEL İSKENDERUN GELİŞİM HASTANESİ",
+    "type": "hastane",
+    "city": "HATAY",
+    "district": "İSKENDERUN",
+    "address": "Numune mah. dr sadık ahmet cad. no:89 Meydan",
+    "contract": true,
+    "latitude": 36.5651421,
+    "longitude": 36.1588529
+  },
+  {
+    "name": "ÖZEL DEFNE HASTANESİ",
+    "type": "hastane",
+    "city": "HATAY",
+    "district": "MERKEZ",
+    "address": "Kavaslı mah. uğurmumcu caddesi no:101 odabaşı",
+    "contract": true,
+    "latitude": 36.2316517,
+    "longitude": 36.16417140000001
+  },
+  {
+    "name": "ÖZEL ODAK HASTANESİ",
+    "type": "hastane",
+    "city": "DENİZLİ",
+    "district": "MERKEZ",
+    "address": "Yeniotogar karşısı Sümer mah. İzmir Bulvarı no: 18",
+    "contract": true,
+    "latitude": 37.7848219,
+    "longitude": 29.0936567
+  },
+  {
+    "name": "DENİZLİ CERRAHİ HASTANESİ",
+    "type": "hastane",
+    "city": "DENİZLİ",
+    "district": "MERKEZ",
+    "address": "Acıpayam Bulvarı Üzeri No: 5",
+    "contract": true,
+    "latitude": 37.7327107,
+    "longitude": 29.130671
+  },
+  {
+    "name": "HOSPİTADENT AĞIZ VE DİŞ SAĞ.MERK. KAYSERİ",
+    "type": "hastane",
+    "city": "KAYSERİ",
+    "district": "KOCASİNAN",
+    "address": "Gevher Nesibe Mah. Gür Sok. No:15 Kocasinan",
+    "contract": true,
+    "latitude": 38.7237446,
+    "longitude": 35.4815422
+  },
+  {
+    "name": "HOSPİTADENT AĞIZ VE DİŞ SAĞ.MERK. FATİH",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "FATİH",
+    "address": "Akdeniz Cad. No:28 Fatih",
+    "contract": true,
+    "latitude": 41.0191542,
+    "longitude": 28.94629
+  },
+  {
+    "name": "HOSPİTADENT AĞIZ VE DİŞ SAĞ.MERK. BAĞCILAR",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "Yeni Mah. Mahmutbey Cad. No:204 Ateştuğla Bağcılar",
+    "contract": true,
+    "latitude": 41.04492630000001,
+    "longitude": 28.8307201
+  },
+  {
+    "name": "HOSPİTADENT AĞIZ VE DİŞ SAĞ.MERK. ÇAMLICA",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜSKÜDAR",
+    "address": "Kısıklı Mah. Alemdağ Cad. No:77/A Çamlıca",
+    "contract": true,
+    "latitude": 41.0227988,
+    "longitude": 29.0743292
+  },
+  {
+    "name": "HOSPİTADENT AĞIZ VE DİŞ SAĞ.MERK. PENDİK",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "PENDİK",
+    "address": "Bahçelievler Mah. Aydınlı Yolu Cad. No:26 Pendik",
+    "contract": true,
+    "latitude": 40.8722,
+    "longitude": 29.28653
+  },
+  {
+    "name": "HOSPİTADENT AĞIZ VE DİŞ SAĞ.MERK. BAKIRKÖY",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAKIRKÖY",
+    "address": "Zuhuratbaba Mah. İncirli Cad. No:113 Bakırköy",
+    "contract": true,
+    "latitude": 40.9955946,
+    "longitude": 28.8696742
+  },
+  {
+    "name": "HOSPİTADENT AĞIZ VE DİŞ SAĞ.MERK.MECİDİYEKÖY",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "Fulya Mah. Akıncıbayırı Sok. No:8 Mecidiyeköy",
+    "contract": true,
+    "latitude": 41.0660089,
+    "longitude": 28.9973098
+  },
+  {
+    "name": "ÖZEL SYNEVO TIBBİ TAHLİL LAB.KIZILKANAT İZMİR ŞB.",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "MERKEZ",
+    "address": "Kıbrıs Şehitleri Cad. No:152 Aksoy Plaza B02",
+    "contract": true,
+    "latitude": 38.4416817,
+    "longitude": 27.1442285
+  },
+  {
+    "name": "ÖZEL SYNEVO TIBBİ TAHLİL LAB.BAYRAKLI İZMİR ŞB.",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "MERKEZ",
+    "address": "1359 Sokak Kızılkanat Sağlık Sitesi A Blok No:2/B",
+    "contract": true,
+    "latitude": 38.4328692,
+    "longitude": 27.1498974
+  },
+  {
+    "name": "ÖZEL SYNEVO TIBBİ TAHLİL LAB.ŞİŞLİ İSTANBUL ŞUB.",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "Kapt Mah. Piyalp Bulvarı, Ortadoğu Plaza No:73 K:4",
+    "contract": true,
+    "latitude": 41.0619973,
+    "longitude": 28.9736348
+  },
+  {
+    "name": "ÖZEL SYNEVO TIBBİ TAHLİL LAB.NİŞANTAŞI İST.ŞUB.",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "Teşvikiye Mah. Güzelbahçe Sk. Yonca Apt. No.25 D:4",
+    "contract": true,
+    "latitude": 41.0531425,
+    "longitude": 28.9944361
+  },
+  {
+    "name": "ÖZEL SYNEVO TIBBİ TAHLİL LAB.YENİKÖY İSTANBUL ŞUB.",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "Kapt Mah. PiyalP Bulvarı, Ortadoğu Plaza No:73 K:4",
+    "contract": true,
+    "latitude": 41.0619973,
+    "longitude": 28.9736348
+  },
+  {
+    "name": "ÖZEL SYNEVO TIBBİ TAHLİL LAB.ATAŞEHİR 2 İST.ŞUB.",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "Küçükbakkalköy Mah. Şenlik Sokak No:7/1",
+    "contract": true,
+    "latitude": 40.983874,
+    "longitude": 29.108124
+  },
+  {
+    "name": "ÖZEL SYNEVO TIBBİ TAHLİL LAB.ATAŞEHİR 1 İST.ŞB.",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "Küçükbakkalköy Mah. Şenlik Sokak No:7/1",
+    "contract": true,
+    "latitude": 40.983874,
+    "longitude": 29.108124
+  },
+  {
+    "name": "ÖZEL SYNEVO TIBBİ TAHLİL LAB.FENERYOLU İSTANBUL ŞB",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "Bağdat Cad. Dilman Apt. No.147 D.2, Feneryolu",
+    "contract": true,
+    "latitude": 40.9790654,
+    "longitude": 29.0452133
+  },
+  {
+    "name": "ÖZEL SYNEVO TIBBİ TAHLİL LAB.ETİLER İSTANBUL ŞUB.",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "Selçuklar Sk No:17, Akat Mahallesi, Etiler",
+    "contract": true,
+    "latitude": 41.0779028,
+    "longitude": 29.0254666
+  },
+  {
+    "name": "GELİŞİM TIP HASEKİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "FATİH",
+    "address": "Millet Cad. No: 21/3 Haseki",
+    "contract": true,
+    "latitude": 41.0102118,
+    "longitude": 28.9455681
+  },
+  {
+    "name": "GELİŞİM TIP NİŞANTAŞI",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "Valikonağı Cad. No: 64/2",
+    "contract": true,
+    "latitude": 41.0530501,
+    "longitude": 28.9932386
+  },
+  {
+    "name": "GELİŞİM TIP GÖZTEPE",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "Fahrettin Kerim Gökay Cad. No:148/5",
+    "contract": true,
+    "latitude": 40.9840077,
+    "longitude": 29.0581648
+  },
+  {
+    "name": "GELİŞİM TIP ŞAŞKINBAKKAL",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "Bağdat Caddesi No: 367/3 Şaşkınbakkal",
+    "contract": true,
+    "latitude": 40.9291148,
+    "longitude": 29.1294125
+  },
+  {
+    "name": "GELİŞİM TIP KADIKÖY",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "Bahariye Caddesi No: 8/1",
+    "contract": true,
+    "latitude": 40.9901197,
+    "longitude": 29.0290396
+  },
+  {
+    "name": "GELİŞİM TIP KIZILTOPRAK",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "Bağdat Caddesi No:28/2 Kızıltoprak",
+    "contract": true,
+    "latitude": 40.9849001,
+    "longitude": 29.0390779
+  },
+  {
+    "name": "GELİŞİM TIP MERKEZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "Bağdat Caddesi No:28 Kızıltoprak",
+    "contract": true,
+    "latitude": 40.9849001,
+    "longitude": 29.0390779
+  },
+  {
+    "name": "ÖZEL PEMBE MAVİ HASTANESİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "NİLÜFER",
+    "address": "Fethiye Mah. Ulu Cad. No:1",
+    "contract": true,
+    "latitude": 40.2329757,
+    "longitude": 28.979692
+  },
+  {
+    "name": "EDREMIT KöRFEZ HASTANESI",
+    "type": "hastane",
+    "city": "BALIKESİR",
+    "district": "EDREMİT",
+    "address": "M.Akif Ersoy Cad. No:1",
+    "contract": true,
+    "latitude": 39.56568780000001,
+    "longitude": 26.7562407
+  },
+  {
+    "name": "ÖZEL EGEMED HASTANESİ",
+    "type": "hastane",
+    "city": "AYDIN",
+    "district": "SÖKE",
+    "address": "Yenicami Mah. Nihat Aşkın Cad. No:7",
+    "contract": true,
+    "latitude": 37.7474987,
+    "longitude": 27.4156017
+  },
+  {
+    "name": "BAŞKENT ÜNİVERSİTESİ KONYA UYGVE ARAŞMERKEZİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "KONYA",
+    "district": "SELÇUKLU",
+    "address": "HOCACİHAN MAH.SARAY CAD.NO 1 SELÇUKLU",
+    "contract": true,
+    "latitude": 37.8843173,
+    "longitude": 32.4565951
+  },
+  {
+    "name": "BAŞKENT ÜNV İZMİR HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KARŞIYAKA",
+    "address": "caher dudayev bulvarı no 175 bostanlı karşıyaka",
+    "contract": true,
+    "latitude": 38.4639806,
+    "longitude": 27.0933302
+  },
+  {
+    "name": "BAŞKENT ÜNV İSTANBUL HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜSKÜDAR",
+    "address": "altunizade mah.kısıklı cd.oymacı sk.no 7",
+    "contract": true,
+    "latitude": 41.0236296,
+    "longitude": 29.04082
+  },
+  {
+    "name": "ÖZEL MANAVGAT YAŞAM HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 36.8968908,
+    "longitude": 30.7133233
+  },
+  {
+    "name": "BAŞKENT ÜNİVERSİTESİ ALANYA TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "ALANYA",
+    "address": "SARAY MAH.YUNUS EMRE CAD NO 1",
+    "contract": true,
+    "latitude": 36.547674,
+    "longitude": 31.993095
+  },
+  {
+    "name": "ÖZEL KENT ALSANCAK TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "Kıbrıs şehitleri cad. Alsancak mah. No:140",
+    "contract": true,
+    "latitude": 38.4384858,
+    "longitude": 27.1436061
+  },
+  {
+    "name": "KENT HASTANESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "ÇİĞLİ",
+    "address": "İstasyonaltı mah. 8229/1 sokak no:56 35580",
+    "contract": true,
+    "latitude": 38.49012829999999,
+    "longitude": 27.0525129
+  },
+  {
+    "name": "ÖZEL JİMER HASTANESİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "NİLÜFER",
+    "address": "Odunluk Mh.Mihraplı Cad.No:6",
+    "contract": true,
+    "latitude": 40.206352,
+    "longitude": 28.99372
+  },
+  {
+    "name": "MEMORIAL KAYSERİ HASTANESİ",
+    "type": "hastane",
+    "city": "KAYSERİ",
+    "district": "KOCASİNAN",
+    "address": "örnekevler mah salihavgunpaşa cad temize sok no13",
+    "contract": true,
+    "latitude": 38.8733113,
+    "longitude": 35.3466253
+  },
+  {
+    "name": "MEMORIAL DİCLE HASTANESİ",
+    "type": "hastane",
+    "city": "DİYARBAKIR",
+    "district": "KAYAPINAR",
+    "address": "Urfa Yolu 3 KM 507 Sok. No: 105 Kayapınar",
+    "contract": true,
+    "latitude": 37.91223910000001,
+    "longitude": 40.0958447
+  },
+  {
+    "name": "MEMORIAL DİYARBAKIR HASTANESİ",
+    "type": "hastane",
+    "city": "DİYARBAKIR",
+    "district": "KAYAPINAR",
+    "address": "Kayapınar İlçesi Peyas Mah. Fırat Bulvarı No:12",
+    "contract": true,
+    "latitude": 37.9357099,
+    "longitude": 40.1878632
+  },
+  {
+    "name": "MEMORIAL LARA HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MURATPAŞA",
+    "address": "Şirinyalı Mh. İsmet Gökşen Cd. No. 76",
+    "contract": true,
+    "latitude": 36.8584869,
+    "longitude": 30.738847
+  },
+  {
+    "name": "MEMORIAL ANTALYA HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "KEPEZ",
+    "address": "Yıldırım Beyazıd Cad. Zafer Mah. No:91",
+    "contract": true,
+    "latitude": 37.0193119,
+    "longitude": 30.73499499999999
+  },
+  {
+    "name": "MEDICANA KONYA HASTANESİ",
+    "type": "hastane",
+    "city": "KONYA",
+    "district": "SELÇUKLU",
+    "address": "FERİTPAŞA MAH. GÜRZ SOK. NO:1 SELÇUKLU/KONYA",
+    "contract": true,
+    "latitude": 37.8937978,
+    "longitude": 32.4960764
+  },
+  {
+    "name": "BAYINDIR İŞ KULE AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": NaN,
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0082376,
+    "longitude": 28.9783589
+  },
+  {
+    "name": "BAYINDIR ŞİRİNEVLER AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİK",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": NaN,
+    "address": "Mareşal Fevzi Çakmak Cad. No:14 K:4-5",
+    "contract": true,
+    "latitude": 40.993275,
+    "longitude": 28.8455355
+  },
+  {
+    "name": "BAYINDIR BEŞİKTAŞ AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİK",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": NaN,
+    "address": "Beşiktaş Cad. No:7/A K:3",
+    "contract": true,
+    "latitude": 41.041708,
+    "longitude": 29.0038967
+  },
+  {
+    "name": "ÖZEL BAYINDIR İÇERENKöY AĞIZ VE DİŞ SAĞLIĞI POLİK",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": NaN,
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0082376,
+    "longitude": 28.9783589
+  },
+  {
+    "name": "BAYEK TEDAVI SAGLIK HIZMETLERI VE ISLETMECILIGI AS BAYINDIR FENERBAHÇE AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİK",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": NaN,
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0082376,
+    "longitude": 28.9783589
+  },
+  {
+    "name": "BAYINDIR İSTANBUL HAST. LEVENT",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEŞİKTAŞ",
+    "address": "NİSPETİYE MAH.AYTAR CAD.AYDIN SOK.NO.8 LEVENT/İST",
+    "contract": true,
+    "latitude": 41.0734326,
+    "longitude": 29.0169972
+  },
+  {
+    "name": "BAYINDIR HASTANESİ İÇERENKÖY",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ATAŞEHİR",
+    "address": "ALİ NİHAT TARLAN CAD.ERTAŞ SOK.NO.17 İÇERENKÖY",
+    "contract": true,
+    "latitude": 40.9635718,
+    "longitude": 29.1042969
+  },
+  {
+    "name": "ÖZEL ATASAM TIP MERKEZİ",
+    "type": "hastane",
+    "city": "SAMSUN",
+    "district": "ATAKUM",
+    "address": "BAHÇIVAN SOK. NO:14",
+    "contract": true,
+    "latitude": 41.2647722,
+    "longitude": 36.339514
+  },
+  {
+    "name": "ÖZEL ATASAM ÇARŞAMBA TIP MERKEZİ",
+    "type": "hastane",
+    "city": "SAMSUN",
+    "district": "ÇARŞAMBA",
+    "address": "YUNUS EMRE SOK. NO: 22",
+    "contract": true,
+    "latitude": 41.27944309999999,
+    "longitude": 36.3448856
+  },
+  {
+    "name": "ÖZEL ATASAM HASTANESİ",
+    "type": "hastane",
+    "city": "SAMSUN",
+    "district": "İLKADIM",
+    "address": "BAHÇIVAN SOK. NO:14",
+    "contract": true,
+    "latitude": 41.2647722,
+    "longitude": 36.339514
+  },
+  {
+    "name": "ATAKÖY ŞAFAK HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAHÇELİEVLER",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.010198,
+    "longitude": 28.8859449
+  },
+  {
+    "name": "İSTANBUL ŞAFAK HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "GAZİOSMANPAŞA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.07594770000001,
+    "longitude": 28.90045529999999
+  },
+  {
+    "name": "AVRUPA ŞAFAK HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "GAZİOSMANPAŞA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.07594770000001,
+    "longitude": 28.90045529999999
+  },
+  {
+    "name": "ÖZEL LOKMAN HEKİM HAYAT HASTANESİ",
+    "type": "hastane",
+    "city": "VAN",
+    "district": "İPEKYOLU",
+    "address": "Milli Egemenlik Cad. Kınalı Mevkii No:58",
+    "contract": true,
+    "latitude": 38.4989085,
+    "longitude": 43.3992594
+  },
+  {
+    "name": "ÖZEL LOKMAN HEKİM VAN HASTANESİ",
+    "type": "hastane",
+    "city": "VAN",
+    "district": "İPEKYOLU",
+    "address": "Milli Egemenlik Cad. Kınalı Mevkii No:58",
+    "contract": true,
+    "latitude": 38.4989085,
+    "longitude": 43.3992594
+  },
+  {
+    "name": "DORUK ÖZEL BURSA HASTANESİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": NaN,
+    "address": "ZÜBEYDE HANIM CAD. NO:5",
+    "contract": true,
+    "latitude": 40.2043089,
+    "longitude": 29.0202952
+  },
+  {
+    "name": "DORUK ÖZEL BURSA HASTANESİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "OSMANGAZİ",
+    "address": "ANKARA CAD.NO:221",
+    "contract": true,
+    "latitude": 40.1930032,
+    "longitude": 29.1075893
+  },
+  {
+    "name": "ÖZEL DORUK YILDIRIM HASTANESİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "YILDIRIM",
+    "address": "ANKARA CAD. NO:221",
+    "contract": true,
+    "latitude": 40.1930032,
+    "longitude": 29.1075893
+  },
+  {
+    "name": "TÜRK KALP VAKFI İKTİSADİ İŞLETMESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0536216,
+    "longitude": 28.9819731
+  },
+  {
+    "name": "HİSAR INTERCONTINENTAL HOSPITAL",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": NaN,
+    "address": "SARAY MAH. SİTE YOLU CAD. NO:7",
+    "contract": true,
+    "latitude": 41.0265283,
+    "longitude": 29.1155633
+  },
+  {
+    "name": "MEMORİAL ATAŞEHİR HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ATAŞEHİR",
+    "address": "KÜÇÜKBAKKALKÖY MAH. VEDAT GÜNYOL CAD. NO:28-30",
+    "contract": true,
+    "latitude": 40.98426,
+    "longitude": 29.107074
+  },
+  {
+    "name": "MEMORİAL ŞİŞLİ HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": "PİYALE PAŞA BULVARI GÜRSEL MAH. OKMEYDANI",
+    "contract": true,
+    "latitude": 41.0659389,
+    "longitude": 28.9780254
+  },
+  {
+    "name": "ÖZEL DOĞAN HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KÜÇÜKÇEKMECE",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0086579,
+    "longitude": 28.775342
+  },
+  {
+    "name": "OKAN ÜNİVERSİTESİ HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "TUZLA",
+    "address": "İÇMELER MAH. AYDEMİR SOK. AYDINYOLU CAD. NO:2",
+    "contract": true,
+    "latitude": 40.8496625,
+    "longitude": 29.3024117
+  },
+  {
+    "name": "ALANYA YAŞAM HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": NaN,
+    "address": NaN,
+    "contract": true,
+    "latitude": 36.8968908,
+    "longitude": 30.7133233
+  },
+  {
+    "name": "OPERA YAŞAM HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": NaN,
+    "address": NaN,
+    "contract": true,
+    "latitude": 36.8968908,
+    "longitude": 30.7133233
+  },
+  {
+    "name": "KEMER YAŞAM HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "KEMER",
+    "address": NaN,
+    "contract": true,
+    "latitude": 36.602792,
+    "longitude": 30.559762
+  },
+  {
+    "name": "ANTALYA YAŞAM HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 36.8968908,
+    "longitude": 30.7133233
+  },
+  {
+    "name": "ÖZEL ANATOLIA HOSPİTAL LARA HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MURATPAŞA",
+    "address": "Güzeloba Mahallesi 2246 Sokak No:9",
+    "contract": true,
+    "latitude": 36.8586897,
+    "longitude": 30.7942329
+  },
+  {
+    "name": "ÖZEL ANATOLIA HOSPİTAL ASPENDOS HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "SERİK",
+    "address": "Orta Mah. Belek Cad. No.100/1 Serik",
+    "contract": true,
+    "latitude": 36.9079242,
+    "longitude": 31.0804423
+  },
+  {
+    "name": "ÖZEL ANATOLIA HOSPİTAL ALANYA HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "ALANYA",
+    "address": "Kadıpaşa Mah. Stad Cad. No.28/A",
+    "contract": true,
+    "latitude": 36.555496,
+    "longitude": 31.9905287
+  },
+  {
+    "name": "ÖZEL ANATOLIA HOSPİTAL SİDE HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MANAVGAT",
+    "address": "Yalı Mahallesi, Side Bulvarı, No:55",
+    "contract": true,
+    "latitude": 36.785903,
+    "longitude": 31.3953694
+  },
+  {
+    "name": "ÖZEL ANATOLIA HOSPİTAL ANTALYA HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "MURATPAŞA",
+    "address": "Çaybaşı Mah. 1352.sk. No:8",
+    "contract": true,
+    "latitude": 36.88706,
+    "longitude": 30.71907299999999
+  },
+  {
+    "name": "ÖZEL ANATOLIA HOSPİTAL ASPENDOS HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "SERİK",
+    "address": "Kadriye Beldesi, Akınlar Mah. Alan Cad. Serik",
+    "contract": true,
+    "latitude": 36.8690619,
+    "longitude": 31.0137284
+  },
+  {
+    "name": "ÖZEL ANATOLIA HOSPİTAL KEMER HASTANESİ",
+    "type": "hastane",
+    "city": "ANTALYA",
+    "district": "KEMER",
+    "address": "Yeni Mahalle Atatürk Blv.",
+    "contract": true,
+    "latitude": 36.607815,
+    "longitude": 30.558216
+  },
+  {
+    "name": "MEDICANA BAHÇELİEVLER HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAHÇELİEVLER",
+    "address": "ADNAN KAHVECİ BULVARI NO:2 BAHÇELİEVLER/İSTANBUL",
+    "contract": true,
+    "latitude": 41.0045762,
+    "longitude": 28.868053
+  },
+  {
+    "name": "MEDİCANA ÇAMLICA TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": NaN,
+    "address": "ALEMDAĞ CAD. NO:103 ÜSKÜDAR/İSTANBUL",
+    "contract": true,
+    "latitude": 41.0246725,
+    "longitude": 29.0829464
+  },
+  {
+    "name": "MEDİCANA AVCILAR HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": NaN,
+    "address": "MARMARA CAD. ŞAMLI SOK. NO:32 AVCILAR/İSTANBUL",
+    "contract": true,
+    "latitude": 40.9814948,
+    "longitude": 28.7223139
+  },
+  {
+    "name": "MEDİCANA HAZNEDAR HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": NaN,
+    "address": "BAHÇELİEVLER MAH. BAĞCILAR CAD. NO:1/2",
+    "contract": true,
+    "latitude": 41.0055967,
+    "longitude": 28.87129599999999
+  },
+  {
+    "name": "MEDICANA BEYLİKDÜZÜ HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEYLİKDÜZÜ",
+    "address": "BÜYÜKŞEHİR MAH. BEYLİKDÜZÜ CAD. NO:3 BEYLİKDÜZÜ/İS",
+    "contract": true,
+    "latitude": 41.0129315,
+    "longitude": 28.6451318
+  },
+  {
+    "name": "MEDİCANA ÇAMLICA HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ÜSKÜDAR",
+    "address": "Alemdağ Cad. No:113 Üsküdar/istanbul",
+    "contract": true,
+    "latitude": 41.0245732,
+    "longitude": 29.0838864
+  },
+  {
+    "name": "MODERN DÜNYA HASTANESİ",
+    "type": "hastane",
+    "city": "KAYSERİ",
+    "district": "KOCASİNAN",
+    "address": "Hastane CHastane Caddesi Kenarcık Sok No:10addesi Kenarcık Sok No:10",
+    "contract": true,
+    "latitude": 38.7228927,
+    "longitude": 35.4804606
+  },
+  {
+    "name": "ACIBADEM INTERNATIONAL HOSPITAL",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": NaN,
+    "address": "İSTANBUL CAD. NO:82 YEŞİLKÖY",
+    "contract": true,
+    "latitude": 40.9785891,
+    "longitude": 28.8801495
+  },
+  {
+    "name": "ACIBADEM BAKIRKÖY HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAKIRKÖY",
+    "address": "HALİT ZİYA UŞAKLIGİL CAD. NO:1",
+    "contract": true,
+    "latitude": 40.9777432,
+    "longitude": 28.8733858
+  },
+  {
+    "name": "ÖZEL ADA DENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "MERKEZ",
+    "address": "ÇUKURAMBAR UFUK ÜNİV.CAD THE PRAGON TOWER,KAT 15 S",
+    "contract": true,
+    "latitude": 39.9090203,
+    "longitude": 32.8124413
+  },
+  {
+    "name": "ÖZEL SYNEVO TIBBİ TAHLİL LAB.BALGAT ANKARA ŞUB.",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "Ceyhun Atıf Kansu Cad. No:135/A Balgat",
+    "contract": true,
+    "latitude": 39.8879452,
+    "longitude": 32.8165825
+  },
+  {
+    "name": "ÖZEL POLATLI ŞİFA TIP MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "POLATLI",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.585047,
+    "longitude": 32.144701
+  },
+  {
+    "name": "PROFDRAHMET GÖRGÜL GASTRO GRUP SAĞLIK HİZTİCLTDŞTİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "DENTİS TOMO",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "ENGİN TIP MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "Emek 16. Sokak No: 13 Bahçelievler",
+    "contract": true,
+    "latitude": 39.9227916,
+    "longitude": 32.8312747
+  },
+  {
+    "name": "ÖZEL MEDSENTEZ POLİKLİNİĞİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "Büyükelçi Sok. No:12/A",
+    "contract": true,
+    "latitude": 39.90754949999999,
+    "longitude": 32.8632238
+  },
+  {
+    "name": "MEDICAL PARK ANKARA BATIKENT TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "YENİMAHALLE",
+    "address": "kent koop mah.1868 sok no 15 batıkent",
+    "contract": true,
+    "latitude": 39.9658994,
+    "longitude": 32.7095975
+  },
+  {
+    "name": "LİV HOSPITAL ANKARA",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.9333635,
+    "longitude": 32.8597419
+  },
+  {
+    "name": "MEDLAB SAĞLIK HİZMETLERİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "İran Cd 13/10-11-12-13 Kavaklıdere",
+    "contract": true,
+    "latitude": 39.9017999,
+    "longitude": 32.8616392
+  },
+  {
+    "name": "İDEAL TANI GÖRÜNTÜLEME SAĞ.HİZM.TİC.LTD.ŞTİ.",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "TUNALI HİLMİ CAD.KUĞULU İŞ MERKEZİ A BLOK NO:123",
+    "contract": true,
+    "latitude": 39.9030199,
+    "longitude": 32.8607089
+  },
+  {
+    "name": "DETAY PANORAMİK SEFALOMETRİK T.M.E GÖRÜNTÜLEME MRK",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "ATATÜRK BULVARI 115/12 KIZILAY-ÇANKAYA",
+    "contract": true,
+    "latitude": 39.9184266,
+    "longitude": 32.854352
+  },
+  {
+    "name": "LOKMAN HEKİM ETLİK HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "KEÇİÖREN",
+    "address": "GN.DR.TEVFİK SAĞLAM CAD.NO:119 ETLİK KEÇİÖREN/ANK.",
+    "contract": true,
+    "latitude": 39.9788809,
+    "longitude": 32.8370224
+  },
+  {
+    "name": "ÖZEL ORTADOĞU 19 MAYIS HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "NACİ ÇAKIR MAH. 761. SOK. NO:2 DİKMEN/ANKARA",
+    "contract": true,
+    "latitude": 39.8752325,
+    "longitude": 32.8400927
+  },
+  {
+    "name": "BAYINDIR KAVAKLIDERE",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "ATATÜRK BULVARI NO.201 KAVAKLIDERE/ANKARA",
+    "contract": true,
+    "latitude": 39.9072728,
+    "longitude": 32.8577609
+  },
+  {
+    "name": "PRİMER TIBBİ GÖRÜNTÜLEME",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "Bestekar Sk. No: 47/A-B",
+    "contract": true,
+    "latitude": 39.907981,
+    "longitude": 32.859809
+  },
+  {
+    "name": "DÜZEN ÇAYYOLU ŞB ANKARA PARKMED AİLE DOKTORLUĞU",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "YENİMAHALLE",
+    "address": "Prof. Dr. Ahmet Taner Kışlalı Mah. 2858. Sok NO.3",
+    "contract": true,
+    "latitude": 39.8714066,
+    "longitude": 32.6865649
+  },
+  {
+    "name": "HRS KADIN SAĞLIĞI HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "Güneş Sokak No:14",
+    "contract": true,
+    "latitude": 39.8991427,
+    "longitude": 32.8572332
+  },
+  {
+    "name": "ANKARA MEMORIAL HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "ÖZEL VİROMED LABORATUVARI",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "Atatürk Bulv. No:237 D:27-28",
+    "contract": true,
+    "latitude": 39.9026753,
+    "longitude": 32.8596504
+  },
+  {
+    "name": "ÖZKAYA TIP MERKEZİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "BULGU LABORATUVARI",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "Tunalı Hilmi Cad. Bestekar Sok. No : 78 / 3 - 4",
+    "contract": true,
+    "latitude": 39.9067693,
+    "longitude": 32.8609883
+  },
+  {
+    "name": "ULTRAMAR GÖRÜNTÜLEME",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "Mithatpaşa Cad. No:16/B Yenişehir",
+    "contract": true,
+    "latitude": 39.9244081,
+    "longitude": 32.8563336
+  },
+  {
+    "name": "VİSART TIBBİ GÖRÜNTÜLEME",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "LOKMAN HEKİM SİNCAN HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "SİNCAN",
+    "address": "ANDİÇEN MAH.POLATLI 2.CAD. İDİL SOK. NO:44 SİNCAN",
+    "contract": true,
+    "latitude": 39.9566676,
+    "longitude": 32.583186
+  },
+  {
+    "name": "ÇANKAYA HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "Bülten Sokak No:44 Çankaya",
+    "contract": true,
+    "latitude": 39.9043871,
+    "longitude": 32.863399
+  },
+  {
+    "name": "BAŞKENT ÜNV ANKARA HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "fevzi çakmak cd.10.sk no 45 bahçelievler",
+    "contract": true,
+    "latitude": 39.92521130000001,
+    "longitude": 32.8315419
+  },
+  {
+    "name": "UFUK ÜNVDRRIDVAN EGE HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": NaN,
+    "contract": true,
+    "latitude": 39.8451842,
+    "longitude": 32.9212265
+  },
+  {
+    "name": "MEDICANA ANKARA HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "YENİMAHALLE",
+    "address": "Söğütözü Cad. 2165. Sok. No:6 Söğütözü/ANKARA",
+    "contract": true,
+    "latitude": 39.9322164,
+    "longitude": 32.6525088
+  },
+  {
+    "name": "KENT KBB HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "MERKEZ",
+    "address": "Turgutreis cad. No:25 Tandoğan",
+    "contract": true,
+    "latitude": 39.9321136,
+    "longitude": 32.8386386
+  },
+  {
+    "name": "TOBB ETÜ HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "Yaşam Caddesi No:5",
+    "contract": true,
+    "latitude": 39.9130017,
+    "longitude": 32.8064429
+  },
+  {
+    "name": "BAYINDIR HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "YENİMAHALLE",
+    "address": "KIZILIRMAK MAH.1443 CAD.NO17 BALGAT/ANKARA",
+    "contract": true,
+    "latitude": 39.9089761,
+    "longitude": 32.8183226
+  },
+  {
+    "name": "SİSTEM ÖZEL TIBBİ YAT. VE TİC. A.Ş.",
+    "type": "hastane",
+    "city": "ADANA",
+    "district": "SEYHAN",
+    "address": "63007 Sok. No: 25/H",
+    "contract": true,
+    "latitude": 37.001008,
+    "longitude": 35.3277272
+  },
+  {
+    "name": "UNİVERSALE HASTANESİ",
+    "type": "hastane",
+    "city": "ADANA",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 36.9914194,
+    "longitude": 35.3308285
+  },
+  {
+    "name": "MEDLİNE ADANA HASTANESİ",
+    "type": "hastane",
+    "city": "ADANA",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 36.9914194,
+    "longitude": 35.3308285
+  },
+  {
+    "name": "BAŞKENT ÜNV ADANA HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "ADANA",
+    "district": "YÜREĞİR",
+    "address": "dadaloğlu mah.2591 sok no:4-A YÜREĞİR ADANA",
+    "contract": true,
+    "latitude": 37.0048128,
+    "longitude": 35.3632193
+  },
+  {
+    "name": "MEDICAL PARK GÖZTEPE HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "E5 ÜZERİ 23 NİSAN SOKAK NO:17 GÖZTEPE",
+    "contract": true,
+    "latitude": 40.9889782,
+    "longitude": 29.0775136
+  },
+  {
+    "name": "GAYRETTEPE FLORENCE NIGHTINGALE HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "Gayrettepe Mh. Cemil Aslan Güder Sk. No:8",
+    "contract": true,
+    "latitude": 41.0632238,
+    "longitude": 29.0040004
+  },
+  {
+    "name": "ÖZEL GÖZDE MALATYA AKADEMİ HASTANESİ",
+    "type": "hastane",
+    "city": "MALATYA",
+    "district": "MERKEZ",
+    "address": "Ankara asfaltı 6. km karakavak mah. no:129",
+    "contract": true,
+    "latitude": 38.3328804,
+    "longitude": 38.2587561
+  },
+  {
+    "name": "ÖZEL GÖZDE MALATYA HASTANESİ",
+    "type": "hastane",
+    "city": "MALATYA",
+    "district": "MERKEZ",
+    "address": "İNÖNÜ CAD. NİYAZİ MAH. NO:145",
+    "contract": true,
+    "latitude": 38.3480702,
+    "longitude": 38.3071796
+  },
+  {
+    "name": "ÖZEL GÖZDE İZMİR HASTANESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "KONAK",
+    "address": "Gaziler cad. Yenişehir mah. no:35 Yenişehir",
+    "contract": true,
+    "latitude": 38.4234741,
+    "longitude": 27.1642445
+  },
+  {
+    "name": "ÖZEL GÖZDE ADIYAMAN HASTANESİ",
+    "type": "hastane",
+    "city": "ADIYAMAN",
+    "district": "MERKEZ",
+    "address": "Eskisaray mah. Türk telekom karşısı 702. sok. no:8",
+    "contract": true,
+    "latitude": 37.7609801,
+    "longitude": 38.2711051
+  },
+  {
+    "name": "MEDİCAL PARK KOCAELİ HASTANESİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 40.7208682,
+    "longitude": 29.8222085
+  },
+  {
+    "name": "MEDİCAL PARK GEBZE",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "MERKEZ",
+    "address": "GÜZELLER MAH.KAVAK CAD.NO 5 BELEDİYE YANI GEBZE",
+    "contract": true,
+    "latitude": 40.80432,
+    "longitude": 29.4397874
+  },
+  {
+    "name": "ÖZEL MEDİCALPOINT İZMİR HASTANESİ",
+    "type": "hastane",
+    "city": "İZMİR",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 38.423734,
+    "longitude": 27.142826
+  },
+  {
+    "name": "MEDİCAL PARK BAHÇELİEVLER HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAHÇELİEVLER",
+    "address": "KÜLTÜR SOK. NO:1",
+    "contract": true,
+    "latitude": 40.995409,
+    "longitude": 28.8627738
+  },
+  {
+    "name": "ACIBADEM KOCAELİ HASTANESİ",
+    "type": "hastane",
+    "city": "KOCAELİ",
+    "district": "MERKEZ",
+    "address": "YENİMAHALLE İNKILAP CAD. NO:9 PLAJ YOLU",
+    "contract": true,
+    "latitude": 40.7654408,
+    "longitude": 29.9408089
+  },
+  {
+    "name": "ACIBADEM TAKSİM HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "İNÖNÜ MAH. NİZAMİYE SOK. NO: 1-9",
+    "contract": true,
+    "latitude": 41.1981619,
+    "longitude": 28.7524965
+  },
+  {
+    "name": "ACIBADEM ATAKENT HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "HALKALI MERKEZ MAH. TURGUT ÖZAL BULVARI NO:16",
+    "contract": true,
+    "latitude": 41.0351449,
+    "longitude": 28.7762704
+  },
+  {
+    "name": "ACIBADEM GÖKTÜRK TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "EYÜP",
+    "address": "MERKEZ MAH. BELEDİYE CAD. AÇELYA SOK. NO:1/A",
+    "contract": true,
+    "latitude": 41.1793545,
+    "longitude": 28.8883416
+  },
+  {
+    "name": "ACIBADEM ETİLER TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEŞİKTAŞ",
+    "address": "NİSPETİYE CAD. NO: 40/8",
+    "contract": true,
+    "latitude": 41.0763784,
+    "longitude": 29.0215015
+  },
+  {
+    "name": "ACIBADEM BEYLİKDÜZÜ TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BEYLİKDÜZÜ",
+    "address": "BARIŞ MAH. ZAFER CAD. A BLOK NO:2",
+    "contract": true,
+    "latitude": 40.9910381,
+    "longitude": 28.6498144
+  },
+  {
+    "name": "ACIBADEM BAĞDAT TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "BAĞDAT CAD. NO:263",
+    "contract": true,
+    "latitude": 40.9698675,
+    "longitude": 29.0635616
+  },
+  {
+    "name": "ACIBADEM BAHÇEŞEHİR TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "BAŞAKŞEHİR",
+    "address": "BAHÇEŞEHİR 1.KISIM MAH. KEMAL SUNAL CAD. NO:6",
+    "contract": true,
+    "latitude": 41.06411970000001,
+    "longitude": 28.6865654
+  },
+  {
+    "name": "ACIBADEM ATAŞEHİR TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ATAŞEHİR",
+    "address": "KÜÇÜKBAKKALKÖY MAH. VEDAT GÜNYOL CAD. NO:36",
+    "contract": true,
+    "latitude": 40.985659,
+    "longitude": 29.1082954
+  },
+  {
+    "name": "ACIBADEM FULYA HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "DİKİLİTAŞ MAH. ÇİMEN SOK. NO:23",
+    "contract": true,
+    "latitude": 41.0436529,
+    "longitude": 28.9837555
+  },
+  {
+    "name": "ÖZEL ACIBADEM DR ŞİNASİ CAN HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "TEKİN SOK. NO.8",
+    "contract": true,
+    "latitude": 41.0072128,
+    "longitude": 29.0429015
+  },
+  {
+    "name": "ACIBADEM KOZYATAĞI HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "İNÖNÜ CAD. OKUR SOK. NO.20 KOZYATAĞI",
+    "contract": true,
+    "latitude": 40.9780008,
+    "longitude": 29.09391909999999
+  },
+  {
+    "name": "ACIBADEM MASLAK HASTANESİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": "DARÜŞŞAFAKA MAH. BÜYÜKDERE CAD. NO.40 MASLAK",
+    "contract": true,
+    "latitude": 41.1282673,
+    "longitude": 29.0253684
+  },
+  {
+    "name": "ACIBADEM BURSA HASTANESİ",
+    "type": "hastane",
+    "city": "BURSA",
+    "district": "MERKEZ",
+    "address": "FATİH SULTAN MEHMET BULV. SÜMER SOK. NO:1",
+    "contract": true,
+    "latitude": 40.2209428,
+    "longitude": 28.978348
+  },
+  {
+    "name": "GÖKTÜRK FLORENCE NIGTINGALE TIP MERKEZİ",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "EYÜP",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.1871598,
+    "longitude": 28.8829816
+  },
+  {
+    "name": "İSTANBUL FLORENCE NIGTINGALE",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "MERKEZ",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0082376,
+    "longitude": 28.9783589
+  },
+  {
+    "name": "KADIKÖY FLORENCE NIGHTINGALE",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": NaN,
+    "contract": true,
+    "latitude": 41.0110715,
+    "longitude": 29.0384885
+  },
+  {
+    "name": "DÜZEN LAB.KADIKÖY",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "KADIKÖY",
+    "address": "Bağdat Cad. 160/17 Gündüz Apt B Blok Selamiçeşme",
+    "contract": true,
+    "latitude": 40.9763855,
+    "longitude": 29.0488739
+  },
+  {
+    "name": "DÜZEN LAB.MECİDİYEKÖY",
+    "type": "hastane",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "address": "Cemal Sahir Sok. No: 14",
+    "contract": true,
+    "latitude": 41.0684487,
+    "longitude": 29.0012703
+  },
+  {
+    "name": "DÜZEN BİYOLOJİK MERSİN",
+    "type": "hastane",
+    "city": "MERSİN",
+    "district": "MERKEZ",
+    "address": "İsmet İnönü Blv. Cad. Şevketbey Apt Ordu Kavşağı",
+    "contract": true,
+    "latitude": 36.8121041,
+    "longitude": 34.6414811
+  },
+  {
+    "name": "ESKİŞEHİR SAĞLIK HİZ METLERİ LTD.ŞTİ.",
+    "type": "hastane",
+    "city": "ESKİŞEHİR",
+    "district": "MERKEZ",
+    "address": "İsmet İnönü (Doktr) Cd. Başkurt İş Merk. No.42/1",
+    "contract": true,
+    "latitude": 39.7734634,
+    "longitude": 30.51587
+  },
+  {
+    "name": "DÜZEN BİYOLOJİK MİTHATPAŞA",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "MERKEZ",
+    "address": "Mithatpaşa Cad. No: 8/35 KAVAKLIDERE/ANKARA",
+    "contract": true,
+    "latitude": 39.9255209,
+    "longitude": 32.85581
+  },
+  {
+    "name": "DÜZEN BİYOLOJİK ADANA",
+    "type": "hastane",
+    "city": "ADANA",
+    "district": "MERKEZ",
+    "address": "Atatürk Bulvarı No: 24/2 GAZİPAŞA-SEYHAN/ADANA",
+    "contract": true,
+    "latitude": 36.8763225,
+    "longitude": 35.3462022
+  },
+  {
+    "name": "DÜZEN BİYOLOJİK KAVAKLIDERE",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "MERKEZ",
+    "address": "ATATÜRK BULVARI NO: 237/39 KAVAKLIDERE/ANKARA",
+    "contract": true,
+    "latitude": 39.9026505,
+    "longitude": 32.8594539
+  },
+  {
+    "name": "DÜZEN LAB. TUNUS ŞB.",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "TUNUS CADDESİ NO:95 KAVAKLIDERE/ANKARA",
+    "contract": true,
+    "latitude": 39.9038932,
+    "longitude": 32.859865
+  },
+  {
+    "name": "ÖZEL KORU SİNCAN HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "HUZUR SOKAK NO:1 SİNCAN",
+    "contract": true,
+    "latitude": 39.9652135,
+    "longitude": 32.5875157
+  },
+  {
+    "name": "ÖZEL KORU ANKARA HASTANESİ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "1377.SOKAK NO:21",
+    "contract": true,
+    "latitude": 39.900305,
+    "longitude": 32.8153379
+  },
+  {
+    "name": "GÜVEN HASTANESİ ÇAYYOLU",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "ALACAATLI MAHALLESİ NO:15",
+    "contract": true,
+    "latitude": 39.8437609,
+    "longitude": 32.6786008
+  },
+  {
+    "name": "LOKMAN HEKİM AKAY HASTANESİ TEVKİFATSIZ",
+    "type": "hastane",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "address": "AKAY CAD. BÜKLÜM SOK. NO:4 KAVAKLIDERE/ANKARA",
+    "contract": true,
+    "latitude": 39.9131629,
+    "longitude": 32.8556042
   }
 ];
