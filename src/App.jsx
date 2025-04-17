@@ -1,11 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { locations } from './data/locations';
 
-// Türkçe sıralama için yardımcı fonksiyon - BUNU EKLE
-const turkishSort = (a, b) => {
-  return a.localeCompare(b, 'tr', { sensitivity: 'base' });
-};
-
 function App() {
   const [selectedCity, setSelectedCity] = useState('');
   const [selectedDistrict, setSelectedDistrict] = useState('');
@@ -15,13 +10,15 @@ function App() {
   const [showList, setShowList] = useState(false);
   const [message, setMessage] = useState('Lütfen konum seçin veya konumunuzu kullanın');
 
-  // Benzersiz şehirleri al
-  const cities = [...new Set(locations.map(loc => loc.city.toUpperCase()))].sort(turkishSort);
-  
-  // Seçili şehre göre ilçeleri al
+  // Benzersiz şehirleri al ve Türkçe alfabeye göre sırala
+  const cities = [...new Set(locations.map(loc => loc.city))]
+    .sort((a, b) => a.localeCompare(b, 'tr'));
+
+  // Seçili şehre göre ilçeleri al ve Türkçe alfabeye göre sırala
   const districts = [...new Set(locations
-    .filter(loc => loc.city.toUpperCase() === selectedCity)
-    .map(loc => loc.district.toUpperCase()))].sort(turkishSort);
+    .filter(loc => loc.city === selectedCity)
+    .map(loc => loc.district))]
+    .sort((a, b) => a.localeCompare(b, 'tr'));
   
   // Konum sıfırlama
   const resetFilters = () => {
