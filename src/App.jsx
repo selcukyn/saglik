@@ -29,13 +29,20 @@ function App() {
     }
   }, [selectedCity]);
 
-  // Şehir ve ilçe listelerini memoize et
   const cities = useMemo(() => {
     try {
-      return [...new Set(locations.map(loc => loc.city))]
-        .sort((a, b) => a.localeCompare(b, 'tr'));
+      // Tüm şehirleri al ve temizle
+      const allCities = [...new Set(
+        locations.map(loc => loc.city.trim())
+      )].sort((a, b) => a.localeCompare(b, 'tr'));
+
+      // Debug için şehir listesini kontrol et
+      alert(`Toplam benzersiz şehir sayısı: ${allCities.length}
+İlk 5 şehir: ${allCities.slice(0, 5).join(', ')}`);
+
+      return allCities;
     } catch (error) {
-      console.error('Şehir listesi oluşturulurken hata:', error);
+      alert(`Şehir listesi oluşturulurken hata: ${error.message}`);
       return [];
     }
   }, []);
@@ -43,30 +50,34 @@ function App() {
   const districts = useMemo(() => {
     try {
       if (!selectedCity) return [];
-      
-      console.log('Seçilen şehir:', selectedCity);
-      console.log('Mevcut lokasyonlar:', locations);
 
-      // Case-insensitive şehir filtreleme
+      // Debug için verileri kontrol et
+      alert(`Debug - Seçilen Şehir: ${selectedCity}
+Şehir için bulunan kayıt sayısı: ${locations.filter(loc => loc.city === selectedCity).length}
+Örnek kayıt: ${JSON.stringify(locations.find(loc => loc.city === selectedCity), null, 2)}`);
+      
+      // Case-insensitive ve boşluk temizleme ile şehir filtreleme
       const cityLocations = locations.filter(loc => 
-        loc.city.toUpperCase() === selectedCity.toUpperCase()
+        loc.city.trim().toLowerCase() === selectedCity.trim().toLowerCase()
       );
 
-      console.log('Bulunan lokasyonlar:', cityLocations);
+      if (cityLocations.length === 0) {
+        alert(`Uyarı: ${selectedCity} için hiç kayıt bulunamadı!`);
+        return [];
+      }
 
       // İlçeleri benzersiz olarak al ve sırala
       const uniqueDistricts = [...new Set(
-        cityLocations.map(loc => loc.district)
+        cityLocations.map(loc => loc.district.trim())
       )].sort((a, b) => a.localeCompare(b, 'tr'));
 
-      console.log('Bulunan ilçeler:', uniqueDistricts);
       return uniqueDistricts;
     } catch (error) {
-      console.error(`İlçe listesi oluşturulurken hata (${selectedCity}):`, error);
+      alert(`Hata oluştu: ${error.message}`);
       return [];
     }
   }, [selectedCity]);
-
+  
   // Konum sıfırlama
   const resetFilters = useCallback(() => {
     setSelectedCity('');
@@ -177,7 +188,6 @@ function App() {
       });
   }, [findNearestLocations]);
 
-  // Filtreleme
   const filterLocations = useCallback(() => {
     try {
       if (!selectedCity && filteredLocations.length === 0) {
@@ -186,7 +196,7 @@ function App() {
         return;
       }
 
-      // Eğer konum bazlı liste varsa (filteredLocations dolu ise)
+      // Eğer konum bazlı liste varsa
       if (filteredLocations.length > 0 && !selectedCity) {
         let filtered = filteredLocations.filter(loc => {
           const typeMatch = selectedType === 'all' || loc.type === selectedType;
@@ -197,21 +207,27 @@ function App() {
         return;
       }
 
-      // Şehir bazlı filtreleme - case insensitive
+      // Case-insensitive ve boşluk temizleme ile şehir bazlı filtreleme
       let filtered = locations.filter(loc => {
-        const cityMatch = loc.city.toUpperCase() === selectedCity.toUpperCase();
-        const districtMatch = !selectedDistrict || loc.district === selectedDistrict;
+        const cityMatch = loc.city.trim().toLowerCase() === selectedCity.trim().toLowerCase();
+        const districtMatch = !selectedDistrict || loc.district.trim() === selectedDistrict.trim();
         const typeMatch = selectedType === 'all' || loc.type === selectedType;
         const contractMatch = selectedContract === 'all' || loc.contract === (selectedContract === 'true');
         
         return cityMatch && districtMatch && typeMatch && contractMatch;
       });
 
+      // Debug için filtreleme sonucunu kontrol et
+      alert(`Filtreleme sonucu:
+Seçili şehir: ${selectedCity}
+Seçili ilçe: ${selectedDistrict}
+Bulunan kayıt sayısı: ${filtered.length}`);
+
       setFilteredLocations(filtered);
       setShowList(true);
       setMessage('');
     } catch (error) {
-      console.error('Filtreleme sırasında hata:', error);
+      alert(`Filtreleme hatası: ${error.message}`);
       setMessage('Filtreleme sırasında bir hata oluştu. Lütfen tekrar deneyin.');
     }
   }, [selectedCity, selectedDistrict, selectedType, selectedContract, filteredLocations]);
