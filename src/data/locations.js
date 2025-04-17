@@ -1,6 +1,22 @@
 // Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2025-04-17 12:25:08
 // Current User's Login: selcukyn
 
+// Verileri grupla
+const locationsByCity = {};
+
+export const locations = [/* mevcut veriler */];
+
+// Şehirlere göre gruplama yap
+locations.forEach(location => {
+  if (!locationsByCity[location.city]) {
+    locationsByCity[location.city] = [];
+  }
+  locationsByCity[location.city].push(location);
+});
+
+// Hızlı erişim için export et
+export { locationsByCity };
+
 export const locations = [
   {
     "name": "BİLGE ECZANESİ",
