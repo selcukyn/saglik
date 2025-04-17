@@ -10,6 +10,25 @@ function App() {
   const [showList, setShowList] = useState(false);
   const [message, setMessage] = useState('Lütfen konum seçin veya konumunuzu kullanın');
 
+    // Debug fonksiyonu - diğer useCallback fonksiyonlarının yanına ekleyin
+  const debugData = useCallback(() => {
+    try {
+      alert(`
+        Seçili Şehir: ${selectedCity}
+        Toplam Lokasyon Sayısı: ${locations.length}
+        İlk 3 Lokasyon:
+        ${JSON.stringify(locations.slice(0, 3), null, 2)}
+        
+        Bu şehir için bulunan lokasyonlar:
+        ${JSON.stringify(locations.filter(loc => 
+          loc.city.toUpperCase() === selectedCity.toUpperCase()
+        ), null, 2)}
+      `);
+    } catch (error) {
+      alert('Hata: ' + error.message);
+    }
+  }, [selectedCity]);
+
   // Şehir ve ilçe listelerini memoize et
   const cities = useMemo(() => {
     try {
@@ -318,8 +337,21 @@ function App() {
               Sıfırla
             </button>
           </div>
+
+                 <div className="col-span-1">
+            <label className="block text-gray-700 text-sm font-bold mb-2">
+              Debug
+            </label>
+            <button
+              onClick={debugData}
+              className="bg-purple-500 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline w-full"
+            >
+              Veriyi Kontrol Et
+            </button>
+          </div>
         </div>
       </div>
+
 
       {message && !showList && (
         <div className="text-center text-gray-600 my-4">
