@@ -25,17 +25,22 @@ function App() {
     try {
       if (!selectedCity) return [];
       
-      // Seçili şehre ait ilçeleri bul
+      console.log('Seçilen şehir:', selectedCity); // Debug için
+      console.log('Mevcut lokasyonlar:', locations); // Debug için
+
+      // Case-insensitive şehir filtreleme
       const cityLocations = locations.filter(loc => 
-        loc.city.trim() === selectedCity.trim()
+        loc.city.toUpperCase() === selectedCity.toUpperCase()
       );
+
+      console.log('Bulunan lokasyonlar:', cityLocations); // Debug için
 
       // İlçeleri benzersiz olarak al ve sırala
       const uniqueDistricts = [...new Set(
-        cityLocations.map(loc => loc.district.trim())
+        cityLocations.map(loc => loc.district)
       )].sort((a, b) => a.localeCompare(b, 'tr'));
 
-      console.log(`${selectedCity} için ilçeler:`, uniqueDistricts);
+      console.log('Bulunan ilçeler:', uniqueDistricts); // Debug için
       return uniqueDistricts;
     } catch (error) {
       console.error(`İlçe listesi oluşturulurken hata (${selectedCity}):`, error);
@@ -168,9 +173,9 @@ function App() {
         return;
       }
 
-      // Şehir bazlı filtreleme
+      // Şehir bazlı filtreleme - case insensitive
       let filtered = locations.filter(loc => {
-        const cityMatch = loc.city === selectedCity;
+        const cityMatch = loc.city.toUpperCase() === selectedCity.toUpperCase();
         const districtMatch = !selectedDistrict || loc.district === selectedDistrict;
         const typeMatch = selectedType === 'all' || loc.type === selectedType;
         const contractMatch = selectedContract === 'all' || loc.contract === (selectedContract === 'true');
@@ -187,6 +192,7 @@ function App() {
     }
   }, [selectedCity, selectedDistrict, selectedType, selectedContract, filteredLocations]);
 
+  
   // Google Maps yol tarifi
   const getDirections = useCallback((location) => {
     const destination = `${location.name}, ${location.address}, ${location.district}, ${location.city}`;
@@ -215,20 +221,26 @@ function App() {
             <label className="block text-gray-700 text-sm font-bold mb-2">
               Şehir
             </label>
-            <select
-              className="shadow border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-              value={selectedCity}
-              onChange={(e) => {
-                try {
-                  const newCity = e.target.value;
-                  console.log('Seçilen şehir:', newCity);
-                  setSelectedCity(newCity);
-                  setSelectedDistrict('');
-                } catch (error) {
-                  console.error('Şehir seçimi sırasında hata:', error);
-                }
-              }}
-            >
+             // Şehir select elementi içinde
+  <select
+    className="shadow border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+    value={selectedCity}
+    onChange={(e) => {
+      try {
+        const newCity = e.target.value;
+        console.log('Seçilen şehir değeri:', newCity); // Debug için
+        setSelectedCity(newCity);
+        setSelectedDistrict('');
+      } catch (error) {
+        console.error('Şehir seçimi sırasında hata:', error);
+      }
+    }}
+  >
+    <option value="">Seçiniz</option>
+    {cities.map(city => (
+      <option key={city} value={city}>{city}</option>
+    ))}
+  </select>
               <option value="">Seçiniz</option>
               {cities.map(city => (
                 <option key={city} value={city}>{city}</option>
