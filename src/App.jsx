@@ -2,177 +2,233 @@ import React, { useState, useEffect } from 'react';
 import { locations } from './data/locations';
 
 function App() {
-  const [locationType, setLocationType] = useState('eczane');
   const [selectedCity, setSelectedCity] = useState('');
   const [selectedDistrict, setSelectedDistrict] = useState('');
+  const [selectedType, setSelectedType] = useState('all');
+  const [selectedContract, setSelectedContract] = useState('all'); // yeni
   const [filteredLocations, setFilteredLocations] = useState([]);
-  const [cities, setCities] = useState([]);
-  const [districts, setDistricts] = useState([]);
-  const [isUsingLocation, setIsUsingLocation] = useState(false);
-  const [userCoordinates, setUserCoordinates] = useState(null);
+  const [showList, setShowList] = useState(false); // yeni
+  const [message, setMessage] = useState('Lütfen konum seçin veya konumunuzu kullanın'); // yeni
 
   // Benzersiz şehirleri al
-  useEffect(() => {
-    const uniqueCities = [...new Set(locations.map(item => item.city))].sort();
-    setCities(uniqueCities);
-  }, []);
+  const cities = [...new Set(locations.map(loc => loc.city))].sort();
 
-  // Seçili şehre göre ilçeleri güncelle
-  useEffect(() => {
-    if (selectedCity) {
-      const cityDistricts = [...new Set(
-        locations
-          .filter(item => item.city === selectedCity)
-          .map(item => item.district)
-      )].sort();
-      setDistricts(cityDistricts);
+  // Seçili şehre göre ilçeleri al
+  const districts = [...new Set(locations
+    .filter(loc => loc.city === selectedCity)
+    .map(loc => loc.district))].sort();
+
+  // Konum kullanma fonksiyonu
+  const useCurrentLocation = () => {
+    if ("geolocation" in navigator) {
+      navigator.permissions.query({ name: 'geolocation' }).then(function(result) {
+        if (result.state === 'granted') {
+          getCurrentPosition();
+        } else if (result.state === 'prompt') {
+          navigator.geolocation.getCurrentPosition(
+            position => {
+              findNearestLocations(position.coords);
+            },
+            error => {
+              setMessage('Konum alınamadı. Lütfen manuel seçim yapın.');
+            }
+          );
+        } else {
+          setMessage('Konum izni reddedildi. Lütfen manuel seçim yapın.');
+        }
+      });
     } else {
-      setDistricts([]);
+      setMessage('Tarayıcınız konum özelliğini desteklemiyor.');
     }
-  }, [selectedCity]);
+  };
 
-  // Konumu kullan butonuna tıklandığında
-  const handleUseLocation = () => {
-    setIsUsingLocation(true);
+  const getCurrentPosition = () => {
     navigator.geolocation.getCurrentPosition(
-      (position) => {
-        setUserCoordinates({
-          latitude: position.coords.latitude,
-          longitude: position.coords.longitude
-        });
-        // Konum alındığında şehir ve ilçe seçimlerini sıfırla
-        setSelectedCity('');
-        setSelectedDistrict('');
+      position => {
+        findNearestLocations(position.coords);
       },
-      (error) => {
-        console.error("Konum alınamadı:", error);
-        setIsUsingLocation(false);
-        alert("Konumunuz alınamadı. Lütfen konum izinlerini kontrol edin.");
+      error => {
+        setMessage('Konum alınamadı. Lütfen manuel seçim yapın.');
       }
     );
   };
 
-  // Filtreleme işlemi
-  useEffect(() => {
-    let filtered = [...locations];
-    
-    if (selectedCity) {
-      filtered = filtered.filter(item => item.city === selectedCity);
-    }
-    
-    if (selectedDistrict) {
-      filtered = filtered.filter(item => item.district === selectedDistrict);
+  // En yakın lokasyonları bul
+  const findNearestLocations = (coords) => {
+    // Basit bir mesafe hesaplama için Haversine formülü
+    const calculateDistance = (lat1, lon1, lat2, lon2) => {
+      const R = 6371; // Dünya'nın yarıçapı (km)
+      const dLat = (lat2 - lat1) * Math.PI / 180;
+      const dLon = (lon2 - lon1) * Math.PI / 180;
+      const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+                Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+                Math.sin(dLon/2) * Math.sin(dLon/2);
+      const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+      return R * c;
+    };
+
+    const locationsWithDistance = locations.map(loc => ({
+      ...loc,
+      distance: calculateDistance(coords.latitude, coords.longitude, loc.latitude, loc.longitude)
+    }));
+
+    const sorted = locationsWithDistance.sort((a, b) => a.distance - b.distance);
+    setFilteredLocations(sorted);
+    setShowList(true);
+    setMessage('');
+  };
+
+  // Filtreleme fonksiyonu
+  const filterLocations = () => {
+    if (!selectedCity) {
+      setFilteredLocations([]);
+      setShowList(false);
+      return;
     }
 
-    // Eğer konum kullanılıyorsa ve koordinatlar varsa
-    if (isUsingLocation && userCoordinates) {
-      // Burada gerçek bir mesafe hesaplaması yapılabilir
-      console.log("Kullanıcı konumu:", userCoordinates);
-    }
+    let filtered = locations.filter(loc => {
+      const cityMatch = loc.city === selectedCity;
+      const districtMatch = !selectedDistrict || loc.district === selectedDistrict;
+      const typeMatch = selectedType === 'all' || loc.type === selectedType;
+      const contractMatch = selectedContract === 'all' || loc.contract === selectedContract;
+      
+      return cityMatch && districtMatch && typeMatch && contractMatch;
+    });
 
     setFilteredLocations(filtered);
-  }, [selectedCity, selectedDistrict, isUsingLocation, userCoordinates]);
+    setShowList(true);
+    setMessage('');
+  };
+
+  useEffect(() => {
+    filterLocations();
+  }, [selectedCity, selectedDistrict, selectedType, selectedContract]);
+
+  // Google Maps yol tarifi fonksiyonu
+  const getDirections = (location) => {
+    const destination = `${location.name}, ${location.address}, ${location.district}, ${location.city}`;
+    const encodedDestination = encodeURIComponent(destination);
+    window.open(`https://www.google.com/maps/dir/?api=1&destination=${encodedDestination}`, '_blank');
+  };
 
   return (
-    <div className="min-h-screen bg-gray-100 py-12 px-4 sm:px-6 lg:px-8">
-      <div className="max-w-4xl mx-auto">
-        <div className="bg-white rounded-lg shadow p-6">
-          <h1 className="text-3xl font-bold text-gray-900 mb-8 text-center">
-            Sağlık Merkezi Arama
-          </h1>
-          
-          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4 mb-6">
-            {/* Tür Seçimi */}
-            <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
-                Tür
-              </label>
-              <select
-                value={locationType}
-                onChange={(e) => setLocationType(e.target.value)}
-                className="w-full rounded-md border border-gray-300 p-2 focus:ring-indigo-500 focus:border-indigo-500"
-              >
-                <option value="eczane">Eczane</option>
-                <option value="hastane">Hastane</option>
-              </select>
-            </div>
+    <div className="container mx-auto px-4 py-8">
+      <h1 className="text-3xl font-bold mb-8 text-center text-blue-600">
+        Sağlık Merkezi Arama
+      </h1>
 
-            {/* Şehir Seçimi */}
-            <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
-                Şehir
-              </label>
-              <select
-                value={selectedCity}
-                onChange={(e) => {
-                  setSelectedCity(e.target.value);
-                  setSelectedDistrict('');
-                }}
-                disabled={isUsingLocation}
-                className="w-full rounded-md border border-gray-300 p-2 focus:ring-indigo-500 focus:border-indigo-500"
-              >
-                <option value="">Şehir Seçin</option>
-                {cities.map(city => (
-                  <option key={city} value={city}>{city}</option>
-                ))}
-              </select>
-            </div>
-
-            {/* İlçe Seçimi */}
-            <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
-                İlçe
-              </label>
-              <select
-                value={selectedDistrict}
-                onChange={(e) => setSelectedDistrict(e.target.value)}
-                className="w-full rounded-md border border-gray-300 p-2 focus:ring-indigo-500 focus:border-indigo-500"
-                disabled={!selectedCity || isUsingLocation}
-              >
-                <option value="">İlçe Seçin</option>
-                {districts.map(district => (
-                  <option key={district} value={district}>{district}</option>
-                ))}
-              </select>
-            </div>
-
-            {/* Konum Butonu */}
-            <div className="flex items-end">
-              <button
-                onClick={handleUseLocation}
-                className={`w-full p-2 rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-500 ${
-                  isUsingLocation 
-                    ? 'bg-red-600 hover:bg-red-700 text-white'
-                    : 'bg-indigo-600 hover:bg-indigo-700 text-white'
-                }`}
-              >
-                {isUsingLocation ? 'Konumu İptal Et' : 'Konumumu Kullan'}
-              </button>
-            </div>
+      <div className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4">
+          <div>
+            <label className="block text-gray-700 text-sm font-bold mb-2">
+              Şehir
+            </label>
+            <select
+              className="shadow border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+              value={selectedCity}
+              onChange={(e) => {
+                setSelectedCity(e.target.value);
+                setSelectedDistrict('');
+              }}
+            >
+              <option value="">Seçiniz</option>
+              {cities.map(city => (
+                <option key={city} value={city}>{city}</option>
+              ))}
+            </select>
           </div>
 
-          {/* Sonuçlar Listesi */}
-          <div className="mt-8">
-            <h2 className="text-xl font-semibold mb-4">
-              {isUsingLocation ? 'Size En Yakın Merkezler' : 'Sonuçlar'}
-            </h2>
-            <div className="space-y-4">
-              {filteredLocations.map((location, index) => (
-                <div
-                  key={index}
-                  className="border rounded-lg p-4 hover:shadow-md transition-shadow"
-                >
-                  <h3 className="text-lg font-medium text-gray-900">{location.name}</h3>
-                  <p className="text-gray-600">
-                    {location.city}, {location.district}
-                  </p>
-                  <p className="text-gray-500 text-sm mt-1">{location.address}</p>
-                </div>
+          <div>
+            <label className="block text-gray-700 text-sm font-bold mb-2">
+              İlçe
+            </label>
+            <select
+              className="shadow border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+              value={selectedDistrict}
+              onChange={(e) => setSelectedDistrict(e.target.value)}
+              disabled={!selectedCity}
+            >
+              <option value="">Tümü</option>
+              {districts.map(district => (
+                <option key={district} value={district}>{district}</option>
               ))}
-            </div>
+            </select>
+          </div>
+
+          <div>
+            <label className="block text-gray-700 text-sm font-bold mb-2">
+              Tür
+            </label>
+            <select
+              className="shadow border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+              value={selectedType}
+              onChange={(e) => setSelectedType(e.target.value)}
+            >
+              <option value="all">Tümü</option>
+              <option value="hastane">Hastane</option>
+              <option value="eczane">Eczane</option>
+            </select>
+          </div>
+
+          <div>
+            <label className="block text-gray-700 text-sm font-bold mb-2">
+              Anlaşma Durumu
+            </label>
+            <select
+              className="shadow border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+              value={selectedContract}
+              onChange={(e) => setSelectedContract(e.target.value)}
+            >
+              <option value="all">Tümü</option>
+              <option value="true">Anlaşmalı</option>
+              <option value="false">Anlaşmasız</option>
+            </select>
+          </div>
+
+          <div className="flex items-end">
+            <button
+              onClick={useCurrentLocation}
+              className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline w-full"
+            >
+              Konumu Kullan
+            </button>
           </div>
         </div>
       </div>
+
+      {message && !showList && (
+        <div className="text-center text-gray-600 my-4">
+          {message}
+        </div>
+      )}
+
+      {showList && (
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          {filteredLocations.map((location, index) => (
+            <div key={index} className="bg-white shadow-md rounded px-6 py-4">
+              <div className="flex justify-between items-start">
+                <div>
+                  <h2 className="text-xl font-bold mb-2">{location.name}</h2>
+                  <p className="text-gray-600 mb-2">{location.type === 'hastane' ? 'Hastane' : 'Eczane'}</p>
+                  <p className="text-gray-600 mb-2">{location.address}</p>
+                  <p className="text-gray-600">{location.district}, {location.city}</p>
+                  <span className={`inline-block px-2 py-1 rounded text-sm ${
+                    location.contract ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800'
+                  } mt-2`}>
+                    {location.contract ? 'Anlaşmalı' : 'Anlaşmasız'}
+                  </span>
+                </div>
+                <button
+                  onClick={() => getDirections(location)}
+                  className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+                >
+                  Yol Tarifi
+                </button>
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
     </div>
   );
 }
