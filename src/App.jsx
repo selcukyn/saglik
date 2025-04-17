@@ -2,78 +2,13 @@ import React, { useState, useEffect } from 'react';
 import { locations } from './data/locations';
 
 function App() {
-  // ... diğer state'ler aynı ...
-
-  // Sıfırlama fonksiyonu
-  const resetFilters = () => {
-    setSelectedCity('');
-    setSelectedDistrict('');
-    setSelectedType('all');
-    setSelectedContract('all');
-    setFilteredLocations([]);
-    setShowList(false);
-    setMessage('Lütfen konum seçin veya konumunuzu kullanın');
-  };
-
-  // Konum kullanma fonksiyonunu güncelleyelim
-  const useCurrentLocation = () => {
-    if (!navigator.geolocation) {
-      setMessage('Tarayıcınız konum özelliğini desteklemiyor.');
-      return;
-    }
-
-    const handleSuccess = (position) => {
-      findNearestLocations(position.coords);
-      setMessage('');
-    };
-
-    const handleError = (error) => {
-      console.error('Konum hatası:', error);
-      switch(error.code) {
-        case error.PERMISSION_DENIED:
-          setMessage('Konum izni reddedildi. Tarayıcı ayarlarından konum iznini etkinleştirin.');
-          // Kullanıcıya nasıl izin vereceğini gösteren bir mesaj ekleyelim
-          alert('Konum özelliğini kullanmak için:\n\n' +
-                '1. Tarayıcı adres çubuğundaki kilit/info ikonuna tıklayın\n' +
-                '2. Konum iznini "İzin Ver" olarak değiştirin\n' +
-                '3. Sayfayı yenileyin ve tekrar deneyin');
-          break;
-        case error.POSITION_UNAVAILABLE:
-          setMessage('Konum bilgisi alınamıyor.');
-          break;
-        case error.TIMEOUT:
-          setMessage('Konum isteği zaman aşımına uğradı.');
-          break;
-        default:
-          setMessage('Konum alınamadı. Lütfen manuel seçim yapın.');
-      }
-    };
-
-    const options = {
-      enableHighAccuracy: true,
-      timeout: 5000,
-      maximumAge: 0
-    };
-
-    // Önce mevcut izin durumunu kontrol edelim
-    navigator.permissions.query({ name: 'geolocation' })
-      .then(result => {
-        if (result.state === 'prompt' || result.state === 'granted') {
-          navigator.geolocation.getCurrentPosition(handleSuccess, handleError, options);
-        } else {
-          setMessage('Konum izni reddedildi. Tarayıcı ayarlarından konum iznini etkinleştirin.');
-          // Kullanıcıya nasıl izin vereceğini gösteren bir mesaj
-          alert('Konum özelliğini kullanmak için:\n\n' +
-                '1. Tarayıcı adres çubuğundaki kilit/info ikonuna tıklayın\n' +
-                '2. Konum iznini "İzin Ver" olarak değiştirin\n' +
-                '3. Sayfayı yenileyin ve tekrar deneyin');
-        }
-      })
-      .catch(error => {
-        console.error('İzin kontrolü hatası:', error);
-        navigator.geolocation.getCurrentPosition(handleSuccess, handleError, options);
-      });
-  };
+  const [selectedCity, setSelectedCity] = useState('');
+  const [selectedDistrict, setSelectedDistrict] = useState('');
+  const [selectedType, setSelectedType] = useState('all');
+  const [selectedContract, setSelectedContract] = useState('all');
+  const [filteredLocations, setFilteredLocations] = useState([]);
+  const [showList, setShowList] = useState(false);
+  const [message, setMessage] = useState('Lütfen konum seçin veya konumunuzu kullanın');
 
   // ... diğer fonksiyonlar aynı ...
 
@@ -84,10 +19,77 @@ function App() {
       </h1>
 
       <div className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-4"> {/* grid-cols-5'ten grid-cols-6'ya değişti */}
-          {/* ... diğer input'lar aynı ... */}
+        <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-6 gap-4">
+          <div className="col-span-1">
+            <label className="block text-gray-700 text-sm font-bold mb-2">
+              Şehir
+            </label>
+            <select
+              className="shadow border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+              value={selectedCity}
+              onChange={(e) => {
+                setSelectedCity(e.target.value);
+                setSelectedDistrict('');
+              }}
+            >
+              <option value="">Seçiniz</option>
+              {cities.map(city => (
+                <option key={city} value={city}>{city}</option>
+              ))}
+            </select>
+          </div>
 
-          <div className="flex items-end">
+          <div className="col-span-1">
+            <label className="block text-gray-700 text-sm font-bold mb-2">
+              İlçe
+            </label>
+            <select
+              className="shadow border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+              value={selectedDistrict}
+              onChange={(e) => setSelectedDistrict(e.target.value)}
+              disabled={!selectedCity}
+            >
+              <option value="">Tümü</option>
+              {districts.map(district => (
+                <option key={district} value={district}>{district}</option>
+              ))}
+            </select>
+          </div>
+
+          <div className="col-span-1">
+            <label className="block text-gray-700 text-sm font-bold mb-2">
+              Tür
+            </label>
+            <select
+              className="shadow border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+              value={selectedType}
+              onChange={(e) => setSelectedType(e.target.value)}
+            >
+              <option value="all">Tümü</option>
+              <option value="hastane">Hastane</option>
+              <option value="eczane">Eczane</option>
+            </select>
+          </div>
+
+          <div className="col-span-1">
+            <label className="block text-gray-700 text-sm font-bold mb-2">
+              Anlaşma Durumu
+            </label>
+            <select
+              className="shadow border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+              value={selectedContract}
+              onChange={(e) => setSelectedContract(e.target.value)}
+            >
+              <option value="all">Tümü</option>
+              <option value="true">Anlaşmalı</option>
+              <option value="false">Anlaşmasız</option>
+            </select>
+          </div>
+
+          <div className="col-span-1">
+            <label className="block text-gray-700 text-sm font-bold mb-2">
+              &nbsp;
+            </label>
             <button
               onClick={useCurrentLocation}
               className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline w-full"
@@ -96,8 +98,10 @@ function App() {
             </button>
           </div>
 
-          {/* Sıfırlama butonu */}
-          <div className="flex items-end">
+          <div className="col-span-1">
+            <label className="block text-gray-700 text-sm font-bold mb-2">
+              &nbsp;
+            </label>
             <button
               onClick={resetFilters}
               className="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline w-full"
@@ -108,7 +112,39 @@ function App() {
         </div>
       </div>
 
-      {/* ... geri kalan kısım aynı ... */}
+      {message && !showList && (
+        <div className="text-center text-gray-600 my-4">
+          {message}
+        </div>
+      )}
+
+      {showList && (
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          {filteredLocations.map((location, index) => (
+            <div key={index} className="bg-white shadow-md rounded px-6 py-4">
+              <div className="flex justify-between items-start">
+                <div>
+                  <h2 className="text-xl font-bold mb-2">{location.name}</h2>
+                  <p className="text-gray-600 mb-2">{location.type === 'hastane' ? 'Hastane' : 'Eczane'}</p>
+                  <p className="text-gray-600 mb-2">{location.address}</p>
+                  <p className="text-gray-600">{location.district}, {location.city}</p>
+                  <span className={`inline-block px-2 py-1 rounded text-sm ${
+                    location.contract ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800'
+                  } mt-2`}>
+                    {location.contract ? 'Anlaşmalı' : 'Anlaşmasız'}
+                  </span>
+                </div>
+                <button
+                  onClick={() => getDirections(location)}
+                  className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+                >
+                  Yol Tarifi
+                </button>
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
     </div>
   );
 }
