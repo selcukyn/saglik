@@ -8,7 +8,7 @@ function App() {
   const [filteredLocations, setFilteredLocations] = useState([]);
   const [cities, setCities] = useState([]);
   const [districts, setDistricts] = useState([]);
-  const [isUsingLocation, setIsUsingLocation] = useState(false); // değişken adını değiştirdik
+  const [isUsingLocation, setIsUsingLocation] = useState(false);
   const [userCoordinates, setUserCoordinates] = useState(null);
 
   // Benzersiz şehirleri al
@@ -67,7 +67,6 @@ function App() {
     // Eğer konum kullanılıyorsa ve koordinatlar varsa
     if (isUsingLocation && userCoordinates) {
       // Burada gerçek bir mesafe hesaplaması yapılabilir
-      // Şimdilik sadece bir bilgi mesajı gösterelim
       console.log("Kullanıcı konumu:", userCoordinates);
     }
 
