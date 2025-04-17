@@ -25438,7 +25438,7 @@ export const locations = [
     "name": "AFYON İSCEHİSAR KARAMEHMET DEVLET HASTANESİ",
     "type": "hastane",
     "city": "AFYON",
-    "district": İSCEHİSAR,
+    "district": "İSCEHİSAR",
     "address": "TEPECİK, AFYON ANKARA YOLU No:36, 03750 İSCEHİSAR/AFYON",
     "contract": true,
     "latitude": 38.7568852,
