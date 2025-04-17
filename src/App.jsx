@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { locations } from './data/locations';
 
 function App() {
@@ -10,18 +10,32 @@ function App() {
   const [showList, setShowList] = useState(false);
   const [message, setMessage] = useState('Lütfen konum seçin veya konumunuzu kullanın');
 
-  // Benzersiz şehirleri al ve Türkçe alfabeye göre sırala
-  const cities = [...new Set(locations.map(loc => loc.city))]
-    .sort((a, b) => a.localeCompare(b, 'tr'));
+  // Şehir ve ilçe listelerini memoize et
+  const cities = useMemo(() => {
+    try {
+      return [...new Set(locations.map(loc => loc.city))]
+        .sort((a, b) => a.localeCompare(b, 'tr'));
+    } catch (error) {
+      console.error('Şehir listesi oluşturulurken hata:', error);
+      return [];
+    }
+  }, []);
 
-  // Seçili şehre göre ilçeleri al ve Türkçe alfabeye göre sırala
-  const districts = [...new Set(locations
-    .filter(loc => loc.city === selectedCity)
-    .map(loc => loc.district))]
-    .sort((a, b) => a.localeCompare(b, 'tr'));
-  
+  const districts = useMemo(() => {
+    try {
+      if (!selectedCity) return [];
+      return [...new Set(locations
+        .filter(loc => loc.city === selectedCity)
+        .map(loc => loc.district))]
+        .sort((a, b) => a.localeCompare(b, 'tr'));
+    } catch (error) {
+      console.error('İlçe listesi oluşturulurken hata:', error);
+      return [];
+    }
+  }, [selectedCity]);
+
   // Konum sıfırlama
-  const resetFilters = () => {
+  const resetFilters = useCallback(() => {
     setSelectedCity('');
     setSelectedDistrict('');
     setSelectedType('all');
@@ -29,43 +43,48 @@ function App() {
     setFilteredLocations([]);
     setShowList(false);
     setMessage('Lütfen konum seçin veya konumunuzu kullanın');
-  };
+  }, []);
 
   // En yakın lokasyonları bul
-  const findNearestLocations = (coords) => {
-    const calculateDistance = (lat1, lon1, lat2, lon2) => {
-      const R = 6371;
-      const dLat = (lat2 - lat1) * Math.PI / 180;
-      const dLon = (lon2 - lon1) * Math.PI / 180;
-      const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
-                Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
-                Math.sin(dLon/2) * Math.sin(dLon/2);
-      const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
-      return R * c;
-    };
+  const findNearestLocations = useCallback((coords) => {
+    try {
+      const calculateDistance = (lat1, lon1, lat2, lon2) => {
+        const R = 6371;
+        const dLat = (lat2 - lat1) * Math.PI / 180;
+        const dLon = (lon2 - lon1) * Math.PI / 180;
+        const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+                  Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+                  Math.sin(dLon/2) * Math.sin(dLon/2);
+        const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+        return R * c;
+      };
 
-    // Önce mesafeleri hesapla
-    const locationsWithDistance = locations.map(loc => ({
-      ...loc,
-      distance: calculateDistance(coords.latitude, coords.longitude, loc.latitude, loc.longitude)
-    }));
+      // Önce mesafeleri hesapla
+      const locationsWithDistance = locations.map(loc => ({
+        ...loc,
+        distance: calculateDistance(coords.latitude, coords.longitude, loc.latitude, loc.longitude)
+      }));
 
-    // Mevcut filtreleri uygula
-    let filtered = locationsWithDistance.filter(loc => {
-      const typeMatch = selectedType === 'all' || loc.type === selectedType;
-      const contractMatch = selectedContract === 'all' || loc.contract === (selectedContract === 'true');
-      return typeMatch && contractMatch;
-    });
+      // Mevcut filtreleri uygula
+      let filtered = locationsWithDistance.filter(loc => {
+        const typeMatch = selectedType === 'all' || loc.type === selectedType;
+        const contractMatch = selectedContract === 'all' || loc.contract === (selectedContract === 'true');
+        return typeMatch && contractMatch;
+      });
 
-    // Mesafeye göre sırala
-    const sorted = filtered.sort((a, b) => a.distance - b.distance);
-    setFilteredLocations(sorted);
-    setShowList(true);
-    setMessage('');
-  };
+      // Mesafeye göre sırala
+      const sorted = filtered.sort((a, b) => a.distance - b.distance);
+      setFilteredLocations(sorted);
+      setShowList(true);
+      setMessage('');
+    } catch (error) {
+      console.error('Konum hesaplanırken hata:', error);
+      setMessage('Konumlar hesaplanırken bir hata oluştu. Lütfen tekrar deneyin.');
+    }
+  }, [selectedType, selectedContract]);
 
   // Konum kullanma
-  const useCurrentLocation = () => {
+  const useCurrentLocation = useCallback(() => {
     if (!navigator.geolocation) {
       setMessage('Tarayıcınız konum özelliğini desteklemiyor.');
       return;
@@ -123,53 +142,62 @@ function App() {
         console.error('İzin kontrolü hatası:', error);
         navigator.geolocation.getCurrentPosition(handleSuccess, handleError, options);
       });
-  };
+  }, [findNearestLocations]);
 
   // Filtreleme
-  const filterLocations = () => {
-    if (!selectedCity && filteredLocations.length === 0) {
-      setFilteredLocations([]);
-      setShowList(false);
-      return;
-    }
+  const filterLocations = useCallback(() => {
+    try {
+      if (!selectedCity && filteredLocations.length === 0) {
+        setFilteredLocations([]);
+        setShowList(false);
+        return;
+      }
 
-    // Eğer konum bazlı liste varsa (filteredLocations dolu ise)
-    if (filteredLocations.length > 0 && !selectedCity) {
-      let filtered = filteredLocations.filter(loc => {
+      // Eğer konum bazlı liste varsa (filteredLocations dolu ise)
+      if (filteredLocations.length > 0 && !selectedCity) {
+        let filtered = filteredLocations.filter(loc => {
+          const typeMatch = selectedType === 'all' || loc.type === selectedType;
+          const contractMatch = selectedContract === 'all' || loc.contract === (selectedContract === 'true');
+          return typeMatch && contractMatch;
+        });
+        setFilteredLocations(filtered);
+        return;
+      }
+
+      // Şehir bazlı filtreleme
+      let filtered = locations.filter(loc => {
+        const cityMatch = loc.city === selectedCity;
+        const districtMatch = !selectedDistrict || loc.district === selectedDistrict;
         const typeMatch = selectedType === 'all' || loc.type === selectedType;
         const contractMatch = selectedContract === 'all' || loc.contract === (selectedContract === 'true');
-        return typeMatch && contractMatch;
+        
+        return cityMatch && districtMatch && typeMatch && contractMatch;
       });
+
       setFilteredLocations(filtered);
-      return;
+      setShowList(true);
+      setMessage('');
+    } catch (error) {
+      console.error('Filtreleme sırasında hata:', error);
+      setMessage('Filtreleme sırasında bir hata oluştu. Lütfen tekrar deneyin.');
     }
-
-    // Şehir bazlı filtreleme
-    let filtered = locations.filter(loc => {
-      const cityMatch = loc.city === selectedCity;
-      const districtMatch = !selectedDistrict || loc.district === selectedDistrict;
-      const typeMatch = selectedType === 'all' || loc.type === selectedType;
-      const contractMatch = selectedContract === 'all' || loc.contract === (selectedContract === 'true');
-      
-      return cityMatch && districtMatch && typeMatch && contractMatch;
-    });
-
-    setFilteredLocations(filtered);
-    setShowList(true);
-    setMessage('');
-  };
+  }, [selectedCity, selectedDistrict, selectedType, selectedContract, filteredLocations]);
 
   // Google Maps yol tarifi
-  const getDirections = (location) => {
+  const getDirections = useCallback((location) => {
     const destination = `${location.name}, ${location.address}, ${location.district}, ${location.city}`;
     const encodedDestination = encodeURIComponent(destination);
     window.open(`https://www.google.com/maps/dir/?api=1&destination=${encodedDestination}`, '_blank');
-  };
+  }, []);
 
   // Filtreleri izle
   useEffect(() => {
-    filterLocations();
-  }, [selectedCity, selectedDistrict, selectedType, selectedContract]);
+    const timeoutId = setTimeout(() => {
+      filterLocations();
+    }, 100); // Debounce ekle
+
+    return () => clearTimeout(timeoutId);
+  }, [filterLocations]);
 
   return (
     <div className="container mx-auto px-4 py-8">
@@ -187,8 +215,12 @@ function App() {
               className="shadow border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
               value={selectedCity}
               onChange={(e) => {
-                setSelectedCity(e.target.value);
-                setSelectedDistrict('');
+                try {
+                  setSelectedCity(e.target.value);
+                  setSelectedDistrict('');
+                } catch (error) {
+                  console.error('Şehir seçimi sırasında hata:', error);
+                }
               }}
             >
               <option value="">Seçiniz</option>
