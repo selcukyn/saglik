@@ -25,22 +25,22 @@ function App() {
     try {
       if (!selectedCity) return [];
       
-      console.log('Seçilen şehir:', selectedCity); // Debug için
-      console.log('Mevcut lokasyonlar:', locations); // Debug için
+      console.log('Seçilen şehir:', selectedCity);
+      console.log('Mevcut lokasyonlar:', locations);
 
       // Case-insensitive şehir filtreleme
       const cityLocations = locations.filter(loc => 
         loc.city.toUpperCase() === selectedCity.toUpperCase()
       );
 
-      console.log('Bulunan lokasyonlar:', cityLocations); // Debug için
+      console.log('Bulunan lokasyonlar:', cityLocations);
 
       // İlçeleri benzersiz olarak al ve sırala
       const uniqueDistricts = [...new Set(
         cityLocations.map(loc => loc.district)
       )].sort((a, b) => a.localeCompare(b, 'tr'));
 
-      console.log('Bulunan ilçeler:', uniqueDistricts); // Debug için
+      console.log('Bulunan ilçeler:', uniqueDistricts);
       return uniqueDistricts;
     } catch (error) {
       console.error(`İlçe listesi oluşturulurken hata (${selectedCity}):`, error);
@@ -61,35 +61,40 @@ function App() {
 
   // En yakın lokasyonları bul
   const findNearestLocations = useCallback((coords) => {
-    const calculateDistance = (lat1, lon1, lat2, lon2) => {
-      const R = 6371;
-      const dLat = (lat2 - lat1) * Math.PI / 180;
-      const dLon = (lon2 - lon1) * Math.PI / 180;
-      const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
-                Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
-                Math.sin(dLon/2) * Math.sin(dLon/2);
-      const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
-      return R * c;
-    };
+    try {
+      const calculateDistance = (lat1, lon1, lat2, lon2) => {
+        const R = 6371;
+        const dLat = (lat2 - lat1) * Math.PI / 180;
+        const dLon = (lon2 - lon1) * Math.PI / 180;
+        const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+                  Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+                  Math.sin(dLon/2) * Math.sin(dLon/2);
+        const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+        return R * c;
+      };
 
-    // Önce mesafeleri hesapla
-    const locationsWithDistance = locations.map(loc => ({
-      ...loc,
-      distance: calculateDistance(coords.latitude, coords.longitude, loc.latitude, loc.longitude)
-    }));
+      // Önce mesafeleri hesapla
+      const locationsWithDistance = locations.map(loc => ({
+        ...loc,
+        distance: calculateDistance(coords.latitude, coords.longitude, loc.latitude, loc.longitude)
+      }));
 
-    // Mevcut filtreleri uygula
-    let filtered = locationsWithDistance.filter(loc => {
-      const typeMatch = selectedType === 'all' || loc.type === selectedType;
-      const contractMatch = selectedContract === 'all' || loc.contract === (selectedContract === 'true');
-      return typeMatch && contractMatch;
-    });
+      // Mevcut filtreleri uygula
+      let filtered = locationsWithDistance.filter(loc => {
+        const typeMatch = selectedType === 'all' || loc.type === selectedType;
+        const contractMatch = selectedContract === 'all' || loc.contract === (selectedContract === 'true');
+        return typeMatch && contractMatch;
+      });
 
-    // Mesafeye göre sırala
-    const sorted = filtered.sort((a, b) => a.distance - b.distance);
-    setFilteredLocations(sorted);
-    setShowList(true);
-    setMessage('');
+      // Mesafeye göre sırala
+      const sorted = filtered.sort((a, b) => a.distance - b.distance);
+      setFilteredLocations(sorted);
+      setShowList(true);
+      setMessage('');
+    } catch (error) {
+      console.error('Mesafe hesaplama hatası:', error);
+      setMessage('Lokasyonlar hesaplanırken bir hata oluştu.');
+    }
   }, [selectedType, selectedContract]);
 
   // Konum kullanma
@@ -192,7 +197,6 @@ function App() {
     }
   }, [selectedCity, selectedDistrict, selectedType, selectedContract, filteredLocations]);
 
-  
   // Google Maps yol tarifi
   const getDirections = useCallback((location) => {
     const destination = `${location.name}, ${location.address}, ${location.district}, ${location.city}`;
@@ -221,26 +225,20 @@ function App() {
             <label className="block text-gray-700 text-sm font-bold mb-2">
               Şehir
             </label>
-             // Şehir select elementi içinde
-  <select
-    className="shadow border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-    value={selectedCity}
-    onChange={(e) => {
-      try {
-        const newCity = e.target.value;
-        console.log('Seçilen şehir değeri:', newCity); // Debug için
-        setSelectedCity(newCity);
-        setSelectedDistrict('');
-      } catch (error) {
-        console.error('Şehir seçimi sırasında hata:', error);
-      }
-    }}
-  >
-    <option value="">Seçiniz</option>
-    {cities.map(city => (
-      <option key={city} value={city}>{city}</option>
-    ))}
-  </select>
+            <select
+              className="shadow border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+              value={selectedCity}
+              onChange={(e) => {
+                try {
+                  const newCity = e.target.value;
+                  console.log('Seçilen şehir değeri:', newCity);
+                  setSelectedCity(newCity);
+                  setSelectedDistrict('');
+                } catch (error) {
+                  console.error('Şehir seçimi sırasında hata:', error);
+                }
+              }}
+            >
               <option value="">Seçiniz</option>
               {cities.map(city => (
                 <option key={city} value={city}>{city}</option>
