@@ -30398,7 +30398,7 @@ export const locations = [
     "name": "ALANYA YAŞAM HASTANESİ",
     "type": "hastane",
     "city": "ANTALYA",
-    "district": ALANYA,
+    "district": "ALANYA",
     "address": "ŞEKERHANE, REFİK BAKALIM SOKAK",
     "contract": true,
     "latitude": 36.8968908,
