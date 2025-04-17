@@ -8,7 +8,8 @@ function App() {
   const [filteredLocations, setFilteredLocations] = useState([]);
   const [cities, setCities] = useState([]);
   const [districts, setDistricts] = useState([]);
-  const [useCurrentLocation, setUseCurrentLocation] = useState(false);
+  const [isUsingLocation, setIsUsingLocation] = useState(false); // değişken adını değiştirdik
+  const [userCoordinates, setUserCoordinates] = useState(null);
 
   // Benzersiz şehirleri al
   useEffect(() => {
@@ -32,17 +33,21 @@ function App() {
 
   // Konumu kullan butonuna tıklandığında
   const handleUseLocation = () => {
-    setUseCurrentLocation(true);
-    // Gerçek uygulamada burada konum izni isteyip, 
-    // kullanıcının konumuna göre en yakın yerleri listeleyebilirsiniz
+    setIsUsingLocation(true);
     navigator.geolocation.getCurrentPosition(
       (position) => {
-        console.log("Konum alındı:", position.coords);
-        // Burada konuma göre filtreleme yapılabilir
+        setUserCoordinates({
+          latitude: position.coords.latitude,
+          longitude: position.coords.longitude
+        });
+        // Konum alındığında şehir ve ilçe seçimlerini sıfırla
+        setSelectedCity('');
+        setSelectedDistrict('');
       },
       (error) => {
         console.error("Konum alınamadı:", error);
-        setUseCurrentLocation(false);
+        setIsUsingLocation(false);
+        alert("Konumunuz alınamadı. Lütfen konum izinlerini kontrol edin.");
       }
     );
   };
@@ -59,8 +64,15 @@ function App() {
       filtered = filtered.filter(item => item.district === selectedDistrict);
     }
 
+    // Eğer konum kullanılıyorsa ve koordinatlar varsa
+    if (isUsingLocation && userCoordinates) {
+      // Burada gerçek bir mesafe hesaplaması yapılabilir
+      // Şimdilik sadece bir bilgi mesajı gösterelim
+      console.log("Kullanıcı konumu:", userCoordinates);
+    }
+
     setFilteredLocations(filtered);
-  }, [selectedCity, selectedDistrict]);
+  }, [selectedCity, selectedDistrict, isUsingLocation, userCoordinates]);
 
   return (
     <div className="min-h-screen bg-gray-100 py-12 px-4 sm:px-6 lg:px-8">
@@ -97,6 +109,7 @@ function App() {
                   setSelectedCity(e.target.value);
                   setSelectedDistrict('');
                 }}
+                disabled={isUsingLocation}
                 className="w-full rounded-md border border-gray-300 p-2 focus:ring-indigo-500 focus:border-indigo-500"
               >
                 <option value="">Şehir Seçin</option>
@@ -115,7 +128,7 @@ function App() {
                 value={selectedDistrict}
                 onChange={(e) => setSelectedDistrict(e.target.value)}
                 className="w-full rounded-md border border-gray-300 p-2 focus:ring-indigo-500 focus:border-indigo-500"
-                disabled={!selectedCity}
+                disabled={!selectedCity || isUsingLocation}
               >
                 <option value="">İlçe Seçin</option>
                 {districts.map(district => (
@@ -128,16 +141,22 @@ function App() {
             <div className="flex items-end">
               <button
                 onClick={handleUseLocation}
-                className="w-full bg-indigo-600 text-white p-2 rounded-md hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500"
+                className={`w-full p-2 rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-500 ${
+                  isUsingLocation 
+                    ? 'bg-red-600 hover:bg-red-700 text-white'
+                    : 'bg-indigo-600 hover:bg-indigo-700 text-white'
+                }`}
               >
-                Konumumu Kullan
+                {isUsingLocation ? 'Konumu İptal Et' : 'Konumumu Kullan'}
               </button>
             </div>
           </div>
 
           {/* Sonuçlar Listesi */}
           <div className="mt-8">
-            <h2 className="text-xl font-semibold mb-4">Sonuçlar</h2>
+            <h2 className="text-xl font-semibold mb-4">
+              {isUsingLocation ? 'Size En Yakın Merkezler' : 'Sonuçlar'}
+            </h2>
             <div className="space-y-4">
               {filteredLocations.map((location, index) => (
                 <div
