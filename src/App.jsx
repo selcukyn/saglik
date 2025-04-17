@@ -10,7 +10,140 @@ function App() {
   const [showList, setShowList] = useState(false);
   const [message, setMessage] = useState('Lütfen konum seçin veya konumunuzu kullanın');
 
-  // ... diğer fonksiyonlar aynı ...
+  // Benzersiz şehirleri al
+  const cities = [...new Set(locations.map(loc => loc.city))].sort();
+
+  // Seçili şehre göre ilçeleri al
+  const districts = [...new Set(locations
+    .filter(loc => loc.city === selectedCity)
+    .map(loc => loc.district))].sort();
+
+  // Konum sıfırlama
+  const resetFilters = () => {
+    setSelectedCity('');
+    setSelectedDistrict('');
+    setSelectedType('all');
+    setSelectedContract('all');
+    setFilteredLocations([]);
+    setShowList(false);
+    setMessage('Lütfen konum seçin veya konumunuzu kullanın');
+  };
+
+  // En yakın lokasyonları bul
+  const findNearestLocations = (coords) => {
+    // Haversine formülü ile mesafe hesaplama
+    const calculateDistance = (lat1, lon1, lat2, lon2) => {
+      const R = 6371; // Dünya'nın yarıçapı (km)
+      const dLat = (lat2 - lat1) * Math.PI / 180;
+      const dLon = (lon2 - lon1) * Math.PI / 180;
+      const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+                Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+                Math.sin(dLon/2) * Math.sin(dLon/2);
+      const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+      return R * c;
+    };
+
+    const locationsWithDistance = locations.map(loc => ({
+      ...loc,
+      distance: calculateDistance(coords.latitude, coords.longitude, loc.latitude, loc.longitude)
+    }));
+
+    const sorted = locationsWithDistance.sort((a, b) => a.distance - b.distance);
+    setFilteredLocations(sorted);
+    setShowList(true);
+    setMessage('');
+  };
+
+  // Konum kullanma
+  const useCurrentLocation = () => {
+    if (!navigator.geolocation) {
+      setMessage('Tarayıcınız konum özelliğini desteklemiyor.');
+      return;
+    }
+
+    const handleSuccess = (position) => {
+      findNearestLocations(position.coords);
+      setMessage('');
+    };
+
+    const handleError = (error) => {
+      console.error('Konum hatası:', error);
+      switch(error.code) {
+        case error.PERMISSION_DENIED:
+          setMessage('Konum izni reddedildi. Tarayıcı ayarlarından konum iznini etkinleştirin.');
+          alert('Konum özelliğini kullanmak için:\n\n' +
+                '1. Tarayıcı adres çubuğundaki kilit/info ikonuna tıklayın\n' +
+                '2. Konum iznini "İzin Ver" olarak değiştirin\n' +
+                '3. Sayfayı yenileyin ve tekrar deneyin');
+          break;
+        case error.POSITION_UNAVAILABLE:
+          setMessage('Konum bilgisi alınamıyor.');
+          break;
+        case error.TIMEOUT:
+          setMessage('Konum isteği zaman aşımına uğradı.');
+          break;
+        default:
+          setMessage('Konum alınamadı. Lütfen manuel seçim yapın.');
+      }
+    };
+
+    const options = {
+      enableHighAccuracy: true,
+      timeout: 5000,
+      maximumAge: 0
+    };
+
+    navigator.permissions.query({ name: 'geolocation' })
+      .then(result => {
+        if (result.state === 'prompt' || result.state === 'granted') {
+          navigator.geolocation.getCurrentPosition(handleSuccess, handleError, options);
+        } else {
+          setMessage('Konum izni reddedildi. Tarayıcı ayarlarından konum iznini etkinleştirin.');
+          alert('Konum özelliğini kullanmak için:\n\n' +
+                '1. Tarayıcı adres çubuğundaki kilit/info ikonuna tıklayın\n' +
+                '2. Konum iznini "İzin Ver" olarak değiştirin\n' +
+                '3. Sayfayı yenileyin ve tekrar deneyin');
+        }
+      })
+      .catch(error => {
+        console.error('İzin kontrolü hatası:', error);
+        navigator.geolocation.getCurrentPosition(handleSuccess, handleError, options);
+      });
+  };
+
+  // Filtreleme
+  const filterLocations = () => {
+    if (!selectedCity) {
+      setFilteredLocations([]);
+      setShowList(false);
+      return;
+    }
+
+    let filtered = locations.filter(loc => {
+      const cityMatch = loc.city === selectedCity;
+      const districtMatch = !selectedDistrict || loc.district === selectedDistrict;
+      const typeMatch = selectedType === 'all' || loc.type === selectedType;
+      const contractMatch = selectedContract === 'all' || loc.contract === (selectedContract === 'true');
+      
+      return cityMatch && districtMatch && typeMatch && contractMatch;
+    });
+
+    setFilteredLocations(filtered);
+    setShowList(true);
+    setMessage('');
+  };
+
+  // Google Maps yol tarifi
+  const getDirections = (location) => {
+    const destination = `${location.name}, ${location.address}, ${location.district}, ${location.city}`;
+    const encodedDestination = encodeURIComponent(destination);
+    window.open(`https://www.google.com/maps/dir/?api=1&destination=${encodedDestination}`, '_blank');
+  };
+
+  // Filtreleri izle
+  useEffect(() => {
+    filterLocations();
+  }, [selectedCity, selectedDistrict, selectedType, selectedContract]);
 
   return (
     <div className="container mx-auto px-4 py-8">
