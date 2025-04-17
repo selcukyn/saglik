@@ -4,19 +4,6 @@
 // Verileri grupla
 const locationsByCity = {};
 
-export const locations = [/* mevcut veriler */];
-
-// Şehirlere göre gruplama yap
-locations.forEach(location => {
-  if (!locationsByCity[location.city]) {
-    locationsByCity[location.city] = [];
-  }
-  locationsByCity[location.city].push(location);
-});
-
-// Hızlı erişim için export et
-export { locationsByCity };
-
 export const locations = [
   {
     "name": "BİLGE ECZANESİ",
@@ -31361,4 +31348,15 @@ export const locations = [
     "longitude": 32.8556042
   }
 
-]
+];
+
+// Şehirlere göre gruplama yap
+locations.forEach(location => {
+  if (!locationsByCity[location.city]) {
+    locationsByCity[location.city] = [];
+  }
+  locationsByCity[location.city].push(location);
+});
+
+// Hızlı erişim için export et
+export { locationsByCity };
