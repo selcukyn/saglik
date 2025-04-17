@@ -1,12 +1,6 @@
 // Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2025-04-17 12:25:08
 // Current User's Login: selcukyn
-// Büyük harfe çevirme helper fonksiyonu
-const toUpperCaseTr = (str) => {
-  return str
-    .split(' ')
-    .map(word => word.toUpperCase('tr-TR'))
-    .join(' ');
-};
+
 export const locations = [
   {
     "name": "BİLGE ECZANESİ",
@@ -23819,7 +23813,8 @@ export const locations = [
     "longitude": 27.3818762
   },
 
-    {
+  
+  {
     "name": "ÖZEL BALDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ ÇAN ŞUBESİ",
     "type": "hastane",
     "city": "ÇANAKKALE",
@@ -31349,8 +31344,5 @@ export const locations = [
     "latitude": 39.9131629,
     "longitude": 32.8556042
   }
-].map(location => ({ 
-  ...location,
-  city: toUpperCaseTr(location.city),
-  district: toUpperCaseTr(location.district)
-}));
+
+]
