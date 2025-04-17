@@ -31,9 +31,8 @@ function App() {
 
   // En yakın lokasyonları bul
   const findNearestLocations = (coords) => {
-    // Haversine formülü ile mesafe hesaplama
     const calculateDistance = (lat1, lon1, lat2, lon2) => {
-      const R = 6371; // Dünya'nın yarıçapı (km)
+      const R = 6371;
       const dLat = (lat2 - lat1) * Math.PI / 180;
       const dLon = (lon2 - lon1) * Math.PI / 180;
       const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
@@ -43,12 +42,21 @@ function App() {
       return R * c;
     };
 
+    // Önce mesafeleri hesapla
     const locationsWithDistance = locations.map(loc => ({
       ...loc,
       distance: calculateDistance(coords.latitude, coords.longitude, loc.latitude, loc.longitude)
     }));
 
-    const sorted = locationsWithDistance.sort((a, b) => a.distance - b.distance);
+    // Mevcut filtreleri uygula
+    let filtered = locationsWithDistance.filter(loc => {
+      const typeMatch = selectedType === 'all' || loc.type === selectedType;
+      const contractMatch = selectedContract === 'all' || loc.contract === (selectedContract === 'true');
+      return typeMatch && contractMatch;
+    });
+
+    // Mesafeye göre sırala
+    const sorted = filtered.sort((a, b) => a.distance - b.distance);
     setFilteredLocations(sorted);
     setShowList(true);
     setMessage('');
@@ -60,6 +68,10 @@ function App() {
       setMessage('Tarayıcınız konum özelliğini desteklemiyor.');
       return;
     }
+
+    // Şehir ve ilçe seçimlerini sıfırla
+    setSelectedCity('');
+    setSelectedDistrict('');
 
     const handleSuccess = (position) => {
       findNearestLocations(position.coords);
@@ -113,12 +125,24 @@ function App() {
 
   // Filtreleme
   const filterLocations = () => {
-    if (!selectedCity) {
+    if (!selectedCity && filteredLocations.length === 0) {
       setFilteredLocations([]);
       setShowList(false);
       return;
     }
 
+    // Eğer konum bazlı liste varsa (filteredLocations dolu ise)
+    if (filteredLocations.length > 0 && !selectedCity) {
+      let filtered = filteredLocations.filter(loc => {
+        const typeMatch = selectedType === 'all' || loc.type === selectedType;
+        const contractMatch = selectedContract === 'all' || loc.contract === (selectedContract === 'true');
+        return typeMatch && contractMatch;
+      });
+      setFilteredLocations(filtered);
+      return;
+    }
+
+    // Şehir bazlı filtreleme
     let filtered = locations.filter(loc => {
       const cityMatch = loc.city === selectedCity;
       const districtMatch = !selectedDistrict || loc.district === selectedDistrict;
