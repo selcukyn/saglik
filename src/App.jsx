@@ -24,12 +24,21 @@ function App() {
   const districts = useMemo(() => {
     try {
       if (!selectedCity) return [];
-      return [...new Set(locations
-        .filter(loc => loc.city === selectedCity)
-        .map(loc => loc.district))]
-        .sort((a, b) => a.localeCompare(b, 'tr'));
+      
+      // Seçili şehre ait ilçeleri bul
+      const cityLocations = locations.filter(loc => 
+        loc.city.trim() === selectedCity.trim()
+      );
+
+      // İlçeleri benzersiz olarak al ve sırala
+      const uniqueDistricts = [...new Set(
+        cityLocations.map(loc => loc.district.trim())
+      )].sort((a, b) => a.localeCompare(b, 'tr'));
+
+      console.log(`${selectedCity} için ilçeler:`, uniqueDistricts);
+      return uniqueDistricts;
     } catch (error) {
-      console.error('İlçe listesi oluşturulurken hata:', error);
+      console.error(`İlçe listesi oluşturulurken hata (${selectedCity}):`, error);
       return [];
     }
   }, [selectedCity]);
@@ -47,40 +56,35 @@ function App() {
 
   // En yakın lokasyonları bul
   const findNearestLocations = useCallback((coords) => {
-    try {
-      const calculateDistance = (lat1, lon1, lat2, lon2) => {
-        const R = 6371;
-        const dLat = (lat2 - lat1) * Math.PI / 180;
-        const dLon = (lon2 - lon1) * Math.PI / 180;
-        const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
-                  Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
-                  Math.sin(dLon/2) * Math.sin(dLon/2);
-        const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
-        return R * c;
-      };
+    const calculateDistance = (lat1, lon1, lat2, lon2) => {
+      const R = 6371;
+      const dLat = (lat2 - lat1) * Math.PI / 180;
+      const dLon = (lon2 - lon1) * Math.PI / 180;
+      const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+                Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+                Math.sin(dLon/2) * Math.sin(dLon/2);
+      const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+      return R * c;
+    };
 
-      // Önce mesafeleri hesapla
-      const locationsWithDistance = locations.map(loc => ({
-        ...loc,
-        distance: calculateDistance(coords.latitude, coords.longitude, loc.latitude, loc.longitude)
-      }));
+    // Önce mesafeleri hesapla
+    const locationsWithDistance = locations.map(loc => ({
+      ...loc,
+      distance: calculateDistance(coords.latitude, coords.longitude, loc.latitude, loc.longitude)
+    }));
 
-      // Mevcut filtreleri uygula
-      let filtered = locationsWithDistance.filter(loc => {
-        const typeMatch = selectedType === 'all' || loc.type === selectedType;
-        const contractMatch = selectedContract === 'all' || loc.contract === (selectedContract === 'true');
-        return typeMatch && contractMatch;
-      });
+    // Mevcut filtreleri uygula
+    let filtered = locationsWithDistance.filter(loc => {
+      const typeMatch = selectedType === 'all' || loc.type === selectedType;
+      const contractMatch = selectedContract === 'all' || loc.contract === (selectedContract === 'true');
+      return typeMatch && contractMatch;
+    });
 
-      // Mesafeye göre sırala
-      const sorted = filtered.sort((a, b) => a.distance - b.distance);
-      setFilteredLocations(sorted);
-      setShowList(true);
-      setMessage('');
-    } catch (error) {
-      console.error('Konum hesaplanırken hata:', error);
-      setMessage('Konumlar hesaplanırken bir hata oluştu. Lütfen tekrar deneyin.');
-    }
+    // Mesafeye göre sırala
+    const sorted = filtered.sort((a, b) => a.distance - b.distance);
+    setFilteredLocations(sorted);
+    setShowList(true);
+    setMessage('');
   }, [selectedType, selectedContract]);
 
   // Konum kullanma
@@ -194,7 +198,7 @@ function App() {
   useEffect(() => {
     const timeoutId = setTimeout(() => {
       filterLocations();
-    }, 100); // Debounce ekle
+    }, 100);
 
     return () => clearTimeout(timeoutId);
   }, [filterLocations]);
@@ -216,7 +220,9 @@ function App() {
               value={selectedCity}
               onChange={(e) => {
                 try {
-                  setSelectedCity(e.target.value);
+                  const newCity = e.target.value;
+                  console.log('Seçilen şehir:', newCity);
+                  setSelectedCity(newCity);
                   setSelectedDistrict('');
                 } catch (error) {
                   console.error('Şehir seçimi sırasında hata:', error);
@@ -241,9 +247,11 @@ function App() {
               disabled={!selectedCity}
             >
               <option value="">Tümü</option>
-              {districts.map(district => (
-                <option key={district} value={district}>{district}</option>
-              ))}
+              {districts && districts.length > 0 ? (
+                districts.map(district => (
+                  <option key={district} value={district}>{district}</option>
+                ))
+              ) : null}
             </select>
           </div>
 
