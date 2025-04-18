@@ -11,13 +11,18 @@ function App() {
   const [message, setMessage] = useState('Lütfen konum seçin veya konumunuzu kullanın');
 
   // Benzersiz şehirleri al
-  const cities = [...new Set(locations.map(loc => loc.city))].sort();
+//  const cities = [...new Set(locations.map(loc => loc.city))].sort();
+    const cities = [...new Set(locations.map(loc => loc.city))].sort((a, b) => a.localeCompare(b, 'tr'));
 
   // Seçili şehre göre ilçeleri al
-  const districts = [...new Set(locations
-    .filter(loc => loc.city === selectedCity)
-    .map(loc => loc.district))].sort();
+ // const districts = [...new Set(locations
+   // .filter(loc => loc.city === selectedCity)
+  //  .map(loc => loc.district))].sort();
 
+    const districts = [...new Set(locations
+      .filter(loc => loc.city === selectedCity)
+      .map(loc => loc.district))].sort((a, b) => a.localeCompare(b, 'tr'));
+  
   // Konum sıfırlama
   const resetFilters = () => {
     setSelectedCity('');
