@@ -2,6 +2,7 @@
 // Current User's Login: selcukyn
 
 export const locations = [
+ 
   {
     "name": "BİLGE ECZANESİ",
     "type": "eczane",
@@ -10,7 +11,8 @@ export const locations = [
     "address": "Bahçelievler Mahallesi Mehmet Akif Ersoy Caddesi No:74",
     "contract": true,
     "latitude": 36.9999228,
-    "longitude": 35.2896844
+    "longitude": 35.2896844,
+    "iletisim": "02164468206"
   },
   {
     "name": "FEHİMAN ECZANESİ",
@@ -20,7 +22,8 @@ export const locations = [
     "address": "Reşatbey Mahallesi Atatürk Caddesi No:40",
     "contract": true,
     "latitude": 36.9958771,
-    "longitude": 35.32517989999999
+    "longitude": 35.32517989999999,
+    "iletisim": "03224578330"
   },
   {
     "name": "MAHFESIĞMAZ ECZANESİ",
@@ -30,7 +33,8 @@ export const locations = [
     "address": "Turgut Özal Bulvarı Toros Mahallesi İntör Apartmanı Altı 185\\A",
     "contract": true,
     "latitude": 37.0476535,
-    "longitude": 35.2993489
+    "longitude": 35.2993489,
+    "iletisim": "03222349941"
   },
   {
     "name": "ÖZKURT ECZANESİ",
@@ -40,7 +44,8 @@ export const locations = [
     "address": "Karasoku Mahallesi Abidin Paşa Caddesi No: 24",
     "contract": true,
     "latitude": 36.986305,
-    "longitude": 35.327552
+    "longitude": 35.327552,
+    "iletisim": "03223521800"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -50,7 +55,8 @@ export const locations = [
     "address": "DÖŞEME MAH CUMHURİYET CAD NO:123A",
     "contract": true,
     "latitude": 36.9949145,
-    "longitude": 35.3152251
+    "longitude": 35.3152251,
+    "iletisim": "03247141116"
   },
   {
     "name": "TALAT ECZANESİ",
@@ -60,7 +66,8 @@ export const locations = [
     "address": "Karacaoğlan Mah. Durak Sk. No:1/B Niyazi Kara Apt.",
     "contract": true,
     "latitude": 37.4639386,
-    "longitude": 35.8247163
+    "longitude": 35.8247163,
+    "iletisim": "03225158646"
   },
   {
     "name": "ÇALIŞKAN ECZANESİ",
@@ -70,7 +77,8 @@ export const locations = [
     "address": "YENİBARAJ MAHALLESİ HACI ÖMER SABANCI CADDESİ NO: 6/36",
     "contract": true,
     "latitude": 37.019727,
-    "longitude": 35.320355
+    "longitude": 35.320355,
+    "iletisim": "03222254408"
   },
   {
     "name": "ULAŞ ECZANESİ",
@@ -80,7 +88,8 @@ export const locations = [
     "address": "Konakoğlu Mahallesi Atatürk Caddesi No: 186",
     "contract": true,
     "latitude": 37.0292361,
-    "longitude": 35.8125406
+    "longitude": 35.8125406,
+    "iletisim": "03662122575"
   },
   {
     "name": "MERKEZ ECZANESİ",
@@ -90,7 +99,8 @@ export const locations = [
     "address": "Büyükkırım Mahallesi İstasyon Caddesi No: 44",
     "contract": true,
     "latitude": 37.0240726,
-    "longitude": 35.8119631
+    "longitude": 35.8119631,
+    "iletisim": "02642790801"
   },
   {
     "name": "EMREGÜN ECZANESİ",
@@ -100,7 +110,8 @@ export const locations = [
     "address": "TOROS MAH. AHMET SAPMAZ BULVARI NO:15",
     "contract": true,
     "latitude": 37.0296996,
-    "longitude": 35.2992817
+    "longitude": 35.2992817,
+    "iletisim": "03222280041"
   },
   {
     "name": "AYŞEGÜL ECZANESİ",
@@ -110,7 +121,8 @@ export const locations = [
     "address": "GÜZELYALI MAHALLESİ ANADOLU LİSESİ CADDESİ 6 SARIKENT SİTESİ C BLOK NO: 42/F",
     "contract": true,
     "latitude": 37.049634,
-    "longitude": 35.2863745
+    "longitude": 35.2863745,
+    "iletisim": "02163992937"
   },
   {
     "name": "EGE ECZANESİ",
@@ -120,7 +132,8 @@ export const locations = [
     "address": "Turgut Özal Bulvarı Belediyeevleri Mahallesi 84248 Sok. No:281/B Panaroma Evleri Zemin Kat",
     "contract": true,
     "latitude": 37.0517565,
-    "longitude": 35.2556165
+    "longitude": 35.2556165,
+    "iletisim": "05405101020"
   },
   {
     "name": "BAŞKENT ECZANESİ",
@@ -130,7 +143,8 @@ export const locations = [
     "address": "YENİ BARAJ MAHALLESİ HACI ÖMER SABANCI CADDESİ NO: 22/B",
     "contract": true,
     "latitude": 37.0210665,
-    "longitude": 35.31974140000001
+    "longitude": 35.31974140000001,
+    "iletisim": "03124596221"
   },
   {
     "name": "VOLKAN ECZANESİ",
@@ -140,7 +154,8 @@ export const locations = [
     "address": "Akıncılar Mahallesi 3967. Sokak No: 4/A",
     "contract": true,
     "latitude": 36.9961701,
-    "longitude": 35.3523037
+    "longitude": 35.3523037,
+    "iletisim": NaN
   },
   {
     "name": "ÖZDEŞ ECZANESİ",
@@ -150,7 +165,8 @@ export const locations = [
     "address": "TOROS MAHALLESİ TURGUT ÖZAL BULVARI REMZİ DAĞLIK APARTMANI NO: 193 DERMANCAN TIP MERKEZİ KARŞISI",
     "contract": true,
     "latitude": 37.0405916,
-    "longitude": 35.2999779
+    "longitude": 35.2999779,
+    "iletisim": "03222341360"
   },
   {
     "name": "OLGUN ECZANESİ",
@@ -160,7 +176,8 @@ export const locations = [
     "address": "Mahfesığmaz Mahallesi t.Özal Blv. Bakırlar Apt. No:53/C",
     "contract": true,
     "latitude": 37.0430984,
-    "longitude": 35.3116089
+    "longitude": 35.3116089,
+    "iletisim": "03222332770"
   },
   {
     "name": "TUBA ECZANESİ",
@@ -170,7 +187,8 @@ export const locations = [
     "address": "İller Bankası Kavşağı Mahfesığmaz Mahallesi Adnan Kahveci Bulvarı Ata Apartmanı No:30",
     "contract": true,
     "latitude": 37.0322846,
-    "longitude": 35.3125974
+    "longitude": 35.3125974,
+    "iletisim": "02582660646"
   },
   {
     "name": "ADIYAMAN ECZANESİ",
@@ -180,7 +198,8 @@ export const locations = [
     "address": "Yeni Baraj Mahallesi Hacı Ömer Sabancı Caddesi Ömür Apartmanı 9/A",
     "contract": true,
     "latitude": 37.0036049,
-    "longitude": 35.3615724
+    "longitude": 35.3615724,
+    "iletisim": "03222255552"
   },
   {
     "name": "BURCU TOKLU ECZANESİ",
@@ -190,7 +209,8 @@ export const locations = [
     "address": "Toros Mahallesi Şehitler Bulvarı No:103",
     "contract": true,
     "latitude": 37.0477952,
-    "longitude": 35.2987604
+    "longitude": 35.2987604,
+    "iletisim": "03222356926"
   },
   {
     "name": "GÜLTEKİN ECZANESİ",
@@ -200,7 +220,8 @@ export const locations = [
     "address": "Güzelyalı Mahallesi Turgut Özal Bulvarı No: 110/D",
     "contract": true,
     "latitude": 37.048511,
-    "longitude": 35.296827
+    "longitude": 35.296827,
+    "iletisim": "02245732463"
   },
   {
     "name": "KORKMAZ ECZANESİ",
@@ -210,7 +231,8 @@ export const locations = [
     "address": "Toros Mahallesi 78192. Sokak Toros Apartmanı B Blok Altı No: 4/A",
     "contract": true,
     "latitude": 37.0477018,
-    "longitude": 35.2916866
+    "longitude": 35.2916866,
+    "iletisim": "03222329074"
   },
   {
     "name": "SIHHAT ECZANESİ",
@@ -220,7 +242,8 @@ export const locations = [
     "address": "Gazi Paşa Mahallesi 66037. Sokak No: 3/A",
     "contract": true,
     "latitude": 37.0077088,
-    "longitude": 35.3230346
+    "longitude": 35.3230346,
+    "iletisim": "02324839782"
   },
   {
     "name": "METE ECZANESİ",
@@ -230,7 +253,8 @@ export const locations = [
     "address": "Güzelyalı Mahallesi Turgut Özal Bulvarı NO: 90/A",
     "contract": true,
     "latitude": 37.047067,
-    "longitude": 35.303222
+    "longitude": 35.303222,
+    "iletisim": "02865661077"
   },
   {
     "name": "ŞÜHEDA ECZANESİ",
@@ -240,7 +264,8 @@ export const locations = [
     "address": "Huzurevleri Mah. Süleyman Demirel Blv. 77248 Sk. NO:95/E",
     "contract": true,
     "latitude": 37.053137,
-    "longitude": 35.273289
+    "longitude": 35.273289,
+    "iletisim": "03229994963"
   },
   {
     "name": "GÜRKAN ÖZTÜRK ECZANESİ",
@@ -250,7 +275,8 @@ export const locations = [
     "address": "BELEDİYEEVLERİ MAH. TURGUT ÖZAL BLV. NO:281/C ÖZEL MEDLİNE HASTANESİ KARŞISI",
     "contract": true,
     "latitude": 37.0517565,
-    "longitude": 35.2556165
+    "longitude": 35.2556165,
+    "iletisim": "03222340432"
   },
   {
     "name": "AİLE ECZANESİ",
@@ -260,7 +286,8 @@ export const locations = [
     "address": "Toros Mahallesi Kenan Evren Bulvarı No: 49/D",
     "contract": true,
     "latitude": 37.037912,
-    "longitude": 35.30539900000001
+    "longitude": 35.30539900000001,
+    "iletisim": "05388681684"
   },
   {
     "name": "PINAR ATEŞ ECZANESİ",
@@ -270,7 +297,8 @@ export const locations = [
     "address": "Şevkiye Mahallesi Kalepark Sokak No: 2/D",
     "contract": true,
     "latitude": 37.4496613,
-    "longitude": 35.8072363
+    "longitude": 35.8072363,
+    "iletisim": "03225165335"
   },
   {
     "name": "HUZUR ECZANESİ",
@@ -280,7 +308,8 @@ export const locations = [
     "address": "Ulucami Mahallesi Gölbaşı Caddesi NO: 45/C",
     "contract": true,
     "latitude": 37.760164,
-    "longitude": 38.2741018
+    "longitude": 38.2741018,
+    "iletisim": "02367162626"
   },
   {
     "name": "DİNAR ECZANESİ",
@@ -290,7 +319,8 @@ export const locations = [
     "address": "ADLİYE MAH. BELEDİYE CAD. BELEDİYE TİCARET MERKEZİ İÇİ NO:28",
     "contract": true,
     "latitude": 38.0668999,
-    "longitude": 30.1688
+    "longitude": 30.1688,
+    "iletisim": "02723536028"
   },
   {
     "name": "KARACA ECZANESİ",
@@ -300,7 +330,8 @@ export const locations = [
     "address": "İncili Mah. Eskişehir Cad. NO: 1/K",
     "contract": true,
     "latitude": 39.0204123,
-    "longitude": 31.15073799999999
+    "longitude": 31.15073799999999,
+    "iletisim": "03129990198"
   },
   {
     "name": "MELİH ECZANESİ",
@@ -310,7 +341,8 @@ export const locations = [
     "address": "Çakır Mahallesi 2078. Sokak No:4/B",
     "contract": true,
     "latitude": 38.4657259,
-    "longitude": 30.2642533
+    "longitude": 30.2642533,
+    "iletisim": "02722121197"
   },
   {
     "name": "NURGÜL ECZANESİ",
@@ -320,7 +352,8 @@ export const locations = [
     "address": "Cumhuriyet Mahallesi Hüseyin Bayık Caddesi Sel Apartmanı NO: 4/D",
     "contract": true,
     "latitude": 38.7495702,
-    "longitude": 30.5496629
+    "longitude": 30.5496629,
+    "iletisim": "02722137049"
   },
   {
     "name": "DERMAN ECZANESİ",
@@ -330,7 +363,8 @@ export const locations = [
     "address": "YENİ Mahallesi Eskişehir Caddesi No: 40/A",
     "contract": true,
     "latitude": 39.0201808,
-    "longitude": 31.1506542
+    "longitude": 31.1506542,
+    "iletisim": "02822625876"
   },
   {
     "name": "SİNADA ECZANESİ",
@@ -340,7 +374,8 @@ export const locations = [
     "address": "KURTULUŞ MAHALLESİ AFYON CADDESİ NO: 2",
     "contract": true,
     "latitude": 38.53316110000001,
-    "longitude": 30.5447923
+    "longitude": 30.5447923,
+    "iletisim": "02727181015"
   },
   {
     "name": "ŞULE ECZANESİ",
@@ -350,7 +385,8 @@ export const locations = [
     "address": "Marulcu Mah. Kadınana Cad. NO:8/A",
     "contract": true,
     "latitude": 38.7549356,
-    "longitude": 30.5402483
+    "longitude": 30.5402483,
+    "iletisim": "02125530068"
   },
   {
     "name": "DAMLA ECZANESI",
@@ -360,7 +396,8 @@ export const locations = [
     "address": "Erkmen Mahallesi Şehitler Caddesi No: 117/B",
     "contract": true,
     "latitude": 38.71259999999999,
-    "longitude": 31.0484
+    "longitude": 31.0484,
+    "iletisim": "02726114342"
   },
   {
     "name": "YAĞMUR ECZANESİ",
@@ -370,7 +407,8 @@ export const locations = [
     "address": "BADEMLİ MAH. ŞEHİTLER CAD. NO:234/A",
     "contract": true,
     "latitude": 38.71259999999999,
-    "longitude": 31.0484
+    "longitude": 31.0484,
+    "iletisim": "04423275554"
   },
   {
     "name": "KANLICA ECZANESİ",
@@ -380,7 +418,8 @@ export const locations = [
     "address": "KANLICA MAHALESİ ŞEHİT CÜNEYT AKKUŞ CADDESİ NO: 23/B",
     "contract": true,
     "latitude": 38.7365638,
-    "longitude": 30.5497939
+    "longitude": 30.5497939,
+    "iletisim": "02722166778"
   },
   {
     "name": "MACİT ECZANESİ",
@@ -390,7 +429,8 @@ export const locations = [
     "address": "Çakır Mahallesi İstasyon Caddesi NO: 122",
     "contract": true,
     "latitude": 38.460455,
-    "longitude": 30.26597
+    "longitude": 30.26597,
+    "iletisim": "02725126555"
   },
   {
     "name": "FLORA ECZANESİ",
@@ -400,7 +440,8 @@ export const locations = [
     "address": "DUMLUPıNAR MAH. DUMLUPıNAR 2. CAD.NO:25",
     "contract": true,
     "latitude": 38.756536,
-    "longitude": 30.5410535
+    "longitude": 30.5410535,
+    "iletisim": "05395163222"
   },
   {
     "name": "SEVGİ ECZANESİ",
@@ -410,7 +451,8 @@ export const locations = [
     "address": "LEYLEK PINAR Mahallesi Cumhuriyet Caddesi No:142",
     "contract": true,
     "latitude": 39.722002,
-    "longitude": 43.053215
+    "longitude": 43.053215,
+    "iletisim": "02825056404"
   },
   {
     "name": "TEKİN ECZANESİ",
@@ -420,7 +462,8 @@ export const locations = [
     "address": "Çiftepınar Mahallesi Rıfkı Başkaya Caddesi No: 17/34",
     "contract": true,
     "latitude": 39.5473958,
-    "longitude": 44.0828029
+    "longitude": 44.0828029,
+    "iletisim": "02525727290"
   },
   {
     "name": "HACIOĞLU ECZANESİ",
@@ -430,7 +473,8 @@ export const locations = [
     "address": "SOFULAR MAH. YAREN SK NO:2 ZEMİN 4 ŞEHİT İLKER ATAN İŞMEKEZİ",
     "contract": true,
     "latitude": 40.874847,
-    "longitude": 35.4601503
+    "longitude": 35.4601503,
+    "iletisim": "03585131326"
   },
   {
     "name": "TEKNECİ ECZANESİ",
@@ -440,7 +484,8 @@ export const locations = [
     "address": "HARMANLAR MAH. MEHMETÇİK BULVARI NO:29",
     "contract": true,
     "latitude": 40.8720399,
-    "longitude": 35.4550608
+    "longitude": 35.4550608,
+    "iletisim": "03585135900"
   },
   {
     "name": "VATAN ECZANESİ",
@@ -450,7 +495,8 @@ export const locations = [
     "address": "Hacılar Meydanı Mah. Kutlu Bey Sok. Kılılçoğlu Apt. No:10/B",
     "contract": true,
     "latitude": 40.6487042,
-    "longitude": 35.811885
+    "longitude": 35.811885,
+    "iletisim": "03625321725"
   },
   {
     "name": "ECZANE BAŞAK",
@@ -460,7 +506,8 @@ export const locations = [
     "address": "Dere Mah. Mustafa Kemal Paşa Cad. No:14/B",
     "contract": true,
     "latitude": 40.6513978,
-    "longitude": 35.8329672
+    "longitude": 35.8329672,
+    "iletisim": "03582184070"
   },
   {
     "name": "BENSAN ECZANESİ",
@@ -470,7 +517,8 @@ export const locations = [
     "address": "KIZILAY MAHALLESİ İZMİR 1. CADDE NO: 11/B",
     "contract": true,
     "latitude": 39.924219,
-    "longitude": 32.852824
+    "longitude": 32.852824,
+    "iletisim": "03122301071"
   },
   {
     "name": "METIN ECZANESI",
@@ -480,7 +528,8 @@ export const locations = [
     "address": "Ayrancı Mahallesi Yaylagül Sokak No: 8",
     "contract": true,
     "latitude": 39.9039143,
-    "longitude": 32.8515712
+    "longitude": 32.8515712,
+    "iletisim": "03124283959"
   },
   {
     "name": "NİLGÜN ECZANESİ",
@@ -490,7 +539,8 @@ export const locations = [
     "address": "Kocatepe Mahallesi, Mithatpaşa Cd. NO:56/B",
     "contract": true,
     "latitude": 39.9197254,
-    "longitude": 32.8589741
+    "longitude": 32.8589741,
+    "iletisim": "03124313120"
   },
   {
     "name": "YEŞİLYURT ECZANESİ",
@@ -500,7 +550,8 @@ export const locations = [
     "address": "GÜVENEVLER MAH. GÜVENLİK CAD. YEŞİLYURT SOK. NO: 51/A A. AYRANCI",
     "contract": true,
     "latitude": 39.89750600000001,
-    "longitude": 32.851681
+    "longitude": 32.851681,
+    "iletisim": "03124284875"
   },
   {
     "name": "SABUNCUOĞLU ECZANESİ",
@@ -510,7 +561,8 @@ export const locations = [
     "address": "SAĞLIK MAH. SÜLEYMAN SIRRI CAD. NO: 19/A SIHHIYE",
     "contract": true,
     "latitude": 39.926431,
-    "longitude": 32.858178
+    "longitude": 32.858178,
+    "iletisim": "03124330533"
   },
   {
     "name": "AYTÜL ECZANESİ",
@@ -520,7 +572,8 @@ export const locations = [
     "address": "Kıbrıs Caddesi Umut Sokak No:11/A",
     "contract": true,
     "latitude": 39.92534759999999,
-    "longitude": 32.8685049
+    "longitude": 32.8685049,
+    "iletisim": "03124300161"
   },
   {
     "name": "ONUR ECZANESİ",
@@ -530,7 +583,8 @@ export const locations = [
     "address": "Macun Mah.190.cad 13.Blok No:351",
     "contract": true,
     "latitude": 39.958216,
-    "longitude": 32.767893
+    "longitude": 32.767893,
+    "iletisim": "03266184045"
   },
   {
     "name": "MERT ECZANESİ",
@@ -540,7 +594,8 @@ export const locations = [
     "address": "HARBİYE MAH. SOKULLU MEHMET PAŞA CAD. SALKIM SÖĞÜT SK. NO: 32/C DİKMEN",
     "contract": true,
     "latitude": 39.8931719,
-    "longitude": 32.8344692
+    "longitude": 32.8344692,
+    "iletisim": "03624388152"
   },
   {
     "name": "HANELİ ECZANESİ",
@@ -550,7 +605,8 @@ export const locations = [
     "address": "Kalaba Mah. Haneli Sk. NO: 2/A",
     "contract": true,
     "latitude": 39.9767853,
-    "longitude": 32.8650111
+    "longitude": 32.8650111,
+    "iletisim": "03123593202"
   },
   {
     "name": "MERKEZ ECZANESİ",
@@ -560,7 +616,8 @@ export const locations = [
     "address": "KURTULUŞ MAH. MİLLİ EGEMENLİK CAD. NO: 35/H",
     "contract": true,
     "latitude": 40.1663869,
-    "longitude": 31.9199444
+    "longitude": 31.9199444,
+    "iletisim": "02642790801"
   },
   {
     "name": "YENİ DERMAN ECZANESİ",
@@ -570,7 +627,8 @@ export const locations = [
     "address": "Ragıp Tüzün Mah. Ragıp Tüzün Cad. No:151/B",
     "contract": true,
     "latitude": 39.9659655,
-    "longitude": 32.8080747
+    "longitude": 32.8080747,
+    "iletisim": "03123155894"
   },
   {
     "name": "ŞİMŞEK ECZANESİ",
@@ -580,7 +638,8 @@ export const locations = [
     "address": "Ayrancı Mahallesi, Şimşek Sok. No:20/D",
     "contract": true,
     "latitude": 39.9050252,
-    "longitude": 32.8538041
+    "longitude": 32.8538041,
+    "iletisim": "03267124343"
   },
   {
     "name": "ÖZFİLİZ ECZANESİ",
@@ -590,7 +649,8 @@ export const locations = [
     "address": "Aydınlıkevler Mah. Çevreli Cd. No:62/A",
     "contract": true,
     "latitude": 39.9620048,
-    "longitude": 32.8779628
+    "longitude": 32.8779628,
+    "iletisim": "03123165394"
   },
   {
     "name": "BEDİR ECZANESİ",
@@ -600,7 +660,8 @@ export const locations = [
     "address": "Kavacık Subayevleri Mah. Şehit Makbule Sk. NO: 6/B",
     "contract": true,
     "latitude": 39.9687323,
-    "longitude": 32.869811
+    "longitude": 32.869811,
+    "iletisim": "03322386079"
   },
   {
     "name": "DENİZ ECZANESİ",
@@ -610,7 +671,8 @@ export const locations = [
     "address": "Atatürk Mah. Onur Cad, no:10/A SİNCAN ankara",
     "contract": true,
     "latitude": 39.9626867,
-    "longitude": 32.5851861
+    "longitude": 32.5851861,
+    "iletisim": "02663241355"
   },
   {
     "name": "YENİ ECZANE",
@@ -620,7 +682,8 @@ export const locations = [
     "address": "100 . Yıl İşçi Blokları Mh, 1533. Sk NO: 2/14",
     "contract": true,
     "latitude": 39.8956403,
-    "longitude": 32.7977746
+    "longitude": 32.7977746,
+    "iletisim": NaN
   },
   {
     "name": "BAYBURT ECZANESİ",
@@ -630,7 +693,8 @@ export const locations = [
     "address": "Şenlik Mah. Fatih Cad. No:212/A",
     "contract": true,
     "latitude": 39.9968697,
-    "longitude": 32.8631679
+    "longitude": 32.8631679,
+    "iletisim": "03123564109"
   },
   {
     "name": "TUNALI ECZANESİ",
@@ -640,7 +704,8 @@ export const locations = [
     "address": "KAVAKLIDERE MAHALLESİ TUNALI HİLMİ CADDESİ NO: 52/F",
     "contract": true,
     "latitude": 39.9096663,
-    "longitude": 32.8617409
+    "longitude": 32.8617409,
+    "iletisim": "03124180500"
   },
   {
     "name": "ÇAYYOLU ECZANESİ",
@@ -650,7 +715,8 @@ export const locations = [
     "address": "Çayyolu Mah. DOĞAN TAŞDELEN BULVARI 2432. Cad. NO: 151/B",
     "contract": true,
     "latitude": 39.873252,
-    "longitude": 32.6573136
+    "longitude": 32.6573136,
+    "iletisim": "03122359822"
   },
   {
     "name": "KEÇİÖREN ECZANESİ",
@@ -660,7 +726,8 @@ export const locations = [
     "address": "Güçlükaya Mah. Kızlar Pınarı Cad. NO:63/A",
     "contract": true,
     "latitude": 39.9864564,
-    "longitude": 32.8750914
+    "longitude": 32.8750914,
+    "iletisim": "03123582220"
   },
   {
     "name": "BÜLTEN ECZANESİ",
@@ -670,7 +737,8 @@ export const locations = [
     "address": "Yaşamkent Mah. 3158. Cad. NO: 32/C",
     "contract": true,
     "latitude": 39.8626461,
-    "longitude": 32.6519351
+    "longitude": 32.6519351,
+    "iletisim": "03124266547"
   },
   {
     "name": "SENEM ECZANESİ",
@@ -680,7 +748,8 @@ export const locations = [
     "address": "Gaziosmanpaşa Mah. Ankara Cad. No: 80/A",
     "contract": true,
     "latitude": 39.794112,
-    "longitude": 32.8061941
+    "longitude": 32.8061941,
+    "iletisim": "03124841323"
   },
   {
     "name": "TAŞANLAR ECZANESİ",
@@ -690,7 +759,8 @@ export const locations = [
     "address": "ATATÜRK MAH. ANKARA CAD. NO:36/C",
     "contract": true,
     "latitude": 39.9632027,
-    "longitude": 32.5798028
+    "longitude": 32.5798028,
+    "iletisim": "03122691671"
   },
   {
     "name": "ŞİRİN ECZANESİ",
@@ -700,7 +770,8 @@ export const locations = [
     "address": "Aşık Veysel Mah. Tıp Fakültesi Cad. NO: 86/B Abidinpaşa",
     "contract": true,
     "latitude": 39.92644749999999,
-    "longitude": 32.8949215
+    "longitude": 32.8949215,
+    "iletisim": "03123392228"
   },
   {
     "name": "SEHER DRAZ ECZANESİ",
@@ -710,7 +781,8 @@ export const locations = [
     "address": "İNCESU MAHALLESİ MAHMUT ESAT BOZKURT CADDESİ NO: 3/A KOLEJ",
     "contract": true,
     "latitude": 39.9238897,
-    "longitude": 32.86301830000001
+    "longitude": 32.86301830000001,
+    "iletisim": "03124354892"
   },
   {
     "name": "ERLER ECZANESİ",
@@ -720,7 +792,8 @@ export const locations = [
     "address": "Şenlik Mah. Aşıkpaşa Cad. NO: 45/D",
     "contract": true,
     "latitude": 39.9982862,
-    "longitude": 32.8645236
+    "longitude": 32.8645236,
+    "iletisim": "03123570510"
   },
   {
     "name": "HACETTEPE ECZANESİ",
@@ -730,7 +803,8 @@ export const locations = [
     "address": "Atatürk Mah. Gazi Mustafa Kemal Cad. No: 14",
     "contract": true,
     "latitude": 40.205167,
-    "longitude": 32.681182
+    "longitude": 32.681182,
+    "iletisim": "03707253292"
   },
   {
     "name": "YENİ OYAK ECZANESİ",
@@ -740,7 +814,8 @@ export const locations = [
     "address": "BİRLİK MAH. 414. cadde . NO:4/A",
     "contract": true,
     "latitude": 39.881512,
-    "longitude": 32.8719139
+    "longitude": 32.8719139,
+    "iletisim": "03124959911"
   },
   {
     "name": "VAROL ECZANESİ",
@@ -750,7 +825,8 @@ export const locations = [
     "address": "MEŞRUTİYET MAH. MEŞRUTİYET CAD. NO: 19/B KIZILAY",
     "contract": true,
     "latitude": 39.9183096,
-    "longitude": 32.8571817
+    "longitude": 32.8571817,
+    "iletisim": "02367144973"
   },
   {
     "name": "ÜNER ECZANESİ",
@@ -760,7 +836,8 @@ export const locations = [
     "address": "HACETTEPE Mah. Talatpaşa Bulvarı Çarşı Sok. No:4/A",
     "contract": true,
     "latitude": 39.9340255,
-    "longitude": 32.8633609
+    "longitude": 32.8633609,
+    "iletisim": "03123112842"
   },
   {
     "name": "MİMOZA ECZANESİ",
@@ -770,7 +847,8 @@ export const locations = [
     "address": "Anafartalar Mah. Atatürk Blv. Ulus İş Hanı E Blok NO:1/B",
     "contract": true,
     "latitude": 39.9164869,
-    "longitude": 32.8543346
+    "longitude": 32.8543346,
+    "iletisim": "03123110175"
   },
   {
     "name": "DEMİRAL ECZANESİ",
@@ -780,7 +858,8 @@ export const locations = [
     "address": "Yıldızevler Mah. Turan Güneş Blv. NO: 22/C",
     "contract": true,
     "latitude": 39.8746003,
-    "longitude": 32.8625829
+    "longitude": 32.8625829,
+    "iletisim": "03124406622"
   },
   {
     "name": "şULE ECZANESI",
@@ -790,7 +869,8 @@ export const locations = [
     "address": "Fatih Caddesi, No: 216/C Gazino",
     "contract": true,
     "latitude": 39.997309,
-    "longitude": 32.863227
+    "longitude": 32.863227,
+    "iletisim": "03123811669"
   },
   {
     "name": "DİKMEN GÜL ECZANESİ",
@@ -800,7 +880,8 @@ export const locations = [
     "address": "Ata Mahallesi, Bp Tesisleri İçerisi, Dikmen Cd. No: 376/4",
     "contract": true,
     "latitude": 39.8701552,
-    "longitude": 32.8273119
+    "longitude": 32.8273119,
+    "iletisim": "03124765588"
   },
   {
     "name": "ASYA ECZANESİ",
@@ -810,7 +891,8 @@ export const locations = [
     "address": "KÜLTÜR MAH. MEŞRUTİYET CAD. NO: 46/Ç KIZILAY",
     "contract": true,
     "latitude": 39.918912,
-    "longitude": 32.861541
+    "longitude": 32.861541,
+    "iletisim": "03124339904"
   },
   {
     "name": "YENİ GÖKKUŞAĞI ECZANESİ",
@@ -820,7 +902,8 @@ export const locations = [
     "address": "ÇİĞDEM MAH. 1551. CADDE ATRİUM ÇARŞISI NO: 12/40 BALGAT",
     "contract": true,
     "latitude": 39.8830839,
-    "longitude": 32.8022609
+    "longitude": 32.8022609,
+    "iletisim": "03122858203"
   },
   {
     "name": "SEVER ECZANESİ",
@@ -830,7 +913,8 @@ export const locations = [
     "address": "Maltepe Mahallesi, Onur CADDESİ No:38 Vehbi Koç Öğrenci Yurdu arkası",
     "contract": true,
     "latitude": 39.86670180000001,
-    "longitude": 32.65192320000001
+    "longitude": 32.65192320000001,
+    "iletisim": "03122322535"
   },
   {
     "name": "GÖKMEN ECZANESİ",
@@ -840,7 +924,8 @@ export const locations = [
     "address": "PROFESÖR DOKTOR AHMET TANER KIŞLALI MAHALLESİ SAFRANBOLU CADDESİ NO:1",
     "contract": true,
     "latitude": 39.8769089,
-    "longitude": 32.6784684
+    "longitude": 32.6784684,
+    "iletisim": "03728534948"
   },
   {
     "name": "ŞAFAK ECZANESİ",
@@ -850,7 +935,8 @@ export const locations = [
     "address": "Cumhuriyet Mah. No:3/B Kıbrıs Cad.",
     "contract": true,
     "latitude": 40.2386855,
-    "longitude": 33.0289469
+    "longitude": 33.0289469,
+    "iletisim": "02164622734"
   },
   {
     "name": "BİLGE HEPER ECZANESİ",
@@ -860,7 +946,8 @@ export const locations = [
     "address": "Aşağı Eğlence Mah. Küçük Bahçe caddesi, Gata Karsisi No:2",
     "contract": true,
     "latitude": 39.9694645,
-    "longitude": 32.8386468
+    "longitude": 32.8386468,
+    "iletisim": "03123232930"
   },
   {
     "name": "LÜNET ECZANE OPTİK",
@@ -870,7 +957,8 @@ export const locations = [
     "address": "KAVAKLIDERE MAH. TUNALI HİLMİ CAD. NO:56/B",
     "contract": true,
     "latitude": 39.9093122,
-    "longitude": 32.8617337
+    "longitude": 32.8617337,
+    "iletisim": "03124195880"
   },
   {
     "name": "KISMET ECZANESİ",
@@ -880,7 +968,8 @@ export const locations = [
     "address": "Adnan Menderes Mah. Anavatan Cad. NO: 8/A Dutluk",
     "contract": true,
     "latitude": 40.000656,
-    "longitude": 32.872526
+    "longitude": 32.872526,
+    "iletisim": "03123803320"
   },
   {
     "name": "YAMAN ECZANESİ",
@@ -890,7 +979,8 @@ export const locations = [
     "address": "Mutlukent Mahallesi 2432. Cadde NO: 79",
     "contract": true,
     "latitude": 39.87071,
-    "longitude": 32.66425
+    "longitude": 32.66425,
+    "iletisim": "03123281808"
   },
   {
     "name": "KAVAKLIDERE PINAR ECZANESİ",
@@ -900,7 +990,8 @@ export const locations = [
     "address": "Remzi Oğuz Arık Mah. Atatürk Blv. NO: 199/h Sefaretler Apt.",
     "contract": true,
     "latitude": 39.9072828,
-    "longitude": 32.8590358
+    "longitude": 32.8590358,
+    "iletisim": "03124263636"
   },
   {
     "name": "HIZIR FAZIL ECZANESİ",
@@ -910,7 +1001,8 @@ export const locations = [
     "address": "Merkez Mahallesi, Sun Sk. 24/A",
     "contract": true,
     "latitude": 40.0336465,
-    "longitude": 32.9010812
+    "longitude": 32.9010812,
+    "iletisim": "03123284048"
   },
   {
     "name": "AKGÜL ECZANESİ",
@@ -920,7 +1012,8 @@ export const locations = [
     "address": "Batı Sitesi Mah. 2331 Sok. NO: 3/141 Coşkun Irmak Çrş. K:Zemin",
     "contract": true,
     "latitude": 39.961308,
-    "longitude": 32.6971355
+    "longitude": 32.6971355,
+    "iletisim": "02323689661"
   },
   {
     "name": "AKKILIÇ ECZANESİ",
@@ -930,7 +1023,8 @@ export const locations = [
     "address": "Ön Cebeci Mah. Mahmut Esad Bozkurt Cad. No: 3/A (Kurtuluş Parkı Karşısı) KOLEJ",
     "contract": true,
     "latitude": 39.928222,
-    "longitude": 32.8633656
+    "longitude": 32.8633656,
+    "iletisim": "03124351027"
   },
   {
     "name": "VATAN ECZANESİ",
@@ -940,7 +1034,8 @@ export const locations = [
     "address": "Söğütözü Mah. Söğütözü Cad. 2176 Sok. NO:5/48 (Medicana Hastanesi Yanı) Söğütözü",
     "contract": true,
     "latitude": 39.911288,
-    "longitude": 32.79708
+    "longitude": 32.79708,
+    "iletisim": "03625321725"
   },
   {
     "name": "MALTEPE ECZANESİ",
@@ -950,7 +1045,8 @@ export const locations = [
     "address": "MALTEPE MAHALLESİ GAZİ MUSTAFA KEMAL BULVARI NO: 77/A MALTEPE",
     "contract": true,
     "latitude": 39.9294656,
-    "longitude": 32.8455413
+    "longitude": 32.8455413,
+    "iletisim": "02163059987"
   },
   {
     "name": "BANKALAR ECZANESİ",
@@ -960,7 +1056,8 @@ export const locations = [
     "address": "Harbiye Mah. Dikmen Cad. NO: 212/D Dikmen",
     "contract": true,
     "latitude": 39.885102,
-    "longitude": 32.8394067
+    "longitude": 32.8394067,
+    "iletisim": "03124822429"
   },
   {
     "name": "HEYKEL ECZANESİ",
@@ -970,7 +1067,8 @@ export const locations = [
     "address": "HACI BAYRAM MAHALLESİ RÜZGARLI CADDESİ NO: 3/9",
     "contract": true,
     "latitude": 39.9428306,
-    "longitude": 32.8537843
+    "longitude": 32.8537843,
+    "iletisim": "03726157000"
   },
   {
     "name": "ÖZVATAN ECZANESİ",
@@ -980,7 +1078,8 @@ export const locations = [
     "address": "DEMETEVLER MAH. 358. CAD. NO:4/D",
     "contract": true,
     "latitude": 39.967374,
-    "longitude": 32.789589
+    "longitude": 32.789589,
+    "iletisim": "03123459339"
   },
   {
     "name": "YENİ BAHAR ECZANESİ",
@@ -990,7 +1089,8 @@ export const locations = [
     "address": "Kavaklıdere Mah. Tunus Cad. No:85/C",
     "contract": true,
     "latitude": 39.905097,
-    "longitude": 32.859705
+    "longitude": 32.859705,
+    "iletisim": "03124286301"
   },
   {
     "name": "YENİ BUKET ECZANESİ",
@@ -1000,7 +1100,8 @@ export const locations = [
     "address": "GÜVENEVLER MAH. YEŞİLYURT SK. NO:57/C",
     "contract": true,
     "latitude": 39.8975658,
-    "longitude": 32.8507371
+    "longitude": 32.8507371,
+    "iletisim": "03124689148"
   },
   {
     "name": "ESMERTAŞ ECZANESİ",
@@ -1010,7 +1111,8 @@ export const locations = [
     "address": "Kavacık Subayevleri Mah. Centilmen cad. NO:3/1",
     "contract": true,
     "latitude": 39.9705805,
-    "longitude": 32.8755712
+    "longitude": 32.8755712,
+    "iletisim": "03123165851"
   },
   {
     "name": "ZELİHA GÜVEN ECZANESİ",
@@ -1020,7 +1122,8 @@ export const locations = [
     "address": "Ümit Mah. 2433 Sok. NO:4/D Ümitkent Çrş. Ümitköy",
     "contract": true,
     "latitude": 39.9042664,
-    "longitude": 32.7079329
+    "longitude": 32.7079329,
+    "iletisim": "03122357636"
   },
   {
     "name": "GÜLER ECZANESİ",
@@ -1030,7 +1133,8 @@ export const locations = [
     "address": "Cumhuriyet Mahallesi, Necatibey Cad. NO:45/C",
     "contract": true,
     "latitude": 39.58393299999999,
-    "longitude": 32.14454
+    "longitude": 32.14454,
+    "iletisim": "02126931149"
   },
   {
     "name": "HOMURLU ECZANESİ",
@@ -1040,7 +1144,8 @@ export const locations = [
     "address": "YILDIZEVLER MAH. RABİNDRANAHT TAGORE CAD. NO:8/B",
     "contract": true,
     "latitude": 39.8766026,
-    "longitude": 32.8605513
+    "longitude": 32.8605513,
+    "iletisim": "03124420667"
   },
   {
     "name": "EROĞLU ECZANESİ",
@@ -1050,7 +1155,8 @@ export const locations = [
     "address": "BALGAT MAH. ZİYABEY CAD. NO:40/B",
     "contract": true,
     "latitude": 39.9095861,
-    "longitude": 32.81784409999999
+    "longitude": 32.81784409999999,
+    "iletisim": "02526141497"
   },
   {
     "name": "ALAKUŞ ECZANESİ",
@@ -1060,7 +1166,8 @@ export const locations = [
     "address": "HACIBAYRAM MAH. ETLİK CAD. NO: 101/18",
     "contract": true,
     "latitude": 39.9559654,
-    "longitude": 32.8532168
+    "longitude": 32.8532168,
+    "iletisim": "03123226393"
   },
   {
     "name": "FUNDA ECZANESİ",
@@ -1070,7 +1177,8 @@ export const locations = [
     "address": "KENTKOOP MAHALLESİ 1865. CADDE SİYASAL 93 SİTESİ GARDENYA APARTMANI NO: 11/A",
     "contract": true,
     "latitude": 39.967674,
-    "longitude": 32.716773
+    "longitude": 32.716773,
+    "iletisim": "02163954231"
   },
   {
     "name": "PİLÜL ECZANESİ",
@@ -1080,7 +1188,8 @@ export const locations = [
     "address": "YILDIZEVLER MAH. TURAN GÜNEŞ BULVARI 709 SK. NO: 3/A",
     "contract": true,
     "latitude": 39.8730255,
-    "longitude": 32.8616034
+    "longitude": 32.8616034,
+    "iletisim": "03124422288"
   },
   {
     "name": "DEMİRHAN ECZANESİ",
@@ -1090,7 +1199,8 @@ export const locations = [
     "address": "KIZILAY MAH. KUMRULAR CAD. NO:16/A KIZILAY",
     "contract": true,
     "latitude": 39.9204164,
-    "longitude": 32.8500328
+    "longitude": 32.8500328,
+    "iletisim": "03124250700"
   },
   {
     "name": "ÖVÜNÇ ECZANESİ",
@@ -1100,7 +1210,8 @@ export const locations = [
     "address": "BİRLİK MAH. 435. CAD NO:61/E",
     "contract": true,
     "latitude": 39.875595,
-    "longitude": 32.8753268
+    "longitude": 32.8753268,
+    "iletisim": "02323440434"
   },
   {
     "name": "SEVİNÇ ECZANESİ",
@@ -1110,7 +1221,8 @@ export const locations = [
     "address": "BALGAT MAH. CEYHUN ATUF KANSU CAD. NO:104/L",
     "contract": true,
     "latitude": 39.8957205,
-    "longitude": 32.816783
+    "longitude": 32.816783,
+    "iletisim": "02623435440"
   },
   {
     "name": "MELEK ECZANESİ",
@@ -1120,7 +1232,8 @@ export const locations = [
     "address": "Burç Mah. Seval Cad. NO:96/C Şentepe",
     "contract": true,
     "latitude": 39.9900808,
-    "longitude": 32.8004684
+    "longitude": 32.8004684,
+    "iletisim": "03226063302"
   },
   {
     "name": "BEYHEKİM ECZANESİ",
@@ -1130,7 +1243,8 @@ export const locations = [
     "address": "ELVAN MAH. 1934. SOKAK NO:3/C",
     "contract": true,
     "latitude": 39.954381,
-    "longitude": 32.628873
+    "longitude": 32.628873,
+    "iletisim": "03123282997"
   },
   {
     "name": "ODEF ECZANESİ",
@@ -1140,7 +1254,8 @@ export const locations = [
     "address": "KORU MAHALLESİ 2590. CADDE ARCADIUM AVM. NO: 192/Z-04",
     "contract": true,
     "latitude": 39.8828733,
-    "longitude": 32.6859268
+    "longitude": 32.6859268,
+    "iletisim": "03122404979"
   },
   {
     "name": "ANADOLU MAMAK ECZANESİ",
@@ -1150,7 +1265,8 @@ export const locations = [
     "address": "Bahçeleriçi Mah 160 Sok. 1. cadde no:2/24",
     "contract": true,
     "latitude": 39.9311416,
-    "longitude": 32.9135622
+    "longitude": 32.9135622,
+    "iletisim": "03123697677"
   },
   {
     "name": "SEFEROĞLU ECZANESİ",
@@ -1160,7 +1276,8 @@ export const locations = [
     "address": "Mutlukent Mah. 1920 Cad. NO:71 Ümitköy",
     "contract": true,
     "latitude": 39.8906335,
-    "longitude": 32.709104
+    "longitude": 32.709104,
+    "iletisim": "03122356630"
   },
   {
     "name": "ANİTTA ECZANESİ",
@@ -1170,7 +1287,8 @@ export const locations = [
     "address": "ANİTTA ECZANESİ 3297 CAD. BESA KARİNA PLAZA NO: 2R/9",
     "contract": true,
     "latitude": 39.8565964,
-    "longitude": 32.6452716
+    "longitude": 32.6452716,
+    "iletisim": "03122176600"
   },
   {
     "name": "SELİN AKSU ECZANESİ",
@@ -1180,7 +1298,8 @@ export const locations = [
     "address": "Başkent Emlak Konutları İlkbahar Mah. Doğukent Bulvarı No:733/B/C",
     "contract": true,
     "latitude": 39.8600721,
-    "longitude": 32.856134
+    "longitude": 32.856134,
+    "iletisim": "03125143747"
   },
   {
     "name": "GÜZELTEPE ECZANESİ",
@@ -1190,7 +1309,8 @@ export const locations = [
     "address": "Dodurga Mahallesi. Odabaşı Cad. Güzeltepe Sitesi No: 16/6B Çayyolu Türkkonut",
     "contract": true,
     "latitude": 39.8294167,
-    "longitude": 32.6606167
+    "longitude": 32.6606167,
+    "iletisim": "03122392327"
   },
   {
     "name": "HAZİRAN ECZANESİ",
@@ -1200,7 +1320,8 @@ export const locations = [
     "address": "Yukarı Dikmen Mahallesi, Dikmen Cad. No:375/D",
     "contract": true,
     "latitude": 39.870238,
-    "longitude": 32.828478
+    "longitude": 32.828478,
+    "iletisim": "03124823499"
   },
   {
     "name": "ÜMİTKÖY MERKEZ ECZANESI",
@@ -1210,7 +1331,8 @@ export const locations = [
     "address": "ÜMİT MAH. 2494 CAD. NO:13 OSMANAĞA KONAKLARI ÜMİTKÖY",
     "contract": true,
     "latitude": 39.89524369999999,
-    "longitude": 32.7015922
+    "longitude": 32.7015922,
+    "iletisim": "03122360006"
   },
   {
     "name": "KÖROĞLU ECZANESİ",
@@ -1220,7 +1342,8 @@ export const locations = [
     "address": "Büyükesat Mah. Uğur Mumcu Cad. NO: 87",
     "contract": true,
     "latitude": 39.8954646,
-    "longitude": 32.8782249
+    "longitude": 32.8782249,
+    "iletisim": "04522340981"
   },
   {
     "name": "YENİŞEHİR ECZANESİ",
@@ -1230,7 +1353,8 @@ export const locations = [
     "address": "UMUT MAH. TEKMAN CAD. 42/B SEYRANBAĞLARI",
     "contract": true,
     "latitude": 39.9071746,
-    "longitude": 32.8761347
+    "longitude": 32.8761347,
+    "iletisim": "03124476166"
   },
   {
     "name": "BİLGESU ECZANESİ",
@@ -1240,7 +1364,8 @@ export const locations = [
     "address": "Osman Temiz Mahallesi, 752. Cd. No:24/A DIKMEN",
     "contract": true,
     "latitude": 39.8747749,
-    "longitude": 32.839608
+    "longitude": 32.839608,
+    "iletisim": "03124790813"
   },
   {
     "name": "SUN ECZANESİ",
@@ -1250,7 +1375,8 @@ export const locations = [
     "address": "Emek Mahallesi 8. Cad. no:167/A EMEK",
     "contract": true,
     "latitude": 39.920398,
-    "longitude": 32.817745
+    "longitude": 32.817745,
+    "iletisim": "03122131678"
   },
   {
     "name": "YENİ ÖMÜR ECZANESİ",
@@ -1260,7 +1386,8 @@ export const locations = [
     "address": "OSTİM OSB MAH. 100 YIL BULVARI BOSNA İS MERKEZİ NO:35/I OSTİM",
     "contract": true,
     "latitude": 39.9670181,
-    "longitude": 32.7462805
+    "longitude": 32.7462805,
+    "iletisim": "03123544927"
   },
   {
     "name": "YAŞAMKENT ECZANESİ",
@@ -1270,7 +1397,8 @@ export const locations = [
     "address": "YAŞAMKENT MAHALLESİ 3059 SOK. NO: 4/A ÇAYYOLU",
     "contract": true,
     "latitude": 39.8705085,
-    "longitude": 32.66458
+    "longitude": 32.66458,
+    "iletisim": "03122175517"
   },
   {
     "name": "TUGBA ECZANESİ",
@@ -1280,7 +1408,8 @@ export const locations = [
     "address": "SANCAK MAH. KONRAD ADENAUER CAD. NO:1-B",
     "contract": true,
     "latitude": 39.869588,
-    "longitude": 32.8678894
+    "longitude": 32.8678894,
+    "iletisim": "03124383726"
   },
   {
     "name": "MİTHATPAŞA PLUS ECZANESİ",
@@ -1290,7 +1419,8 @@ export const locations = [
     "address": "KAVAKLIDERE MAH. TUNALI HİLMİ CAD. NO:70/B",
     "contract": true,
     "latitude": 39.9075199,
-    "longitude": 32.8611809
+    "longitude": 32.8611809,
+    "iletisim": "03124663393"
   },
   {
     "name": "SIHHAT ECZANESİ",
@@ -1300,7 +1430,8 @@ export const locations = [
     "address": "Merkez Mah. Yenişehir Sok. NO:18/B",
     "contract": true,
     "latitude": 40.0367501,
-    "longitude": 32.8927238
+    "longitude": 32.8927238,
+    "iletisim": "02324839782"
   },
   {
     "name": "ÖZEL İLGİ ECZANESİ",
@@ -1310,7 +1441,8 @@ export const locations = [
     "address": "30 AĞUSTOS MAH. ŞEHİT HASAN ÖZTÜRK CAD NO:9/A",
     "contract": true,
     "latitude": 39.946634,
-    "longitude": 32.659219
+    "longitude": 32.659219,
+    "iletisim": "03122454488"
   },
   {
     "name": "ATAKULE ECZANESİ",
@@ -1320,7 +1452,8 @@ export const locations = [
     "address": "Aziziye Mahallesi, Hoşdere cad. Piyade Sk. NO:26/A",
     "contract": true,
     "latitude": 39.8856397,
-    "longitude": 32.8543756
+    "longitude": 32.8543756,
+    "iletisim": "03124415659"
   },
   {
     "name": "ATAHAN ECZANESİ",
@@ -1330,7 +1463,8 @@ export const locations = [
     "address": "Yukarı Bahçelievler Mahallesi, Aşkaabat Cd.(7. CAD) No:5 BAHÇELİEVLER",
     "contract": true,
     "latitude": 39.9241536,
-    "longitude": 32.8259266
+    "longitude": 32.8259266,
+    "iletisim": "03122134455"
   },
   {
     "name": "ALTINPARK ECZANESİ",
@@ -1340,7 +1474,8 @@ export const locations = [
     "address": "SUBAYEVLERİ MAH. ŞHT. ÖMER HALİSDEMİR BLV. NO:111/A",
     "contract": true,
     "latitude": 39.970469,
-    "longitude": 32.8764234
+    "longitude": 32.8764234,
+    "iletisim": "03123160660"
   },
   {
     "name": "İBRAHİMİN ECZANESİ",
@@ -1350,7 +1485,8 @@ export const locations = [
     "address": "PINARBAŞI MAH. ASYA SOK. NO:35/B",
     "contract": true,
     "latitude": 40.0001439,
-    "longitude": 32.8622833
+    "longitude": 32.8622833,
+    "iletisim": "03123571373"
   },
   {
     "name": "MÜGE ECZANESİ",
@@ -1360,7 +1496,8 @@ export const locations = [
     "address": "MEBUSEVLERİ MAH. ANIT CAD. NO:10/A TANDOĞAN",
     "contract": true,
     "latitude": 39.934187,
-    "longitude": 32.83709
+    "longitude": 32.83709,
+    "iletisim": "03782278628"
   },
   {
     "name": "ALPAN ECZANESİ",
@@ -1370,7 +1507,8 @@ export const locations = [
     "address": "PROF DR. AHMET TANER KIŞLALI MAH. 2760 CAD. 2176 SK. NO:20 ÇAYYOLU",
     "contract": true,
     "latitude": 39.8720154,
-    "longitude": 32.6905155
+    "longitude": 32.6905155,
+    "iletisim": "04143132463"
   },
   {
     "name": "İLAÇ ECZANESİ",
@@ -1380,7 +1518,8 @@ export const locations = [
     "address": "ŞİMŞEK SOK NO 30/A-B KAVAKLIDERE.ANKARA",
     "contract": true,
     "latitude": 39.9039125,
-    "longitude": 32.8538218
+    "longitude": 32.8538218,
+    "iletisim": "05422387704"
   },
   {
     "name": "SAFA ECZANESİ",
@@ -1390,7 +1529,8 @@ export const locations = [
     "address": "Kızılırmak Mahallesi, Bayındır Hastanesi Yanı, Söğütözü, 1443. Cad. No:15/5",
     "contract": true,
     "latitude": 39.910781,
-    "longitude": 32.810529
+    "longitude": 32.810529,
+    "iletisim": "02122318163"
   },
   {
     "name": "ARİFOĞLU ECZANESİ",
@@ -1400,7 +1540,8 @@ export const locations = [
     "address": "Mutlukent Mah. 2432 Cad. NO: 43/C",
     "contract": true,
     "latitude": 39.8883801,
-    "longitude": 32.7124903
+    "longitude": 32.7124903,
+    "iletisim": "03122353420"
   },
   {
     "name": "ECZANE TURUNÇ",
@@ -1410,7 +1551,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAH. MAREŞAL FEVZİ ÇAKMAK CAD. NO:6/B",
     "contract": true,
     "latitude": 39.932074,
-    "longitude": 32.82924
+    "longitude": 32.82924,
+    "iletisim": "03122151737"
   },
   {
     "name": "ECESER ECZANESİ",
@@ -1420,7 +1562,8 @@ export const locations = [
     "address": "Cumhuriyet Mahallesi, Atatürk Bulvarı, Büyük Çarşı NO:67/E",
     "contract": true,
     "latitude": 39.9249656,
-    "longitude": 32.855341
+    "longitude": 32.855341,
+    "iletisim": "03125170553"
   },
   {
     "name": "ELİF ESLEM ECZANESİ",
@@ -1430,7 +1573,8 @@ export const locations = [
     "address": "MUHSİN YAZICIOĞLU CAD. 1436.SOK. 1/C ÇUKURAMBAR",
     "contract": true,
     "latitude": 39.9039234,
-    "longitude": 32.8089038
+    "longitude": 32.8089038,
+    "iletisim": "03122868647"
   },
   {
     "name": "ÇAYYOLU KUZUCU ECZANESİ",
@@ -1440,7 +1584,8 @@ export const locations = [
     "address": "KORU MAH. A. TANER KIŞLALI CAD. NO: 4-31 ÇAYYOLU",
     "contract": true,
     "latitude": 39.8820333,
-    "longitude": 32.6831444
+    "longitude": 32.6831444,
+    "iletisim": "03122411570"
   },
   {
     "name": "KAYRA ECZANESİ",
@@ -1450,7 +1595,8 @@ export const locations = [
     "address": "BASINEVLERİ MAH. BASIN CAD. NO:47/C",
     "contract": true,
     "latitude": 39.9698487,
-    "longitude": 32.8529788
+    "longitude": 32.8529788,
+    "iletisim": "03123264344"
   },
   {
     "name": "KALENDER ECZANESİ",
@@ -1460,7 +1606,8 @@ export const locations = [
     "address": "KAVACIK SUBAYEVLERİ MAH. FETHİBEY CAD. NO:5-A",
     "contract": true,
     "latitude": 39.9711101,
-    "longitude": 32.8707566
+    "longitude": 32.8707566,
+    "iletisim": "03649991718"
   },
   {
     "name": "AYDEMİR ECZANESİ",
@@ -1470,7 +1617,8 @@ export const locations = [
     "address": "AZİZİYE MAH. HOŞDERE CAD. NO:183/A",
     "contract": true,
     "latitude": 39.8853034,
-    "longitude": 32.8510041
+    "longitude": 32.8510041,
+    "iletisim": "03124381764"
   },
   {
     "name": "ÇAYYOLU BORA ECZANESİ",
@@ -1480,7 +1628,8 @@ export const locations = [
     "address": "Alacaatlı Mahallesi, Mercan İş Sitesi, Alacaatlı Caddesi C:15 Blok, No:5",
     "contract": true,
     "latitude": 39.8559011,
-    "longitude": 32.6777333
+    "longitude": 32.6777333,
+    "iletisim": "03122383818"
   },
   {
     "name": "SELDA YILDIRIM ECZANESİ",
@@ -1490,7 +1639,8 @@ export const locations = [
     "address": "Aziziye Mahallesi, Hoşdere Cad. NO: 189/A",
     "contract": true,
     "latitude": 39.8850157,
-    "longitude": 32.8526937
+    "longitude": 32.8526937,
+    "iletisim": "03124430658"
   },
   {
     "name": "AYBÜKE HATUN ECZANESİ",
@@ -1500,7 +1650,8 @@ export const locations = [
     "address": "UFUKTEPE MAH.UFUKTEPE CADDESİ 768 SOKAK. NO:13/A",
     "contract": true,
     "latitude": 40.0100013,
-    "longitude": 32.8515844
+    "longitude": 32.8515844,
+    "iletisim": "03125800405"
   },
   {
     "name": "CADDE PARK ECZANESİ",
@@ -1510,7 +1661,8 @@ export const locations = [
     "address": "Prof. Dr. Ahmet Taner Kışlalı Mahallesi, 2864. Cad. No: 44/H",
     "contract": true,
     "latitude": 39.8676716,
-    "longitude": 32.6782376
+    "longitude": 32.6782376,
+    "iletisim": "03122404642"
   },
   {
     "name": "YÜZBAŞI ECZANESİ",
@@ -1520,7 +1672,8 @@ export const locations = [
     "address": "GÖKSU MAH. SİVAS KONGRESİ CAD. NO: 5C/13 ERYAMAN",
     "contract": true,
     "latitude": 39.9878374,
-    "longitude": 32.6408069
+    "longitude": 32.6408069,
+    "iletisim": "03122811616"
   },
   {
     "name": "4 ETAP NİLÜFER ECZANESİ",
@@ -1530,7 +1683,8 @@ export const locations = [
     "address": "TUNAHAN MAH. 208. SOKAK. 4. ETAP ÇARŞISI NO:4/7 ERYAMAN",
     "contract": true,
     "latitude": 39.98898399999999,
-    "longitude": 32.6244039
+    "longitude": 32.6244039,
+    "iletisim": "03122794275"
   },
   {
     "name": "YENİ ÇUKURAMBAR ECZANESİ",
@@ -1540,7 +1694,8 @@ export const locations = [
     "address": "KIZILIRMAK MAHALLESİ 1425 CADDE NO: 9/58 ÇUKURAMBAR",
     "contract": true,
     "latitude": 39.9005986,
-    "longitude": 32.8027555
+    "longitude": 32.8027555,
+    "iletisim": "03122844688"
   },
   {
     "name": "OSMAN COşKUN ECZANESI",
@@ -1550,7 +1705,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAHALLESİ MAREŞAL FEVZİ ÇAKMAK CADDESİ ŞEHİT H. TEMEL KUĞUOĞLU SOKAK NO:3",
     "contract": true,
     "latitude": 39.9271195,
-    "longitude": 32.8312706
+    "longitude": 32.8312706,
+    "iletisim": "03122150160"
   },
   {
     "name": "DİKMEN ÖMÜR ECZANESİ",
@@ -1560,7 +1716,8 @@ export const locations = [
     "address": "HARBİYE MAH. DİKMEN CAD. NO:240/A",
     "contract": true,
     "latitude": 39.8819924,
-    "longitude": 32.8391429
+    "longitude": 32.8391429,
+    "iletisim": "03124829694"
   },
   {
     "name": "BEŞ YILDIZ ECZANESİ",
@@ -1570,7 +1727,8 @@ export const locations = [
     "address": "Mimar Sinan Caddesi Çağatay Caddesi No:41/I",
     "contract": true,
     "latitude": 40.0483254,
-    "longitude": 32.8936735
+    "longitude": 32.8936735,
+    "iletisim": "03122323008"
   },
   {
     "name": "BESAKULE METROPOL ECZANESİ",
@@ -1580,7 +1738,8 @@ export const locations = [
     "address": "ÇUKURAMBAR MH. 1480 SK. BESAKULE İŞ MERKEZİ B BLOK NO: 2/4",
     "contract": true,
     "latitude": 39.9093303,
-    "longitude": 32.8040126
+    "longitude": 32.8040126,
+    "iletisim": "03122863202"
   },
   {
     "name": "DİLEK BAHAR ECZANESİ",
@@ -1590,7 +1749,8 @@ export const locations = [
     "address": "Adnan Menderes Mahallesi, Anavatan Cd. No:6/C",
     "contract": true,
     "latitude": 40.000469,
-    "longitude": 32.872303
+    "longitude": 32.872303,
+    "iletisim": "03123808181"
   },
   {
     "name": "İNCİ ECZANESİ",
@@ -1600,7 +1760,8 @@ export const locations = [
     "address": "OĞUZLAR MAHALLESİ 1602 CAD. HUKUKÇULAR PLAZA NO: 1/14",
     "contract": true,
     "latitude": 39.9458548,
-    "longitude": 32.6080603
+    "longitude": 32.6080603,
+    "iletisim": "02324454386"
   },
   {
     "name": "HEKİMKÖY ECZANESİ",
@@ -1610,7 +1771,8 @@ export const locations = [
     "address": "MUTLUKENT MAH. 1920.cadde NO:59/A",
     "contract": true,
     "latitude": 39.890741,
-    "longitude": 32.710715
+    "longitude": 32.710715,
+    "iletisim": "03122350111"
   },
   {
     "name": "SONAT ECZANESİ",
@@ -1620,7 +1782,8 @@ export const locations = [
     "address": "MUTLUKENT MAH. 1960 CAD. MUTLUKÖY SİTESİ. 11.BLOK NO:19/C",
     "contract": true,
     "latitude": 39.896749,
-    "longitude": 32.7079589
+    "longitude": 32.7079589,
+    "iletisim": "03122359577"
   },
   {
     "name": "ELİF ULUTAŞ ECZANESİ",
@@ -1630,7 +1793,8 @@ export const locations = [
     "address": "Kızılırmak Mahallesi, Ufuk Üniversitesi Caddesi 1445. Sok No:2A/7 (The Paragon Tower), Çukurambar",
     "contract": true,
     "latitude": 39.9090154,
-    "longitude": 32.8127212
+    "longitude": 32.8127212,
+    "iletisim": "03122867961"
   },
   {
     "name": "ESME ECZANESİ",
@@ -1640,7 +1804,8 @@ export const locations = [
     "address": "Etlik Mahallesi, Gen. Dr. Tevfik Sağlam Cad. No:123/B",
     "contract": true,
     "latitude": 39.9793641,
-    "longitude": 32.8367595
+    "longitude": 32.8367595,
+    "iletisim": "03123211800"
   },
   {
     "name": "HASKÖY ECZANESİ",
@@ -1650,7 +1815,8 @@ export const locations = [
     "address": "GÜNEŞEVLER MAH. 128. CADDE NO:9-B",
     "contract": true,
     "latitude": 39.9716605,
-    "longitude": 32.888816
+    "longitude": 32.888816,
+    "iletisim": "03125172275"
   },
   {
     "name": "ANKARA ECZANESİ",
@@ -1660,7 +1826,8 @@ export const locations = [
     "address": "MUTLUKENT MAH. 2015 CAD. NO:4/15 ANGORA BULVARI BEYSUKENT",
     "contract": true,
     "latitude": 39.9714713,
-    "longitude": 32.9533897
+    "longitude": 32.9533897,
+    "iletisim": "02323882218"
   },
   {
     "name": "YENİ SABAH ECZANESİ",
@@ -1670,7 +1837,8 @@ export const locations = [
     "address": "PINARBAŞI MAH. AKSARAY CAD. NO:6/A KEÇİÖREN",
     "contract": true,
     "latitude": 39.9966085,
-    "longitude": 32.8612746
+    "longitude": 32.8612746,
+    "iletisim": "03123817665"
   },
   {
     "name": "RABİA TUĞBA ECZANESİ",
@@ -1680,7 +1848,8 @@ export const locations = [
     "address": "MEHMET AKİF ERSOY MAH. YEŞİLAY CADDESİ PARK AVENUE SİTESİ DK:10 NO:78/3",
     "contract": true,
     "latitude": 39.9686057,
-    "longitude": 32.77177
+    "longitude": 32.77177,
+    "iletisim": "03125045083"
   },
   {
     "name": "BAŞAK ECZANESİ",
@@ -1690,7 +1859,8 @@ export const locations = [
     "address": "19 MAYIS MAH. YUNUS EMRE CAD. NO:133/D DANIŞMENT DURAĞI İNCİRLİ",
     "contract": true,
     "latitude": 39.9840309,
-    "longitude": 32.8540037
+    "longitude": 32.8540037,
+    "iletisim": "05437242233"
   },
   {
     "name": "BERİL BULUT ECZANESİ",
@@ -1700,7 +1870,8 @@ export const locations = [
     "address": "BEYTEPE MAH. KANUNİ SULTAN SÜLEYMAN BLV. 5387 CAD. NO:27/D-2",
     "contract": true,
     "latitude": 39.8650842,
-    "longitude": 32.7072074
+    "longitude": 32.7072074,
+    "iletisim": "03125045152"
   },
   {
     "name": "ÇİMEN ECZANESİ",
@@ -1710,7 +1881,8 @@ export const locations = [
     "address": "MEMUREVLERİ MAH. GÜLLÜK CAD. NO: 111/G / BAHÇELİEVLER",
     "contract": true,
     "latitude": 36.8954458,
-    "longitude": 30.69182379999999
+    "longitude": 30.69182379999999,
+    "iletisim": "02423454693"
   },
   {
     "name": "MUZ ECZANESİ",
@@ -1720,7 +1892,8 @@ export const locations = [
     "address": "Sinan Mahallesi, Atatürk Caddesi Vakıf İşhanı No:2 D:48",
     "contract": true,
     "latitude": 36.8837208,
-    "longitude": 30.7127209
+    "longitude": 30.7127209,
+    "iletisim": "02422412791"
   },
   {
     "name": "HÜLYA ECZANESİ",
@@ -1730,7 +1903,8 @@ export const locations = [
     "address": "VARLIK MAH. 100. YIL BULV. TASKOPARAN APT. NO: 55/C",
     "contract": true,
     "latitude": 36.8876422,
-    "longitude": 30.6774669
+    "longitude": 30.6774669,
+    "iletisim": "02164227290"
   },
   {
     "name": "EVRE ECZANESİ",
@@ -1740,7 +1914,8 @@ export const locations = [
     "address": "GEBİZLİ MAH. 1115 SOK. NO:10/C KARALAR DÜĞÜN SARAYI YANI",
     "contract": true,
     "latitude": 36.89868,
-    "longitude": 30.7244084
+    "longitude": 30.7244084,
+    "iletisim": "02422473430"
   },
   {
     "name": "VERESELİ YENİKÖY ECZANESİ",
@@ -1750,7 +1925,8 @@ export const locations = [
     "address": "YENİKÖY MAH. ATATÜRK CAD. NO:504/1",
     "contract": true,
     "latitude": 37.0282314,
-    "longitude": 30.6007025
+    "longitude": 30.6007025,
+    "iletisim": "02424213051"
   },
   {
     "name": "TUNCERLER ECZANESİ",
@@ -1760,7 +1936,8 @@ export const locations = [
     "address": "Merkez Mahallesi, Atatürk Cd. NO: 50/A",
     "contract": true,
     "latitude": 36.9172129,
-    "longitude": 31.10355779999999
+    "longitude": 31.10355779999999,
+    "iletisim": "02427223414"
   },
   {
     "name": "KÜBRA ECZANESİ",
@@ -1770,7 +1947,8 @@ export const locations = [
     "address": "Örnek Mahallesi, 1528. Sk. NO:11/C",
     "contract": true,
     "latitude": 36.781146,
-    "longitude": 31.454421
+    "longitude": 31.454421,
+    "iletisim": "04162131013"
   },
   {
     "name": "GÖKMENLER ECZANESİ",
@@ -1780,7 +1958,8 @@ export const locations = [
     "address": "Cumhuriyet Mahallesi, Hastane Cd. No:20/A",
     "contract": true,
     "latitude": 36.2713469,
-    "longitude": 32.308475
+    "longitude": 32.308475,
+    "iletisim": "02425721922"
   },
   {
     "name": "GÖKMEN ECZANESİ",
@@ -1790,7 +1969,8 @@ export const locations = [
     "address": "İSTİKLAL MAHALLESİ, ŞEHİT KIDEMLİ ÜSTÇAVUŞ SÜLEYMAN GÜR BULVARI NO:3B",
     "contract": true,
     "latitude": 36.2701858,
-    "longitude": 32.3179818
+    "longitude": 32.3179818,
+    "iletisim": "03728534948"
   },
   {
     "name": "FULYA ECZANESİ OPTİK",
@@ -1800,7 +1980,8 @@ export const locations = [
     "address": "ŞİRİNYALI MAH. İSMET GÖKŞEN CAD. SİYA SİTESİ NO:1",
     "contract": true,
     "latitude": 36.8636811,
-    "longitude": 30.7289155
+    "longitude": 30.7289155,
+    "iletisim": "02423165645"
   },
   {
     "name": "VERESELİ ANIL ECZANESİ",
@@ -1810,7 +1991,8 @@ export const locations = [
     "address": "Balbey Mahallesi Ali Çetinkaya Cad. Baştepe işhanı No:3C",
     "contract": true,
     "latitude": 38.4452221,
-    "longitude": 30.128794
+    "longitude": 30.128794,
+    "iletisim": "02422420509"
   },
   {
     "name": "KARAMANLI ECZANESİ",
@@ -1820,7 +2002,8 @@ export const locations = [
     "address": "Kızılsaray Mahallesi, Yener Ulusoy Blv. Murat Apt NO:48/c",
     "contract": true,
     "latitude": 36.8919296,
-    "longitude": 30.698122
+    "longitude": 30.698122,
+    "iletisim": "02422489866"
   },
   {
     "name": "ALAYDIN ECZANESİ",
@@ -1830,7 +2013,8 @@ export const locations = [
     "address": "ŞEKERHANE MAHALLESİ HACET CADDESİ ÇON SOK.NO:2/D",
     "contract": true,
     "latitude": 36.5455448,
-    "longitude": 32.0040558
+    "longitude": 32.0040558,
+    "iletisim": "02425130397"
   },
   {
     "name": "NOYAN ECZANESİ",
@@ -1840,7 +2024,8 @@ export const locations = [
     "address": "ŞEKERHANE MAH. ŞEVKET TOKUŞ CAD. NO:30",
     "contract": true,
     "latitude": 36.5472877,
-    "longitude": 32.0014147
+    "longitude": 32.0014147,
+    "iletisim": "02425134908"
   },
   {
     "name": "ÖZDEMİR ECZANESİ",
@@ -1850,7 +2035,8 @@ export const locations = [
     "address": "Fener Mahallesi, 1968. Sk. NO:9 - 1 özkavak apartmanı",
     "contract": true,
     "latitude": 36.8531926,
-    "longitude": 30.7582828
+    "longitude": 30.7582828,
+    "iletisim": "03462254005"
   },
   {
     "name": "ALANYA ECZANESİ",
@@ -1860,7 +2046,8 @@ export const locations = [
     "address": "Güller Pınarı Mahallesi Eşref kahvecioğlu Caddesi Palmiye 2 Apt. altı no:3/A",
     "contract": true,
     "latitude": 36.5459606,
-    "longitude": 32.0127067
+    "longitude": 32.0127067,
+    "iletisim": "02425132007"
   },
   {
     "name": "ÖZKAYA ECZANESİ",
@@ -1870,7 +2057,8 @@ export const locations = [
     "address": "Cumhuriyet Mahallesi, İpek 2 Sokak No:20/2",
     "contract": true,
     "latitude": 36.268562,
-    "longitude": 32.314304
+    "longitude": 32.314304,
+    "iletisim": "02163160473"
   },
   {
     "name": "TAŞ ECZANESİ",
@@ -1880,7 +2068,8 @@ export const locations = [
     "address": "Merkez mahallesi 2026 sokak numara 17/A",
     "contract": true,
     "latitude": 36.9202542,
-    "longitude": 31.0880473
+    "longitude": 31.0880473,
+    "iletisim": "02322624757"
   },
   {
     "name": "ÖZSOY ECZANESİ",
@@ -1890,7 +2079,8 @@ export const locations = [
     "address": "güneş mahallesi şht. asteğmen ömer halisdemir caddesi no:42",
     "contract": true,
     "latitude": 36.93052,
-    "longitude": 30.73079
+    "longitude": 30.73079,
+    "iletisim": "02423398800"
   },
   {
     "name": "GÜLGÜN ECZANESİ",
@@ -1900,7 +2090,8 @@ export const locations = [
     "address": "Kökez Mahallesi, Cumhuriyet Cd. NO: 3/B",
     "contract": true,
     "latitude": 36.9175491,
-    "longitude": 31.1044968
+    "longitude": 31.1044968,
+    "iletisim": "03222567071"
   },
   {
     "name": "CAN ECZANESİ",
@@ -1910,7 +2101,8 @@ export const locations = [
     "address": "SİNAN MAH.1251 SOKAK.30/F MURATPAŞA-ANTALYA",
     "contract": true,
     "latitude": 36.88783950000001,
-    "longitude": 30.70958869999999
+    "longitude": 30.70958869999999,
+    "iletisim": "05416702223"
   },
   {
     "name": "DURU ECZANESİ",
@@ -1920,7 +2112,8 @@ export const locations = [
     "address": "ALTINKUM MAH. GAZİ MUSTAFA KEMAL BULVARI NO:18/A",
     "contract": true,
     "latitude": 36.8635263,
-    "longitude": 30.6354046
+    "longitude": 30.6354046,
+    "iletisim": "03122306419"
   },
   {
     "name": "GÖZLEM ECZANESİ",
@@ -1930,7 +2123,8 @@ export const locations = [
     "address": "İSTİKLAL MAH. ATATÜRK CAD. YAMAN İŞ MERKEZİ NO:7/7",
     "contract": true,
     "latitude": 36.2753196,
-    "longitude": 32.315621
+    "longitude": 32.315621,
+    "iletisim": "02425727442"
   },
   {
     "name": "BİZİM ECZANE",
@@ -1940,7 +2134,8 @@ export const locations = [
     "address": "ÖZGÜRLÜK MAH. MEHMET AKİF CAD. NO:53 / B / DOKUMA",
     "contract": true,
     "latitude": 36.9121175,
-    "longitude": 30.6852236
+    "longitude": 30.6852236,
+    "iletisim": "03266159523"
   },
   {
     "name": "ALTINKUM ECZANESİ",
@@ -1950,7 +2145,8 @@ export const locations = [
     "address": "Uluç Mahallesi, Gazi Mustafa Kemal Bul. 1150.Sok. Dilek Apt. D:2",
     "contract": true,
     "latitude": 36.8744464,
-    "longitude": 30.626509
+    "longitude": 30.626509,
+    "iletisim": "02325043334"
   },
   {
     "name": "DURDAŞ ECZANESİ",
@@ -1960,7 +2156,8 @@ export const locations = [
     "address": "Jandarma Sok. Muslu Apt. No:10",
     "contract": true,
     "latitude": 36.370957,
-    "longitude": 30.2858124
+    "longitude": 30.2858124,
+    "iletisim": "02428878020"
   },
   {
     "name": "PORTAKAL ÇİÇEĞİ ECZANESİ",
@@ -1970,7 +2167,8 @@ export const locations = [
     "address": "Kırcami Mahallesi, Perge Bulv. No:91/B",
     "contract": true,
     "latitude": 36.8744805,
-    "longitude": 30.7322999
+    "longitude": 30.7322999,
+    "iletisim": "02423111134"
   },
   {
     "name": "TURUNÇ ECZANESİ",
@@ -1980,7 +2178,8 @@ export const locations = [
     "address": "KIZLARPINARI MAD. STAD CAD. NO:21/C ÖZEL ANADOLU HASTANESİ KARŞISI",
     "contract": true,
     "latitude": 36.5552544,
-    "longitude": 31.9902241
+    "longitude": 31.9902241,
+    "iletisim": "02583778578"
   },
   {
     "name": "AYŞEGÜL ECZANESİ",
@@ -1990,7 +2189,8 @@ export const locations = [
     "address": "Zafer Mahallesi, 2615. Sk. No:3/1 Kaya Aprtmanı",
     "contract": true,
     "latitude": 36.9172272,
-    "longitude": 30.6936017
+    "longitude": 30.6936017,
+    "iletisim": "02163992937"
   },
   {
     "name": "UĞUR AKDENİZ ECZANESİ",
@@ -2000,7 +2200,8 @@ export const locations = [
     "address": "A. Pazarcı Mahallesi, İbrahim Sözen Cd. No:20",
     "contract": true,
     "latitude": 36.7874639,
-    "longitude": 31.4498099
+    "longitude": 31.4498099,
+    "iletisim": "02427430777"
   },
   {
     "name": "SİMGE ECZANESİ",
@@ -2010,7 +2211,8 @@ export const locations = [
     "address": "Şafak Mahallesi, 4256. Sk. No:24 D:No:24",
     "contract": true,
     "latitude": 36.9125456,
-    "longitude": 30.6439844
+    "longitude": 30.6439844,
+    "iletisim": "02422294097"
   },
   {
     "name": "TUĞBA ECZANESİ",
@@ -2020,7 +2222,8 @@ export const locations = [
     "address": "ŞİRİNYALI MAH. TEKELİOĞLU CADDESİ NO:2",
     "contract": true,
     "latitude": 36.857992,
-    "longitude": 30.745559
+    "longitude": 30.745559,
+    "iletisim": "02423126667"
   },
   {
     "name": "MÜJGAN ECZANESİ",
@@ -2030,7 +2233,8 @@ export const locations = [
     "address": "Tahılpazarı Mah., Şarampol Caddesi No:84 Markantalya, AVM D:ZK48",
     "contract": true,
     "latitude": 36.893047,
-    "longitude": 30.703858
+    "longitude": 30.703858,
+    "iletisim": "02423213353"
   },
   {
     "name": "UÇAN ECZANESİ",
@@ -2040,7 +2244,8 @@ export const locations = [
     "address": "Bahçelievler Mah. Turgut Reis Cad. NO:11",
     "contract": true,
     "latitude": 36.8854018,
-    "longitude": 30.687568
+    "longitude": 30.687568,
+    "iletisim": "03243252211"
   },
   {
     "name": "ÇÖZEN ECZANESİ",
@@ -2050,7 +2255,8 @@ export const locations = [
     "address": "Zafer Mah. Mithat Paşa Cad. NO:118/A",
     "contract": true,
     "latitude": 36.917211,
-    "longitude": 30.685492
+    "longitude": 30.685492,
+    "iletisim": "02423466252"
   },
   {
     "name": "YENİ SAĞLIK ECZANESİ",
@@ -2060,7 +2266,8 @@ export const locations = [
     "address": "Orta Mahallesi, Atatürk Cd. no:71/B",
     "contract": true,
     "latitude": 36.916946,
-    "longitude": 31.1030613
+    "longitude": 31.1030613,
+    "iletisim": "02427220737"
   },
   {
     "name": "EZDEM ECZANESİ",
@@ -2070,7 +2277,8 @@ export const locations = [
     "address": "Yenigün Mah. Yunus Emre Cad. no:93/A Yeni Alpek Evleri Sit.",
     "contract": true,
     "latitude": 36.8966082,
-    "longitude": 30.7222187
+    "longitude": 30.7222187,
+    "iletisim": "02425030768"
   },
   {
     "name": "SENTEZ ECZANESİ",
@@ -2080,7 +2288,8 @@ export const locations = [
     "address": "Şirinyalı Mahallesi, 1487. Sk. No:10",
     "contract": true,
     "latitude": 36.8633346,
-    "longitude": 30.7316781
+    "longitude": 30.7316781,
+    "iletisim": "02423167272"
   },
   {
     "name": "OZAN ECZANESİ",
@@ -2090,7 +2299,8 @@ export const locations = [
     "address": "ÇARŞI MAHALLESİ ŞEHİT DURSUN ACAR CADDESİ NO: 36B",
     "contract": true,
     "latitude": 41.181985,
-    "longitude": 41.8192172
+    "longitude": 41.8192172,
+    "iletisim": "02364144730"
   },
   {
     "name": "JÜLİDE NAZLI ECZANESİ",
@@ -2100,7 +2310,8 @@ export const locations = [
     "address": "sahil caddesi 46/B",
     "contract": true,
     "latitude": 41.3636493,
-    "longitude": 41.6771987
+    "longitude": 41.6771987,
+    "iletisim": "04663513946"
   },
   {
     "name": "DERMAN ECZANESİ",
@@ -2110,7 +2321,8 @@ export const locations = [
     "address": "Kurtuluş Mahallesi, 2011. Sk. No:9/A",
     "contract": true,
     "latitude": 37.8457605,
-    "longitude": 27.842973
+    "longitude": 27.842973,
+    "iletisim": "02822625876"
   },
   {
     "name": "CUMHURİYET ECZANESİ",
@@ -2120,7 +2332,8 @@ export const locations = [
     "address": "Altıntaş Mahallesi, Uzun Çarşı BULVARI No:91",
     "contract": true,
     "latitude": 37.9175353,
-    "longitude": 28.3264923
+    "longitude": 28.3264923,
+    "iletisim": "02167472232"
   },
   {
     "name": "ÇETİNTAŞ ECZANESİ",
@@ -2130,7 +2343,8 @@ export const locations = [
     "address": "Turan Mahallesi, Atatürk Blv. No:36/B",
     "contract": true,
     "latitude": 37.9179315,
-    "longitude": 28.3285628
+    "longitude": 28.3285628,
+    "iletisim": "02563133324"
   },
   {
     "name": "DEVA ECZANESİ",
@@ -2140,7 +2354,8 @@ export const locations = [
     "address": "Konak Mahallesi, İstasyon Cd. No: 13",
     "contract": true,
     "latitude": 37.75139900000001,
-    "longitude": 27.4049067
+    "longitude": 27.4049067,
+    "iletisim": "04462233323"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -2150,7 +2365,8 @@ export const locations = [
     "address": "HASANEFENDİ-RAMAZAN PAŞA MAHALLESİ DOĞU GAZİ BULVARI NO: 12/E",
     "contract": true,
     "latitude": 37.8497422,
-    "longitude": 27.8446929
+    "longitude": 27.8446929,
+    "iletisim": "02744124152"
   },
   {
     "name": "DERMAN ECZANESİ",
@@ -2160,7 +2376,8 @@ export const locations = [
     "address": "istiklal Mahallesi, Gazi Paşa Cd. No:47",
     "contract": true,
     "latitude": 37.852298,
-    "longitude": 27.722884
+    "longitude": 27.722884,
+    "iletisim": "02822625876"
   },
   {
     "name": "BİRSU ECZANESİ",
@@ -2170,7 +2387,8 @@ export const locations = [
     "address": "Türkmen Mh, Bahçearası Sk. No:1/A",
     "contract": true,
     "latitude": 37.8613496,
-    "longitude": 27.2609879
+    "longitude": 27.2609879,
+    "iletisim": "02566148517"
   },
   {
     "name": "BAHAR ECZANESİ",
@@ -2180,7 +2398,8 @@ export const locations = [
     "address": "TÜRKMEN MAHALLESİ İNÖNÜ BULVARI No:18/B",
     "contract": true,
     "latitude": 37.86165700000001,
-    "longitude": 27.2607974
+    "longitude": 27.2607974,
+    "iletisim": "02124150510"
   },
   {
     "name": "YEDİ EYLÜL ECZANESİ",
@@ -2190,7 +2409,8 @@ export const locations = [
     "address": "KAHRAMANLAR CAD. TARIM KREDİ İŞ MERKEZİ 56/E",
     "contract": true,
     "latitude": 37.857913,
-    "longitude": 27.261015
+    "longitude": 27.261015,
+    "iletisim": "02566120474"
   },
   {
     "name": "YÜCE ECZANESİ",
@@ -2200,7 +2420,8 @@ export const locations = [
     "address": "Camikebir Mahallesi, İnönü Bulvarı No: 38/6",
     "contract": true,
     "latitude": 37.860413,
-    "longitude": 27.260591
+    "longitude": 27.260591,
+    "iletisim": "04562137083"
   },
   {
     "name": "SEMA ECZANESİ",
@@ -2210,7 +2431,8 @@ export const locations = [
     "address": "Yenicamii Mahallesi, İstasyon Cd. No:54",
     "contract": true,
     "latitude": 37.752261,
-    "longitude": 27.4060121
+    "longitude": 27.4060121,
+    "iletisim": "02165203691"
   },
   {
     "name": "MEYDAN ECZANESİ",
@@ -2220,7 +2442,8 @@ export const locations = [
     "address": "Yenicamii Mah. İstasyon Cad. no: 74/A",
     "contract": true,
     "latitude": 37.7530398,
-    "longitude": 27.4070856
+    "longitude": 27.4070856,
+    "iletisim": "05348283250"
   },
   {
     "name": "ÜNLÜ ECZANESİ",
@@ -2230,7 +2453,8 @@ export const locations = [
     "address": "yeni mahalle Altıgen İşmerkezi NO:159/ A inönü BULVARI, (DİDİM DEVLET HASTANESİ KARŞISI)",
     "contract": true,
     "latitude": 37.3719373,
-    "longitude": 27.2738123
+    "longitude": 27.2738123,
+    "iletisim": "02568112696"
   },
   {
     "name": "PEHLİVAN ECZANESİ",
@@ -2240,7 +2464,8 @@ export const locations = [
     "address": "Meşrutiyet Mahallesi, Gençlik Cd. No:97",
     "contract": true,
     "latitude": 37.851673,
-    "longitude": 27.83021
+    "longitude": 27.83021,
+    "iletisim": "02562251624"
   },
   {
     "name": "ANIT ECZANESİ",
@@ -2250,7 +2475,8 @@ export const locations = [
     "address": "Altıntaş Mahallesi, 334. Sk. No:25/A İstasyon Meydanı",
     "contract": true,
     "latitude": 37.9161416,
-    "longitude": 28.327501
+    "longitude": 28.327501,
+    "iletisim": "02563134760"
   },
   {
     "name": "ÖZGÜREL ECZANESİ",
@@ -2260,7 +2486,8 @@ export const locations = [
     "address": "Konak Mahallesi, Aydın Cd. NO: 63/A",
     "contract": true,
     "latitude": 37.7560051,
-    "longitude": 27.4078782
+    "longitude": 27.4078782,
+    "iletisim": "02565123582"
   },
   {
     "name": "ULUSOY ECZANESİ",
@@ -2270,7 +2497,8 @@ export const locations = [
     "address": "Cumhuriyet Mahallesi, Tuğba Kuruyemiş Karşısı, İnönü Blv. No:73/6",
     "contract": true,
     "latitude": 37.8577187,
-    "longitude": 27.2611671
+    "longitude": 27.2611671,
+    "iletisim": "04348275747"
   },
   {
     "name": "AKÇAAL ECZANESİ",
@@ -2280,7 +2508,8 @@ export const locations = [
     "address": "Fevzipaşa Mahallesi, Aydın Cad. No:127/A",
     "contract": true,
     "latitude": 37.7613632,
-    "longitude": 27.4132364
+    "longitude": 27.4132364,
+    "iletisim": "02565123531"
   },
   {
     "name": "PELİN ECZANESİ",
@@ -2290,7 +2519,8 @@ export const locations = [
     "address": "Hamitabat Mah. Namık Gedik Cad. NO:26",
     "contract": true,
     "latitude": 37.6131261,
-    "longitude": 28.0627898
+    "longitude": 28.0627898,
+    "iletisim": "02164525344"
   },
   {
     "name": "YENİ ECZANE",
@@ -2300,7 +2530,8 @@ export const locations = [
     "address": "İHSANİYE MAHALLESİ 41. SOKAK NO: 32",
     "contract": true,
     "latitude": 40.35327119999999,
-    "longitude": 27.9745849
+    "longitude": 27.9745849,
+    "iletisim": NaN
   },
   {
     "name": "EROL ECZANESİ",
@@ -2310,7 +2541,8 @@ export const locations = [
     "address": "Fevzipaşa-vehbibey Mahallesi, Atatürk Blv. No:168",
     "contract": true,
     "latitude": 39.3196453,
-    "longitude": 26.6927367
+    "longitude": 26.6927367,
+    "iletisim": "02482344080"
   },
   {
     "name": "GÖNEN ECZANESİ",
@@ -2320,7 +2552,8 @@ export const locations = [
     "address": "Malkoç Mahallesi, Başçeşme Cd. No:31/B",
     "contract": true,
     "latitude": 40.1015443,
-    "longitude": 27.654302
+    "longitude": 27.654302,
+    "iletisim": "02667622532"
   },
   {
     "name": "MEHMETÇİK ECZANESİ",
@@ -2330,7 +2563,8 @@ export const locations = [
     "address": "Kasaplar Mahallesi, Soma Cd. No:9",
     "contract": true,
     "latitude": 39.6398703,
-    "longitude": 27.8805746
+    "longitude": 27.8805746,
+    "iletisim": "02662455467"
   },
   {
     "name": "SEVİ ECZANESİ",
@@ -2340,7 +2574,8 @@ export const locations = [
     "address": "ALİ ÇETİNKAYA MAHALLESİ ABDİ İPEKÇİ CADDESİ NO: 5",
     "contract": true,
     "latitude": 39.3352375,
-    "longitude": 26.7029206
+    "longitude": 26.7029206,
+    "iletisim": "02663310862"
   },
   {
     "name": "YENİ EROL ECZANESİ",
@@ -2350,7 +2585,8 @@ export const locations = [
     "address": "küçükköy Mahallesi, no : 6/2 maraşal fevzi çakmak caddesi",
     "contract": true,
     "latitude": 39.3183029,
-    "longitude": 26.6980248
+    "longitude": 26.6980248,
+    "iletisim": "02663244345"
   },
   {
     "name": "GÜL ECZANESİ",
@@ -2360,7 +2596,8 @@ export const locations = [
     "address": "FERAH MAHALLESİ BAĞLARBAŞI SOKAK NO: 2",
     "contract": true,
     "latitude": 39.5857782,
-    "longitude": 28.6276009
+    "longitude": 28.6276009,
+    "iletisim": "03124469496"
   },
   {
     "name": "YALÇINER ECZANESİ",
@@ -2370,7 +2607,8 @@ export const locations = [
     "address": "Günaydın Mahallesi, istiklal Cd. No: 13/A",
     "contract": true,
     "latitude": 40.3546714,
-    "longitude": 27.972651
+    "longitude": 27.972651,
+    "iletisim": "02423491339"
   },
   {
     "name": "OZAN ECZANESİ",
@@ -2380,7 +2618,8 @@ export const locations = [
     "address": "Altınoluk , Atatürk Cd. No:33",
     "contract": true,
     "latitude": 39.5671146,
-    "longitude": 26.7477428
+    "longitude": 26.7477428,
+    "iletisim": "02364144730"
   },
   {
     "name": "TUNÇ ECZANESİ",
@@ -2390,7 +2629,8 @@ export const locations = [
     "address": "ESKİ KUYUMCULAR MAH. YEŞİLLİ MEYDANI ABDULGAFUR EFENDİ CAD. NO:6 / A",
     "contract": true,
     "latitude": 39.6458865,
-    "longitude": 27.8831548
+    "longitude": 27.8831548,
+    "iletisim": "02662435456"
   },
   {
     "name": "AKDENİZ ECZANESİ",
@@ -2400,7 +2640,8 @@ export const locations = [
     "address": "Gaziosmanpaşa Mh. 13_209.Sk. No: 39/a-b",
     "contract": true,
     "latitude": 39.6506294,
-    "longitude": 27.9074684
+    "longitude": 27.9074684,
+    "iletisim": "03222351587"
   },
   {
     "name": "ÖZMELEK ECZANESİ",
@@ -2410,7 +2651,8 @@ export const locations = [
     "address": "KARESİ Mahallesi, Milli Kuvvetler Cd. No:29/A",
     "contract": true,
     "latitude": 39.647828,
-    "longitude": 27.8831118
+    "longitude": 27.8831118,
+    "iletisim": "02662411559"
   },
   {
     "name": "ERAY ECZANESİ",
@@ -2420,7 +2662,8 @@ export const locations = [
     "address": "İSKELE MH. CUMHURİYET CD. NO:5B",
     "contract": true,
     "latitude": 39.5676824,
-    "longitude": 26.7446133
+    "longitude": 26.7446133,
+    "iletisim": "03642137274"
   },
   {
     "name": "NİLAY EZCANESİ",
@@ -2430,7 +2673,8 @@ export const locations = [
     "address": "Ali Hikmet Paşa Mahallesi, ekin Sk. no:64/A",
     "contract": true,
     "latitude": 39.65480460000001,
-    "longitude": 27.8885046
+    "longitude": 27.8885046,
+    "iletisim": "02662412285"
   },
   {
     "name": "CEYDA ECZANESİ",
@@ -2440,7 +2684,8 @@ export const locations = [
     "address": "PAŞA ALANI MAH. özel sevgi hastanesi karşısı NO:26 / B",
     "contract": true,
     "latitude": 39.6655691,
-    "longitude": 27.9092237
+    "longitude": 27.9092237,
+    "iletisim": "02323303500"
   },
   {
     "name": "ÖZLEM ECZANESİ",
@@ -2450,7 +2695,8 @@ export const locations = [
     "address": "Şahindere Mh Mimar Sinan Cd. No:2/b Baysal Apt, Altınoluk",
     "contract": true,
     "latitude": 39.568758,
-    "longitude": 26.7445614
+    "longitude": 26.7445614,
+    "iletisim": "02483251340"
   },
   {
     "name": "DURU ECZANESİ",
@@ -2460,7 +2706,8 @@ export const locations = [
     "address": "AKÇAY MAH. SAKARYA CAD. NO:49",
     "contract": true,
     "latitude": 39.5813921,
-    "longitude": 26.9306615
+    "longitude": 26.9306615,
+    "iletisim": "03122306419"
   },
   {
     "name": "GÜLİZ ECZANESİ",
@@ -2470,7 +2717,8 @@ export const locations = [
     "address": "Kocacami Mah. Ali Çetinkaya Cad. no:41/B",
     "contract": true,
     "latitude": 39.5023814,
-    "longitude": 26.9800676
+    "longitude": 26.9800676,
+    "iletisim": "02664125646"
   },
   {
     "name": "GÖKAY ECZANESİ",
@@ -2480,7 +2728,8 @@ export const locations = [
     "address": "Cumhuriyet Mah. 54. Sok. 9 Gezer Sit. G Blok",
     "contract": true,
     "latitude": 39.5894365,
-    "longitude": 27.0320316
+    "longitude": 27.0320316,
+    "iletisim": "02663731426"
   },
   {
     "name": "BİHTER ECZANESİ",
@@ -2490,7 +2739,8 @@ export const locations = [
     "address": "Kadıköy Mah. Mehmet Akif Ersoy Cad. no:2/A",
     "contract": true,
     "latitude": 39.6420639,
-    "longitude": 26.9381434
+    "longitude": 26.9381434,
+    "iletisim": "02663722112"
   },
   {
     "name": "İLAYDA ECZANESİ",
@@ -2500,7 +2750,8 @@ export const locations = [
     "address": "Kocacami Mh. Aliçetinkaya Cd. No:29/a",
     "contract": true,
     "latitude": 39.5020022,
-    "longitude": 26.9798285
+    "longitude": 26.9798285,
+    "iletisim": "02664164747"
   },
   {
     "name": "ECZANE ZUHAL YARMA",
@@ -2510,7 +2761,8 @@ export const locations = [
     "address": "MOLLAOĞLU MAH. ZÜBEYDE HANIM CAD. NO:36",
     "contract": true,
     "latitude": 39.5853344,
-    "longitude": 28.6271856
+    "longitude": 28.6271856,
+    "iletisim": "02666626262"
   },
   {
     "name": "BÜYÜK ECZANE",
@@ -2520,7 +2772,8 @@ export const locations = [
     "address": "FEVZİ PAŞA VEHBİ BEY MAH. SEFA CAD. NO:7",
     "contract": true,
     "latitude": 39.319185,
-    "longitude": 26.692387
+    "longitude": 26.692387,
+    "iletisim": "05336569880"
   },
   {
     "name": "ACAR KÖŞE ECZANESİ",
@@ -2530,7 +2783,8 @@ export const locations = [
     "address": "PAŞABAYIR MAHALLESİ ATATÜRK BULVARI NO:53/A ÖZEL BANDIRMA HASTANESİ KARŞISI",
     "contract": true,
     "latitude": 40.34097999999999,
-    "longitude": 27.966937
+    "longitude": 27.966937,
+    "iletisim": "02667151025"
   },
   {
     "name": "DUYGU DENİZ ECZANESİ",
@@ -2540,7 +2794,8 @@ export const locations = [
     "address": "CAMİVASAT MAH. CUMHURİYET MEYDANI NO:15 / B",
     "contract": true,
     "latitude": 39.593583,
-    "longitude": 27.020543
+    "longitude": 27.020543,
+    "iletisim": "02663737888"
   },
   {
     "name": "TÜLAY ECZANESİ",
@@ -2550,7 +2805,8 @@ export const locations = [
     "address": "Ertuğrulgazi Mahallesi, Altı Eylül Cd. no:6/1",
     "contract": true,
     "latitude": 40.1375531,
-    "longitude": 29.9781723
+    "longitude": 29.9781723,
+    "iletisim": "02282121001"
   },
   {
     "name": "BURCU ECZANESİ",
@@ -2560,7 +2816,8 @@ export const locations = [
     "address": "GAZİPAŞA MAHALLESİ TEVFİK BEY CAD. NO:26",
     "contract": true,
     "latitude": 40.143474,
-    "longitude": 29.979902
+    "longitude": 29.979902,
+    "iletisim": "03682617888"
   },
   {
     "name": "AKSU ECZANESİ",
@@ -2570,7 +2827,8 @@ export const locations = [
     "address": "Kasımpaşa Mahallesi, İsmet İnönü Cad. NO:22/A",
     "contract": true,
     "latitude": 39.906114,
-    "longitude": 30.039003
+    "longitude": 30.039003,
+    "iletisim": "02283155457"
   },
   {
     "name": "OLCAY ECZANESİ",
@@ -2580,7 +2838,8 @@ export const locations = [
     "address": "GAZİ PAŞA MAH. ATATÜRK BULVARI NO:4",
     "contract": true,
     "latitude": 40.142573,
-    "longitude": 29.97933
+    "longitude": 29.97933,
+    "iletisim": "02282126633"
   },
   {
     "name": "ONUR ECZANESİ",
@@ -2590,7 +2849,8 @@ export const locations = [
     "address": "YENİŞEHİR MAHALLESİ İNÖNÜ CADDESİ NO: 16/E",
     "contract": true,
     "latitude": 38.885464,
-    "longitude": 40.496625
+    "longitude": 40.496625,
+    "iletisim": "03266184045"
   },
   {
     "name": "YENİ GÜVEN ECZANESİ",
@@ -2600,7 +2860,8 @@ export const locations = [
     "address": "Sahil Mahallesi, Cumhuriyet Bul. No:377",
     "contract": true,
     "latitude": 38.4960402,
-    "longitude": 42.2875893
+    "longitude": 42.2875893,
+    "iletisim": "04348271088"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -2610,7 +2871,8 @@ export const locations = [
     "address": "GAZİ BEY MAHALLESİ BEDİÜZZAMAN SAİDİ KÜRDİ CADDESİ NO: 45/H",
     "contract": true,
     "latitude": 38.400569,
-    "longitude": 42.109502
+    "longitude": 42.109502,
+    "iletisim": "02323813135"
   },
   {
     "name": "YENİ ECZANE",
@@ -2620,7 +2882,8 @@ export const locations = [
     "address": "KABİLER MAH. HACIEMİN EFENDİ CAD. NO 59/B",
     "contract": true,
     "latitude": 40.8103875,
-    "longitude": 32.2103304
+    "longitude": 32.2103304,
+    "iletisim": NaN
   },
   {
     "name": "AYLİN ECZANESİ",
@@ -2630,7 +2893,8 @@ export const locations = [
     "address": "TABAKLAR MAHALLESİ İZZET BAYSAL CADDDESİ NO:63/12",
     "contract": true,
     "latitude": 40.73076160000001,
-    "longitude": 31.6047878
+    "longitude": 31.6047878,
+    "iletisim": "02663736867"
   },
   {
     "name": "ÇAĞLA ECZANESİ",
@@ -2640,7 +2904,8 @@ export const locations = [
     "address": "TABAKLAR MAHALLESİ MAZHAR MURTEZAOĞLU CADDESİ NO:27/1",
     "contract": true,
     "latitude": 40.7281554,
-    "longitude": 31.600121
+    "longitude": 31.600121,
+    "iletisim": "03742122016"
   },
   {
     "name": "ŞENER ECZANESİ",
@@ -2650,7 +2915,8 @@ export const locations = [
     "address": "KONAK MAH. GAZİ CAD. NO:62",
     "contract": true,
     "latitude": 37.7188242,
-    "longitude": 30.286064
+    "longitude": 30.286064,
+    "iletisim": "02482335228"
   },
   {
     "name": "ÖZCAN ECZANESİ",
@@ -2660,7 +2926,8 @@ export const locations = [
     "address": "Yeni Mahallesi, Şehit Ersan Caddesi No:8/C",
     "contract": true,
     "latitude": 37.7228278,
-    "longitude": 30.29157369999999
+    "longitude": 30.29157369999999,
+    "iletisim": "03428621376"
   },
   {
     "name": "EROL ECZANESİ",
@@ -2670,7 +2937,8 @@ export const locations = [
     "address": "Özgür Mahallesi, İsmet İnönü Blv. No:11",
     "contract": true,
     "latitude": 37.7216484,
-    "longitude": 30.2892738
+    "longitude": 30.2892738,
+    "iletisim": "02482344080"
   },
   {
     "name": "MUTLU ECZANESİ",
@@ -2680,7 +2948,8 @@ export const locations = [
     "address": "Burç Mahallesi, Namık Kemal Cd. No:10",
     "contract": true,
     "latitude": 37.7192531,
-    "longitude": 30.2806195
+    "longitude": 30.2806195,
+    "iletisim": "03242373086"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -2690,7 +2959,8 @@ export const locations = [
     "address": "Tavşanlı Mahallesi, Bursa Cad. Atatürk Blv. Manifaturacı Sait Özer Apt. Altı NO:5/A",
     "contract": true,
     "latitude": 40.2138142,
-    "longitude": 28.3522948
+    "longitude": 28.3522948,
+    "iletisim": "03247141116"
   },
   {
     "name": "TOKGÖZ ECZANESİ",
@@ -2700,7 +2970,8 @@ export const locations = [
     "address": "Hasanbey Mahallesi, Halitpaşa Cd. No:55/A",
     "contract": true,
     "latitude": 40.3764243,
-    "longitude": 28.885628
+    "longitude": 28.885628,
+    "iletisim": "02245441161"
   },
   {
     "name": "TURAN ECZANESİ",
@@ -2710,7 +2981,8 @@ export const locations = [
     "address": "emek zekai gümüşdiş mahallesi sanayi caddesi no: 612/A",
     "contract": true,
     "latitude": 40.2566968,
-    "longitude": 28.9530668
+    "longitude": 28.9530668,
+    "iletisim": "02583612400"
   },
   {
     "name": "MUTLU ECZANESİ",
@@ -2720,7 +2992,8 @@ export const locations = [
     "address": "güzelyalı eğitim mahallesi lise cad no:25/B",
     "contract": true,
     "latitude": 40.3512296,
-    "longitude": 28.9285329
+    "longitude": 28.9285329,
+    "iletisim": "03242373086"
   },
   {
     "name": "HAVAN ECZANESİ",
@@ -2730,7 +3003,8 @@ export const locations = [
     "address": "Orhanbey Mahallesi Atatürk Cad. Koruyucu İş Hanı, No: 39/B",
     "contract": true,
     "latitude": 40.1829512,
-    "longitude": 29.0652249
+    "longitude": 29.0652249,
+    "iletisim": "02242220909"
   },
   {
     "name": "ENGİN ECZANESİ",
@@ -2740,7 +3014,8 @@ export const locations = [
     "address": "Hamidiye Mahallesi, İstiklal Cd no:1/A",
     "contract": true,
     "latitude": 40.4312733,
-    "longitude": 29.15565879999999
+    "longitude": 29.15565879999999,
+    "iletisim": "02245147373"
   },
   {
     "name": "MUDANYA ECZANESİ",
@@ -2750,7 +3025,8 @@ export const locations = [
     "address": "Mütareke Mah. Mustafa Kemal Paşa Cad. No:67",
     "contract": true,
     "latitude": 40.3785841,
-    "longitude": 28.8814297
+    "longitude": 28.8814297,
+    "iletisim": "02245440450"
   },
   {
     "name": "AKSOY ECZANE OPTİK",
@@ -2760,7 +3036,8 @@ export const locations = [
     "address": "HOCAALİZADE MAH. ATATÜRK CAD. NO:13/A SETBAŞI",
     "contract": true,
     "latitude": 40.1816548,
-    "longitude": 29.0683858
+    "longitude": 29.0683858,
+    "iletisim": "02242225771"
   },
   {
     "name": "ÇİĞDEM ECZANESİ",
@@ -2770,7 +3047,8 @@ export const locations = [
     "address": "Cuma Mahallesi, Nuri Doğrul Cd. No:24",
     "contract": true,
     "latitude": 40.079152,
-    "longitude": 29.5122245
+    "longitude": 29.5122245,
+    "iletisim": "02247153450"
   },
   {
     "name": "İHSANİYE ECZANESİ",
@@ -2780,7 +3058,8 @@ export const locations = [
     "address": "İhsaniye Mahallesi, Cami (110) Sk. No: 52/B",
     "contract": true,
     "latitude": 40.142458,
-    "longitude": 28.8130675
+    "longitude": 28.8130675,
+    "iletisim": "02242467278"
   },
   {
     "name": "GÜLTEKİN ECZANESİ",
@@ -2790,7 +3069,8 @@ export const locations = [
     "address": "MURADİYE MAH. GARAJ SOKAK DOĞANN GÜLLÜ NO: 32/E",
     "contract": true,
     "latitude": 40.4392273,
-    "longitude": 29.3714909
+    "longitude": 29.3714909,
+    "iletisim": "02245732463"
   },
   {
     "name": "SERDAR ECZANESİ",
@@ -2800,7 +3080,8 @@ export const locations = [
     "address": "Ömerbey Mahallesi, Halit Paşa Caddesi no:80/BD",
     "contract": true,
     "latitude": 40.3749188,
-    "longitude": 28.8871075
+    "longitude": 28.8871075,
+    "iletisim": "02245446130"
   },
   {
     "name": "ŞANLI ECZANESİ",
@@ -2810,7 +3091,8 @@ export const locations = [
     "address": "Yıl Mh, Dr. Erdal İnönü Cd Özlüce Park İş Merkezi No:100 D:25 / E",
     "contract": true,
     "latitude": 40.142458,
-    "longitude": 28.8130675
+    "longitude": 28.8130675,
+    "iletisim": "02242217543"
   },
   {
     "name": "KAHRAMAN ECZANESİ",
@@ -2820,7 +3102,8 @@ export const locations = [
     "address": "HAMİDİYE MH İSTİKLAL CD BORA SK NO: 8/B",
     "contract": true,
     "latitude": 40.4310021,
-    "longitude": 29.15528849999999
+    "longitude": 29.15528849999999,
+    "iletisim": "02245131913"
   },
   {
     "name": "KADIOĞLU ECZANESİ",
@@ -2830,7 +3113,8 @@ export const locations = [
     "address": "İstiklal Mh., Ragıp Sk. No: 15/A",
     "contract": true,
     "latitude": 40.2211729,
-    "longitude": 29.0082487
+    "longitude": 29.0082487,
+    "iletisim": "02427431310"
   },
   {
     "name": "ULUDAĞ ECZANESİ",
@@ -2840,7 +3124,8 @@ export const locations = [
     "address": "nalbantoğlu mah. belediye caddesi no:13",
     "contract": true,
     "latitude": 40.2559626,
-    "longitude": 28.953871
+    "longitude": 28.953871,
+    "iletisim": "02242253237"
   },
   {
     "name": "İNCİ ECZANESİ",
@@ -2850,7 +3135,8 @@ export const locations = [
     "address": "Alacamescit Mahallesi, İnönü Cd. No:47",
     "contract": true,
     "latitude": 40.1848329,
-    "longitude": 29.0688484
+    "longitude": 29.0688484,
+    "iletisim": "02324454386"
   },
   {
     "name": "SİNANOĞLU ECZANESİ",
@@ -2860,7 +3146,8 @@ export const locations = [
     "address": "BARIŞ MAH. FATİH SULTAN MEHMET BULVARI İCAR SOK. NO:2/12 palandöken apartmanı",
     "contract": true,
     "latitude": 40.2130792,
-    "longitude": 28.97540679999999
+    "longitude": 28.97540679999999,
+    "iletisim": "02244511034"
   },
   {
     "name": "DERMAN ECZANESİ",
@@ -2870,7 +3157,8 @@ export const locations = [
     "address": "Hamzabey Mah. Değirmen Sok. no:20/A",
     "contract": true,
     "latitude": 40.0406592,
-    "longitude": 28.4067397
+    "longitude": 28.4067397,
+    "iletisim": "02822625876"
   },
   {
     "name": "ÇAKIR ECZANESİ",
@@ -2880,7 +3168,8 @@ export const locations = [
     "address": "Muradiye Mah. Yalova Cad. No:50",
     "contract": true,
     "latitude": 40.4930011,
-    "longitude": 29.3095276
+    "longitude": 29.3095276,
+    "iletisim": "02245735298"
   },
   {
     "name": "TOPÇU ECZANESİ",
@@ -2890,7 +3179,8 @@ export const locations = [
     "address": "Arapzade Mah. Tekneli Küp Fındıklı Yolu Cad. No:50/3",
     "contract": true,
     "latitude": 40.4983205,
-    "longitude": 29.29847119999999
+    "longitude": 29.29847119999999,
+    "iletisim": "03664175081"
   },
   {
     "name": "UŞUN ECZANESİ",
@@ -2900,7 +3190,8 @@ export const locations = [
     "address": "OSMANGAZİ Mahallesi, Yiğitler Cd. no: 9",
     "contract": true,
     "latitude": 40.1863856,
-    "longitude": 29.056499
+    "longitude": 29.056499,
+    "iletisim": "02242231193"
   },
   {
     "name": "SEL ECZANESİ",
@@ -2910,7 +3201,8 @@ export const locations = [
     "address": "VIRACA MAHALLESİ BURSA CADDESİ NO: 69",
     "contract": true,
     "latitude": 40.0382357,
-    "longitude": 28.4065826
+    "longitude": 28.4065826,
+    "iletisim": "02246141319"
   },
   {
     "name": "LOKMAN ECZANESİ",
@@ -2920,7 +3212,8 @@ export const locations = [
     "address": "Doğanbey Mahallesi, Haşim İşcan Cd. NO:3-1",
     "contract": true,
     "latitude": 40.188987,
-    "longitude": 29.061948
+    "longitude": 29.061948,
+    "iletisim": "03464181385"
   },
   {
     "name": "DOĞU ECZANESİ",
@@ -2930,7 +3223,8 @@ export const locations = [
     "address": "Halitpaşa Mahallesi, Mustafakemalpaşa Cd. no:143/A",
     "contract": true,
     "latitude": 40.3800255,
-    "longitude": 28.8780084
+    "longitude": 28.8780084,
+    "iletisim": "02163710350"
   },
   {
     "name": "GELİNCİK ECZANE OPTİK",
@@ -2940,7 +3234,8 @@ export const locations = [
     "address": "İstiklal Mahallesi, 1. Edirne Sk. no:16-3",
     "contract": true,
     "latitude": 40.220586,
-    "longitude": 29.007424
+    "longitude": 29.007424,
+    "iletisim": "02242493505"
   },
   {
     "name": "HÜDAVENDİGAR ECZANESİ",
@@ -2950,7 +3245,8 @@ export const locations = [
     "address": "Hüdavendigar Mahallesi, Kanal Cd. No:46 oylum serdar apartmanı",
     "contract": true,
     "latitude": 40.2008023,
-    "longitude": 29.0093341
+    "longitude": 29.0093341,
+    "iletisim": "02242397292"
   },
   {
     "name": "BARBAROS ECZANESİ",
@@ -2960,7 +3256,8 @@ export const locations = [
     "address": "İhsaniye Mahallesi, Barbaros Cad. FSM 1453 Ofis No:1C/G D:7 NİLÜFER BURSA.",
     "contract": true,
     "latitude": 40.2136687,
-    "longitude": 28.9776794
+    "longitude": 28.9776794,
+    "iletisim": "05301610901"
   },
   {
     "name": "AKARSU ECZANESİ",
@@ -2970,7 +3267,8 @@ export const locations = [
     "address": "Erikli Mahallesi, Elvan Cd. No:40 A",
     "contract": true,
     "latitude": 40.1909822,
-    "longitude": 29.1388348
+    "longitude": 29.1388348,
+    "iletisim": "02364622020"
   },
   {
     "name": "FERZAN ECZANESİ",
@@ -2980,7 +3278,8 @@ export const locations = [
     "address": "Barış Mahallesi, Lozan(140) Sk. no:21B",
     "contract": true,
     "latitude": 40.142458,
-    "longitude": 28.8130675
+    "longitude": 28.8130675,
+    "iletisim": "02244529966"
   },
   {
     "name": "EYLÜL ECZANESİ",
@@ -2990,7 +3289,8 @@ export const locations = [
     "address": "Minareliçavuş Mahallesi, Mevlana Caddesi No:36/A",
     "contract": true,
     "latitude": 40.2471014,
-    "longitude": 28.9400636
+    "longitude": 28.9400636,
+    "iletisim": "03122299679"
   },
   {
     "name": "ÖYKÜ ECZANESİ",
@@ -3000,7 +3300,8 @@ export const locations = [
     "address": "Konak Mahalledsi, Eğitimciler Cad. No:82 D:9",
     "contract": true,
     "latitude": 40.201559,
-    "longitude": 28.9817602
+    "longitude": 28.9817602,
+    "iletisim": "03124252626"
   },
   {
     "name": "ORÇUN ECZANESİ",
@@ -3010,7 +3311,8 @@ export const locations = [
     "address": "TAVŞANLI MAHALLESİ RUNGUŞPAŞA CADDESİ NO:104",
     "contract": true,
     "latitude": 40.2166649,
-    "longitude": 28.362311
+    "longitude": 28.362311,
+    "iletisim": "02246768380"
   },
   {
     "name": "KRİSTAL PARK ECZANESİ",
@@ -3020,7 +3322,8 @@ export const locations = [
     "address": "İhsaniye Mahallesi, Barbaros Caddesi, Kristal Park Rezidans No:29",
     "contract": true,
     "latitude": 40.2131697,
-    "longitude": 28.9871779
+    "longitude": 28.9871779,
+    "iletisim": "02242402520"
   },
   {
     "name": "İSTANBUL ECZANESİ",
@@ -3030,7 +3333,8 @@ export const locations = [
     "address": "MİHRAPLİ PLAZA-BESEVLER ORHANELİ KAVSAGİ 9/7",
     "contract": true,
     "latitude": 40.2069969,
-    "longitude": 28.9935401
+    "longitude": 28.9935401,
+    "iletisim": "03125129986"
   },
   {
     "name": "İSTASYON BAHAR EZCANESİ",
@@ -3040,7 +3344,8 @@ export const locations = [
     "address": "Çırpan Mah. 1. Durak Sk. No:3",
     "contract": true,
     "latitude": 40.1956113,
-    "longitude": 29.0572653
+    "longitude": 29.0572653,
+    "iletisim": "02242229277"
   },
   {
     "name": "BEYOĞLU ECZANESİ",
@@ -3050,7 +3355,8 @@ export const locations = [
     "address": "DUMLUPINAR MAH. AKDENİZ CAD. NURHAYAT EVLERİ SİTESİ NO:2 D/B NİLÜFER/BURSA",
     "contract": true,
     "latitude": 40.2277878,
-    "longitude": 28.8337259
+    "longitude": 28.8337259,
+    "iletisim": "05467459070"
   },
   {
     "name": "KESTEL ECZANESİ",
@@ -3060,7 +3366,8 @@ export const locations = [
     "address": "kale mahallesi bursa caddesi no:2/B",
     "contract": true,
     "latitude": 40.2010836,
-    "longitude": 29.2123408
+    "longitude": 29.2123408,
+    "iletisim": "02243721015"
   },
   {
     "name": "İSTANBUL ECZANESİ",
@@ -3070,7 +3377,8 @@ export const locations = [
     "address": "Odunluk Mahallesi Lefkoşe Caddesi no:9A",
     "contract": true,
     "latitude": 40.2072921,
-    "longitude": 28.9930182
+    "longitude": 28.9930182,
+    "iletisim": "03125129986"
   },
   {
     "name": "AY ECZANESİ",
@@ -3080,7 +3388,8 @@ export const locations = [
     "address": "Altınşehir Mah., Abdi İpekçi Cad. No:1",
     "contract": true,
     "latitude": 40.2249059,
-    "longitude": 28.9217417
+    "longitude": 28.9217417,
+    "iletisim": "02624521394"
   },
   {
     "name": "ENDER ECZANESİ",
@@ -3090,7 +3399,8 @@ export const locations = [
     "address": "DUMLUPINAR MAHALLESİ DİNÇ SOKAK NO:2A NİLÜFER/BURSA",
     "contract": true,
     "latitude": 40.257333,
-    "longitude": 28.970177
+    "longitude": 28.970177,
+    "iletisim": "02249993004"
   },
   {
     "name": "BALAT ECZANESİ",
@@ -3100,7 +3410,8 @@ export const locations = [
     "address": "Ahmet Yesevi Mahallesi Hürriyet Caddesi No:21/A",
     "contract": true,
     "latitude": 40.267302,
-    "longitude": 28.9432061
+    "longitude": 28.9432061,
+    "iletisim": "02242447700"
   },
   {
     "name": "İREM ÇINAR ECZANESİ",
@@ -3110,7 +3421,8 @@ export const locations = [
     "address": "Kırcaali Mahallesi, Fevzi Çakmak Caddesi kayalı sokak No:34",
     "contract": true,
     "latitude": 40.1943796,
-    "longitude": 29.0606496
+    "longitude": 29.0606496,
+    "iletisim": "02242537352"
   },
   {
     "name": "ZARİFOĞLU ECZANESİ",
@@ -3120,7 +3432,8 @@ export const locations = [
     "address": "Ataevler Mahallesi, Bakgör Rezidans, Yılmaz Akkılıç Cd No:60/A D:A Blok",
     "contract": true,
     "latitude": 40.2199603,
-    "longitude": 28.9601434
+    "longitude": 28.9601434,
+    "iletisim": "02244417934"
   },
   {
     "name": "ELİT ECZANESİ",
@@ -3130,7 +3443,8 @@ export const locations = [
     "address": "İHSANİYE MAH. GÖRKEM SOK. NO:2DC",
     "contract": true,
     "latitude": 40.2149526,
-    "longitude": 28.9813729
+    "longitude": 28.9813729,
+    "iletisim": "02163632020"
   },
   {
     "name": "MARMARA ECZANESİ",
@@ -3140,7 +3454,8 @@ export const locations = [
     "address": "Kemalpaşa Mahallesi, İnönü Cd. No:104",
     "contract": true,
     "latitude": 40.1468156,
-    "longitude": 26.4045954
+    "longitude": 26.4045954,
+    "iletisim": "02625264657"
   },
   {
     "name": "GELİBOLU ECZANESİ",
@@ -3150,7 +3465,8 @@ export const locations = [
     "address": "Yazıcızade Mahallesi, Atatürk Cd. Belediye İş Hanı D:No:20/18",
     "contract": true,
     "latitude": 40.4061925,
-    "longitude": 26.6724598
+    "longitude": 26.6724598,
+    "iletisim": "02865662818"
   },
   {
     "name": "VATAN ECZANESİ",
@@ -3160,7 +3476,8 @@ export const locations = [
     "address": "Sakarya Mahallesi, İstiklal Cad. No:2",
     "contract": true,
     "latitude": 40.2265244,
-    "longitude": 27.2427012
+    "longitude": 27.2427012,
+    "iletisim": "03625321725"
   },
   {
     "name": "DERMAN ECZANESİ",
@@ -3170,7 +3487,8 @@ export const locations = [
     "address": "Camikebir Mahallesi, Atatürk Cad. No:3",
     "contract": true,
     "latitude": 39.7865707,
-    "longitude": 26.3377746
+    "longitude": 26.3377746,
+    "iletisim": "02822625876"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -3180,7 +3498,8 @@ export const locations = [
     "address": "İSTİKLAL MAHALLESİ İNÖNÜ CADDESİ NO: 9/71",
     "contract": true,
     "latitude": 40.2279367,
-    "longitude": 27.2436231
+    "longitude": 27.2436231,
+    "iletisim": "03247141116"
   },
   {
     "name": "MERKEZ ECZANESİ",
@@ -3190,7 +3509,8 @@ export const locations = [
     "address": "İsmetpaşa Mahallesi, Demircioğlu Cd. Uyanık Sokak No:1/A",
     "contract": true,
     "latitude": 40.1478148,
-    "longitude": 26.4058284
+    "longitude": 26.4058284,
+    "iletisim": "02642790801"
   },
   {
     "name": "GÜLER ECZANESİ",
@@ -3200,7 +3520,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. ATATÜRK CAD. NO: 2",
     "contract": true,
     "latitude": 40.0276711,
-    "longitude": 27.0475027
+    "longitude": 27.0475027,
+    "iletisim": "02126931149"
   },
   {
     "name": "EBRUCAN ECZANESİ",
@@ -3210,7 +3531,8 @@ export const locations = [
     "address": "Cumhuriyet Mahallesi, 15 Temmuz Şehitler Meydanı No: 18/A",
     "contract": true,
     "latitude": 40.345477,
-    "longitude": 26.6843049
+    "longitude": 26.6843049,
+    "iletisim": "02865121002"
   },
   {
     "name": "AKBAY ECZANESİ",
@@ -3220,7 +3542,8 @@ export const locations = [
     "address": "İsmetpaşa Mahallesi, Demircioğlu Cd. No:51",
     "contract": true,
     "latitude": 40.147064,
-    "longitude": 26.4079464
+    "longitude": 26.4079464,
+    "iletisim": "02567116373"
   },
   {
     "name": "GİZEM ECZANESİ",
@@ -3230,7 +3553,8 @@ export const locations = [
     "address": "Cumhuriyet Mahallesi, Atatürk Cd. No:5/A",
     "contract": true,
     "latitude": 40.0280406,
-    "longitude": 27.0478756
+    "longitude": 27.0478756,
+    "iletisim": "05315878991"
   },
   {
     "name": "ÖZHAN ECZANESİ",
@@ -3240,7 +3564,8 @@ export const locations = [
     "address": "İsmetpaşa Mahallesi, Demircioğlu Cd. No: 26/B",
     "contract": true,
     "latitude": 40.1472213,
-    "longitude": 26.4067302
+    "longitude": 26.4067302,
+    "iletisim": "02862175972"
   },
   {
     "name": "MERVE ECZANESİ",
@@ -3250,7 +3575,8 @@ export const locations = [
     "address": "Sakarya Mh, Çan Cd. No:4",
     "contract": true,
     "latitude": 40.2256733,
-    "longitude": 27.2423601
+    "longitude": 27.2423601,
+    "iletisim": "03445029970"
   },
   {
     "name": "DURAN ECZANESİ",
@@ -3260,7 +3586,8 @@ export const locations = [
     "address": "CEVATPAŞA MAH. MEHMET AKİF ERSOY CAD. NO:24/B",
     "contract": true,
     "latitude": 40.1512797,
-    "longitude": 26.411765
+    "longitude": 26.411765,
+    "iletisim": "02862136833"
   },
   {
     "name": "METE ECZANESİ",
@@ -3270,7 +3597,8 @@ export const locations = [
     "address": "Alaeddin Mahallesi, Kaptanlar Sk. No:12",
     "contract": true,
     "latitude": 40.406935,
-    "longitude": 26.6701912
+    "longitude": 26.6701912,
+    "iletisim": "02865661077"
   },
   {
     "name": "ÖZGÜR ECZANESİ",
@@ -3280,7 +3608,8 @@ export const locations = [
     "address": "Cumhuriyet Mahallesi,Şehit Alpay Evirgen sok No:2/A",
     "contract": true,
     "latitude": 40.6008466,
-    "longitude": 33.6162068
+    "longitude": 33.6162068,
+    "iletisim": "02328561284"
   },
   {
     "name": "EMNİYET ECZANESİ",
@@ -3290,7 +3619,8 @@ export const locations = [
     "address": "Cumhuriyet Mahallesi, Belediye Cd. 36/A Alparslan Türkeş Bulvarı",
     "contract": true,
     "latitude": 40.600836,
-    "longitude": 33.61641
+    "longitude": 33.61641,
+    "iletisim": "03762131557"
   },
   {
     "name": "LEBLEBİCİOĞLU ECZANESİ",
@@ -3300,7 +3630,8 @@ export const locations = [
     "address": "Yeniyol Mahallesi, Gazi Cad./8. Gazi Sok. 3/B",
     "contract": true,
     "latitude": 40.5505564,
-    "longitude": 34.9563859
+    "longitude": 34.9563859,
+    "iletisim": "03642245683"
   },
   {
     "name": "ARZUM ECZANESİ",
@@ -3310,7 +3641,8 @@ export const locations = [
     "address": "Sunguroğlu Mahallesi, 22. Sk. No:5",
     "contract": true,
     "latitude": 40.16054219999999,
-    "longitude": 34.3654761
+    "longitude": 34.3654761,
+    "iletisim": "03643118856"
   },
   {
     "name": "DİKEN ECZANESİ",
@@ -3320,7 +3652,8 @@ export const locations = [
     "address": "Ulukavak Mah. Eşrefhoca Cad. no:11/B",
     "contract": true,
     "latitude": 40.55709299999999,
-    "longitude": 34.95818
+    "longitude": 34.95818,
+    "iletisim": "03642248792"
   },
   {
     "name": "ERAY ECZANESİ",
@@ -3330,7 +3663,8 @@ export const locations = [
     "address": "Çepni Mahallesi, İnönü Cd. No:26/e",
     "contract": true,
     "latitude": 40.54734,
-    "longitude": 34.9519701
+    "longitude": 34.9519701,
+    "iletisim": "03642137274"
   },
   {
     "name": "ÖZDEN ECZANESİ",
@@ -3340,7 +3674,8 @@ export const locations = [
     "address": "Meydan Mah.Hastane Cad.no:1",
     "contract": true,
     "latitude": 40.7264431,
-    "longitude": 34.4662774
+    "longitude": 34.4662774,
+    "iletisim": "03462239344"
   },
   {
     "name": "BUHARA ECZANESİ",
@@ -3350,7 +3685,8 @@ export const locations = [
     "address": "Ulukavak Mh., Dr. Sadık Ahmet Cad. 14/A",
     "contract": true,
     "latitude": 40.5708683,
-    "longitude": 34.9570719
+    "longitude": 34.9570719,
+    "iletisim": "03642275500"
   },
   {
     "name": "ÇAĞATAY ECZANESİ",
@@ -3360,7 +3696,8 @@ export const locations = [
     "address": "Şekerpınar Mah, Muhsin Yazıcıoğlu Cd. No:119/G",
     "contract": true,
     "latitude": 40.2141538,
-    "longitude": 34.3343822
+    "longitude": 34.3343822,
+    "iletisim": "03643110525"
   },
   {
     "name": "YÜKSEL ECZANESİ",
@@ -3370,7 +3707,8 @@ export const locations = [
     "address": "BAHABEY MAHALLESİ ÇORUM CADDESİ No: 26/A",
     "contract": true,
     "latitude": 40.7320381,
-    "longitude": 34.4736716
+    "longitude": 34.4736716,
+    "iletisim": "02128812242"
   },
   {
     "name": "BİLGE ECZANESİ",
@@ -3380,7 +3718,8 @@ export const locations = [
     "address": "Yavruturna Mahallesi, Bahabey Cd. No:34/A",
     "contract": true,
     "latitude": 40.5497095,
-    "longitude": 34.964528
+    "longitude": 34.964528,
+    "iletisim": "02164468206"
   },
   {
     "name": "KALENDER ECZANESİ",
@@ -3390,7 +3729,8 @@ export const locations = [
     "address": "Merkez, Bahçelievler Mahallesi, Bahabey Cd. No:11",
     "contract": true,
     "latitude": 40.5513507,
-    "longitude": 34.963728
+    "longitude": 34.963728,
+    "iletisim": "03649991718"
   },
   {
     "name": "UMUT ECZANESİ",
@@ -3400,7 +3740,8 @@ export const locations = [
     "address": "Saraylar Mahallesi, Doktorlar Cad. Işıklı Dörtyol Kavşağı NO: 26/C",
     "contract": true,
     "latitude": 37.781981,
-    "longitude": 29.0828312
+    "longitude": 29.0828312,
+    "iletisim": "05431862302"
   },
   {
     "name": "ŞULE ECZANESİ",
@@ -3410,7 +3751,8 @@ export const locations = [
     "address": "SARAYLAR MAHALLESİ SALTAK CADDESİ NO: 18/A",
     "contract": true,
     "latitude": 37.782447,
-    "longitude": 29.0831649
+    "longitude": 29.0831649,
+    "iletisim": "02125530068"
   },
   {
     "name": "SEVİL ECZANESİ",
@@ -3420,7 +3762,8 @@ export const locations = [
     "address": "Topraklık Mahallesi, Gazi Mustafa Kemal Blv. No:43",
     "contract": true,
     "latitude": 37.784448,
-    "longitude": 29.0875919
+    "longitude": 29.0875919,
+    "iletisim": "02582615090"
   },
   {
     "name": "DEMİRCİOĞLU GÜL ECZANESİ",
@@ -3430,7 +3773,8 @@ export const locations = [
     "address": "YUNUSEMRE MAH. 6455 SOK. NO:4/A",
     "contract": true,
     "latitude": 37.743498,
-    "longitude": 29.106855
+    "longitude": 29.106855,
+    "iletisim": "02582635203"
   },
   {
     "name": "NUR ECZANESİ",
@@ -3440,7 +3784,8 @@ export const locations = [
     "address": "SIRAKAPILAR MAHALLESİ 493. SOKAK MESUTBEY İŞHANI NO: 2/5",
     "contract": true,
     "latitude": 37.7807276,
-    "longitude": 29.08378149999999
+    "longitude": 29.08378149999999,
+    "iletisim": "02125936647"
   },
   {
     "name": "AKTÜRK ECZANESİ",
@@ -3450,7 +3795,8 @@ export const locations = [
     "address": "MERKEZEFENDİ MAH.29 EKİM BULVARI NO:23/A",
     "contract": true,
     "latitude": 37.7830159,
-    "longitude": 29.0963328
+    "longitude": 29.0963328,
+    "iletisim": "02583613375"
   },
   {
     "name": "ÖZGÜL ECZANESİ",
@@ -3460,7 +3806,8 @@ export const locations = [
     "address": "Sümer Mahallesi, İzmir Blv. No:28",
     "contract": true,
     "latitude": 37.7855127,
-    "longitude": 29.092544
+    "longitude": 29.092544,
+    "iletisim": "02626423442"
   },
   {
     "name": "YAPICI ECZANESİ",
@@ -3470,7 +3817,8 @@ export const locations = [
     "address": "SIRAKAPILAR MAHALLESİ SALTAK CADDESİ NO: 43/A",
     "contract": true,
     "latitude": 37.7808441,
-    "longitude": 29.0823072
+    "longitude": 29.0823072,
+    "iletisim": "02582646823"
   },
   {
     "name": "TURAN ECZANESİ",
@@ -3480,7 +3828,8 @@ export const locations = [
     "address": "Adalet Mahallesi, Hasan Gönüllü Blv. 50/a",
     "contract": true,
     "latitude": 37.7784476,
-    "longitude": 29.0227635
+    "longitude": 29.0227635,
+    "iletisim": "02583612400"
   },
   {
     "name": "ÖZDERMAN ECZANESİ",
@@ -3490,7 +3839,8 @@ export const locations = [
     "address": "SARAYLAR MAHALLESİ HASTANE CADDESİ NO: 44/B",
     "contract": true,
     "latitude": 37.7826066,
-    "longitude": 29.0825138
+    "longitude": 29.0825138,
+    "iletisim": "02582411488"
   },
   {
     "name": "BIDIROĞLU ECZANESİ",
@@ -3500,7 +3850,8 @@ export const locations = [
     "address": "SARAY MAH. CUMHURİYET CAD. NO:47A",
     "contract": true,
     "latitude": 38.2982321,
-    "longitude": 29.7393125
+    "longitude": 29.7393125,
+    "iletisim": "02587138531"
   },
   {
     "name": "DİNÇ ECZANESİ",
@@ -3510,7 +3861,8 @@ export const locations = [
     "address": "Altıntop Mahallesi Mimar Sinan Cd. No:33/A",
     "contract": true,
     "latitude": 37.7755587,
-    "longitude": 29.0822527
+    "longitude": 29.0822527,
+    "iletisim": "03327123115"
   },
   {
     "name": "BERKAY ECZANESİ",
@@ -3520,7 +3872,8 @@ export const locations = [
     "address": "ATALAR MAHALLESİ 925/1. SOKAK NO:18/A",
     "contract": true,
     "latitude": 37.7710427,
-    "longitude": 29.0885949
+    "longitude": 29.0885949,
+    "iletisim": "02582613855"
   },
   {
     "name": "NEVA ECZANESİ",
@@ -3530,7 +3883,8 @@ export const locations = [
     "address": "DOKUZKAVAKLAR MAH. 2058 SK. NO: 4",
     "contract": true,
     "latitude": 37.7878152,
-    "longitude": 29.1046925
+    "longitude": 29.1046925,
+    "iletisim": "03124362799"
   },
   {
     "name": "İNANÖZ ECZANESİ",
@@ -3540,7 +3894,8 @@ export const locations = [
     "address": "YUNUSEMRE MAHALLESİ 6452. SOKAK NO: 1",
     "contract": true,
     "latitude": 37.7432597,
-    "longitude": 29.1076779
+    "longitude": 29.1076779,
+    "iletisim": "02582131464"
   },
   {
     "name": "ÖZ AKIN ECZANESİ",
@@ -3550,7 +3905,8 @@ export const locations = [
     "address": "Bala Mah. Hükümet Cad. no:32",
     "contract": true,
     "latitude": 37.9225969,
-    "longitude": 28.9232862
+    "longitude": 28.9232862,
+    "iletisim": "02584155161"
   },
   {
     "name": "EMİR ECZANESİ",
@@ -3560,7 +3916,8 @@ export const locations = [
     "address": "Adalet Mahallesi, Hasan Gönüllü Blv. No:6/A",
     "contract": true,
     "latitude": 37.7786408,
-    "longitude": 29.0346133
+    "longitude": 29.0346133,
+    "iletisim": "02583777110"
   },
   {
     "name": "BEGÜM ECZANESİ",
@@ -3570,7 +3927,8 @@ export const locations = [
     "address": "Bahçelievler Mahallesi, 3013. Sk. No: 48/B",
     "contract": true,
     "latitude": 37.774486,
-    "longitude": 29.0432088
+    "longitude": 29.0432088,
+    "iletisim": "03125036262"
   },
   {
     "name": "DEVECİ ECZANESİ",
@@ -3580,7 +3938,8 @@ export const locations = [
     "address": "ZEYTİNKÖY MH. 5049 SK. NO:7/7",
     "contract": true,
     "latitude": 37.7390686,
-    "longitude": 29.1140355
+    "longitude": 29.1140355,
+    "iletisim": "02582666769"
   },
   {
     "name": "MURAT ECZANESİ",
@@ -3590,7 +3949,8 @@ export const locations = [
     "address": "Yenişehir Mahallesi, Lise Caddesi No: 39",
     "contract": true,
     "latitude": 37.914472,
-    "longitude": 40.224716
+    "longitude": 40.224716,
+    "iletisim": "04866168580"
   },
   {
     "name": "SAYIN ECZANESİ",
@@ -3600,7 +3960,8 @@ export const locations = [
     "address": "ŞEHİTLİK MAH. 61. SOK. BAYRAM APT. ALTI NO:2 / A",
     "contract": true,
     "latitude": 43.876452,
-    "longitude": 5.395439
+    "longitude": 5.395439,
+    "iletisim": "04122287171"
   },
   {
     "name": "DİCLEKENT ECZANESİ",
@@ -3610,7 +3971,8 @@ export const locations = [
     "address": "DİCLEKENT MAHALLESİ YILMAZ GÜNEY CADDESİ ATAŞLAR CAN EVLERİ A BLOK ALTI NO:30/B",
     "contract": true,
     "latitude": 37.94714,
-    "longitude": 40.171333
+    "longitude": 40.171333,
+    "iletisim": "04122572091"
   },
   {
     "name": "UZMAN ECZANESİ",
@@ -3620,7 +3982,8 @@ export const locations = [
     "address": "Selahattin Eyyubi Mahallesi Aydın Arslan Bulv, Yılmazoğulları Apt 15/B",
     "contract": true,
     "latitude": 37.9314197,
-    "longitude": 40.2066088
+    "longitude": 40.2066088,
+    "iletisim": "02323860085"
   },
   {
     "name": "GÜLİSTAN ECZANESİ",
@@ -3630,7 +3993,8 @@ export const locations = [
     "address": "DİCLEKENT BULVARI HUZUREVLERİ MAHALLESİ NO: 8/B",
     "contract": true,
     "latitude": 37.9394594,
-    "longitude": 40.1895216
+    "longitude": 40.1895216,
+    "iletisim": "04122377077"
   },
   {
     "name": "ERDİNÇ ECZANESİ",
@@ -3640,7 +4004,8 @@ export const locations = [
     "address": "HUZUREVLERİ MAH.URFA BLV.38/A",
     "contract": true,
     "latitude": 37.1674039,
-    "longitude": 38.7955149
+    "longitude": 38.7955149,
+    "iletisim": "03246130121"
   },
   {
     "name": "İDİL ECZANESİ",
@@ -3650,7 +4015,8 @@ export const locations = [
     "address": "SELAHATTİN EYYUBİ MAH.AYDIN ARSLAN BULVARI AYDINKENT SİTESİ ŞELALE EVLERİA 1 BLOK NO:3",
     "contract": true,
     "latitude": 37.9314197,
-    "longitude": 40.2066088
+    "longitude": 40.2066088,
+    "iletisim": "05448864888"
   },
   {
     "name": "ALTIERLER ECZANESİ",
@@ -3660,7 +4026,8 @@ export const locations = [
     "address": "Koca Sinan Mahallesi, Muammer Aksoy Cad. Firuz Apt. No:81",
     "contract": true,
     "latitude": 41.6450042,
-    "longitude": 26.6140621
+    "longitude": 26.6140621,
+    "iletisim": "02842362209"
   },
   {
     "name": "GÜVEN ECZANESİ",
@@ -3670,7 +4037,8 @@ export const locations = [
     "address": "Sabuni Mahallesi, Saraçlar Cd. No: 9",
     "contract": true,
     "latitude": 41.6764259,
-    "longitude": 26.5530371
+    "longitude": 26.5530371,
+    "iletisim": "03122802411"
   },
   {
     "name": "ÖMÜR ECZANESİ",
@@ -3680,7 +4048,8 @@ export const locations = [
     "address": "DEMIRCİLER CAD.NO:A/3",
     "contract": true,
     "latitude": 40.858615,
-    "longitude": 26.630041
+    "longitude": 26.630041,
+    "iletisim": "02464415557"
   },
   {
     "name": "UĞUR ECZANESİ",
@@ -3690,7 +4059,8 @@ export const locations = [
     "address": "MURADİYE MAHALLESİ 19 MAYIS CADDESİ SUBAY LOJMANLARI SOKAK NO: 31/A",
     "contract": true,
     "latitude": 41.2660302,
-    "longitude": 26.6889456
+    "longitude": 26.6889456,
+    "iletisim": "03122307595"
   },
   {
     "name": "ÖZGE EZCANESİ",
@@ -3700,7 +4070,8 @@ export const locations = [
     "address": "Halise Hatun Mah. Gazi 1. Cad. No: 94/A",
     "contract": true,
     "latitude": 41.266979,
-    "longitude": 26.687679
+    "longitude": 26.687679,
+    "iletisim": "02845137788"
   },
   {
     "name": "BİRGÜL ECZANESİ",
@@ -3710,7 +4081,8 @@ export const locations = [
     "address": "Büyük Cami Mah.Demirciler Cd. No:23",
     "contract": true,
     "latitude": 40.8531809,
-    "longitude": 26.6325228
+    "longitude": 26.6325228,
+    "iletisim": "02847148420"
   },
   {
     "name": "GÜVEN ECZANESİ",
@@ -3720,7 +4092,8 @@ export const locations = [
     "address": "Büyük Cami Mah.Demirciler Cd. No:11",
     "contract": true,
     "latitude": 40.8530018,
-    "longitude": 26.6322528
+    "longitude": 26.6322528,
+    "iletisim": "03122802411"
   },
   {
     "name": "KENT ECZANESİ",
@@ -3730,7 +4103,8 @@ export const locations = [
     "address": "KÜLTÜR MAH. ŞEHİT İDRİS DOĞAN CAD. NO:4",
     "contract": true,
     "latitude": 38.6745941,
-    "longitude": 39.2142819
+    "longitude": 39.2142819,
+    "iletisim": "03122850232"
   },
   {
     "name": "ŞENGÜL ECZANESİ",
@@ -3740,7 +4114,8 @@ export const locations = [
     "address": "Hürriyet Caddesi No:34/A MİGROS Karşısı Site İşhanı Yanı",
     "contract": true,
     "latitude": 38.6742023,
-    "longitude": 39.2262435
+    "longitude": 39.2262435,
+    "iletisim": "02167115204"
   },
   {
     "name": "KARACA ECZANESİ",
@@ -3750,7 +4125,8 @@ export const locations = [
     "address": "RIZAİYE MAHALLESİ ŞEHİT BİNBAŞI SABRİ SOKAK NO: 53/B",
     "contract": true,
     "latitude": 38.6752544,
-    "longitude": 39.2249133
+    "longitude": 39.2249133,
+    "iletisim": "03129990198"
   },
   {
     "name": "ATAŞEHİR ECZANESİ",
@@ -3760,7 +4136,8 @@ export const locations = [
     "address": "ATAŞEHİR MAH. MALATYA CAD. NO:39",
     "contract": true,
     "latitude": 38.6657896,
-    "longitude": 39.1764241
+    "longitude": 39.1764241,
+    "iletisim": "03585024455"
   },
   {
     "name": "İLKBAHAR ECZANESİ",
@@ -3770,7 +4147,8 @@ export const locations = [
     "address": "İCADİYE MAH. BALAKGAZİ CAD. NO:16/A",
     "contract": true,
     "latitude": 38.6757392,
-    "longitude": 39.2276803
+    "longitude": 39.2276803,
+    "iletisim": "02423496666"
   },
   {
     "name": "YAŞAM ECZANESİ",
@@ -3780,7 +4158,8 @@ export const locations = [
     "address": "RIZAİYE MAH. BALAKGAZİ CAD. NO:5/A ELAZIĞ",
     "contract": true,
     "latitude": 38.6752951,
-    "longitude": 39.2247844
+    "longitude": 39.2247844,
+    "iletisim": "02166509418"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -3790,7 +4169,8 @@ export const locations = [
     "address": "MURATPAŞA MAHALLESİ CUMHURİYET CADDESİ NO: 20 YAKUTİYE ERZURUM",
     "contract": true,
     "latitude": 39.905872,
-    "longitude": 41.27316070000001
+    "longitude": 41.27316070000001,
+    "iletisim": "03247141116"
   },
   {
     "name": "ADA ECZANESI",
@@ -3800,7 +4180,8 @@ export const locations = [
     "address": "Lalapaşa Mah.Çaykara Cd.Çaykara Sitesi No:30/A",
     "contract": true,
     "latitude": 39.9087365,
-    "longitude": 41.2519686
+    "longitude": 41.2519686,
+    "iletisim": "04422341616"
   },
   {
     "name": "DOĞU ECZANESİ",
@@ -3810,7 +4191,8 @@ export const locations = [
     "address": "LALAPAŞA MAH. HASTANELER CAD. NO: 23/A",
     "contract": true,
     "latitude": 39.9097777,
-    "longitude": 41.2650237
+    "longitude": 41.2650237,
+    "iletisim": "02163710350"
   },
   {
     "name": "BİZİM ECZANESİ",
@@ -3820,7 +4202,8 @@ export const locations = [
     "address": "ADNAN MENDERES MAHALLESİ ÇAT YOLU CADDESİ KIRKÖZER SİTESİ B BLOK 25/D PALANDÖKEN ERZURUM",
     "contract": true,
     "latitude": 39.8874342,
-    "longitude": 41.2405432
+    "longitude": 41.2405432,
+    "iletisim": "02663950607"
   },
   {
     "name": "ÇAĞRI ECZANESİ",
@@ -3830,7 +4213,8 @@ export const locations = [
     "address": "KARABEKİR MAH.CUMHURİYET BULVARI NO:76/B",
     "contract": true,
     "latitude": 40.5461313,
-    "longitude": 41.9963261
+    "longitude": 41.9963261,
+    "iletisim": "02726128107"
   },
   {
     "name": "YENİ ECZANE",
@@ -3840,7 +4224,8 @@ export const locations = [
     "address": "İstiklal Mah. Şair Fuzuli Cad. 24/A",
     "contract": true,
     "latitude": 39.77572300000001,
-    "longitude": 30.51609909999999
+    "longitude": 30.51609909999999,
+    "iletisim": NaN
   },
   {
     "name": "GÜVEN ECZANESİ",
@@ -3850,7 +4235,8 @@ export const locations = [
     "address": "Hacı Ali Bey Mah. Sivrihisar 1. Cad. No: 5",
     "contract": true,
     "latitude": 39.7759736,
-    "longitude": 30.5201685
+    "longitude": 30.5201685,
+    "iletisim": "03122802411"
   },
   {
     "name": "GÜREL ECZANESİ",
@@ -3860,7 +4246,8 @@ export const locations = [
     "address": "Hoşnudiye Mah. ismet inönü Cad. No: 1-14/c",
     "contract": true,
     "latitude": 39.779352,
-    "longitude": 30.5020001
+    "longitude": 30.5020001,
+    "iletisim": "02222330675"
   },
   {
     "name": "DERMAN ECZANESİ",
@@ -3870,7 +4257,8 @@ export const locations = [
     "address": "KIRMIZI TOPRAK MAHALLESİ ERCAN SOKAK NO: 12/B",
     "contract": true,
     "latitude": 39.77388699999999,
-    "longitude": 30.511084
+    "longitude": 30.511084,
+    "iletisim": "02822625876"
   },
   {
     "name": "AKSOY ECZANESİ",
@@ -3880,7 +4268,8 @@ export const locations = [
     "address": "İSTİKLAL MAH. ŞAİR FUZULİ CAD. NO:2/A",
     "contract": true,
     "latitude": 39.776668,
-    "longitude": 30.517188
+    "longitude": 30.517188,
+    "iletisim": "02222312840"
   },
   {
     "name": "ÇOBANOĞLU ECZANESİ",
@@ -3890,7 +4279,8 @@ export const locations = [
     "address": "VİŞNELİK MAHALLESİ ÖĞRETMENLER CADDESİ NO: 61/A",
     "contract": true,
     "latitude": 39.7673826,
-    "longitude": 30.50663729999999
+    "longitude": 30.50663729999999,
+    "iletisim": "02222263900"
   },
   {
     "name": "ONUR ECZANESİ",
@@ -3900,7 +4290,8 @@ export const locations = [
     "address": "Hoşnudiye Mah. İsmet İnönü 1. Cad. Ziyabirand İş Mrk. No:32/B",
     "contract": true,
     "latitude": 39.7734634,
-    "longitude": 30.51587
+    "longitude": 30.51587,
+    "iletisim": "03266184045"
   },
   {
     "name": "HARMANCI ECZANESİ",
@@ -3910,7 +4301,8 @@ export const locations = [
     "address": "Batıkent Mah. Dizili Sok. NO:25/A",
     "contract": true,
     "latitude": 39.7894037,
-    "longitude": 30.4704834
+    "longitude": 30.4704834,
+    "iletisim": "02223351100"
   },
   {
     "name": "GÖZDE ECZANESİ",
@@ -3920,7 +4312,8 @@ export const locations = [
     "address": "Hoşnudiye Mah. İsmet İnönü 1. Cad. NO:43/B",
     "contract": true,
     "latitude": 39.7782028,
-    "longitude": 30.5153554
+    "longitude": 30.5153554,
+    "iletisim": "02362310800"
   },
   {
     "name": "IŞIK ECZANESİ",
@@ -3930,7 +4323,8 @@ export const locations = [
     "address": "BATıKENT MAH.KASıMPATı SOK.NO:2/A",
     "contract": true,
     "latitude": 39.7899939,
-    "longitude": 30.4694105
+    "longitude": 30.4694105,
+    "iletisim": "04223221868"
   },
   {
     "name": "ERYILMAZ ECZANESİ",
@@ -3940,7 +4334,8 @@ export const locations = [
     "address": "AKARBAşı MAHALLESI ATATüRK BULVARı NO:123/A",
     "contract": true,
     "latitude": 39.7647245,
-    "longitude": 30.5137357
+    "longitude": 30.5137357,
+    "iletisim": "02222331233"
   },
   {
     "name": "DELİKLİTAŞ ECZANESİ",
@@ -3950,7 +4345,8 @@ export const locations = [
     "address": "DELİKLİTAŞ MH. İBRAHİM KARAOĞLANOĞLU CD. NO:26-E",
     "contract": true,
     "latitude": 39.7709423,
-    "longitude": 30.5246488
+    "longitude": 30.5246488,
+    "iletisim": "02222206248"
   },
   {
     "name": "AYÇA ECZANESİ",
@@ -3960,7 +4356,8 @@ export const locations = [
     "address": "Eskibağlar Mah. Yılmaz Büyükerşen Bulvarı NO: 21 Espark AVM",
     "contract": true,
     "latitude": 39.7826068,
-    "longitude": 30.5106105
+    "longitude": 30.5106105,
+    "iletisim": "02566572500"
   },
   {
     "name": "TURUNCU ECZANESİ",
@@ -3970,7 +4367,8 @@ export const locations = [
     "address": "Vişnelik Mah. Öğretmenler Cad. 72/A",
     "contract": true,
     "latitude": 39.767698,
-    "longitude": 30.5047402
+    "longitude": 30.5047402,
+    "iletisim": "02565128188"
   },
   {
     "name": "BERKAN ECZANESİ",
@@ -3980,7 +4378,8 @@ export const locations = [
     "address": "İstiklal Mah. Konuk Sok. NO:22",
     "contract": true,
     "latitude": 39.7728034,
-    "longitude": 30.5161729
+    "longitude": 30.5161729,
+    "iletisim": "02222305289"
   },
   {
     "name": "ASLAN ECZANESİ",
@@ -3990,7 +4389,8 @@ export const locations = [
     "address": "kırmızı toprak mh. vali ali fuat güven cd. no:24/a",
     "contract": true,
     "latitude": 39.768785,
-    "longitude": 30.5010373
+    "longitude": 30.5010373,
+    "iletisim": "02222263399"
   },
   {
     "name": "ÖZCAN ECZANESİ",
@@ -4000,7 +4400,8 @@ export const locations = [
     "address": "Çamlıca Mahallesi, 22 Nolu Sk. No:2",
     "contract": true,
     "latitude": 37.0278268,
-    "longitude": 36.6327807
+    "longitude": 36.6327807,
+    "iletisim": "03428621376"
   },
   {
     "name": "KALEOĞLU ECZANESİ",
@@ -4010,7 +4411,8 @@ export const locations = [
     "address": "Mücahitler Mah. Gazi Muhtar Paşa Blv. 9. Cad. NO:49",
     "contract": true,
     "latitude": 37.0655373,
-    "longitude": 37.3702769
+    "longitude": 37.3702769,
+    "iletisim": "03423234344"
   },
   {
     "name": "PERİHAN ECZANESİ",
@@ -4020,7 +4422,8 @@ export const locations = [
     "address": "İncili Pınar Mah. Ali Fuat Cebesoy Blv. NO:47/C Doktorlar Sitesi",
     "contract": true,
     "latitude": 37.0723472,
-    "longitude": 37.3666944
+    "longitude": 37.3666944,
+    "iletisim": "04167262126"
   },
   {
     "name": "DERMAN ECZANESİ",
@@ -4030,7 +4433,8 @@ export const locations = [
     "address": "MİMAR SİNAN MAHALLESİ MERVE SOKAK NO:12/A",
     "contract": true,
     "latitude": 37.009926,
-    "longitude": 37.796949
+    "longitude": 37.796949,
+    "iletisim": "02822625876"
   },
   {
     "name": "FAZİLET ECZANESİ",
@@ -4040,7 +4444,8 @@ export const locations = [
     "address": "Eyüpoğlu Mah. Dr. Rauf Yılmazer Cad. NO:14",
     "contract": true,
     "latitude": 37.06083390000001,
-    "longitude": 37.3780366
+    "longitude": 37.3780366,
+    "iletisim": "03422303095"
   },
   {
     "name": "BALIK ECZANESİ",
@@ -4050,7 +4455,8 @@ export const locations = [
     "address": "KARATARLA MAHALLESİ DOKTOR MECİT BARLAS CADDESİ NO: 11/A",
     "contract": true,
     "latitude": 37.061596,
-    "longitude": 37.3804855
+    "longitude": 37.3804855,
+    "iletisim": "03422313440"
   },
   {
     "name": "GÜLER ECZANESİ",
@@ -4060,7 +4466,8 @@ export const locations = [
     "address": "75.YIL MH. 86052 NOLU SK. NO:15",
     "contract": true,
     "latitude": 37.0416483,
-    "longitude": 37.3495716
+    "longitude": 37.3495716,
+    "iletisim": "02126931149"
   },
   {
     "name": "DENİZ ECZANESİ",
@@ -4070,7 +4477,8 @@ export const locations = [
     "address": "23.NİSAN MAH.ÜNİVERSİTE BUL.NO.229/A",
     "contract": true,
     "latitude": 37.0472228,
-    "longitude": 37.3312907
+    "longitude": 37.3312907,
+    "iletisim": "02663241355"
   },
   {
     "name": "SEDA ECZANESİ",
@@ -4080,7 +4488,8 @@ export const locations = [
     "address": "Mücahitler Mah. 9. Cad. 52063. Sok. NO:1",
     "contract": true,
     "latitude": 37.07556050000001,
-    "longitude": 37.3713228
+    "longitude": 37.3713228,
+    "iletisim": "02367133100"
   },
   {
     "name": "BATIKENT ECZANESİ",
@@ -4090,7 +4499,8 @@ export const locations = [
     "address": "Batıkent Mah. 09074 No'lu Cad. NO: 4/A",
     "contract": true,
     "latitude": 37.0824477,
-    "longitude": 37.4416557
+    "longitude": 37.4416557,
+    "iletisim": "03423413464"
   },
   {
     "name": "CEVİZLİ ECZANESİ",
@@ -4100,7 +4510,8 @@ export const locations = [
     "address": "GüNEYKENT MH 102282 NL SK NO:2H/A",
     "contract": true,
     "latitude": 37.0256275,
-    "longitude": 37.3230524
+    "longitude": 37.3230524,
+    "iletisim": "05456512134"
   },
   {
     "name": "İLGİ ECZANESİ",
@@ -4110,7 +4521,8 @@ export const locations = [
     "address": "İSMET PAŞA MAHALLESİ HAMDİ UZUNALİOĞLU CADDESİ NO:103",
     "contract": true,
     "latitude": 40.9402412,
-    "longitude": 38.243907
+    "longitude": 38.243907,
+    "iletisim": "04543183034"
   },
   {
     "name": "İSTİKAMET ECZANESİ",
@@ -4120,7 +4532,8 @@ export const locations = [
     "address": "Nizamiye Mah. Orhan Yılmaz Cad.NO: 32",
     "contract": true,
     "latitude": 40.9146803,
-    "longitude": 38.3884457
+    "longitude": 38.3884457,
+    "iletisim": "04542161099"
   },
   {
     "name": "MELİS ECZANESİ",
@@ -4130,7 +4543,8 @@ export const locations = [
     "address": "IHSANIYE MAH.CEMAL GURSEL CAD.NO.91/B",
     "contract": true,
     "latitude": 40.9371539,
-    "longitude": 38.2296878
+    "longitude": 38.2296878,
+    "iletisim": "02825029009"
   },
   {
     "name": "KİTAPÇI ECZANESİ",
@@ -4140,7 +4554,8 @@ export const locations = [
     "address": "Şeyh Keramettin Mahallesi, NO:12, Gazi Cd",
     "contract": true,
     "latitude": 40.9172668,
-    "longitude": 38.3852947
+    "longitude": 38.3852947,
+    "iletisim": "04542122867"
   },
   {
     "name": "FERİDUNOĞLU ECZANESİ",
@@ -4150,7 +4565,8 @@ export const locations = [
     "address": "Sultan Selim Mah. Gazi Cad. NO:7",
     "contract": true,
     "latitude": 40.9182977,
-    "longitude": 38.3831558
+    "longitude": 38.3831558,
+    "iletisim": "04542141970"
   },
   {
     "name": "KARDELEN ECZANESİ",
@@ -4160,7 +4576,8 @@ export const locations = [
     "address": "İHSANİYE MAH ŞEMSETTİN CAD NO: 12/E",
     "contract": true,
     "latitude": 40.9378196,
-    "longitude": 38.23105
+    "longitude": 38.23105,
+    "iletisim": "02525021928"
   },
   {
     "name": "ŞENOL ECZANESİ",
@@ -4170,7 +4587,8 @@ export const locations = [
     "address": "Teyyaredüzü Mah. Boztekke Cad. NO:19/A",
     "contract": true,
     "latitude": 40.914318,
-    "longitude": 38.3351113
+    "longitude": 38.3351113,
+    "iletisim": "04542150900"
   },
   {
     "name": "AYTUĞ ECZANESİ",
@@ -4180,7 +4598,8 @@ export const locations = [
     "address": "HENDEKBAŞI MH.S.SİNİRLİOĞLU CAD.NO:60",
     "contract": true,
     "latitude": 41.0313021,
-    "longitude": 39.0059779
+    "longitude": 39.0059779,
+    "iletisim": "04545132600"
   },
   {
     "name": "ÖZKAN ECZANESİ",
@@ -4190,7 +4609,8 @@ export const locations = [
     "address": "KARAER MAH ATATURK CD NO:29/C",
     "contract": true,
     "latitude": 40.4587626,
-    "longitude": 39.4795516
+    "longitude": 39.4795516,
+    "iletisim": "04562137890"
   },
   {
     "name": "GÜVEN ECZANESİ",
@@ -4200,7 +4620,8 @@ export const locations = [
     "address": "PEHLİVAN MAH. ÇÖLEMERİK CAD. NO:24",
     "contract": true,
     "latitude": 37.57736999999999,
-    "longitude": 43.7301436
+    "longitude": 43.7301436,
+    "iletisim": "03122802411"
   },
   {
     "name": "PALMİYE ECZANESİ",
@@ -4210,7 +4631,8 @@ export const locations = [
     "address": "Savaş Mah. Şehit Pamir Cad. NO:34 Palmiye İşh",
     "contract": true,
     "latitude": 36.5886587,
-    "longitude": 36.1706199
+    "longitude": 36.1706199,
+    "iletisim": "02425122714"
   },
   {
     "name": "AKOZCAN ECZANESI",
@@ -4220,7 +4642,8 @@ export const locations = [
     "address": "Esentepe Mah. Nuri Aydın Konuralp Cad. NO:24/1 Pınar Apt",
     "contract": true,
     "latitude": 36.208899,
-    "longitude": 36.1375666
+    "longitude": 36.1375666,
+    "iletisim": "03262135059"
   },
   {
     "name": "MANCAK ECZANESİ",
@@ -4230,7 +4653,8 @@ export const locations = [
     "address": "Numune Evler Mah. hastane altı 1 Nolu Sok. no:4/C",
     "contract": true,
     "latitude": 36.8358272,
-    "longitude": 36.2140427
+    "longitude": 36.2140427,
+    "iletisim": "03267127292"
   },
   {
     "name": "BİZİM ECZANE",
@@ -4240,7 +4664,8 @@ export const locations = [
     "address": "SAKARYA MAH. 270/5 SOK. NO:8 İSKENDERUN HATAY",
     "contract": true,
     "latitude": 36.5915381,
-    "longitude": 36.1622014
+    "longitude": 36.1622014,
+    "iletisim": "03266159523"
   },
   {
     "name": "İKİZ ECZANESİ",
@@ -4250,7 +4675,8 @@ export const locations = [
     "address": "SANAYİ MAHALLESİ ÇAYLI CADDESİ NO: 7",
     "contract": true,
     "latitude": 36.8369597,
-    "longitude": 36.2271591
+    "longitude": 36.2271591,
+    "iletisim": "03267130107"
   },
   {
     "name": "MERKEZ ECZANESİ",
@@ -4260,7 +4686,8 @@ export const locations = [
     "address": "Kışlalar Mahallesi Atatürk Caddesi 92/A",
     "contract": true,
     "latitude": 36.8365223,
-    "longitude": 36.2361537
+    "longitude": 36.2361537,
+    "iletisim": "02642790801"
   },
   {
     "name": "ELİF ECZANESİ",
@@ -4270,7 +4697,8 @@ export const locations = [
     "address": "cumhuriyet mahallesi 152 sokak no:2/b",
     "contract": true,
     "latitude": 36.58342140000001,
-    "longitude": 36.1575423
+    "longitude": 36.1575423,
+    "iletisim": "02525137133"
   },
   {
     "name": "MELİS ECZANESİ",
@@ -4280,7 +4708,8 @@ export const locations = [
     "address": "GÖZCÜLER MAH.BELEDİYE CAD.NO:16",
     "contract": true,
     "latitude": 36.3931332,
-    "longitude": 35.9109719
+    "longitude": 35.9109719,
+    "iletisim": "02825029009"
   },
   {
     "name": "ARAS ECZANESI",
@@ -4290,7 +4719,8 @@ export const locations = [
     "address": "HASTANE CD KONAK SITESI NO 12 ISPARTA",
     "contract": true,
     "latitude": 37.7626487,
-    "longitude": 30.55370499999999
+    "longitude": 30.55370499999999,
+    "iletisim": "02462182301"
   },
   {
     "name": "CANDEMIR ECZANESI",
@@ -4300,7 +4730,8 @@ export const locations = [
     "address": "CAMI MAHALLESI NO 5 keskinler sokak EGIRDIR",
     "contract": true,
     "latitude": 37.8752737,
-    "longitude": 30.8520354
+    "longitude": 30.8520354,
+    "iletisim": "02463114029"
   },
   {
     "name": "CANKAYA ECZANESI",
@@ -4310,7 +4741,8 @@ export const locations = [
     "address": "YEŞİLADA MAHALLESİ DR. İSA KÖKLÜ CADDESİ 1. SAHİL YOLU NO: 12/A",
     "contract": true,
     "latitude": 37.8730382,
-    "longitude": 30.8494009
+    "longitude": 30.8494009,
+    "iletisim": "02463115985"
   },
   {
     "name": "VERESELİ ŞİFA ECZANESİ",
@@ -4320,7 +4752,8 @@ export const locations = [
     "address": "PİRİMEHMET MAHALLESİ 112. CADDE NO: 8/1",
     "contract": true,
     "latitude": 37.7634009,
-    "longitude": 30.5542197
+    "longitude": 30.5542197,
+    "iletisim": "02462181587"
   },
   {
     "name": "ULUSOY ECZANESİ",
@@ -4330,7 +4763,8 @@ export const locations = [
     "address": "kutlubey mahallesi 1006 sokak atiker apartmanı no:45/A",
     "contract": true,
     "latitude": 37.7652498,
-    "longitude": 30.5553252
+    "longitude": 30.5553252,
+    "iletisim": "04348275747"
   },
   {
     "name": "EZGİ ECZANESİ",
@@ -4340,7 +4774,8 @@ export const locations = [
     "address": "KUTLUBEY MH. 106 CD. NO:14/7-8",
     "contract": true,
     "latitude": 37.7660129,
-    "longitude": 30.5559843
+    "longitude": 30.5559843,
+    "iletisim": "03129998044"
   },
   {
     "name": "YİĞİTBAŞI ECZANESİ",
@@ -4350,7 +4785,8 @@ export const locations = [
     "address": "cami mahallesi isa köprü cad no:18",
     "contract": true,
     "latitude": 37.8752737,
-    "longitude": 30.8520354
+    "longitude": 30.8520354,
+    "iletisim": "05326203426"
   },
   {
     "name": "ÇAĞDAŞ ECZANESİ",
@@ -4360,7 +4796,8 @@ export const locations = [
     "address": "ÇÜNÜR MAH. 102. CAD. NO:185 A/2 ISPARTA EK. KAMPÜS",
     "contract": true,
     "latitude": 37.8021199,
-    "longitude": 30.5372158
+    "longitude": 30.5372158,
+    "iletisim": "04325036060"
   },
   {
     "name": "HEPER ECZANESİ",
@@ -4370,7 +4807,8 @@ export const locations = [
     "address": "GÜLİSTAN MAHALLESİ 2816. MEHMET ALİ KARABAY SOKAK NO: 26 ISPARTA",
     "contract": true,
     "latitude": 37.766809,
-    "longitude": 30.540648
+    "longitude": 30.540648,
+    "iletisim": NaN
   },
   {
     "name": "KARDELEN ECZANESİ",
@@ -4380,7 +4818,8 @@ export const locations = [
     "address": "Eski sanayi mah. 3208 sk. no:4/3 merkez",
     "contract": true,
     "latitude": 37.7732256,
-    "longitude": 30.5510479
+    "longitude": 30.5510479,
+    "iletisim": "02525021928"
   },
   {
     "name": "ALP ECZANESİ",
@@ -4390,7 +4829,8 @@ export const locations = [
     "address": "Saray Mah. Tahsin Soylu Cad. No:29/A",
     "contract": true,
     "latitude": 36.0809645,
-    "longitude": 32.8329877
+    "longitude": 32.8329877,
+    "iletisim": "03248141440"
   },
   {
     "name": "MUTLU ECZANESİ",
@@ -4400,7 +4840,8 @@ export const locations = [
     "address": "LİMONLU MAHALLESİ İSTİKLAL CADDESİ NO: 75/A",
     "contract": true,
     "latitude": 36.555052,
-    "longitude": 34.232012
+    "longitude": 34.232012,
+    "iletisim": "03242373086"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -4410,7 +4851,8 @@ export const locations = [
     "address": "REŞADİYE MAHALLESİ ALİ MENTEŞOĞLU CADDESİ NO:6/D",
     "contract": true,
     "latitude": 36.9192214,
-    "longitude": 34.8962837
+    "longitude": 34.8962837,
+    "iletisim": "02323813135"
   },
   {
     "name": "DAMLA ECZANESİ",
@@ -4420,7 +4862,8 @@ export const locations = [
     "address": "CAMİ ŞERİF MAHALLESİ FABRİKALAR CADDESİ (CEMALPAŞA CADDESİ) NO:93/C",
     "contract": true,
     "latitude": 36.8029102,
-    "longitude": 34.6290061
+    "longitude": 34.6290061,
+    "iletisim": "02822625737"
   },
   {
     "name": "MERKEZ ECZANESİ",
@@ -4430,7 +4873,8 @@ export const locations = [
     "address": "PINARBAŞI MAHALLESİ KOCAHACI SOKAK NO:27/D",
     "contract": true,
     "latitude": 36.645381,
-    "longitude": 33.4371
+    "longitude": 33.4371,
+    "iletisim": "02642790801"
   },
   {
     "name": "SERAP ECZANESİ",
@@ -4440,7 +4884,8 @@ export const locations = [
     "address": "KİREMİTHANE MAHALLESİ 4413 SOKAK RIZA APARTMANI NO:3/B",
     "contract": true,
     "latitude": 36.795788,
-    "longitude": 34.623563
+    "longitude": 34.623563,
+    "iletisim": "03123597241"
   },
   {
     "name": "SİLİFKE ECZANESİ",
@@ -4450,7 +4895,8 @@ export const locations = [
     "address": "SARAY MAHALLESİ FEVZİ ÇAKMAK CADDESİ NO: 16",
     "contract": true,
     "latitude": 36.3782164,
-    "longitude": 33.9252852
+    "longitude": 33.9252852,
+    "iletisim": "03247141194"
   },
   {
     "name": "MELİS ECZANESİ",
@@ -4460,7 +4906,8 @@ export const locations = [
     "address": "GÖKTAŞ MAHALLESİ TAHSİN SOYLU CADDESİ NO:63",
     "contract": true,
     "latitude": 36.0806454,
-    "longitude": 32.8349785
+    "longitude": 32.8349785,
+    "iletisim": "02825029009"
   },
   {
     "name": "ŞENEL ECZANESİ",
@@ -4470,7 +4917,8 @@ export const locations = [
     "address": "Merkez Mah. Abdurrahman Şevk Cad. NO:9/C Şahin Kalay Apt",
     "contract": true,
     "latitude": 36.6060914,
-    "longitude": 34.3129487
+    "longitude": 34.3129487,
+    "iletisim": "03245152915"
   },
   {
     "name": "UÇAN ECZANESİ",
@@ -4480,7 +4928,8 @@ export const locations = [
     "address": "GÜVENEVLER MAHALLESİ 1953. SOKAK NO:25",
     "contract": true,
     "latitude": 36.7889916,
-    "longitude": 34.5832579
+    "longitude": 34.5832579,
+    "iletisim": "03243252211"
   },
   {
     "name": "UĞUR ECZANESİ",
@@ -4490,7 +4939,8 @@ export const locations = [
     "address": "GÖKSU MAHALLESİ 67. SOKAK NO: 5/5",
     "contract": true,
     "latitude": 36.37633,
-    "longitude": 33.925311
+    "longitude": 33.925311,
+    "iletisim": "03122307595"
   },
   {
     "name": "BERNA ECZANESİ",
@@ -4500,7 +4950,8 @@ export const locations = [
     "address": "YENİ ÖMERLİ MAHALLESİ İSTİKLAL CADDESİ NO: 1/C",
     "contract": true,
     "latitude": 36.91797200000001,
-    "longitude": 34.887962
+    "longitude": 34.887962,
+    "iletisim": "03246246000"
   },
   {
     "name": "DÖNMEZ ECZANESİ",
@@ -4510,7 +4961,8 @@ export const locations = [
     "address": "MERKEZ MAH.2030 SOKAK NO 2/B",
     "contract": true,
     "latitude": 36.7492849,
-    "longitude": 34.52922470000001
+    "longitude": 34.52922470000001,
+    "iletisim": "03243599385"
   },
   {
     "name": "KORAY ECZANESİ",
@@ -4520,7 +4972,8 @@ export const locations = [
     "address": "SAĞLIK MAHALLESİ DR. ABDULLAH ÇELİK CADDESİ NO:10/A",
     "contract": true,
     "latitude": 36.077286,
-    "longitude": 32.832889
+    "longitude": 32.832889,
+    "iletisim": "03248164878"
   },
   {
     "name": "SOMER ECZANESİ",
@@ -4530,7 +4983,8 @@ export const locations = [
     "address": "BARBAROS MAHALLESİ 2121. SOKAK NO: 2/A",
     "contract": true,
     "latitude": 36.7777144,
-    "longitude": 34.5717909
+    "longitude": 34.5717909,
+    "iletisim": "03243254457"
   },
   {
     "name": "SAHİL ECZANESİ",
@@ -4540,7 +4994,8 @@ export const locations = [
     "address": "MENDERES MAH. GAZİ MUSTAFA KEMAL BULVARI NO:725/C",
     "contract": true,
     "latitude": 36.7466565,
-    "longitude": 34.5270448
+    "longitude": 34.5270448,
+    "iletisim": "02165774466"
   },
   {
     "name": "BAŞAK ECZANESİ",
@@ -4550,7 +5005,8 @@ export const locations = [
     "address": "CUMHURİYET MAHALLESİ İSMET İNÖNÜ BULVARI NO:39/B",
     "contract": true,
     "latitude": 36.7842183,
-    "longitude": 34.6157318
+    "longitude": 34.6157318,
+    "iletisim": "05437242233"
   },
   {
     "name": "OĞUZ ECZANESİ",
@@ -4560,7 +5016,8 @@ export const locations = [
     "address": "GÖKSU MAHALLESİ CELAL BAYAR CADDESİ NO:24/8",
     "contract": true,
     "latitude": 36.3809112,
-    "longitude": 33.9280609
+    "longitude": 33.9280609,
+    "iletisim": "03883114306"
   },
   {
     "name": "CADDE ECZANESİ",
@@ -4570,7 +5027,8 @@ export const locations = [
     "address": "GAZİ MUSTAFA KEMAL BULVARI BAHÇELİEVLER MAHALLESİ NO: 330/A",
     "contract": true,
     "latitude": 36.8661859,
-    "longitude": 34.4863567
+    "longitude": 34.4863567,
+    "iletisim": "02222214010"
   },
   {
     "name": "BÜYÜK ECZANE",
@@ -4580,7 +5038,8 @@ export const locations = [
     "address": "HOBYAR MAHALLESİ BÜYÜK POSTANE CADDESİ NO:5",
     "contract": true,
     "latitude": 41.0142271,
-    "longitude": 28.9746682
+    "longitude": 28.9746682,
+    "iletisim": "05336569880"
   },
   {
     "name": "BÜYÜKÇEKMECE ZAFER ECZANESİ",
@@ -4590,7 +5049,8 @@ export const locations = [
     "address": "DİZDARİYE MAHALLESİ ENVERPAŞA CADDESİ NO: 5/A",
     "contract": true,
     "latitude": 41.0203225,
-    "longitude": 28.5791642
+    "longitude": 28.5791642,
+    "iletisim": "02128831352"
   },
   {
     "name": "ETİLER ALTUĞ ECZANESİ",
@@ -4600,7 +5060,8 @@ export const locations = [
     "address": "ETİLER MAHALLESİ NİSBETİYE MAHALLESİ NO: 104",
     "contract": true,
     "latitude": 41.08902,
-    "longitude": 29.0379
+    "longitude": 29.0379,
+    "iletisim": "02122570828"
   },
   {
     "name": "UCKUNKAYA ECZANESİ",
@@ -4610,7 +5071,8 @@ export const locations = [
     "address": "ZUHURATBABA MAHALLESİ İNCİRLİ CADDESİ NO:3/B",
     "contract": true,
     "latitude": 40.98249209999999,
-    "longitude": 28.8728415
+    "longitude": 28.8728415,
+    "iletisim": "02125718785"
   },
   {
     "name": "ZERRİN ECZANESİ",
@@ -4620,7 +5082,8 @@ export const locations = [
     "address": "YAKACIK YENİ MAHALLESİ SAMANDIRA CADDESİ NO: 5/C",
     "contract": true,
     "latitude": 40.9226752,
-    "longitude": 29.2227477
+    "longitude": 29.2227477,
+    "iletisim": "02163772552"
   },
   {
     "name": "BAĞDAT ECZANESİ",
@@ -4630,7 +5093,8 @@ export const locations = [
     "address": "Caddebostan Mahallesi Bağdat Caddesi No:353/C",
     "contract": true,
     "latitude": 40.9635603,
-    "longitude": 29.0751496
+    "longitude": 29.0751496,
+    "iletisim": "02163552335"
   },
   {
     "name": "ŞENGÜL ECZANESİ",
@@ -4640,7 +5104,8 @@ export const locations = [
     "address": "ÇAVUŞ MAH. ÜSKÜDAR CAD. NO:97",
     "contract": true,
     "latitude": 41.17505269999999,
-    "longitude": 29.6097007
+    "longitude": 29.6097007,
+    "iletisim": "02167115204"
   },
   {
     "name": "HAZAR ECZANESİ",
@@ -4650,7 +5115,8 @@ export const locations = [
     "address": "KOŞUYOLU MAHALLESİ KALFA ÇEŞME SOKAK. NO:2",
     "contract": true,
     "latitude": 41.0115961,
-    "longitude": 29.0390443
+    "longitude": 29.0390443,
+    "iletisim": "02163264870"
   },
   {
     "name": "ŞİŞLİ SIHHAT ECZANESİ",
@@ -4660,7 +5126,8 @@ export const locations = [
     "address": "MERKEZ MAHALLESİ TAYYARECİ MEHMET ALİBEY SOKAK NO: 4/F",
     "contract": true,
     "latitude": 41.0585472,
-    "longitude": 28.9862425
+    "longitude": 28.9862425,
+    "iletisim": "02122402262"
   },
   {
     "name": "FEYZA ECZANE OPTİK",
@@ -4670,7 +5137,8 @@ export const locations = [
     "address": "BAĞLARBAŞI MAHALLESİ BAĞDAT CADDESİ NO:447/A",
     "contract": true,
     "latitude": 40.9230835,
-    "longitude": 29.1345179
+    "longitude": 29.1345179,
+    "iletisim": "02164597600"
   },
   {
     "name": "VERESELİ YENİ ECZANESİ",
@@ -4680,7 +5148,8 @@ export const locations = [
     "address": "Çarşı Cd No 17-19 1.Levent",
     "contract": true,
     "latitude": 41.0761592,
-    "longitude": 29.0158911
+    "longitude": 29.0158911,
+    "iletisim": "02122641468"
   },
   {
     "name": "ERENLER ECZANESI",
@@ -4690,7 +5159,8 @@ export const locations = [
     "address": "ERENKÖY MAHALLESİ TELLİKAVAK SOKAK NO:16/C",
     "contract": true,
     "latitude": 40.9709153,
-    "longitude": 29.07936279999999
+    "longitude": 29.07936279999999,
+    "iletisim": "02164672603"
   },
   {
     "name": "ÇINAR ECZANESİ",
@@ -4700,7 +5170,8 @@ export const locations = [
     "address": "BAĞLARBAŞI MAHALLESİ BAĞDAT CADDESİ NO:467",
     "contract": true,
     "latitude": 40.9213258,
-    "longitude": 29.1369127
+    "longitude": 29.1369127,
+    "iletisim": "03123123334"
   },
   {
     "name": "RAHMANLAR ŞİFA ECZANESİ",
@@ -4710,7 +5181,8 @@ export const locations = [
     "address": "ATALAR MAHALLESİ ÜSKÜDAR CADDESİ NO:114/D",
     "contract": true,
     "latitude": 40.8987262,
-    "longitude": 29.1706165
+    "longitude": 29.1706165,
+    "iletisim": "02163740330"
   },
   {
     "name": "ANADOLU ECZANESİ",
@@ -4720,7 +5192,8 @@ export const locations = [
     "address": "Acıbadem Mah. Asalet Sok. Orkide Apt. A Blok NO: 6/10",
     "contract": true,
     "latitude": 41.0305541,
-    "longitude": 28.9092912
+    "longitude": 28.9092912,
+    "iletisim": "03246240054"
   },
   {
     "name": "PAZARBAŞI ECZANESİ",
@@ -4730,7 +5203,8 @@ export const locations = [
     "address": "Yukarı Dudullu Mah. Alemdağ Cad. no: 467 (Foto Denizin Yanı Hekimler Tıp Merkezi Altı)",
     "contract": true,
     "latitude": 41.0165699,
-    "longitude": 29.1626008
+    "longitude": 29.1626008,
+    "iletisim": "02166126660"
   },
   {
     "name": "GÜLŞEN ECZANESİ",
@@ -4740,7 +5214,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAHALLESİ DELİ HÜSEYİNPAŞA CADDESİ NO: 15",
     "contract": true,
     "latitude": 41.0079634,
-    "longitude": 28.8682513
+    "longitude": 28.8682513,
+    "iletisim": "02126147316"
   },
   {
     "name": "LALE ECZANESİ",
@@ -4750,7 +5225,8 @@ export const locations = [
     "address": "Ataköy 3. 4. 11. Kısım Mahallesi Cevat Dursunoğlu Caddesi 4. Kısım Çarşısı No: 12",
     "contract": true,
     "latitude": 40.9818422,
-    "longitude": 28.8602429
+    "longitude": 28.8602429,
+    "iletisim": "02165767992"
   },
   {
     "name": "ATALAY ECZANESİ",
@@ -4760,7 +5236,8 @@ export const locations = [
     "address": "Merkez Mah. Sarıyer Deresi Sok. 21/A",
     "contract": true,
     "latitude": 41.168968,
-    "longitude": 29.0566326
+    "longitude": 29.0566326,
+    "iletisim": "02122423959"
   },
   {
     "name": "IŞIK ECZANESİ",
@@ -4770,7 +5247,8 @@ export const locations = [
     "address": "DOĞU MAHALLESİ NAMIK KEMAL CADDESİ NO: 52/C",
     "contract": true,
     "latitude": 40.8772861,
-    "longitude": 29.2353793
+    "longitude": 29.2353793,
+    "iletisim": "04223221868"
   },
   {
     "name": "FERHAN ECZANESİ",
@@ -4780,7 +5258,8 @@ export const locations = [
     "address": "KOZYATAĞI MAHALLESİ ŞEMSETTİN GÜNALTAY CADDESİ AVŞAR SOKAK ZÜMRÜT APARTMANI NO: 12/B",
     "contract": true,
     "latitude": 40.9811114,
-    "longitude": 29.0752975
+    "longitude": 29.0752975,
+    "iletisim": "02163624194"
   },
   {
     "name": "GÖKSUN ECZANESİ",
@@ -4790,7 +5269,8 @@ export const locations = [
     "address": "CERRAHPAŞA MAH. KOCAMUSTAFAPASA CAD. NO :42/A CERRAHPASA HAST KARSISI",
     "contract": true,
     "latitude": 41.0069617,
-    "longitude": 28.9416094
+    "longitude": 28.9416094,
+    "iletisim": "02125862841"
   },
   {
     "name": "MELİS ECZANESİ",
@@ -4800,7 +5280,8 @@ export const locations = [
     "address": "SÜMBÜL EFENDİ MAH. HACI KADIN CAD. NO: 18/A KOCAMUSTAFAPAŞA",
     "contract": true,
     "latitude": 41.0026028,
-    "longitude": 28.9301053
+    "longitude": 28.9301053,
+    "iletisim": "02825029009"
   },
   {
     "name": "ÖMER LÜTFÜ ECZANESİ",
@@ -4810,7 +5291,8 @@ export const locations = [
     "address": "KORDONBOYU MAH. ANKARA CAD. NO:25/A",
     "contract": true,
     "latitude": 40.888672,
-    "longitude": 29.187356
+    "longitude": 29.187356,
+    "iletisim": "02164732830"
   },
   {
     "name": "TAHSİLDAROĞLU ECZANESİ",
@@ -4820,7 +5302,8 @@ export const locations = [
     "address": "MERKEZ MAH. ABİDE-I HURRIYET CAD. NO:127/A",
     "contract": true,
     "latitude": 41.0604216,
-    "longitude": 28.9868708
+    "longitude": 28.9868708,
+    "iletisim": "02122961951"
   },
   {
     "name": "HAZNEDAR ECZANESİ",
@@ -4830,7 +5313,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAHALLESİ ŞEVKET DAĞ SOKAK DAĞ APARTMANI NO: 7/A",
     "contract": true,
     "latitude": 41.0060489,
-    "longitude": 28.8681295
+    "longitude": 28.8681295,
+    "iletisim": "02125536448"
   },
   {
     "name": "VERESELİ VURAL ECZANESİ",
@@ -4840,7 +5324,8 @@ export const locations = [
     "address": "Ferhatpaşa Mah. Mescit Sok. No: 12",
     "contract": true,
     "latitude": 41.1427135,
-    "longitude": 28.4597722
+    "longitude": 28.4597722,
+    "iletisim": "02127893234"
   },
   {
     "name": "SAPANBAĞLARI ECZANESİ",
@@ -4850,7 +5335,8 @@ export const locations = [
     "address": "Sapan Bağları Mah. YENİ Mithatpaşa Cad. No:55/A",
     "contract": true,
     "latitude": 40.8841914,
-    "longitude": 29.224614
+    "longitude": 29.224614,
+    "iletisim": "02163548966"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -4860,7 +5346,8 @@ export const locations = [
     "address": "Örnek Mah. Selimiye Cad. No: 1/A",
     "contract": true,
     "latitude": 40.9959363,
-    "longitude": 29.0753916
+    "longitude": 29.0753916,
+    "iletisim": "02744124152"
   },
   {
     "name": "NURAL ECZANESİ",
@@ -4870,7 +5357,8 @@ export const locations = [
     "address": "Şehremini Mah. Günaydın Sok. No:5",
     "contract": true,
     "latitude": 41.0143108,
-    "longitude": 28.9312683
+    "longitude": 28.9312683,
+    "iletisim": "02125873221"
   },
   {
     "name": "VERESELİ YİĞİT ECZANESİ",
@@ -4880,7 +5368,8 @@ export const locations = [
     "address": "ORTABAYIR MAH. TALATPAŞA CAD. NO:6/C GÜLTEPE",
     "contract": true,
     "latitude": 41.0799329,
-    "longitude": 29.007172
+    "longitude": 29.007172,
+    "iletisim": "02122682786"
   },
   {
     "name": "HÜLYA ECZANESİ",
@@ -4890,7 +5379,8 @@ export const locations = [
     "address": "Nuripaşa Mah. Merv Cad. No:9 Dk:3",
     "contract": true,
     "latitude": 40.9881195,
-    "longitude": 28.9034129
+    "longitude": 28.9034129,
+    "iletisim": "02164227290"
   },
   {
     "name": "EGE ECZANESİ",
@@ -4900,7 +5390,8 @@ export const locations = [
     "address": "BEREKETZADE MAH. BEREKETZADE MEDRESESİ SOKAK NO:11 KARAKÖY",
     "contract": true,
     "latitude": 41.0241154,
-    "longitude": 28.973905
+    "longitude": 28.973905,
+    "iletisim": "05405101020"
   },
   {
     "name": "FATOŞ ECZANE OPTİK",
@@ -4910,7 +5401,8 @@ export const locations = [
     "address": "FEYZULLAH MAH. HAVUZLAR SOK. NO:11/C",
     "contract": true,
     "latitude": 40.9247665,
-    "longitude": 29.1299019
+    "longitude": 29.1299019,
+    "iletisim": "02163993808"
   },
   {
     "name": "ÇARE ECZANESİ",
@@ -4920,7 +5412,8 @@ export const locations = [
     "address": "Emniyettepe Mah. Mareşal Fevzi Çakmak Caddesi NO:2",
     "contract": true,
     "latitude": 41.07013329999999,
-    "longitude": 28.9462733
+    "longitude": 28.9462733,
+    "iletisim": "03442159596"
   },
   {
     "name": "ASUMAN ECZANESİ",
@@ -4930,7 +5423,8 @@ export const locations = [
     "address": "HAKKI YETEN CAD.DOĞU İŞMERKEZİ NO :15/B FULYA",
     "contract": true,
     "latitude": 41.0552644,
-    "longitude": 28.99864909999999
+    "longitude": 28.99864909999999,
+    "iletisim": "02122199336"
   },
   {
     "name": "HATİPOĞLU ECZANESİ",
@@ -4940,7 +5434,8 @@ export const locations = [
     "address": "BOSTANCI MAHALLESİ PROF. ALİ NİHAT TARLAN CADDESİ NO: 43/C",
     "contract": true,
     "latitude": 40.9572433,
-    "longitude": 29.0968386
+    "longitude": 29.0968386,
+    "iletisim": "02163801064"
   },
   {
     "name": "EVİN ECZANESİ",
@@ -4950,7 +5445,8 @@ export const locations = [
     "address": "Siyavuşpaşa Mahallesi Ferit Selim Paşa Cad. Güzide Hanım Sok. No:7/2",
     "contract": true,
     "latitude": 41.0019898,
-    "longitude": 28.85996579999999
+    "longitude": 28.85996579999999,
+    "iletisim": "02325431522"
   },
   {
     "name": "SOLEY ECZANE OPTİK",
@@ -4960,7 +5456,8 @@ export const locations = [
     "address": "Kozyatağı Mah. Seda Sok. NO:11/A Bostancı",
     "contract": true,
     "latitude": 40.9662841,
-    "longitude": 29.09955099999999
+    "longitude": 29.09955099999999,
+    "iletisim": "02163803978"
   },
   {
     "name": "ECZANE SELCUK",
@@ -4970,7 +5467,8 @@ export const locations = [
     "address": "SUADİYE MAHALLESİ KAZIM ÖZALP SOKAK NO: 21/B",
     "contract": true,
     "latitude": 40.9615177,
-    "longitude": 29.0754537
+    "longitude": 29.0754537,
+    "iletisim": NaN
   },
   {
     "name": "LİMON ECZANESİ",
@@ -4980,7 +5478,8 @@ export const locations = [
     "address": "Eskişehir mah, Kurtuluş Cad. NO:147/A",
     "contract": true,
     "latitude": 41.0477381,
-    "longitude": 28.9805261
+    "longitude": 28.9805261,
+    "iletisim": "02323693726"
   },
   {
     "name": "ECZANE VADİ",
@@ -4990,7 +5489,8 @@ export const locations = [
     "address": "Ayazağa Mah Kemerburgaz Cad. Blok No:7D İç Kapı No:3 Vadistanbul, 34396 Sarıyer/İstanbul",
     "contract": true,
     "latitude": 41.1073968,
-    "longitude": 28.986714
+    "longitude": 28.986714,
+    "iletisim": "02125322052"
   },
   {
     "name": "YASEMİN ECZANESİ",
@@ -5000,7 +5500,8 @@ export const locations = [
     "address": "Mecidiye Mah. Dereboyu Cad. No:69",
     "contract": true,
     "latitude": 41.050503,
-    "longitude": 29.0249317
+    "longitude": 29.0249317,
+    "iletisim": "03582184038"
   },
   {
     "name": "AYŞE SENEM ECZANESİ",
@@ -5010,7 +5511,8 @@ export const locations = [
     "address": "MEHMET AKİF MAHALLESİ FATİH BULVARI NO: 180",
     "contract": true,
     "latitude": 40.9670497,
-    "longitude": 29.2662043
+    "longitude": 29.2662043,
+    "iletisim": "02163983910"
   },
   {
     "name": "BELLİS ECZANESİ",
@@ -5020,7 +5522,8 @@ export const locations = [
     "address": "Güneşli Mah. Cumhuriyet Cad. No:38/A",
     "contract": true,
     "latitude": 41.0313427,
-    "longitude": 28.8286294
+    "longitude": 28.8286294,
+    "iletisim": "02126515615"
   },
   {
     "name": "SEVDA ECZANESİ",
@@ -5030,7 +5533,8 @@ export const locations = [
     "address": "Şirinevler Mah. Fetih Cad. No:28/2",
     "contract": true,
     "latitude": 40.9944425,
-    "longitude": 28.8455572
+    "longitude": 28.8455572,
+    "iletisim": "02126541800"
   },
   {
     "name": "MERKEZ ECZANESİ",
@@ -5040,7 +5544,8 @@ export const locations = [
     "address": "AKSARAY MAH. AKSARAY MEYDANI TECEDDÜT SOK. NO:7",
     "contract": true,
     "latitude": 41.0089511,
-    "longitude": 28.9527179
+    "longitude": 28.9527179,
+    "iletisim": "02642790801"
   },
   {
     "name": "ŞULE ECZANESİ",
@@ -5050,7 +5555,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAH. BAĞCILAR CAD. NO:1/A MEDİCANA HOSPİTAL ALTI",
     "contract": true,
     "latitude": 41.0055967,
-    "longitude": 28.87129599999999
+    "longitude": 28.87129599999999,
+    "iletisim": "02125530068"
   },
   {
     "name": "HALK ECZANESİ",
@@ -5060,7 +5566,8 @@ export const locations = [
     "address": "Alibey Mah. Başkomutan Ali Çetinkaya Cad. Genç Fidan Sok. No:2",
     "contract": true,
     "latitude": 41.07535499999999,
-    "longitude": 28.21369
+    "longitude": 28.21369,
+    "iletisim": "02427225777"
   },
   {
     "name": "GEÇİT ECZANESİ",
@@ -5070,7 +5577,8 @@ export const locations = [
     "address": "Şehremini Mahallesi, Börekçi Veli Sok. No:1 Çapa",
     "contract": true,
     "latitude": 41.0156819,
-    "longitude": 28.9318825
+    "longitude": 28.9318825,
+    "iletisim": "02125857476"
   },
   {
     "name": "AYDIN ECZANESİ",
@@ -5080,7 +5588,8 @@ export const locations = [
     "address": "Acıbadem Mah. Tekin Sok. No: 1",
     "contract": true,
     "latitude": 41.0097814,
-    "longitude": 29.0418981
+    "longitude": 29.0418981,
+    "iletisim": "02562251346"
   },
   {
     "name": "HAVUZBAŞI ECZANESİ",
@@ -5090,7 +5599,8 @@ export const locations = [
     "address": "Merkez Mahallesi, Halitpaşa Cd. No:30/1",
     "contract": true,
     "latitude": 41.0564277,
-    "longitude": 28.9141405
+    "longitude": 28.9141405,
+    "iletisim": "02126140033"
   },
   {
     "name": "VERESELİ EMEK ECZANESI",
@@ -5100,7 +5610,8 @@ export const locations = [
     "address": "MERKEZ MAH. AHMET TANER KIŞLALI CAD. FATİH SOK. NO:10/D",
     "contract": true,
     "latitude": 40.9787308,
-    "longitude": 28.7233495
+    "longitude": 28.7233495,
+    "iletisim": "02125095493"
   },
   {
     "name": "EKİM ECZANESİ",
@@ -5110,7 +5621,8 @@ export const locations = [
     "address": "Orhantepe Mah. Tekel Cad. No: 34/B",
     "contract": true,
     "latitude": 40.9035568,
-    "longitude": 29.1636369
+    "longitude": 29.1636369,
+    "iletisim": "02163056984"
   },
   {
     "name": "ÖZLEM ECZANESİ",
@@ -5120,7 +5632,8 @@ export const locations = [
     "address": "Yeşilpınar Mah. Budak Sok. No:15/A Alibeyköy",
     "contract": true,
     "latitude": 41.0817071,
-    "longitude": 28.9191152
+    "longitude": 28.9191152,
+    "iletisim": "02483251340"
   },
   {
     "name": "MALTEPE ECZANESİ",
@@ -5130,7 +5643,8 @@ export const locations = [
     "address": "CEMALBEY CADDESİ NO:3/B",
     "contract": true,
     "latitude": 40.9213853,
-    "longitude": 29.1372837
+    "longitude": 29.1372837,
+    "iletisim": "02163059987"
   },
   {
     "name": "HALİTBEY ECZANESİ",
@@ -5140,7 +5654,8 @@ export const locations = [
     "address": "Yeni Mahalle Mah. Abdülhalik Renda Cad. no: 16/C",
     "contract": true,
     "latitude": 40.8812632,
-    "longitude": 29.2318064
+    "longitude": 29.2318064,
+    "iletisim": "02164837272"
   },
   {
     "name": "OKSİJEN ECZANESİ",
@@ -5150,7 +5665,8 @@ export const locations = [
     "address": "BAHÇEŞEHİR 2. KISIM MAH. SÜZER BLV. 3 CAD. KC ŞEHRİ BAZAAR AVM. F.BLOK NO:7 BAHÇEŞEHİR",
     "contract": true,
     "latitude": 41.0628546,
-    "longitude": 28.6862144
+    "longitude": 28.6862144,
+    "iletisim": "02323663565"
   },
   {
     "name": "CANSEVER ECZANESİ",
@@ -5160,7 +5676,8 @@ export const locations = [
     "address": "Caferağa Mah. Moda Cad. no: 21/C",
     "contract": true,
     "latitude": 40.9888998,
-    "longitude": 29.0249585
+    "longitude": 29.0249585,
+    "iletisim": "02163470092"
   },
   {
     "name": "NURDAN ECZANESİ",
@@ -5170,7 +5687,8 @@ export const locations = [
     "address": "Eyüp Merkez Mah. Fahri Korutürk Cad. no: 36",
     "contract": true,
     "latitude": 41.0490257,
-    "longitude": 28.9314276
+    "longitude": 28.9314276,
+    "iletisim": "02125632636"
   },
   {
     "name": "HARİKA ECZANESİ",
@@ -5180,7 +5698,8 @@ export const locations = [
     "address": "Mimaroba Mah. Mustafa Kemal Blv. no: 14 C2",
     "contract": true,
     "latitude": 41.0075503,
-    "longitude": 28.5373899
+    "longitude": 28.5373899,
+    "iletisim": "02128638484"
   },
   {
     "name": "NUMUNE ECZANESİ",
@@ -5190,7 +5709,8 @@ export const locations = [
     "address": "Yamanevler Mah. Alemdağ Cad. no: 155",
     "contract": true,
     "latitude": 41.0249301,
-    "longitude": 29.1015621
+    "longitude": 29.1015621,
+    "iletisim": "03123100410"
   },
   {
     "name": "YENİ BOSNA HAYAT ECZANESİ",
@@ -5200,7 +5720,8 @@ export const locations = [
     "address": "ZAFER MAH. YILDIRIM BEYAZIT CAD. NO.56/A YENİBOSNA",
     "contract": true,
     "latitude": 40.9976992,
-    "longitude": 28.8349655
+    "longitude": 28.8349655,
+    "iletisim": "02125037257"
   },
   {
     "name": "BİLGE ECZANESİ",
@@ -5210,7 +5731,8 @@ export const locations = [
     "address": "Ambarlı Mah. Denizköşkler Cad. No: 6/B",
     "contract": true,
     "latitude": 40.9777814,
-    "longitude": 28.7219268
+    "longitude": 28.7219268,
+    "iletisim": "02164468206"
   },
   {
     "name": "MERKEZ ECZANESİ",
@@ -5220,7 +5742,8 @@ export const locations = [
     "address": "Piri Mehmet Paşa Mah. Başkomutan Cad. no: 46/A",
     "contract": true,
     "latitude": 41.0740102,
-    "longitude": 28.2463917
+    "longitude": 28.2463917,
+    "iletisim": "02642790801"
   },
   {
     "name": "KRİSTAL ECZANE OPTİK",
@@ -5230,7 +5753,8 @@ export const locations = [
     "address": "Kozyatağı Mah. Kocayol Caddesi, Seda Sokak. No:8",
     "contract": true,
     "latitude": 40.9664446,
-    "longitude": 29.1001929
+    "longitude": 29.1001929,
+    "iletisim": "02163624164"
   },
   {
     "name": "DİLAN ECZANESİ",
@@ -5240,7 +5764,8 @@ export const locations = [
     "address": "Kartaltepe Mah. Pelinli Sok. no: 26/C",
     "contract": true,
     "latitude": 40.9968631,
-    "longitude": 28.8730841
+    "longitude": 28.8730841,
+    "iletisim": "02125707105"
   },
   {
     "name": "DEFNE ECZANESİ",
@@ -5250,7 +5775,8 @@ export const locations = [
     "address": "ATALAR MAH. ATALAR CAD. NO: 28/A RAHMANLAR",
     "contract": true,
     "latitude": 40.90366900000001,
-    "longitude": 29.1703413
+    "longitude": 29.1703413,
+    "iletisim": "04122513045"
   },
   {
     "name": "ASUMAN MİLAR ECZANESİ",
@@ -5260,7 +5786,8 @@ export const locations = [
     "address": "Levent Mah. Hanımeli Sok. NO: 4 Beşiktaş",
     "contract": true,
     "latitude": 41.0794334,
-    "longitude": 29.0151624
+    "longitude": 29.0151624,
+    "iletisim": "02123257363"
   },
   {
     "name": "SONAY ECZANESİ",
@@ -5270,7 +5797,8 @@ export const locations = [
     "address": "YENİŞEHİR MAHALLESİ MİLLET CADDESİ NO:25/4",
     "contract": true,
     "latitude": 40.926159,
-    "longitude": 29.307891
+    "longitude": 29.307891,
+    "iletisim": "02163909157"
   },
   {
     "name": "ÇAY ECZANESİ",
@@ -5280,7 +5808,8 @@ export const locations = [
     "address": "Bostancı Mah. Prof. Dr. Kemal Akgüder Cad. no: 24/4 Kale Apt.",
     "contract": true,
     "latitude": 40.9619148,
-    "longitude": 29.0996368
+    "longitude": 29.0996368,
+    "iletisim": "02163841622"
   },
   {
     "name": "BELMA ECZANESİ",
@@ -5290,7 +5819,8 @@ export const locations = [
     "address": "Kamer Hatun Mah. Kamer Hatun Cad. no: 1/A",
     "contract": true,
     "latitude": 41.0346144,
-    "longitude": 28.9764581
+    "longitude": 28.9764581,
+    "iletisim": NaN
   },
   {
     "name": "SÜMER ECZANESİ",
@@ -5300,7 +5830,8 @@ export const locations = [
     "address": "AHMEDİYE MAHALLESİ DOKTOR FAHRİ ATABEY CADDESİ NO:22",
     "contract": true,
     "latitude": 41.0210242,
-    "longitude": 29.0170183
+    "longitude": 29.0170183,
+    "iletisim": "02163347069"
   },
   {
     "name": "MAVİ ECZANE",
@@ -5310,7 +5841,8 @@ export const locations = [
     "address": "Validei Atik Mah. Nuh Kuyusu Cad. no:209/A Bağlarbaşı",
     "contract": true,
     "latitude": 41.020184,
-    "longitude": 29.034377
+    "longitude": 29.034377,
+    "iletisim": "02163412862"
   },
   {
     "name": "FUNDA ECZANESİ",
@@ -5320,7 +5852,8 @@ export const locations = [
     "address": "Başakşehir Mah. Prof. Dr. Necmettin Erbakan Cad. no:5/A Newista Life AVM Dk:A44",
     "contract": true,
     "latitude": 41.0998185,
-    "longitude": 28.7893317
+    "longitude": 28.7893317,
+    "iletisim": "02163954231"
   },
   {
     "name": "ASENA ECZANESİ",
@@ -5330,7 +5863,8 @@ export const locations = [
     "address": "Çubuklu Mahallesi, Orhan Veli Kanık Cad. No: 85/B KAVACIK",
     "contract": true,
     "latitude": 41.0946503,
-    "longitude": 29.0934961
+    "longitude": 29.0934961,
+    "iletisim": "02163313296"
   },
   {
     "name": "DİLEK ECZANESİ",
@@ -5340,7 +5874,8 @@ export const locations = [
     "address": "Yıldıztepe Mah. Bağcılar Cad. no:66/A",
     "contract": true,
     "latitude": 41.02757620000001,
-    "longitude": 28.8571276
+    "longitude": 28.8571276,
+    "iletisim": "02642212545"
   },
   {
     "name": "NUR ECZANESİ",
@@ -5350,7 +5885,8 @@ export const locations = [
     "address": "Abdurrahman Nafiz Gürman Mah. Fatih Cad. no:41/A",
     "contract": true,
     "latitude": 41.01061,
-    "longitude": 28.886364
+    "longitude": 28.886364,
+    "iletisim": "02125936647"
   },
   {
     "name": "SAADET ECZANESİ",
@@ -5360,7 +5896,8 @@ export const locations = [
     "address": "Soğanlık Yeni Mah. Atatürk Cad. no:30/A",
     "contract": true,
     "latitude": 40.9157661,
-    "longitude": 29.1950931
+    "longitude": 29.1950931,
+    "iletisim": "02164519068"
   },
   {
     "name": "SAFA ECZANESİ",
@@ -5370,7 +5907,8 @@ export const locations = [
     "address": "Hürriyet Mah. Dr. Cemil Bengü Cad. NO: 43/B",
     "contract": true,
     "latitude": 41.0719052,
-    "longitude": 28.9846902
+    "longitude": 28.9846902,
+    "iletisim": "02122318163"
   },
   {
     "name": "GÜVEN ECZANESİ",
@@ -5380,7 +5918,8 @@ export const locations = [
     "address": "Rasimpaşa Mah. Talimhane Sok. no:5",
     "contract": true,
     "latitude": 40.9931438,
-    "longitude": 29.02867239999999
+    "longitude": 29.02867239999999,
+    "iletisim": "03122802411"
   },
   {
     "name": "KAVAK ECZANESİ",
@@ -5390,7 +5929,8 @@ export const locations = [
     "address": "AHMEDİYE MAHALLESİ DOKTOR FAHRİ ATABEY CADDESİ NO: 2",
     "contract": true,
     "latitude": 41.0215533,
-    "longitude": 29.01658239999999
+    "longitude": 29.01658239999999,
+    "iletisim": "02163104571"
   },
   {
     "name": "ERGENEKON ECZANESİ",
@@ -5400,7 +5940,8 @@ export const locations = [
     "address": "ZÜHTÜPAŞA MAHALLESİ KÖRDERE SOKAK NO: 22/1",
     "contract": true,
     "latitude": 40.985665,
-    "longitude": 29.0376109
+    "longitude": 29.0376109,
+    "iletisim": "02164146583"
   },
   {
     "name": "SEZER ECZANESİ",
@@ -5410,7 +5951,8 @@ export const locations = [
     "address": "Çamlıtepe Mah. Akgün Cad. no:8/A",
     "contract": true,
     "latitude": 41.1284064,
-    "longitude": 29.0264461
+    "longitude": 29.0264461,
+    "iletisim": "03323524746"
   },
   {
     "name": "GÜNEŞ ECZANESİ",
@@ -5420,7 +5962,8 @@ export const locations = [
     "address": "Doğu Mah. Lokman Hekim Cad. no:16/A",
     "contract": true,
     "latitude": 40.878855,
-    "longitude": 29.235308
+    "longitude": 29.235308,
+    "iletisim": "02322275349"
   },
   {
     "name": "BAHÇESEHİR AYDIN ECZANESİ",
@@ -5430,7 +5973,8 @@ export const locations = [
     "address": "Bahçeşehir 2. Kısım Mahallesi, Avni Akyol Blv. Loca İstanbul A Blok No: 2 Bahçeşehir",
     "contract": true,
     "latitude": 41.07002749999999,
-    "longitude": 28.684429
+    "longitude": 28.684429,
+    "iletisim": "02126693632"
   },
   {
     "name": "HUZUR ECZANESİ",
@@ -5440,7 +5984,8 @@ export const locations = [
     "address": "H. Edip Adıvar Mah. Darülaceze Cad. No:11/B",
     "contract": true,
     "latitude": 41.0643469,
-    "longitude": 28.979883
+    "longitude": 28.979883,
+    "iletisim": "02367162626"
   },
   {
     "name": "YİĞİT ECZANESİ",
@@ -5450,7 +5995,8 @@ export const locations = [
     "address": "Bulgurlu Mah. Bulgurlu Cad. no:101",
     "contract": true,
     "latitude": 41.0173394,
-    "longitude": 29.0777417
+    "longitude": 29.0777417,
+    "iletisim": "04322171110"
   },
   {
     "name": "ŞENNUR ECZANESİ",
@@ -5460,7 +6006,8 @@ export const locations = [
     "address": "CUMHURİYET MAHALLESİ ATATÜRK BULVARI BİZİM ÇARŞI NO:2/47",
     "contract": true,
     "latitude": 41.0112174,
-    "longitude": 28.6396056
+    "longitude": 28.6396056,
+    "iletisim": NaN
   },
   {
     "name": "MEYDAN ECZANESİ",
@@ -5470,7 +6017,8 @@ export const locations = [
     "address": "Halkalı Merkez Mah.1. İkitelli Cad. NO: 13",
     "contract": true,
     "latitude": 41.0365962,
-    "longitude": 28.7883581
+    "longitude": 28.7883581,
+    "iletisim": "05348283250"
   },
   {
     "name": "CAN ECZANESİ",
@@ -5480,7 +6028,8 @@ export const locations = [
     "address": "Hürriyet Mah. Eski Edirne Asfaltı 255. Sok. No: 14/1 Beşyüzevler,",
     "contract": true,
     "latitude": 41.05603800000001,
-    "longitude": 28.9090617
+    "longitude": 28.9090617,
+    "iletisim": "05416702223"
   },
   {
     "name": "GÜVEN ECZANESİ",
@@ -5490,7 +6039,8 @@ export const locations = [
     "address": "Ali Kuşçu Mah. Hulusi Noyan Sok. no:4/2",
     "contract": true,
     "latitude": 41.017044,
-    "longitude": 28.9507954
+    "longitude": 28.9507954,
+    "iletisim": "03122802411"
   },
   {
     "name": "BURKAY ECZANESİ",
@@ -5500,7 +6050,8 @@ export const locations = [
     "address": "Göztepe Mahallesi, Mustafa Kaya Sokağı, Fahrettin Kerim Gökay Cd. No:18/B",
     "contract": true,
     "latitude": 40.9830492,
-    "longitude": 29.0613589
+    "longitude": 29.0613589,
+    "iletisim": "02125672222"
   },
   {
     "name": "MİNE ECZANESİ",
@@ -5510,7 +6061,8 @@ export const locations = [
     "address": "CAFERAĞA MAHALLESİ MODA CADDESİ NO:92/B",
     "contract": true,
     "latitude": 40.9857085,
-    "longitude": 29.02501149999999
+    "longitude": 29.02501149999999,
+    "iletisim": "02163459116"
   },
   {
     "name": "BEYLİK ECZANESİ",
@@ -5520,7 +6072,8 @@ export const locations = [
     "address": "Barış Mah. Sakarya Cad. no: 1 Migros AVM K:Giriş",
     "contract": true,
     "latitude": 41.0057662,
-    "longitude": 28.655848
+    "longitude": 28.655848,
+    "iletisim": "02128520295"
   },
   {
     "name": "SULTANÇİFTLİĞİ ECZANESİ",
@@ -5530,7 +6083,8 @@ export const locations = [
     "address": "Sultançiftliği Mah. Turgut Özal Cad. NO: 86",
     "contract": true,
     "latitude": 41.0296356,
-    "longitude": 29.2248526
+    "longitude": 29.2248526,
+    "iletisim": "02163121803"
   },
   {
     "name": "AKADEMİ EBRU ECZANESİ",
@@ -5540,7 +6094,8 @@ export const locations = [
     "address": "Selami Ali Mahallesi Nuh Kuyusu Caddesi NO: 203/B",
     "contract": true,
     "latitude": 41.020015,
-    "longitude": 29.0342506
+    "longitude": 29.0342506,
+    "iletisim": "02165303044"
   },
   {
     "name": "SULTAN ECZANESİ",
@@ -5550,7 +6105,8 @@ export const locations = [
     "address": "Yenidoğan Mahallesi 42/4 Sokak No:1/1",
     "contract": true,
     "latitude": 40.989931,
-    "longitude": 28.904488
+    "longitude": 28.904488,
+    "iletisim": "02324540676"
   },
   {
     "name": "DORBEN EZCZANESİ",
@@ -5560,7 +6116,8 @@ export const locations = [
     "address": "Gayrettepe Mah. Fahri Gizden Sok. No: 5 Petek Sit. D Blok",
     "contract": true,
     "latitude": 41.06491339999999,
-    "longitude": 29.0048241
+    "longitude": 29.0048241,
+    "iletisim": NaN
   },
   {
     "name": "YAVUZ ECZANE OPTİK",
@@ -5570,7 +6127,8 @@ export const locations = [
     "address": "Bulgurlu Mahallesi, Alemdağ Cad. Namazgah Mevkii NO: 102/A",
     "contract": true,
     "latitude": 41.0227724,
-    "longitude": 29.0780061
+    "longitude": 29.0780061,
+    "iletisim": "02164612613"
   },
   {
     "name": "BAŞAKŞEHİR ECZANESİ",
@@ -5580,7 +6138,8 @@ export const locations = [
     "address": "Ziyagökalp Mah. Cihangir Sok. no:44 1. Etap Kiptaş Çrş.",
     "contract": true,
     "latitude": 41.0775184,
-    "longitude": 28.7866959
+    "longitude": 28.7866959,
+    "iletisim": "02124851650"
   },
   {
     "name": "BUSE ECZANE VE OPTİK",
@@ -5590,7 +6149,8 @@ export const locations = [
     "address": "Mecidiyeköy Mah. Büyükdere Cad. no:75/A",
     "contract": true,
     "latitude": 41.06686639999999,
-    "longitude": 28.9990787
+    "longitude": 28.9990787,
+    "iletisim": "02122119101"
   },
   {
     "name": "BALKAN ECZANESİ",
@@ -5600,7 +6160,8 @@ export const locations = [
     "address": "Cihangir Mah. Burnaz Cad. no:36/A",
     "contract": true,
     "latitude": 40.9863968,
-    "longitude": 28.714109
+    "longitude": 28.714109,
+    "iletisim": "02126959981"
   },
   {
     "name": "EMİNE ECZANESİ",
@@ -5610,7 +6171,8 @@ export const locations = [
     "address": "ERENKÖY MAHALLESİ ÇOBAN YILDIZI SOKAK NO: 12/B",
     "contract": true,
     "latitude": 40.9728013,
-    "longitude": 29.0798297
+    "longitude": 29.0798297,
+    "iletisim": "02163860489"
   },
   {
     "name": "NURHAN ECZANESİ",
@@ -5620,7 +6182,8 @@ export const locations = [
     "address": "Caferağa Mah. Güneşlibahçe Sok. no:49 Dk:1",
     "contract": true,
     "latitude": 40.9887421,
-    "longitude": 29.0239411
+    "longitude": 29.0239411,
+    "iletisim": "02127897106"
   },
   {
     "name": "NATO ECZANESİ",
@@ -5630,7 +6193,8 @@ export const locations = [
     "address": "Güzeltepe Mah. Bosna Blv. no:123/A Çengelköy",
     "contract": true,
     "latitude": 41.0466086,
-    "longitude": 29.0762482
+    "longitude": 29.0762482,
+    "iletisim": "02163183473"
   },
   {
     "name": "BEYAZIT HALK ECZANESİ",
@@ -5640,7 +6204,8 @@ export const locations = [
     "address": "MİMAR HAYRETTİN MAHALLESİ YENİÇERİLER CADDESİ NO: 63/A",
     "contract": true,
     "latitude": 41.0089881,
-    "longitude": 28.9657889
+    "longitude": 28.9657889,
+    "iletisim": "02125171514"
   },
   {
     "name": "GENÇ ECZANESİ",
@@ -5650,7 +6215,8 @@ export const locations = [
     "address": "Mehmet Nesih Özmen Mah. Fatih Cad. no:26/C Keresteciler Sit.",
     "contract": true,
     "latitude": 41.01449100000001,
-    "longitude": 28.883548
+    "longitude": 28.883548,
+    "iletisim": "02126370022"
   },
   {
     "name": "İDİL ECZANESİ",
@@ -5660,7 +6226,8 @@ export const locations = [
     "address": "Kaptan Paşa Mah. İdil Çıkmazı Sok. D:c-11 blok Okmeydanı",
     "contract": true,
     "latitude": 41.0625592,
-    "longitude": 28.9703714
+    "longitude": 28.9703714,
+    "iletisim": "05448864888"
   },
   {
     "name": "KARDELEN ECZANE",
@@ -5670,7 +6237,8 @@ export const locations = [
     "address": "GÜRSEL MAHALLESİ DARÜLACEZE CADDESİ NO : 36-C",
     "contract": true,
     "latitude": 41.06541379999999,
-    "longitude": 28.9715364
+    "longitude": 28.9715364,
+    "iletisim": "02122101011"
   },
   {
     "name": "ŞENAY ECZANESİ",
@@ -5680,7 +6248,8 @@ export const locations = [
     "address": "Muratreis Mah. Allame Cad. NO: 95",
     "contract": true,
     "latitude": 41.0208047,
-    "longitude": 29.0341749
+    "longitude": 29.0341749,
+    "iletisim": "02163438791"
   },
   {
     "name": "UMUT ECZANESİ",
@@ -5690,7 +6259,8 @@ export const locations = [
     "address": "Yenişehir Mah. Baraj Yolu Cad. no:22 /1 C",
     "contract": true,
     "latitude": 40.9940039,
-    "longitude": 29.137655
+    "longitude": 29.137655,
+    "iletisim": "05431862302"
   },
   {
     "name": "HANDE ECZANESİ",
@@ -5700,7 +6270,8 @@ export const locations = [
     "address": "Sanayi Mah. Sultan Selim Cad. no:123/B",
     "contract": true,
     "latitude": 41.0914772,
-    "longitude": 28.9951416
+    "longitude": 28.9951416,
+    "iletisim": "03322477733"
   },
   {
     "name": "GÜLEŞÇE ECZANESİ",
@@ -5710,7 +6281,8 @@ export const locations = [
     "address": "Sahrayı Cedit Mah. Atatürk Cad. Mengi Sok. no:11",
     "contract": true,
     "latitude": 40.9841384,
-    "longitude": 29.0877113
+    "longitude": 29.0877113,
+    "iletisim": "02163574241"
   },
   {
     "name": "SANTRAL ECZANESİ",
@@ -5720,7 +6292,8 @@ export const locations = [
     "address": "Atatürk Mahallesi, Alemdağ Cd. No:6 Santral",
     "contract": true,
     "latitude": 41.0243511,
-    "longitude": 29.084346
+    "longitude": 29.084346,
+    "iletisim": "02165238080"
   },
   {
     "name": "TÜLİN ECZANESİ",
@@ -5730,7 +6303,8 @@ export const locations = [
     "address": "AKPINAR MAH. GÜLHANE CAD. NO:34/A",
     "contract": true,
     "latitude": 40.9634426,
-    "longitude": 29.2338992
+    "longitude": 29.2338992,
+    "iletisim": "02164984001"
   },
   {
     "name": "BİLGE ECZANESİ",
@@ -5740,7 +6314,8 @@ export const locations = [
     "address": "Cennet Mah. Yavuz Selim Cad. no: 83/A",
     "contract": true,
     "latitude": 40.9930062,
-    "longitude": 28.7812035
+    "longitude": 28.7812035,
+    "iletisim": "02164468206"
   },
   {
     "name": "GÜLER ECZANESİ",
@@ -5750,7 +6325,8 @@ export const locations = [
     "address": "Atatürk Mah. 2. HÜRRİYET Cad. NO: 11B",
     "contract": true,
     "latitude": 40.9862983,
-    "longitude": 28.7811935
+    "longitude": 28.7811935,
+    "iletisim": "02126931149"
   },
   {
     "name": "BAŞAK ECZANESİ",
@@ -5760,7 +6336,8 @@ export const locations = [
     "address": "Gökalp Mah. Prof. Muammer Aksoy Cad. NO:34/A",
     "contract": true,
     "latitude": 40.9943958,
-    "longitude": 28.9045834
+    "longitude": 28.9045834,
+    "iletisim": "05437242233"
   },
   {
     "name": "KAHVECİOĞLU ECZANESİ",
@@ -5770,7 +6347,8 @@ export const locations = [
     "address": "Mevlana Mahallesi, Avrupa Konutları, Tem 2 D blok, Hekimsuyu Cad. no:118/d",
     "contract": true,
     "latitude": 41.08789,
-    "longitude": 28.9077668
+    "longitude": 28.9077668,
+    "iletisim": "02128036100"
   },
   {
     "name": "PELİN ECZANESİ",
@@ -5780,7 +6358,8 @@ export const locations = [
     "address": "Alibey Mahallesi, Fevzi Çakmak Cad. Aykanat Apt. No:17",
     "contract": true,
     "latitude": 41.0747523,
-    "longitude": 28.2490915
+    "longitude": 28.2490915,
+    "iletisim": "02164525344"
   },
   {
     "name": "HİPOKRAT ECZANESİ",
@@ -5790,7 +6369,8 @@ export const locations = [
     "address": "Bağlarbaşı Mah. Feyzullah Cad. no:28/A Maltepe",
     "contract": true,
     "latitude": 40.9278088,
-    "longitude": 29.1381017
+    "longitude": 29.1381017,
+    "iletisim": "05321517658"
   },
   {
     "name": "BİNNUR ECZANESİ",
@@ -5800,7 +6380,8 @@ export const locations = [
     "address": "Ortabayır Mah. Talat Paşa Cad. NO:79",
     "contract": true,
     "latitude": 41.078541,
-    "longitude": 29.0030052
+    "longitude": 29.0030052,
+    "iletisim": "02123241275"
   },
   {
     "name": "ARI ECZANESİ",
@@ -5810,7 +6391,8 @@ export const locations = [
     "address": "YENİŞEHİR MAH. BARAJ YOLU CAD. ADI GÜZEL SİTESİ G BLOK NO:6/A",
     "contract": true,
     "latitude": 40.9941571,
-    "longitude": 29.1404139
+    "longitude": 29.1404139,
+    "iletisim": "02125043643"
   },
   {
     "name": "YEŞİM ECZANESİ",
@@ -5820,7 +6402,8 @@ export const locations = [
     "address": "MOLLA GÜRANİ MAHALLESİ TURGUT ÖZAL MİLLET CADDESİ NO: 90",
     "contract": true,
     "latitude": 41.0130233,
-    "longitude": 28.9388544
+    "longitude": 28.9388544,
+    "iletisim": "02329668010"
   },
   {
     "name": "LAL ECZANESİ",
@@ -5830,7 +6413,8 @@ export const locations = [
     "address": "Caddebostan Mah. Bağdat Cad. no:259/A Orçun Apt.",
     "contract": true,
     "latitude": 40.97001119999999,
-    "longitude": 29.0630693
+    "longitude": 29.0630693,
+    "iletisim": "02163686603"
   },
   {
     "name": "DAMLA ECZANESİ",
@@ -5840,7 +6424,8 @@ export const locations = [
     "address": "Kartaltepe Mah. Ordu Cad. NO:162",
     "contract": true,
     "latitude": 41.0534538,
-    "longitude": 28.8995391
+    "longitude": 28.8995391,
+    "iletisim": "02822625737"
   },
   {
     "name": "ÖZLEM TORUN ECZANE OPTİK",
@@ -5850,7 +6435,8 @@ export const locations = [
     "address": "Çakmak Mah. Alemdağ Cad. NO:408/B",
     "contract": true,
     "latitude": 41.0221746,
-    "longitude": 29.1154654
+    "longitude": 29.1154654,
+    "iletisim": "02165237090"
   },
   {
     "name": "MİNERAL ECZANESİ",
@@ -5860,7 +6446,8 @@ export const locations = [
     "address": "Kemal Türkler Mahallesi Osmangazi Caddesi No:23/A Sancaktepe İstanbul",
     "contract": true,
     "latitude": 40.9993445,
-    "longitude": 29.2188857
+    "longitude": 29.2188857,
+    "iletisim": "02325040931"
   },
   {
     "name": "POLEN ECZANESİ",
@@ -5870,7 +6457,8 @@ export const locations = [
     "address": "Ataşehir Atatürk Mah. Meriç Cad. NO:3",
     "contract": true,
     "latitude": 40.989081,
-    "longitude": 29.13577099999999
+    "longitude": 29.13577099999999,
+    "iletisim": "02125050765"
   },
   {
     "name": "ATEŞ ECZANESİ",
@@ -5880,7 +6468,8 @@ export const locations = [
     "address": "Kaptanpaşa Mah. İdil Sok. NO : 9",
     "contract": true,
     "latitude": 41.062377,
-    "longitude": 28.9712352
+    "longitude": 28.9712352,
+    "iletisim": "03422519512"
   },
   {
     "name": "MERKEZ ŞİFA ECZANESİ",
@@ -5890,7 +6479,8 @@ export const locations = [
     "address": "Çınar Mah. 842. Sok. NO:12",
     "contract": true,
     "latitude": 41.0398218,
-    "longitude": 28.853058
+    "longitude": 28.853058,
+    "iletisim": "02126343600"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -5900,7 +6490,8 @@ export const locations = [
     "address": "Cumhuriyet Mah. Gülpınar Yolu Caddesi Beylikdüzü Sanayi Sitesi B Blok No: 314",
     "contract": true,
     "latitude": 41.0206142,
-    "longitude": 28.6177274
+    "longitude": 28.6177274,
+    "iletisim": "03247141116"
   },
   {
     "name": "FERDA ECZANESİ",
@@ -5910,7 +6501,8 @@ export const locations = [
     "address": "Karlıktepe Mah. Spor Cad. no:4/D",
     "contract": true,
     "latitude": 40.8903702,
-    "longitude": 29.1904711
+    "longitude": 29.1904711,
+    "iletisim": "02163061617"
   },
   {
     "name": "REŞİTPAŞA ECZANESİ",
@@ -5920,7 +6512,8 @@ export const locations = [
     "address": "DENİZKÖŞKLER MAH. ZAFER CAD. NO:20/A",
     "contract": true,
     "latitude": 40.9751665,
-    "longitude": 28.7279461
+    "longitude": 28.7279461,
+    "iletisim": "02125918189"
   },
   {
     "name": "ÇELEBİ ECZANESİ",
@@ -5930,7 +6523,8 @@ export const locations = [
     "address": "Talatpaşa Mah. Aslangazi Cad. no:1 Okmeydanı",
     "contract": true,
     "latitude": 41.0635699,
-    "longitude": 28.967876
+    "longitude": 28.967876,
+    "iletisim": "02742310111"
   },
   {
     "name": "AYŞE LERZAN ECZANESİ",
@@ -5940,7 +6534,8 @@ export const locations = [
     "address": "Osmanağa Mah. İskele Meydanı Söğütlüçeşme Cad. no:6/A",
     "contract": true,
     "latitude": 40.9911882,
-    "longitude": 29.0242809
+    "longitude": 29.0242809,
+    "iletisim": "02163482992"
   },
   {
     "name": "FURKAN ECZANESİ",
@@ -5950,7 +6545,8 @@ export const locations = [
     "address": "DARÜLACEZE CAD NO:13/B (TÜRKİYE HASTANESİ ve ŞİŞLİ KOLAN HASTANESİ KARŞISI) ŞİŞLİ İSTANBUL",
     "contract": true,
     "latitude": 41.0646267,
-    "longitude": 28.9796924
+    "longitude": 28.9796924,
+    "iletisim": "03522374393"
   },
   {
     "name": "TARABYA ECZANESİ",
@@ -5960,7 +6556,8 @@ export const locations = [
     "address": "Tarabya Mahallesi Tarabya Bayırı Caddesi Cami Sitesi NO: 1 Sarıyer",
     "contract": true,
     "latitude": 41.1368939,
-    "longitude": 29.0408854
+    "longitude": 29.0408854,
+    "iletisim": "02122620197"
   },
   {
     "name": "ÇETİNKAYA ECZANESİ",
@@ -5970,7 +6567,8 @@ export const locations = [
     "address": "Cumhuriyet Mah. İnönü Cad. no:55 Tepeüstü",
     "contract": true,
     "latitude": 40.9971921,
-    "longitude": 28.7763235
+    "longitude": 28.7763235,
+    "iletisim": "03323505737"
   },
   {
     "name": "BAHÇEKÖY ECZANESİ",
@@ -5980,7 +6578,8 @@ export const locations = [
     "address": "Bahçeköy Merkez Mah. Adanan Menderes Cad. no:21/A",
     "contract": true,
     "latitude": 41.1785384,
-    "longitude": 28.9920319
+    "longitude": 28.9920319,
+    "iletisim": "02122263963"
   },
   {
     "name": "ALİMOĞLU ECZANESİ",
@@ -5990,7 +6589,8 @@ export const locations = [
     "address": "Menderes Mah. Atışalan Cad. no:23/B",
     "contract": true,
     "latitude": 41.0406132,
-    "longitude": 28.8813255
+    "longitude": 28.8813255,
+    "iletisim": "02126479251"
   },
   {
     "name": "MELİSSA ECZANESİ",
@@ -6000,7 +6600,8 @@ export const locations = [
     "address": "Atatürk Mah. Ataşehir Blv. 10/H Ata 3-1 Blok Ataşehir",
     "contract": true,
     "latitude": 40.9922377,
-    "longitude": 29.1209509
+    "longitude": 29.1209509,
+    "iletisim": "02164554886"
   },
   {
     "name": "TANRIVERDI ECZANESİ",
@@ -6010,7 +6611,8 @@ export const locations = [
     "address": "Halkalı Merkez Mah. Arifbey Cad. Zafer Cömert Sok. no:6",
     "contract": true,
     "latitude": 41.0355875,
-    "longitude": 28.7943044
+    "longitude": 28.7943044,
+    "iletisim": "02124724727"
   },
   {
     "name": "DİLA ECZANESİ",
@@ -6020,7 +6622,8 @@ export const locations = [
     "address": "Fevzi Çakmak Mah. Cengiz Topel Cad. no:168/B Küçükköy",
     "contract": true,
     "latitude": 41.07158159999999,
-    "longitude": 28.9014512
+    "longitude": 28.9014512,
+    "iletisim": "02165216120"
   },
   {
     "name": "ATA ECZANESİ",
@@ -6030,7 +6633,8 @@ export const locations = [
     "address": "Atatürk Mahallesi Ataşehir Blv. No: 18/E Ata Çrş.",
     "contract": true,
     "latitude": 40.9921915,
-    "longitude": 29.1266156
+    "longitude": 29.1266156,
+    "iletisim": "02164557833"
   },
   {
     "name": "DENİZ ECZANESİ",
@@ -6040,7 +6644,8 @@ export const locations = [
     "address": "Şehremini Mah. Büyük Saray Meydanı Cad. no:11",
     "contract": true,
     "latitude": 41.0159416,
-    "longitude": 28.9301799
+    "longitude": 28.9301799,
+    "iletisim": "02663241355"
   },
   {
     "name": "AYDOĞDU ECZANESİ",
@@ -6050,7 +6655,8 @@ export const locations = [
     "address": "Hürriyet Mah. 255. Sok. NO:13/B Küçükköy",
     "contract": true,
     "latitude": 41.0655576,
-    "longitude": 28.9003176
+    "longitude": 28.9003176,
+    "iletisim": "02126154547"
   },
   {
     "name": "NURHAN ECZANESİ",
@@ -6060,7 +6666,8 @@ export const locations = [
     "address": "Ferhatpaşa Mah. Mescit Sok. NO:6",
     "contract": true,
     "latitude": 41.1431466,
-    "longitude": 28.4599387
+    "longitude": 28.4599387,
+    "iletisim": "02127897106"
   },
   {
     "name": "SELÇUKLU ECZANESİ",
@@ -6070,7 +6677,8 @@ export const locations = [
     "address": "İnkilap Mah. Haşim İşcan Sok. NO:7/A",
     "contract": true,
     "latitude": 41.0345502,
-    "longitude": 29.1095716
+    "longitude": 29.1095716,
+    "iletisim": "02166323242"
   },
   {
     "name": "İSTANBUL ECZANESİ",
@@ -6080,7 +6688,8 @@ export const locations = [
     "address": "Firuzköy Mah. Tiryaki Suyu Cad. No:24/A",
     "contract": true,
     "latitude": 41.02082559999999,
-    "longitude": 28.7073106
+    "longitude": 28.7073106,
+    "iletisim": "03125129986"
   },
   {
     "name": "DİBA ECZANESİ",
@@ -6090,7 +6699,8 @@ export const locations = [
     "address": "Tevfik Bey Mah. Mektep Sok. NO:24",
     "contract": true,
     "latitude": 41.0080409,
-    "longitude": 28.7987475
+    "longitude": 28.7987475,
+    "iletisim": "02124267800"
   },
   {
     "name": "FULL ECZANESİ",
@@ -6100,7 +6710,8 @@ export const locations = [
     "address": "Altunizade Mah. Tophanelioğlu Cad. NO:22",
     "contract": true,
     "latitude": 41.0201882,
-    "longitude": 29.045351
+    "longitude": 29.045351,
+    "iletisim": "02164900112"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -6110,7 +6721,8 @@ export const locations = [
     "address": "Nisbetiye Mah. Adnan Saygun Cad. NO:5 Kır Apt.",
     "contract": true,
     "latitude": 41.075251,
-    "longitude": 29.0276921
+    "longitude": 29.0276921,
+    "iletisim": "03247141116"
   },
   {
     "name": "CERRAHPAŞA ECZANESİ",
@@ -6120,7 +6732,8 @@ export const locations = [
     "address": "AKSARAY MAH. YOKUŞ CEŞMESİ SOK. NO:28/A",
     "contract": true,
     "latitude": 41.00503339999999,
-    "longitude": 28.9432429
+    "longitude": 28.9432429,
+    "iletisim": "02126334120"
   },
   {
     "name": "TURKAN ASLAN ECZANESİ",
@@ -6130,7 +6743,8 @@ export const locations = [
     "address": "Fevzi Çakmak Mah. Atışalan Cad. NO:24/C",
     "contract": true,
     "latitude": 41.0389668,
-    "longitude": 28.8823218
+    "longitude": 28.8823218,
+    "iletisim": "02125623737"
   },
   {
     "name": "ŞELALE ECZANESİ",
@@ -6140,7 +6754,8 @@ export const locations = [
     "address": "Merkez Mah. Çobançeşme Cad. NO:27/B",
     "contract": true,
     "latitude": 41.0819684,
-    "longitude": 28.9695836
+    "longitude": 28.9695836,
+    "iletisim": "04226151555"
   },
   {
     "name": "HİSAR ÜSTÜ ECZANESİ",
@@ -6150,7 +6765,8 @@ export const locations = [
     "address": "SARAY MAH. SİTEYOLU CAD. NO:9/A",
     "contract": true,
     "latitude": 41.0271047,
-    "longitude": 29.1157666
+    "longitude": 29.1157666,
+    "iletisim": "02166319444"
   },
   {
     "name": "YENİDOĞAN ECZANESİ",
@@ -6160,7 +6776,8 @@ export const locations = [
     "address": "Yenidoğan Mah. Atatürk Cad. NO:333/D",
     "contract": true,
     "latitude": 41.0083613,
-    "longitude": 29.2407594
+    "longitude": 29.2407594,
+    "iletisim": "02164291133"
   },
   {
     "name": "ORYAPARK ECZANE",
@@ -6170,7 +6787,8 @@ export const locations = [
     "address": "Saray Mah. Küçüksu Cad. NO:1/B Dk:60",
     "contract": true,
     "latitude": 41.0546105,
-    "longitude": 29.1161652
+    "longitude": 29.1161652,
+    "iletisim": "02166115050"
   },
   {
     "name": "ATAMAN ECZANESİ",
@@ -6180,7 +6798,8 @@ export const locations = [
     "address": "Hamidiye Mah. Barış Yolu Cad. NO:4/6 Ağaoğlu My Country AVM",
     "contract": true,
     "latitude": 41.0278088,
-    "longitude": 29.1910422
+    "longitude": 29.1910422,
+    "iletisim": "03228890064"
   },
   {
     "name": "EYLÜL ECZANESİ",
@@ -6190,7 +6809,8 @@ export const locations = [
     "address": "Hasanpaşa Mahallesi, Fahrettin Kerim Gökay Cad. No:61/1",
     "contract": true,
     "latitude": 40.992232,
-    "longitude": 29.039146
+    "longitude": 29.039146,
+    "iletisim": "03122299679"
   },
   {
     "name": "DOĞA ECZANESİ",
@@ -6200,7 +6820,8 @@ export const locations = [
     "address": "Fenerbahçe Mah. Fener Kalamış Cad. no: 2/4-B Kızıltoprak",
     "contract": true,
     "latitude": 40.972124,
-    "longitude": 29.039938
+    "longitude": 29.039938,
+    "iletisim": "05063565981"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -6210,7 +6831,8 @@ export const locations = [
     "address": "Cennet Mah. Alpaslan Cad. NO:11/A (DOĞAN HASTANESİ YAKININDA)",
     "contract": true,
     "latitude": 40.9866012,
-    "longitude": 28.7824306
+    "longitude": 28.7824306,
+    "iletisim": "02744124152"
   },
   {
     "name": "GÜLDEN ECZANESİ",
@@ -6220,7 +6842,8 @@ export const locations = [
     "address": "Fevzi Çakmak Mah. Eynesil Sok. NO:1 Kaynarca",
     "contract": true,
     "latitude": 40.8799388,
-    "longitude": 29.2609481
+    "longitude": 29.2609481,
+    "iletisim": "02165962769"
   },
   {
     "name": "RÜYA ECZANESİ",
@@ -6230,7 +6853,8 @@ export const locations = [
     "address": "19 Mayıs Mah. Okur Sok. no:11A Kozyatağı",
     "contract": true,
     "latitude": 40.976427,
-    "longitude": 29.09231479999999
+    "longitude": 29.09231479999999,
+    "iletisim": "02166586180"
   },
   {
     "name": "KARADENİZ ECZANESİ",
@@ -6240,7 +6864,8 @@ export const locations = [
     "address": "Ayazağa Mah. Şehit İlhan Yurt Sok. no:73/A",
     "contract": true,
     "latitude": 41.12046300000001,
-    "longitude": 29.000045
+    "longitude": 29.000045,
+    "iletisim": "02662449497"
   },
   {
     "name": "BARIŞ ECZANESİ",
@@ -6250,7 +6875,8 @@ export const locations = [
     "address": "Barbaros Mah. Ortabahar Sok. no: 33/A",
     "contract": true,
     "latitude": 40.9846776,
-    "longitude": 29.0978582
+    "longitude": 29.0978582,
+    "iletisim": "02128122101"
   },
   {
     "name": "FLORA ECZANESİ",
@@ -6260,7 +6886,8 @@ export const locations = [
     "address": "Küçükbakkalköy Mah. Vedat Günyol Cad. no:10/A",
     "contract": true,
     "latitude": 40.9808679,
-    "longitude": 29.104429
+    "longitude": 29.104429,
+    "iletisim": "05395163222"
   },
   {
     "name": "SEVİNÇ ECZANESİ",
@@ -6270,7 +6897,8 @@ export const locations = [
     "address": "Cennet Mah. Turgut Reis Cad. no:61 Sefa Konakları Dk:1",
     "contract": true,
     "latitude": 40.9910295,
-    "longitude": 28.7768197
+    "longitude": 28.7768197,
+    "iletisim": "02623435440"
   },
   {
     "name": "İLKSİN ECZANESİ",
@@ -6280,7 +6908,8 @@ export const locations = [
     "address": "Mimar Sinan Mah. Ethem Sok. NO:13",
     "contract": true,
     "latitude": 41.0304591,
-    "longitude": 29.1738377
+    "longitude": 29.1738377,
+    "iletisim": "02166405891"
   },
   {
     "name": "CADDE ÖZLEM ECZANESİ",
@@ -6290,7 +6919,8 @@ export const locations = [
     "address": "AYDINTEPE MAH. BEYDAĞI CAD. NO:2 CT1 BLOK",
     "contract": true,
     "latitude": 40.8594161,
-    "longitude": 29.2997007
+    "longitude": 29.2997007,
+    "iletisim": "02165042984"
   },
   {
     "name": "ECZANE VITAMIN",
@@ -6300,7 +6930,8 @@ export const locations = [
     "address": "BARBAROS MAHALLESİ BAŞAK CENGİZ SOKAK KENT PLUS SİTESİ NO: 6T 3",
     "contract": true,
     "latitude": 40.99071379999999,
-    "longitude": 29.1012608
+    "longitude": 29.1012608,
+    "iletisim": "02166886161"
   },
   {
     "name": "AYLİN ECZANESİ",
@@ -6310,7 +6941,8 @@ export const locations = [
     "address": "Koşuyolu Mah. Koşuyolu Cad. NO:136/B",
     "contract": true,
     "latitude": 41.0070937,
-    "longitude": 29.0344313
+    "longitude": 29.0344313,
+    "iletisim": "02663736867"
   },
   {
     "name": "HAKAN ECZANESİ",
@@ -6320,7 +6952,8 @@ export const locations = [
     "address": "Küçükyalı Mah. Bağdat Cad. NO:104/B",
     "contract": true,
     "latitude": 40.9483192,
-    "longitude": 29.1062537
+    "longitude": 29.1062537,
+    "iletisim": "05059183392"
   },
   {
     "name": "ELİF ECZANESİ",
@@ -6330,7 +6963,8 @@ export const locations = [
     "address": "Bahçelievler Mah. Deli Hüseyinpaşa Cad. şevketdağ sokak no: 4/a",
     "contract": true,
     "latitude": 41.0069472,
-    "longitude": 28.8694474
+    "longitude": 28.8694474,
+    "iletisim": "02525137133"
   },
   {
     "name": "DERMAN ECZANESİ",
@@ -6340,7 +6974,8 @@ export const locations = [
     "address": "Ortabayır Mah. Talatpaşa Cad. NO:57/A",
     "contract": true,
     "latitude": 41.0788153,
-    "longitude": 29.0046057
+    "longitude": 29.0046057,
+    "iletisim": "02822625876"
   },
   {
     "name": "KÜÇÜKBAKKALKÖY ECZANESİ",
@@ -6350,7 +6985,8 @@ export const locations = [
     "address": "KÜÇÜKBAKKALKÖY MAH. KAYIŞDAĞI CAD. İST.APT. NO:115/C",
     "contract": true,
     "latitude": 40.978598,
-    "longitude": 29.1174437
+    "longitude": 29.1174437,
+    "iletisim": "02166292200"
   },
   {
     "name": "MELEK ECZANESİ",
@@ -6360,7 +6996,8 @@ export const locations = [
     "address": "Zeytinlik Mah. Fişekhane Cad. NO:24/A",
     "contract": true,
     "latitude": 40.9782578,
-    "longitude": 28.8726776
+    "longitude": 28.8726776,
+    "iletisim": "03226063302"
   },
   {
     "name": "ESRA ECZANESİ",
@@ -6370,7 +7007,8 @@ export const locations = [
     "address": "İstasyon Mah. Yarımburgaz Cad. no:26 Olimpia İş Mrk. Halkalı",
     "contract": true,
     "latitude": 41.0300429,
-    "longitude": 28.7683809
+    "longitude": 28.7683809,
+    "iletisim": "05325031065"
   },
   {
     "name": "VERESELİ HAYAT ECZANESİ",
@@ -6380,7 +7018,8 @@ export const locations = [
     "address": "ALİBEY MAH. FEVZİ ÇAKMAK CAD. NO:12/A VAKIFBANK KARŞISI",
     "contract": true,
     "latitude": 41.07479,
-    "longitude": 28.24933
+    "longitude": 28.24933,
+    "iletisim": "02127284988"
   },
   {
     "name": "SEYİTNİZAM ECZANESİ",
@@ -6390,7 +7029,8 @@ export const locations = [
     "address": "Seyit Nizam Mah. Yeni Çiftlik Yolu No:11",
     "contract": true,
     "latitude": 41.0107613,
-    "longitude": 28.9070859
+    "longitude": 28.9070859,
+    "iletisim": "02125461390"
   },
   {
     "name": "PELİN ECZANESİ",
@@ -6400,7 +7040,8 @@ export const locations = [
     "address": "Şerifali Mah. Turcan Cad. no:55/A",
     "contract": true,
     "latitude": 40.99777419999999,
-    "longitude": 29.1422999
+    "longitude": 29.1422999,
+    "iletisim": "02164525344"
   },
   {
     "name": "TURKUAZ ECZANESİ",
@@ -6410,7 +7051,8 @@ export const locations = [
     "address": "Merdivenköy Mah. Ressam Salih Ermez Cad. no:7/5",
     "contract": true,
     "latitude": 40.9843059,
-    "longitude": 29.0622829
+    "longitude": 29.0622829,
+    "iletisim": "02243723274"
   },
   {
     "name": "POYRAZ ECZANESİ",
@@ -6420,7 +7062,8 @@ export const locations = [
     "address": "Rüzgarlıbahçe Mah. Cumhuriyet Cad. no:91",
     "contract": true,
     "latitude": 41.0943592,
-    "longitude": 29.1017363
+    "longitude": 29.1017363,
+    "iletisim": "02164250199"
   },
   {
     "name": "BÜYÜK ECZANE",
@@ -6430,7 +7073,8 @@ export const locations = [
     "address": "TOPHANELİOĞLU CAD. NO:42 ALTUNİZADE",
     "contract": true,
     "latitude": 41.0196335,
-    "longitude": 29.0450335
+    "longitude": 29.0450335,
+    "iletisim": "05336569880"
   },
   {
     "name": "ARTERİUM ECZANESİ",
@@ -6440,7 +7084,8 @@ export const locations = [
     "address": "Başakşehir Mah. Toros Cad. no:3/F",
     "contract": true,
     "latitude": 41.102139,
-    "longitude": 28.7864572
+    "longitude": 28.7864572,
+    "iletisim": "02124864040"
   },
   {
     "name": "ÜMRANİYE SAĞLIK ECZANESİ",
@@ -6450,7 +7095,8 @@ export const locations = [
     "address": "İnkilap Mah. Haşim İşcan Sok. no:10/A",
     "contract": true,
     "latitude": 41.0346986,
-    "longitude": 29.1097414
+    "longitude": 29.1097414,
+    "iletisim": "02166301080"
   },
   {
     "name": "BADEMLİK SAĞLIK ECZANESİ",
@@ -6460,7 +7106,8 @@ export const locations = [
     "address": "Sütlüce Mah. Talip Paşa Arkası Sok. no:4",
     "contract": true,
     "latitude": 41.0511827,
-    "longitude": 28.9451923
+    "longitude": 28.9451923,
+    "iletisim": "02122558091"
   },
   {
     "name": "AYŞEN TURAN ECZANESİ",
@@ -6470,7 +7117,8 @@ export const locations = [
     "address": "Küçükyalı Mah. Rüştü Sarp Cad. no:28",
     "contract": true,
     "latitude": 40.9497603,
-    "longitude": 29.11722889999999
+    "longitude": 29.11722889999999,
+    "iletisim": "02164893541"
   },
   {
     "name": "DOĞA ECZANESİ",
@@ -6480,7 +7128,8 @@ export const locations = [
     "address": "19 Mayıs Mah. Kürkçü Sok. no: 22/C Kozyatağı",
     "contract": true,
     "latitude": 40.9764257,
-    "longitude": 29.0962486
+    "longitude": 29.0962486,
+    "iletisim": "05063565981"
   },
   {
     "name": "DENİZ ECZANESİ",
@@ -6490,7 +7139,8 @@ export const locations = [
     "address": "Pınartepe Mah. Yavuz Sultan Selim Blv. nO=4 Dk:28 Beykent",
     "contract": true,
     "latitude": 40.9910381,
-    "longitude": 28.6498144
+    "longitude": 28.6498144,
+    "iletisim": "02663241355"
   },
   {
     "name": "GAMZE ECZANESİ",
@@ -6500,7 +7150,8 @@ export const locations = [
     "address": "Acıbadem Mah. Acıbadem Cad. no:111",
     "contract": true,
     "latitude": 41.0051651,
-    "longitude": 29.0453165
+    "longitude": 29.0453165,
+    "iletisim": "05464858881"
   },
   {
     "name": "DİNÇ ECZANESİ",
@@ -6510,7 +7161,8 @@ export const locations = [
     "address": "Göktürk Merkez Mah. Belediye Cad. no:17/C",
     "contract": true,
     "latitude": 41.179543,
-    "longitude": 28.885588
+    "longitude": 28.885588,
+    "iletisim": "03327123115"
   },
   {
     "name": "LİMON ECZANESİ",
@@ -6520,7 +7172,8 @@ export const locations = [
     "address": "Dikilitaş Mah. Emirhan Cad. no:82",
     "contract": true,
     "latitude": 41.0563044,
-    "longitude": 29.0062656
+    "longitude": 29.0062656,
+    "iletisim": "02323693726"
   },
   {
     "name": "ABDULLAH ECZANESİ",
@@ -6530,7 +7183,8 @@ export const locations = [
     "address": "Demirkapı Mah. 1742. Sok. no:1/A",
     "contract": true,
     "latitude": 41.0470002,
-    "longitude": 28.8323258
+    "longitude": 28.8323258,
+    "iletisim": "02126020037"
   },
   {
     "name": "İDİL ECZANESİ",
@@ -6540,7 +7194,8 @@ export const locations = [
     "address": "Göztepe Mah. Fahrettin Kerim Gökay Cad. Çimenzar Sok. no:34/B",
     "contract": true,
     "latitude": 40.9823096,
-    "longitude": 29.0651355
+    "longitude": 29.0651355,
+    "iletisim": "05448864888"
   },
   {
     "name": "MÜHÜRDAR ECZANESİ",
@@ -6550,7 +7205,8 @@ export const locations = [
     "address": "Caferağa Mah. Mühürdar Cad. no:48/A",
     "contract": true,
     "latitude": 40.9896042,
-    "longitude": 29.0238026
+    "longitude": 29.0238026,
+    "iletisim": "02164052291"
   },
   {
     "name": "MASLAK CAN ECZANESİ",
@@ -6560,7 +7216,8 @@ export const locations = [
     "address": "Maslak Mah. Eski Büyükdere Cad. no:13/B",
     "contract": true,
     "latitude": 41.1086396,
-    "longitude": 29.0163816
+    "longitude": 29.0163816,
+    "iletisim": "02123282928"
   },
   {
     "name": "IŞIKLI ECZANESİ",
@@ -6570,7 +7227,8 @@ export const locations = [
     "address": "Bulgurlu Mah. Libadiye Cad. No: 5/2",
     "contract": true,
     "latitude": 41.0159291,
-    "longitude": 29.0748223
+    "longitude": 29.0748223,
+    "iletisim": "02164434140"
   },
   {
     "name": "İLKNUR ECZANESİ",
@@ -6580,7 +7238,8 @@ export const locations = [
     "address": "Başak Mah. Yeşilvadi Cad. no:D2 5. Etap 1. Kısım Dk:28",
     "contract": true,
     "latitude": 41.1106526,
-    "longitude": 28.8072399
+    "longitude": 28.8072399,
+    "iletisim": "02423352122"
   },
   {
     "name": "ELİF ECZANESİ",
@@ -6590,7 +7249,8 @@ export const locations = [
     "address": "Bostancı Mah. Vukela Cad. no:26",
     "contract": true,
     "latitude": 40.956563,
-    "longitude": 29.094865
+    "longitude": 29.094865,
+    "iletisim": "02525137133"
   },
   {
     "name": "DENİZ ECZANESİ",
@@ -6600,7 +7260,8 @@ export const locations = [
     "address": "Feneryolu Mahallesi Bağdat Caddesi No:67/C",
     "contract": true,
     "latitude": 40.9811511,
-    "longitude": 29.0422408
+    "longitude": 29.0422408,
+    "iletisim": "02663241355"
   },
   {
     "name": "ÖZDEN ECZANESİ",
@@ -6610,7 +7271,8 @@ export const locations = [
     "address": "Gayrettepe Mah. Cemil Arslan Güder Sok. no:9/A",
     "contract": true,
     "latitude": 41.0625436,
-    "longitude": 29.0043496
+    "longitude": 29.0043496,
+    "iletisim": "03462239344"
   },
   {
     "name": "MODERN ECZANESİ",
@@ -6620,7 +7282,8 @@ export const locations = [
     "address": "Saray Mah. Dr. Adnan Büyükdeniz Cad. Ayyaka AVM K:2",
     "contract": true,
     "latitude": 41.03217,
-    "longitude": 29.116512
+    "longitude": 29.116512,
+    "iletisim": "02165046171"
   },
   {
     "name": "NISH ECZANESİ",
@@ -6630,7 +7293,8 @@ export const locations = [
     "address": "Zümrütevler Mah. Nish Adalar Sit. Dk:123",
     "contract": true,
     "latitude": 40.9467237,
-    "longitude": 29.1671996
+    "longitude": 29.1671996,
+    "iletisim": "02165104645"
   },
   {
     "name": "FERİKÖY MERKEZ ECZANESİ",
@@ -6640,7 +7304,8 @@ export const locations = [
     "address": "DUATEPE MAH.AVULKAT CAD. NO:19/A ŞİŞLİ/İSTANBUL",
     "contract": true,
     "latitude": 41.053931,
-    "longitude": 28.980795
+    "longitude": 28.980795,
+    "iletisim": "02122484527"
   },
   {
     "name": "İREM ECZANESİ",
@@ -6650,7 +7315,8 @@ export const locations = [
     "address": "SELAMİ ALİ MAH CUMHURİYET CAD GÜNER SOK NO: 70/A",
     "contract": true,
     "latitude": 41.02718429999999,
-    "longitude": 29.0253082
+    "longitude": 29.0253082,
+    "iletisim": "03742229988"
   },
   {
     "name": "ÇİĞDEM GÜRSOY ECZANESİ",
@@ -6660,7 +7326,8 @@ export const locations = [
     "address": "Kozyatağı Mah. Şemsettin Günaltay Cad. NO:66/C",
     "contract": true,
     "latitude": 40.9631744,
-    "longitude": 29.0904226
+    "longitude": 29.0904226,
+    "iletisim": "02164101220"
   },
   {
     "name": "ATAŞEHİR PLUS ECZANESİ",
@@ -6670,7 +7337,8 @@ export const locations = [
     "address": "Küçükbakkalköy Mah. Vedat Günyol Cad. NO:32/B",
     "contract": true,
     "latitude": 40.984934,
-    "longitude": 29.1073184
+    "longitude": 29.1073184,
+    "iletisim": "02165774600"
   },
   {
     "name": "EREN ŞEN ECZANESİ",
@@ -6680,7 +7348,8 @@ export const locations = [
     "address": "Merkez Mah. Çukur Çeşme Cad. NO:58/E",
     "contract": true,
     "latitude": 41.059648,
-    "longitude": 28.90749199999999
+    "longitude": 28.90749199999999,
+    "iletisim": "02124173311"
   },
   {
     "name": "AKALIN ECZANESİ",
@@ -6690,7 +7359,8 @@ export const locations = [
     "address": "Barbaros Mah. 12. Sok. NO:2/D",
     "contract": true,
     "latitude": 41.0268112,
-    "longitude": 28.8360797
+    "longitude": 28.8360797,
+    "iletisim": "02125522529"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -6700,7 +7370,8 @@ export const locations = [
     "address": "Hürriyet Mah. Mahmutbey Caddesi NO: 7/C",
     "contract": true,
     "latitude": 40.9929405,
-    "longitude": 28.842979
+    "longitude": 28.842979,
+    "iletisim": "02744124152"
   },
   {
     "name": "ECZANE KOMŞUM",
@@ -6710,7 +7381,8 @@ export const locations = [
     "address": "MİMAR SİNAN MAH. MİMAR SİNAN CD.NO:61/C",
     "contract": true,
     "latitude": 41.0321126,
-    "longitude": 29.18037039999999
+    "longitude": 29.18037039999999,
+    "iletisim": "02166429333"
   },
   {
     "name": "ECRİN ECZANESİ",
@@ -6720,7 +7392,8 @@ export const locations = [
     "address": "MERDİVEN KÖY MAH. BORA SOKAK. NO:6/B",
     "contract": true,
     "latitude": 40.9904886,
-    "longitude": 29.0768413
+    "longitude": 29.0768413,
+    "iletisim": "02165662021"
   },
   {
     "name": "SAHRAYICEDİT ECZANESİ",
@@ -6730,7 +7403,8 @@ export const locations = [
     "address": "SAHRAYICEDİT MAH. ATATÜRK CAD. H. İMAM SOK. NO:1-1/B",
     "contract": true,
     "latitude": 41.0539757,
-    "longitude": 28.9173004
+    "longitude": 28.9173004,
+    "iletisim": "02163689222"
   },
   {
     "name": "TAMİRHANE ECZANESİ",
@@ -6740,7 +7414,8 @@ export const locations = [
     "address": "ORHANTEPE MAHALLESİ BANKALAR CADDESİ NO: 14/A",
     "contract": true,
     "latitude": 40.90768,
-    "longitude": 29.163017
+    "longitude": 29.163017,
+    "iletisim": "02163525055"
   },
   {
     "name": "GÖKÇE PLAZA ECZANESİ",
@@ -6750,7 +7425,8 @@ export const locations = [
     "address": "Saray Mah. Dr. Adnan Büyükdeniz Cad. no:4 Akkom Ofis 2 Blok",
     "contract": true,
     "latitude": 41.0315039,
-    "longitude": 29.1119086
+    "longitude": 29.1119086,
+    "iletisim": "02166921287"
   },
   {
     "name": "ÜSKÜDAR ECZANESİ",
@@ -6760,7 +7436,8 @@ export const locations = [
     "address": "Validei Atik Mah. Nuhkuyusu Cad. no:201/A Bağlarbaşı",
     "contract": true,
     "latitude": 41.01999319999999,
-    "longitude": 29.0340152
+    "longitude": 29.0340152,
+    "iletisim": "02165300034"
   },
   {
     "name": "VENÜS ECZANESİ",
@@ -6770,7 +7447,8 @@ export const locations = [
     "address": "FENERBAHÇE MAH. BAĞDAT CAD. NO:146A",
     "contract": true,
     "latitude": 40.9770445,
-    "longitude": 29.0475548
+    "longitude": 29.0475548,
+    "iletisim": "05303221566"
   },
   {
     "name": "ECZANE BATIŞEHİR",
@@ -6780,7 +7458,8 @@ export const locations = [
     "address": "Göztepe Mah. Batışehir Cad. no:2",
     "contract": true,
     "latitude": 41.0635555,
-    "longitude": 28.8405269
+    "longitude": 28.8405269,
+    "iletisim": "02128032597"
   },
   {
     "name": "TALYA ECZANESİ",
@@ -6790,7 +7469,8 @@ export const locations = [
     "address": "Göktürk Merkez Mah. İstanbul Cad. no:38/I",
     "contract": true,
     "latitude": 41.1793751,
-    "longitude": 28.8836721
+    "longitude": 28.8836721,
+    "iletisim": "02123223524"
   },
   {
     "name": "CAN BUKET ECZANESİ",
@@ -6800,7 +7480,8 @@ export const locations = [
     "address": "Küçükbakkalköy Mah. Başoğretmen Cad. no::15/L",
     "contract": true,
     "latitude": 40.9800256,
-    "longitude": 29.1129015
+    "longitude": 29.1129015,
+    "iletisim": "02165748588"
   },
   {
     "name": "İLK UMUT ECZANESİ",
@@ -6810,7 +7491,8 @@ export const locations = [
     "address": "Cennet Mah. Barbaros Cad. no:92/A",
     "contract": true,
     "latitude": 40.9926074,
-    "longitude": 28.778037
+    "longitude": 28.778037,
+    "iletisim": "02125799991"
   },
   {
     "name": "212 SİMYA ECZANESİ",
@@ -6820,7 +7502,8 @@ export const locations = [
     "address": "Mahmutbey Mah. Taşocağı Yolu no:212 AVM K:-2",
     "contract": true,
     "latitude": 41.047876,
-    "longitude": 28.810174
+    "longitude": 28.810174,
+    "iletisim": "02126023898"
   },
   {
     "name": "TURKUAZ ECZANESİ",
@@ -6830,7 +7513,8 @@ export const locations = [
     "address": "Mehmet Akif Mah. Tezcan Cad. no:5/B Şerifali",
     "contract": true,
     "latitude": 41.0071687,
-    "longitude": 29.1411106
+    "longitude": 29.1411106,
+    "iletisim": "02243723274"
   },
   {
     "name": "MECİDİYEKÖY SAĞLIK ECZANESİ",
@@ -6840,7 +7524,8 @@ export const locations = [
     "address": "Mecidiyeköy Mah. Damla Sok. no:2/C",
     "contract": true,
     "latitude": 41.0672866,
-    "longitude": 29.0008668
+    "longitude": 29.0008668,
+    "iletisim": "02122747558"
   },
   {
     "name": "NEVA ECZANESİ",
@@ -6850,7 +7535,8 @@ export const locations = [
     "address": "Maslak Mah. Ahi Evran Cad. no:6 Maslak Shops Dk:172",
     "contract": true,
     "latitude": 41.1125455,
-    "longitude": 29.0208487
+    "longitude": 29.0208487,
+    "iletisim": "03124362799"
   },
   {
     "name": "BEGÜM ATASOY ECZANESİ",
@@ -6860,7 +7546,8 @@ export const locations = [
     "address": "Emek Mah. Yenice Sok. no:13",
     "contract": true,
     "latitude": 41.0059849,
-    "longitude": 29.1991341
+    "longitude": 29.1991341,
+    "iletisim": "02166227675"
   },
   {
     "name": "POLEN ECZANESİ",
@@ -6870,7 +7557,8 @@ export const locations = [
     "address": "Bahçelievler Mah. Adnan Kahveci Blv. no:4/A",
     "contract": true,
     "latitude": 41.0011856,
-    "longitude": 28.8626882
+    "longitude": 28.8626882,
+    "iletisim": "02125050765"
   },
   {
     "name": "ECZANE İLAYDA",
@@ -6880,7 +7568,8 @@ export const locations = [
     "address": "Gayrettepe Mah. Yıldız Posta Cad. Ayyıldız Pasajı K:Giriş Dk:28/B",
     "contract": true,
     "latitude": 41.0641962,
-    "longitude": 29.0067111
+    "longitude": 29.0067111,
+    "iletisim": "02122663929"
   },
   {
     "name": "IRMAK ECZANESİ",
@@ -6890,7 +7579,8 @@ export const locations = [
     "address": "Zühtüpaşa Mah. Zahitbey Sok. no:34",
     "contract": true,
     "latitude": 40.9843529,
-    "longitude": 29.0364355
+    "longitude": 29.0364355,
+    "iletisim": "02163363100"
   },
   {
     "name": "UFUK ECZANESİ",
@@ -6900,7 +7590,8 @@ export const locations = [
     "address": "ADALET MAHALLESİ HAYDAR ALİYEV CADDESİ FOLKAT TOWER NO:18/C",
     "contract": true,
     "latitude": 38.4537256,
-    "longitude": 27.1765677
+    "longitude": 27.1765677,
+    "iletisim": "02323810749"
   },
   {
     "name": "EVİN ECZANESİ",
@@ -6910,7 +7601,8 @@ export const locations = [
     "address": "Emmioğlu Mah. Hürriyet Meydanı no:35",
     "contract": true,
     "latitude": 38.199342,
-    "longitude": 27.9629752
+    "longitude": 27.9629752,
+    "iletisim": "02325431522"
   },
   {
     "name": "YILDIZ ECZANESİ",
@@ -6920,7 +7612,8 @@ export const locations = [
     "address": "Kurtuluş Mah. Gümüşpala Cad. no:59",
     "contract": true,
     "latitude": 38.089478,
-    "longitude": 27.731838
+    "longitude": 27.731838,
+    "iletisim": "03123231234"
   },
   {
     "name": "ÖZGÜR ECZANESİ",
@@ -6930,7 +7623,8 @@ export const locations = [
     "address": "TEPEKÖY MAHALLESİ HÜKÜMET CADDESİ NO:6/C",
     "contract": true,
     "latitude": 38.15058700000001,
-    "longitude": 27.3608009
+    "longitude": 27.3608009,
+    "iletisim": "02328561284"
   },
   {
     "name": "DÖRTKARDEŞLER ECZANESİ",
@@ -6940,7 +7634,8 @@ export const locations = [
     "address": "Donanmacı Mah. 1722 Sok. no:4",
     "contract": true,
     "latitude": 38.4558763,
-    "longitude": 27.1184242
+    "longitude": 27.1184242,
+    "iletisim": "02323815025"
   },
   {
     "name": "MERKEZ ECZANESİ",
@@ -6950,7 +7645,8 @@ export const locations = [
     "address": "FEVZİPAŞA BULVARI NO:174/G BASMANE KONAK İZMİR",
     "contract": true,
     "latitude": 38.4223358,
-    "longitude": 27.1420719
+    "longitude": 27.1420719,
+    "iletisim": "02642790801"
   },
   {
     "name": "ESİN ECZANESİ",
@@ -6960,7 +7656,8 @@ export const locations = [
     "address": "Yeni Mah. Atatürk Cad. no:31/D",
     "contract": true,
     "latitude": 38.0876846,
-    "longitude": 27.7334201
+    "longitude": 27.7334201,
+    "iletisim": "05388416297"
   },
   {
     "name": "ANKARA ECZANESİ",
@@ -6970,7 +7667,8 @@ export const locations = [
     "address": "Kazımdirik Mah. Üniversite Cad. no:42/B",
     "contract": true,
     "latitude": 38.4447554,
-    "longitude": 27.1841345
+    "longitude": 27.1841345,
+    "iletisim": "02323882218"
   },
   {
     "name": "CERRAHOĞLU ECZANESİ",
@@ -6980,7 +7678,8 @@ export const locations = [
     "address": "Atakent Mah. Cengiz Topel Cad. no:44/A",
     "contract": true,
     "latitude": 38.4641718,
-    "longitude": 27.0867632
+    "longitude": 27.0867632,
+    "iletisim": "02323364032"
   },
   {
     "name": "NİL ECZANESİ",
@@ -6990,7 +7689,8 @@ export const locations = [
     "address": "Soğukkuyu Mah. Girne Blv. NO:200/A Bayraklı",
     "contract": true,
     "latitude": 38.4709628,
-    "longitude": 27.1127816
+    "longitude": 27.1127816,
+    "iletisim": "02223140064"
   },
   {
     "name": "DURU ECZANESİ",
@@ -7000,7 +7700,8 @@ export const locations = [
     "address": "Kazım Dirik Mah. İstiklal Cad. no:86/C",
     "contract": true,
     "latitude": 38.79966659999999,
-    "longitude": 26.9704296
+    "longitude": 26.9704296,
+    "iletisim": "03122306419"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -7010,7 +7711,8 @@ export const locations = [
     "address": "Aksoy Mah. 1735 Sok. no:64",
     "contract": true,
     "latitude": 38.45630329999999,
-    "longitude": 27.1108677
+    "longitude": 27.1108677,
+    "iletisim": "02323813135"
   },
   {
     "name": "BURCU ECZANESİ",
@@ -7020,7 +7722,8 @@ export const locations = [
     "address": "Erzene Mah. Kazım Karabekir Cad. 80 Sok. NO:1",
     "contract": true,
     "latitude": 38.465741,
-    "longitude": 27.22056
+    "longitude": 27.22056,
+    "iletisim": "03682617888"
   },
   {
     "name": "NUR ECZANESİ",
@@ -7030,7 +7733,8 @@ export const locations = [
     "address": "MENDERES MAH. SEYFİ DEMİRSOY CD. 150 SOK. NO-22/B",
     "contract": true,
     "latitude": 38.3992852,
-    "longitude": 27.171382
+    "longitude": 27.171382,
+    "iletisim": "02125936647"
   },
   {
     "name": "ONUR ECZANESİ",
@@ -7040,7 +7744,8 @@ export const locations = [
     "address": "Maltepe Mah. Böblingen Cad. NO:48",
     "contract": true,
     "latitude": 39.1136091,
-    "longitude": 27.1766312
+    "longitude": 27.1766312,
+    "iletisim": "03266184045"
   },
   {
     "name": "ALTINIRMAK ECZANESİ",
@@ -7050,7 +7755,8 @@ export const locations = [
     "address": "Atakent Mah. 2031. Sok. no:7/A",
     "contract": true,
     "latitude": 38.4641718,
-    "longitude": 27.0867632
+    "longitude": 27.0867632,
+    "iletisim": "02323620376"
   },
   {
     "name": "SEMRA ECZANESİ",
@@ -7060,7 +7766,8 @@ export const locations = [
     "address": "16 EYLÜL MAHALLESİ 3001. SOKAK NO: 1/1A",
     "contract": true,
     "latitude": 38.3259316,
-    "longitude": 26.3066662
+    "longitude": 26.3066662,
+    "iletisim": "02327120436"
   },
   {
     "name": "AKGÜL ECZANESİ",
@@ -7070,7 +7777,8 @@ export const locations = [
     "address": "Nergiz Mah. 1671. Sok. NO:160",
     "contract": true,
     "latitude": 38.4595958,
-    "longitude": 27.1050682
+    "longitude": 27.1050682,
+    "iletisim": "02323689661"
   },
   {
     "name": "YENİ GÜLEMRE ECZANESİ",
@@ -7080,7 +7788,8 @@ export const locations = [
     "address": "Akdeniz Mah. Şehit Fethi Bey Cad. NO:27/A",
     "contract": true,
     "latitude": 38.423511,
-    "longitude": 27.1325844
+    "longitude": 27.1325844,
+    "iletisim": "02324836809"
   },
   {
     "name": "GÜVEN ECZANESİ",
@@ -7090,7 +7799,8 @@ export const locations = [
     "address": "Kasımpaşa Mah. Atatürk Cad. NO: 85/a",
     "contract": true,
     "latitude": 38.2563024,
-    "longitude": 27.1306861
+    "longitude": 27.1306861,
+    "iletisim": "03122802411"
   },
   {
     "name": "YENİ AFŞİN ECZANESİ",
@@ -7100,7 +7810,8 @@ export const locations = [
     "address": "Tuna Mah. Salah Birsel Sok. NO:35/A",
     "contract": true,
     "latitude": 38.4577821,
-    "longitude": 27.1176191
+    "longitude": 27.1176191,
+    "iletisim": "02323688138"
   },
   {
     "name": "BENLİOĞLU ECZANESI",
@@ -7110,7 +7821,8 @@ export const locations = [
     "address": "ERGENE MAHALLESİ MUSTAFA KEMAL CADDESİ NO: 26",
     "contract": true,
     "latitude": 38.4652083,
-    "longitude": 27.2164148
+    "longitude": 27.2164148,
+    "iletisim": "02323424557"
   },
   {
     "name": "ESİN ECZANESİ",
@@ -7120,7 +7832,8 @@ export const locations = [
     "address": "Fevzi Çakmak Mahallesi Barış Manço Caddesi NO:16/A",
     "contract": true,
     "latitude": 38.2395047,
-    "longitude": 27.281457
+    "longitude": 27.281457,
+    "iletisim": "05388416297"
   },
   {
     "name": "EYLÜL ECZANESİ",
@@ -7130,7 +7843,8 @@ export const locations = [
     "address": "Esenyali Mah. İnönü Cad. NO:595/F",
     "contract": true,
     "latitude": 38.394839,
-    "longitude": 27.0916491
+    "longitude": 27.0916491,
+    "iletisim": "03122299679"
   },
   {
     "name": "BAŞGÖL ECZANESİ",
@@ -7140,7 +7854,8 @@ export const locations = [
     "address": "Korutürk Mah. Mithatpaşa Cad. NO:271/A",
     "contract": true,
     "latitude": 38.394229,
-    "longitude": 27.008209
+    "longitude": 27.008209,
+    "iletisim": "02322792213"
   },
   {
     "name": "YENİ GENÇ CEBE ECZANESİ",
@@ -7150,7 +7865,8 @@ export const locations = [
     "address": "Piri Reis Mah. 269. Sok. NO:91/A",
     "contract": true,
     "latitude": 38.4033454,
-    "longitude": 27.1133684
+    "longitude": 27.1133684,
+    "iletisim": NaN
   },
   {
     "name": "SARAY ECZANESİ",
@@ -7160,7 +7876,8 @@ export const locations = [
     "address": "Zafer Mah. Ortaç Sok. NO:8/A-B",
     "contract": true,
     "latitude": 38.2316298,
-    "longitude": 27.9863731
+    "longitude": 27.9863731,
+    "iletisim": "02242352362"
   },
   {
     "name": "ÜLKÜM ECZANESİ",
@@ -7170,7 +7887,8 @@ export const locations = [
     "address": "Güzelyalı Mah. 34. Sok. NO:10/A",
     "contract": true,
     "latitude": 38.3981093,
-    "longitude": 27.079313
+    "longitude": 27.079313,
+    "iletisim": "02322461246"
   },
   {
     "name": "ÜMRAN CİVAN ECZANESİ",
@@ -7180,7 +7898,8 @@ export const locations = [
     "address": "İnkılap Mah. Menderes Cad. NO:253/C Şirinyer",
     "contract": true,
     "latitude": 38.392717,
-    "longitude": 27.1494027
+    "longitude": 27.1494027,
+    "iletisim": "02324526938"
   },
   {
     "name": "KARABİNA ECZANESİ",
@@ -7190,7 +7909,8 @@ export const locations = [
     "address": "Alaçatı Mah. Atatürk Cad. NO:27/A",
     "contract": true,
     "latitude": 38.4294247,
-    "longitude": 27.1345646
+    "longitude": 27.1345646,
+    "iletisim": "02327167494"
   },
   {
     "name": "GÖZDEM ECZANESİ",
@@ -7200,7 +7920,8 @@ export const locations = [
     "address": "Konak Mah. Fevzipaşa Blv. NO:6/A",
     "contract": true,
     "latitude": 38.4223584,
-    "longitude": 27.1315708
+    "longitude": 27.1315708,
+    "iletisim": "02324454386"
   },
   {
     "name": "ALSANCAK DİNÇARSLAN ECZANESİ",
@@ -7210,7 +7931,8 @@ export const locations = [
     "address": "Alsancak Mahallesi, Ali Çetinkaya Blv no:35/B",
     "contract": true,
     "latitude": 38.4345568,
-    "longitude": 27.1434231
+    "longitude": 27.1434231,
+    "iletisim": "02324216611"
   },
   {
     "name": "BARIŞ ECZANESİ",
@@ -7220,7 +7942,8 @@ export const locations = [
     "address": "ATATÜRK MAHALLESİ İSTASYON CADDESİ NO: 86/1 A BLOK 2.DÜKKAN",
     "contract": true,
     "latitude": 38.0995765,
-    "longitude": 27.7201149
+    "longitude": 27.7201149,
+    "iletisim": "02128122101"
   },
   {
     "name": "MAHUR ECZANESİ",
@@ -7230,7 +7953,8 @@ export const locations = [
     "address": "Osmangazi Mah. Yavuz Cad. NO: 299/A",
     "contract": true,
     "latitude": 38.4722778,
-    "longitude": 27.1860161
+    "longitude": 27.1860161,
+    "iletisim": "02323414441"
   },
   {
     "name": "SARMAŞIK ECZANESİ",
@@ -7240,7 +7964,8 @@ export const locations = [
     "address": "Onur Mah. Mithat Paşa Cad. Sarmaşık Sok. NO:143/A",
     "contract": true,
     "latitude": 38.3939075,
-    "longitude": 27.0524714
+    "longitude": 27.0524714,
+    "iletisim": "02322782980"
   },
   {
     "name": "EMEL ECZANESİ",
@@ -7250,7 +7975,8 @@ export const locations = [
     "address": "MERMERLİ MAHALLESİ MİTHAT PAŞA CADDESİ NO: 60",
     "contract": true,
     "latitude": 38.6098767,
-    "longitude": 27.0693056
+    "longitude": 27.0693056,
+    "iletisim": "02328321089"
   },
   {
     "name": "YENİ PETEK ECZANESİ",
@@ -7260,7 +7986,8 @@ export const locations = [
     "address": "Mithatpaşa Mah. Mithatpaşa Cad. no:535/A",
     "contract": true,
     "latitude": 38.407058,
-    "longitude": 27.1046445
+    "longitude": 27.1046445,
+    "iletisim": NaN
   },
   {
     "name": "EPİR ECZANESİ",
@@ -7270,7 +7997,8 @@ export const locations = [
     "address": "Bahariye Mah. Atatürk Blv. no:3/B",
     "contract": true,
     "latitude": 38.4614799,
-    "longitude": 27.1159515
+    "longitude": 27.1159515,
+    "iletisim": "02323671666"
   },
   {
     "name": "GÜMÜŞİĞNE ECZANESİ",
@@ -7280,7 +8008,8 @@ export const locations = [
     "address": "Güzeltepe Mah. Dere Cad. no:16",
     "contract": true,
     "latitude": 38.4927777,
-    "longitude": 27.065536
+    "longitude": 27.065536,
+    "iletisim": "02323861337"
   },
   {
     "name": "YAZAL ECZANESİ",
@@ -7290,7 +8019,8 @@ export const locations = [
     "address": "Yenişakran mah. Vali Kazım Dirik Cad. no:58/A",
     "contract": true,
     "latitude": 38.4251569,
-    "longitude": 27.1367592
+    "longitude": 27.1367592,
+    "iletisim": "02326287143"
   },
   {
     "name": "ATASEN ECZANE",
@@ -7300,7 +8030,8 @@ export const locations = [
     "address": "Tuna Mah. 1690. Sok. no:8",
     "contract": true,
     "latitude": 38.4561056,
-    "longitude": 27.1189486
+    "longitude": 27.1189486,
+    "iletisim": "02323680001"
   },
   {
     "name": "YENİ ÇETİNER ECZANESİ",
@@ -7310,7 +8041,8 @@ export const locations = [
     "address": "Atıfbey Mah. Prof. Dr. Türkan Saylan Cad. no:11/A",
     "contract": true,
     "latitude": 38.3174473,
-    "longitude": 27.1330363
+    "longitude": 27.1330363,
+    "iletisim": "02322520910"
   },
   {
     "name": "BAĞCI ECZANESİ",
@@ -7320,7 +8052,8 @@ export const locations = [
     "address": "Alaybey Mah. Şehit Asım Aksoy Cad. no:50/A",
     "contract": true,
     "latitude": 38.4608086,
-    "longitude": 27.1231764
+    "longitude": 27.1231764,
+    "iletisim": "02323675719"
   },
   {
     "name": "DAĞLI ECZANESİ",
@@ -7330,7 +8063,8 @@ export const locations = [
     "address": "ismetpaşa Mah. Adnan Menderes Cad. NO: 31/B",
     "contract": true,
     "latitude": 39.0706884,
-    "longitude": 26.8894875
+    "longitude": 26.8894875,
+    "iletisim": "02326718188"
   },
   {
     "name": "YAŞAR ECZANESİ",
@@ -7340,7 +8074,8 @@ export const locations = [
     "address": "Vatan Mah. Polat Cad. NO:87/C",
     "contract": true,
     "latitude": 38.396705,
-    "longitude": 27.1058604
+    "longitude": 27.1058604,
+    "iletisim": "03545161017"
   },
   {
     "name": "BİRSEN ECZANESİ",
@@ -7350,7 +8085,8 @@ export const locations = [
     "address": "İsmetpaşa Mah. Şehit Sami Akbulut Cad. NO:46/A",
     "contract": true,
     "latitude": 39.0709386,
-    "longitude": 26.8881308
+    "longitude": 26.8881308,
+    "iletisim": "02326713510"
   },
   {
     "name": "GİRNE ECZANESİ",
@@ -7360,7 +8096,8 @@ export const locations = [
     "address": "Bahriye Üçok Mah. Girne Blv. NO:166/A",
     "contract": true,
     "latitude": 38.464236,
-    "longitude": 27.1088724
+    "longitude": 27.1088724,
+    "iletisim": NaN
   },
   {
     "name": "EYÜB SABRİ ECZANESİ",
@@ -7370,7 +8107,8 @@ export const locations = [
     "address": "EĞİTİM MAHALLESİ DUMLUPINAR SOKAK NO:6/A",
     "contract": true,
     "latitude": 38.3946643,
-    "longitude": 27.0583993
+    "longitude": 27.0583993,
+    "iletisim": "02322787035"
   },
   {
     "name": "MOLVALI ECZANESİ",
@@ -7380,7 +8118,8 @@ export const locations = [
     "address": "Maltepe Mah. Kaymakam Kemal Bey Cad. NO:29/A",
     "contract": true,
     "latitude": 39.1133787,
-    "longitude": 27.1766189
+    "longitude": 27.1766189,
+    "iletisim": "02326311057"
   },
   {
     "name": "DEVA ECZANESİ",
@@ -7390,7 +8129,8 @@ export const locations = [
     "address": "Tuna Mah. Kemalpaşa Caddesi NO:128/B",
     "contract": true,
     "latitude": 38.4569478,
-    "longitude": 27.1173733
+    "longitude": 27.1173733,
+    "iletisim": "04462233323"
   },
   {
     "name": "DOĞA ECZANESİ",
@@ -7400,7 +8140,8 @@ export const locations = [
     "address": "Hacı İsa Mah. Bülent Baratalı Bulv. NO: 48/E",
     "contract": true,
     "latitude": 38.3251219,
-    "longitude": 26.7671183
+    "longitude": 26.7671183,
+    "iletisim": "05063565981"
   },
   {
     "name": "SOYUER ECZANESİ",
@@ -7410,7 +8151,8 @@ export const locations = [
     "address": "Zafer Mah. Ortaç Sok. NO:13/C",
     "contract": true,
     "latitude": 38.231887,
-    "longitude": 27.987408
+    "longitude": 27.987408,
+    "iletisim": "02325448686"
   },
   {
     "name": "AKARSU ECZANESİ",
@@ -7420,7 +8162,8 @@ export const locations = [
     "address": "Korutürk Mah. Mithatpaşa Cad. NO:289 BALÇOVA /İZMİR (D.E.Ü.HASTANESİ KARŞISI BALÇOVA /İZMİR)",
     "contract": true,
     "latitude": 38.3926628,
-    "longitude": 27.0329653
+    "longitude": 27.0329653,
+    "iletisim": "02364622020"
   },
   {
     "name": "BOSTANLI SEVİNÇ ECZANESİ",
@@ -7430,7 +8173,8 @@ export const locations = [
     "address": "Bostanlı Mah. Bestekar Sadi Hoşses Sok. NO:33",
     "contract": true,
     "latitude": 38.4622174,
-    "longitude": 27.0924487
+    "longitude": 27.0924487,
+    "iletisim": "02323621318"
   },
   {
     "name": "HATAY BANU ECZANESİ",
@@ -7440,7 +8184,8 @@ export const locations = [
     "address": "Çankaya Mah. 131. Sok. NO:86",
     "contract": true,
     "latitude": 38.4017922,
-    "longitude": 27.1052424
+    "longitude": 27.1052424,
+    "iletisim": "02322448545"
   },
   {
     "name": "BORNOVA SEÇİL ECZANESİ",
@@ -7450,7 +8195,8 @@ export const locations = [
     "address": "Manavkuyu Mah. Dumlupınar Cad. NO:140/C",
     "contract": true,
     "latitude": 38.46427389999999,
-    "longitude": 27.1954097
+    "longitude": 27.1954097,
+    "iletisim": "02323422820"
   },
   {
     "name": "SULTAN ECZANESİ",
@@ -7460,7 +8206,8 @@ export const locations = [
     "address": "Kuruçeşme Mah. Ahmet Piriştina Blv. no:70/A",
     "contract": true,
     "latitude": 38.3699059,
-    "longitude": 27.1938993
+    "longitude": 27.1938993,
+    "iletisim": "02324540676"
   },
   {
     "name": "ASLI ECZANESİ",
@@ -7470,7 +8217,8 @@ export const locations = [
     "address": "Hıdırlık Mah. Atatürk Cad. no:41/A",
     "contract": true,
     "latitude": 38.1948853,
-    "longitude": 26.8365365
+    "longitude": 26.8365365,
+    "iletisim": "03522247744"
   },
   {
     "name": "HANDE ECZANESİ",
@@ -7480,7 +8228,8 @@ export const locations = [
     "address": "Bostanlı Mah. Şehitler Blv. no:27/B",
     "contract": true,
     "latitude": 38.458567,
-    "longitude": 27.099131
+    "longitude": 27.099131,
+    "iletisim": "03322477733"
   },
   {
     "name": "AKKOYUN ECZANESİ",
@@ -7490,7 +8239,8 @@ export const locations = [
     "address": "bahriye üçok Mah. Atatürk Blv. NO:19/C",
     "contract": true,
     "latitude": 38.4617239,
-    "longitude": 27.114111
+    "longitude": 27.114111,
+    "iletisim": "02323656602"
   },
   {
     "name": "SEVEN ECZANESİ",
@@ -7500,7 +8250,8 @@ export const locations = [
     "address": "Cumhuriyet Mah. Yeşim Sok. no:36/A",
     "contract": true,
     "latitude": 38.2260648,
-    "longitude": 27.9761203
+    "longitude": 27.9761203,
+    "iletisim": "02325443940"
   },
   {
     "name": "AKADEMİ ECZANESİ",
@@ -7510,7 +8261,8 @@ export const locations = [
     "address": "İmbatlı Mah. 6076/4 Sok. no:5/B",
     "contract": true,
     "latitude": 38.4733484,
-    "longitude": 27.113227
+    "longitude": 27.113227,
+    "iletisim": "03562289922"
   },
   {
     "name": "TİRE NİLAY ECZANESİ",
@@ -7520,7 +8272,8 @@ export const locations = [
     "address": "YENİ MAHALLESİ ATATÜRK CADDESİ NO:39",
     "contract": true,
     "latitude": 38.0872486,
-    "longitude": 27.733639
+    "longitude": 27.733639,
+    "iletisim": "02325110312"
   },
   {
     "name": "SEZER ECZANESİ",
@@ -7530,7 +8283,8 @@ export const locations = [
     "address": "Huzur Mah. Açelya Sok. no:1/1A",
     "contract": true,
     "latitude": 38.395488,
-    "longitude": 26.992011
+    "longitude": 26.992011,
+    "iletisim": "03323524746"
   },
   {
     "name": "KARŞIYAKA MERKEZ ECZANESİ",
@@ -7540,7 +8294,8 @@ export const locations = [
     "address": "Bahriye Üçok Mah. Bahriye Üçok Blv. no:15/1-A",
     "contract": true,
     "latitude": 38.46131889999999,
-    "longitude": 27.1144969
+    "longitude": 27.1144969,
+    "iletisim": "02323698850"
   },
   {
     "name": "GİRNE NEHİR ECZANESİ",
@@ -7550,7 +8305,8 @@ export const locations = [
     "address": "Aksoy Mah. Girne Blv. no:51/1-A",
     "contract": true,
     "latitude": 38.455706,
-    "longitude": 27.106376
+    "longitude": 27.106376,
+    "iletisim": "05332569919"
   },
   {
     "name": "PARK ECZANESİ",
@@ -7560,7 +8316,8 @@ export const locations = [
     "address": "Mansuroğlu Mah. 273/4 Sok. no:8/B",
     "contract": true,
     "latitude": 38.4577167,
-    "longitude": 27.1913159
+    "longitude": 27.1913159,
+    "iletisim": "02323488585"
   },
   {
     "name": "SELÇUK ECZANESİ",
@@ -7570,7 +8327,8 @@ export const locations = [
     "address": "Atatürk Mah. Cengiz Topel Cad. NO:14 / A",
     "contract": true,
     "latitude": 37.9505876,
-    "longitude": 27.3711383
+    "longitude": 27.3711383,
+    "iletisim": "03723224122"
   },
   {
     "name": "BUCA ERDEM ECZANESİ",
@@ -7580,7 +8338,8 @@ export const locations = [
     "address": "Kozağaç Mah. 223. Sok. no:20/A",
     "contract": true,
     "latitude": 38.3817423,
-    "longitude": 27.174514
+    "longitude": 27.174514,
+    "iletisim": "02324421400"
   },
   {
     "name": "COŞKUN ECZANESİ",
@@ -7590,7 +8349,8 @@ export const locations = [
     "address": "Örnekköy Mah. 7400/1. Çıkmaz Sok. No: 27/A",
     "contract": true,
     "latitude": 38.3925797,
-    "longitude": 26.9974927
+    "longitude": 26.9974927,
+    "iletisim": "03124177899"
   },
   {
     "name": "YENİ ÖZTÜRK ECZANESİ",
@@ -7600,7 +8360,8 @@ export const locations = [
     "address": "Manavkuyu Mah. 243. Sok. no:10/D",
     "contract": true,
     "latitude": 38.4617545,
-    "longitude": 27.1993888
+    "longitude": 27.1993888,
+    "iletisim": "02323747423"
   },
   {
     "name": "SIHHAT ECZANESİ",
@@ -7610,7 +8371,8 @@ export const locations = [
     "address": "Konak Mah. Anafartalar Cad. no:67",
     "contract": true,
     "latitude": 38.4184902,
-    "longitude": 27.1314598
+    "longitude": 27.1314598,
+    "iletisim": "02324839782"
   },
   {
     "name": "ÖVÜNÇ ECZANESİ",
@@ -7620,7 +8382,8 @@ export const locations = [
     "address": "MANAVKUYU MAHALLESİ 286/10 SK NO:15/B BAYRAKLI/İZMİR",
     "contract": true,
     "latitude": 38.4547583,
-    "longitude": 27.1881033
+    "longitude": 27.1881033,
+    "iletisim": "02323440434"
   },
   {
     "name": "ECZANE NATUREL",
@@ -7630,7 +8393,8 @@ export const locations = [
     "address": "Kazımdirik Mah. Mustafa Kemal Cad. NO:121/1/1D",
     "contract": true,
     "latitude": 38.461118,
-    "longitude": 27.204111
+    "longitude": 27.204111,
+    "iletisim": "02322281874"
   },
   {
     "name": "İZMİR HAVALİMANI ECZANESİ",
@@ -7640,7 +8404,8 @@ export const locations = [
     "address": "DOKUZ EYLÜL MAHALLESİ AKÇAY CADDESİ ADNAN MENDERES HAVALİMANI İÇ HATLAR TERMİNALİ GİDEN YOLCU KARA TARAFI NO: 289/DTDL152-A",
     "contract": true,
     "latitude": 38.2919973,
-    "longitude": 27.1489398
+    "longitude": 27.1489398,
+    "iletisim": "02322740012"
   },
   {
     "name": "ATALAR ECZANESİ",
@@ -7650,7 +8415,8 @@ export const locations = [
     "address": "Arap Hasan Mah. 235. Sok. NO:70/A",
     "contract": true,
     "latitude": 38.4011549,
-    "longitude": 27.1101623
+    "longitude": 27.1101623,
+    "iletisim": "05070889767"
   },
   {
     "name": "UZMAN ECZANESİ",
@@ -7660,7 +8426,8 @@ export const locations = [
     "address": "İstasyonaltı Mah. 8019/11 Sok. NO:10/C",
     "contract": true,
     "latitude": 38.4866896,
-    "longitude": 27.062564
+    "longitude": 27.062564,
+    "iletisim": "02323860085"
   },
   {
     "name": "AKHİSAR ECZANESİ",
@@ -7670,7 +8437,8 @@ export const locations = [
     "address": "Kazımdirik Mah. Ankara Cad. NO:241",
     "contract": true,
     "latitude": 38.4580152,
-    "longitude": 27.2068182
+    "longitude": 27.2068182,
+    "iletisim": "02323390011"
   },
   {
     "name": "NAZIN ECZANESİ",
@@ -7680,7 +8448,8 @@ export const locations = [
     "address": "Yalı Mah. 6479 Sok. NO:17/C",
     "contract": true,
     "latitude": 38.4714965,
-    "longitude": 27.0892717
+    "longitude": 27.0892717,
+    "iletisim": "02323247873"
   },
   {
     "name": "YENİ GÜLFEM ECZANESİ",
@@ -7690,7 +8459,8 @@ export const locations = [
     "address": "Yunus Emre Mah. Şehit Pilot Volkan Koçyiğit Bulvarı NO: 14",
     "contract": true,
     "latitude": 38.3771203,
-    "longitude": 27.1338639
+    "longitude": 27.1338639,
+    "iletisim": "02322646652"
   },
   {
     "name": "KARŞIYAKA ATA ECZANESİ",
@@ -7700,7 +8470,8 @@ export const locations = [
     "address": "Atakent Mah. Caher Dudayev Blv. NO:119/A",
     "contract": true,
     "latitude": 38.4641718,
-    "longitude": 27.0867632
+    "longitude": 27.0867632,
+    "iletisim": "05459297000"
   },
   {
     "name": "YENİ HATAY ECZANESİ",
@@ -7710,7 +8481,8 @@ export const locations = [
     "address": "Çankaya Mah. 131. Sok. NO:85/C",
     "contract": true,
     "latitude": 38.4018002,
-    "longitude": 27.1052372
+    "longitude": 27.1052372,
+    "iletisim": "02324898678"
   },
   {
     "name": "YENİ ECE ECZANESİ",
@@ -7720,7 +8492,8 @@ export const locations = [
     "address": "Basın Sitesi Mah. İnönü Cad. NO:429/E",
     "contract": true,
     "latitude": 38.40087,
-    "longitude": 27.0992052
+    "longitude": 27.0992052,
+    "iletisim": "02322322425"
   },
   {
     "name": "BETÜL ECZANESİ",
@@ -7730,7 +8503,8 @@ export const locations = [
     "address": "Kazımdirik Mah. Mustafa Kemal Cad. NO:120/B",
     "contract": true,
     "latitude": 38.4615574,
-    "longitude": 27.2046278
+    "longitude": 27.2046278,
+    "iletisim": "02124243832"
   },
   {
     "name": "LOTUS ECZANESİ",
@@ -7740,7 +8514,8 @@ export const locations = [
     "address": "ÖRNEKKÖY MH 7532 SK 64A KARSIYAKA İZMİR",
     "contract": true,
     "latitude": 38.4841913,
-    "longitude": 27.1061687
+    "longitude": 27.1061687,
+    "iletisim": "05075200055"
   },
   {
     "name": "ÇİĞLİ KENT ECZANESİ",
@@ -7750,7 +8525,8 @@ export const locations = [
     "address": "Küçük Çiğli Mah. 8780/33. Sok. NO:15",
     "contract": true,
     "latitude": 38.4984918,
-    "longitude": 27.047644
+    "longitude": 27.047644,
+    "iletisim": "02323252221"
   },
   {
     "name": "DUYGU ECZANESİ",
@@ -7760,7 +8536,8 @@ export const locations = [
     "address": "Akdeniz Mah. Mimar Kemalettin Cad. NO:8 Gümrük",
     "contract": true,
     "latitude": 38.4231792,
-    "longitude": 27.131743
+    "longitude": 27.131743,
+    "iletisim": "02326757050"
   },
   {
     "name": "ECZANE NATUREL",
@@ -7770,7 +8547,8 @@ export const locations = [
     "address": "Atilla Mah. Eşrefpaşa Cad. NO:272/A",
     "contract": true,
     "latitude": 38.4079825,
-    "longitude": 27.1282291
+    "longitude": 27.1282291,
+    "iletisim": "02322281874"
   },
   {
     "name": "LİMON ECZANESİ",
@@ -7780,7 +8558,8 @@ export const locations = [
     "address": "Bostanlı Mah. Girne Blv. NO:51/B Dk:3",
     "contract": true,
     "latitude": 38.4558252,
-    "longitude": 27.1065312
+    "longitude": 27.1065312,
+    "iletisim": "02323693726"
   },
   {
     "name": "NAKİ ECZANESİ",
@@ -7790,7 +8569,8 @@ export const locations = [
     "address": "Ortakapı Mah. Kazımpaşa Cad. no:186",
     "contract": true,
     "latitude": 40.6046495,
-    "longitude": 43.0956153
+    "longitude": 43.0956153,
+    "iletisim": "04742231460"
   },
   {
     "name": "DİLBER ECZANESİ",
@@ -7800,7 +8580,8 @@ export const locations = [
     "address": "MERKEZ MAHALLESİ KAZIM PAŞA CADDESİ NO: 42/A",
     "contract": true,
     "latitude": 40.6013378,
-    "longitude": 43.0974525
+    "longitude": 43.0974525,
+    "iletisim": "04824156596"
   },
   {
     "name": "NUR ECZANESİ",
@@ -7810,7 +8591,8 @@ export const locations = [
     "address": "Beyçelebi Mah. Eski Ankara Cad. NO:5/A",
     "contract": true,
     "latitude": 41.3651704,
-    "longitude": 33.7694686
+    "longitude": 33.7694686,
+    "iletisim": "02125936647"
   },
   {
     "name": "ÖZDEN ECZANESİ",
@@ -7820,7 +8602,8 @@ export const locations = [
     "address": "kuzeykent mahallesi cankat sokak no: 7/a",
     "contract": true,
     "latitude": 41.376625,
-    "longitude": 33.776497
+    "longitude": 33.776497,
+    "iletisim": "03462239344"
   },
   {
     "name": "ZUHAL ECZANESİ",
@@ -7830,7 +8613,8 @@ export const locations = [
     "address": "İnönü Mah. Faruk Nuhoğlu Sok. NO: 16/B",
     "contract": true,
     "latitude": 41.396112,
-    "longitude": 33.78441600000001
+    "longitude": 33.78441600000001,
+    "iletisim": "03662140648"
   },
   {
     "name": "ULAŞ ECZANESİ",
@@ -7840,7 +8624,8 @@ export const locations = [
     "address": "TOPÇUOĞLU MAHALLESİ VALİ ENİS PAŞA CADDESİ NO: 45/A",
     "contract": true,
     "latitude": 41.3807918,
-    "longitude": 33.7771343
+    "longitude": 33.7771343,
+    "iletisim": "03662122575"
   },
   {
     "name": "CAN ECZANESİ",
@@ -7850,7 +8635,8 @@ export const locations = [
     "address": "Saraçlar Mah. İstanbul Cad. NO:3/1",
     "contract": true,
     "latitude": 41.3632503,
-    "longitude": 33.7653913
+    "longitude": 33.7653913,
+    "iletisim": "05416702223"
   },
   {
     "name": "PINAR ECZANESİ",
@@ -7860,7 +8646,8 @@ export const locations = [
     "address": "CANDAROĞULLARI M.ŞEHİT SERKAN MEŞE S.NO:9/B",
     "contract": true,
     "latitude": 41.4102279,
-    "longitude": 33.7839082
+    "longitude": 33.7839082,
+    "iletisim": "05549159175"
   },
   {
     "name": "ÇELİKOĞLU ECZANESİ",
@@ -7870,7 +8657,8 @@ export const locations = [
     "address": "BEYÇELEBİ MAHALLESİ ANKARA CADDESİ NO:17/B",
     "contract": true,
     "latitude": 41.3609481,
-    "longitude": 33.7672943
+    "longitude": 33.7672943,
+    "iletisim": "03662147879"
   },
   {
     "name": "YENİ DEVA ECZANESİ",
@@ -7880,7 +8668,8 @@ export const locations = [
     "address": "Kargı Mah. Rıhtım Boyu Cad. NO: 10/1",
     "contract": true,
     "latitude": 41.01704369999999,
-    "longitude": 34.0382984
+    "longitude": 34.0382984,
+    "iletisim": "03663137837"
   },
   {
     "name": "KİÇİKAPU ECZANESİ",
@@ -7890,7 +8679,8 @@ export const locations = [
     "address": "HUNAT MAH. SEYYİD BURHANETTİN BLV. 51/B Melikgazi/KAYSERİ",
     "contract": true,
     "latitude": 38.7167021,
-    "longitude": 35.4944856
+    "longitude": 35.4944856,
+    "iletisim": "03522224750"
   },
   {
     "name": "KENT ECZANESİ",
@@ -7900,7 +8690,8 @@ export const locations = [
     "address": "CUMHURİYET MAHALLESİ KİÇİKAPI CADDESİ NO: 28/A",
     "contract": true,
     "latitude": 38.717717,
-    "longitude": 35.4880238
+    "longitude": 35.4880238,
+    "iletisim": "03122850232"
   },
   {
     "name": "ÇİÇEK ECZANESİ VE OPTİK",
@@ -7910,7 +8701,8 @@ export const locations = [
     "address": "CUMHURİYET MAHALLESİ MİLLET CADDESİ NO: 7",
     "contract": true,
     "latitude": 38.7201745,
-    "longitude": 35.49007599999999
+    "longitude": 35.49007599999999,
+    "iletisim": "03522225176"
   },
   {
     "name": "GÖLGELİ ECZANESİ",
@@ -7920,7 +8712,8 @@ export const locations = [
     "address": "Örnekevler Mah. Temizel Sok. NO:8",
     "contract": true,
     "latitude": 38.72861899999999,
-    "longitude": 35.480058
+    "longitude": 35.480058,
+    "iletisim": "03522316809"
   },
   {
     "name": "GÜL ECZANESİ",
@@ -7930,7 +8723,8 @@ export const locations = [
     "address": "Feneseaşağı Mah. Cumhuriyet Cad. NO:16",
     "contract": true,
     "latitude": 38.3867619,
-    "longitude": 35.4922023
+    "longitude": 35.4922023,
+    "iletisim": "03124469496"
   },
   {
     "name": "TİRİTOĞLU ECZANESİ",
@@ -7940,7 +8734,8 @@ export const locations = [
     "address": "Cumhuriyet Mah. Vatan Cad. NO:29/A",
     "contract": true,
     "latitude": 38.720489,
-    "longitude": 35.48259700000001
+    "longitude": 35.48259700000001,
+    "iletisim": "03522223360"
   },
   {
     "name": "KARACALAR ECZANE OPTİK",
@@ -7950,7 +8745,8 @@ export const locations = [
     "address": "Gevher Nesibe Mahallesi Atatürk Bulvarı NO: 20/B",
     "contract": true,
     "latitude": 38.7225414,
-    "longitude": 35.4820914
+    "longitude": 35.4820914,
+    "iletisim": "03522222852"
   },
   {
     "name": "ASLI ECZANESİ",
@@ -7960,7 +8756,8 @@ export const locations = [
     "address": "ALPASLAN MAHALLESİ SEVGİ SOKAK NO: 4/E melikgazi kayseri",
     "contract": true,
     "latitude": 38.7310281,
-    "longitude": 35.52479400000001
+    "longitude": 35.52479400000001,
+    "iletisim": "03522247744"
   },
   {
     "name": "YILDIZ ECZANESİ",
@@ -7970,7 +8767,8 @@ export const locations = [
     "address": "Kiçikapı Mah. Kiçikapı Cad. NO:28/B",
     "contract": true,
     "latitude": 38.717717,
-    "longitude": 35.4880238
+    "longitude": 35.4880238,
+    "iletisim": "03123231234"
   },
   {
     "name": "BAHÇELİEVLER ECZANESİ",
@@ -7980,7 +8778,8 @@ export const locations = [
     "address": "Bahçelievler Mah. Mevlana Cad. NO:32/C",
     "contract": true,
     "latitude": 38.687717,
-    "longitude": 35.544355
+    "longitude": 35.544355,
+    "iletisim": "04882126065"
   },
   {
     "name": "YANGIN ECZANESİ",
@@ -7990,7 +8789,8 @@ export const locations = [
     "address": "Hacı Saki Mah. Atatürk Blv. NO:21",
     "contract": true,
     "latitude": 38.7221665,
-    "longitude": 35.4817352
+    "longitude": 35.4817352,
+    "iletisim": "03523339900"
   },
   {
     "name": "ALARA ECZANESİ",
@@ -8000,7 +8800,8 @@ export const locations = [
     "address": "MELİKGAZİ MAH. A. VEYSEL BULV. NO:5/B",
     "contract": true,
     "latitude": 38.7309777,
-    "longitude": 35.5246774
+    "longitude": 35.5246774,
+    "iletisim": "03122314052"
   },
   {
     "name": "ÖZEN ECZANESİ",
@@ -8010,7 +8811,8 @@ export const locations = [
     "address": "Kocasinan mahallesi İstanbul Cad. no: 47/a",
     "contract": true,
     "latitude": 41.40676879999999,
-    "longitude": 27.3532599
+    "longitude": 27.3532599,
+    "iletisim": "04242386666"
   },
   {
     "name": "BAŞAR ECZANESİ",
@@ -8020,7 +8822,8 @@ export const locations = [
     "address": "Gazikemal Mah. İnönü Meydanı NO: 16",
     "contract": true,
     "latitude": 41.4279477,
-    "longitude": 27.0969059
+    "longitude": 27.0969059,
+    "iletisim": "02885121873"
   },
   {
     "name": "TRAKYA ECZANESİ",
@@ -8030,7 +8833,8 @@ export const locations = [
     "address": "Akalar Mah. Balkan Cad. no:3/B",
     "contract": true,
     "latitude": 41.735472,
-    "longitude": 27.224369
+    "longitude": 27.224369,
+    "iletisim": "02882141568"
   },
   {
     "name": "AKIN ECZANESİ",
@@ -8040,7 +8844,8 @@ export const locations = [
     "address": "Hürriyet Mah. İstasyon Cad. no:62/A",
     "contract": true,
     "latitude": 41.3983226,
-    "longitude": 27.35333
+    "longitude": 27.35333,
+    "iletisim": "02884150070"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -8050,7 +8855,8 @@ export const locations = [
     "address": "İSTASYON MAH. 1181. SOK. NO:9-7/8 MERKEZ KIRKLARELİ",
     "contract": true,
     "latitude": 41.7259473,
-    "longitude": 27.2037471
+    "longitude": 27.2037471,
+    "iletisim": "03247141116"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -8060,7 +8866,8 @@ export const locations = [
     "address": "CUMA MAH. CUMHURİYET MEYDANI NO:38",
     "contract": true,
     "latitude": 39.358937,
-    "longitude": 33.723375
+    "longitude": 33.723375,
+    "iletisim": "02323813135"
   },
   {
     "name": "ONUR ECZANESİ",
@@ -8070,7 +8877,8 @@ export const locations = [
     "address": "Ahievran Mah. Ankara Cad. no:26/3 Küker Apt",
     "contract": true,
     "latitude": 39.1681135,
-    "longitude": 34.1490223
+    "longitude": 34.1490223,
+    "iletisim": "03266184045"
   },
   {
     "name": "SOYSAL ECZANESİ",
@@ -8080,7 +8888,8 @@ export const locations = [
     "address": "Yenice Mah. Atatürk Cad. no:6/F",
     "contract": true,
     "latitude": 39.1437157,
-    "longitude": 34.1607729
+    "longitude": 34.1607729,
+    "iletisim": "02123256360"
   },
   {
     "name": "DOĞAN ECZANESİ",
@@ -8090,7 +8899,8 @@ export const locations = [
     "address": "Medrese Mah. Atatürk Cad. NO:5",
     "contract": true,
     "latitude": 39.1445303,
-    "longitude": 34.1607433
+    "longitude": 34.1607433,
+    "iletisim": "03725561088"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -8100,7 +8910,8 @@ export const locations = [
     "address": "Ahievran Mah. Ankara Cad. NO:15/D Ümit Apt.",
     "contract": true,
     "latitude": 39.1681135,
-    "longitude": 34.1490223
+    "longitude": 34.1490223,
+    "iletisim": "02323813135"
   },
   {
     "name": "BEGÜM ECZANESİ",
@@ -8110,7 +8921,8 @@ export const locations = [
     "address": "Medrese Mah. Melik Gazi Cad. NO:12/A Turan İşh.",
     "contract": true,
     "latitude": 39.144494,
-    "longitude": 34.162037
+    "longitude": 34.162037,
+    "iletisim": "03125036262"
   },
   {
     "name": "ELÇİN ECZANESİ",
@@ -8120,7 +8932,8 @@ export const locations = [
     "address": "Güney Mah. Tuğrul Cad. no:10/B Tütünçiftlik, Körfez",
     "contract": true,
     "latitude": 40.7601573,
-    "longitude": 29.7859422
+    "longitude": 29.7859422,
+    "iletisim": "02625271620"
   },
   {
     "name": "DERMAN ECZANESİ",
@@ -8130,7 +8943,8 @@ export const locations = [
     "address": "Merkez Mah. Amiral Sağlam Cad. NO:8",
     "contract": true,
     "latitude": 40.7201246,
-    "longitude": 29.8209147
+    "longitude": 29.8209147,
+    "iletisim": "02822625876"
   },
   {
     "name": "DENİZ ECZANESİ",
@@ -8140,7 +8954,8 @@ export const locations = [
     "address": "Camiatik Mah. Atatürk Cad. NO:15 4 Temmuz",
     "contract": true,
     "latitude": 40.68921280000001,
-    "longitude": 29.6180407
+    "longitude": 29.6180407,
+    "iletisim": "02663241355"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -8150,7 +8965,8 @@ export const locations = [
     "address": "Hacıhalil Mah. Cumhuriyet CADDESİ NO:28",
     "contract": true,
     "latitude": 40.7997656,
-    "longitude": 29.435559
+    "longitude": 29.435559,
+    "iletisim": "02744124152"
   },
   {
     "name": "ALEMDAR ECZANESİ",
@@ -8160,7 +8976,8 @@ export const locations = [
     "address": "ÖMERAĞA MAHALLESİ ALEMDAR CADDESİ NO: 34/23",
     "contract": true,
     "latitude": 40.7645788,
-    "longitude": 29.9285004
+    "longitude": 29.9285004,
+    "iletisim": "02623220331"
   },
   {
     "name": "TÜRKANT ECZANESİ",
@@ -8170,7 +8987,8 @@ export const locations = [
     "address": "ÖMERAĞA MAHALLESİ HAFIZ ŞERİF SOKAK NO:5",
     "contract": true,
     "latitude": 40.76380289999999,
-    "longitude": 29.927311
+    "longitude": 29.927311,
+    "iletisim": "02623212049"
   },
   {
     "name": "DENİZ ECZANESİ",
@@ -8180,7 +8998,8 @@ export const locations = [
     "address": "Hacıhalil Mah. Kızılay Cad. NO:10/B",
     "contract": true,
     "latitude": 40.7975299,
-    "longitude": 29.4303292
+    "longitude": 29.4303292,
+    "iletisim": "02663241355"
   },
   {
     "name": "ÖZGÜL ECZANESİ",
@@ -8190,7 +9009,8 @@ export const locations = [
     "address": "Hacıhalil Mah. İsmetpaşa Cad. NO:9/A",
     "contract": true,
     "latitude": 40.7972087,
-    "longitude": 29.4348619
+    "longitude": 29.4348619,
+    "iletisim": "02626423442"
   },
   {
     "name": "FIRAT ECZANESİ",
@@ -8200,7 +9020,8 @@ export const locations = [
     "address": "YENİKENT MAH 2424 SOK 27/A GEBZE /KOCAELİ",
     "contract": true,
     "latitude": 40.820946,
-    "longitude": 29.4174748
+    "longitude": 29.4174748,
+    "iletisim": "04462240204"
   },
   {
     "name": "AYDIN ECZANESİ",
@@ -8210,7 +9031,8 @@ export const locations = [
     "address": "Çenedağ Mah. Denizciler Cad. no:58/A",
     "contract": true,
     "latitude": 40.7577184,
-    "longitude": 29.8323985
+    "longitude": 29.8323985,
+    "iletisim": "02562251346"
   },
   {
     "name": "EZGİ ECZANESİ",
@@ -8220,7 +9042,8 @@ export const locations = [
     "address": "Arapçeşme Mah. Kavak Cad. no:10",
     "contract": true,
     "latitude": 40.8039698,
-    "longitude": 29.4404167
+    "longitude": 29.4404167,
+    "iletisim": "03129998044"
   },
   {
     "name": "GÖKHAN ECZANESİ",
@@ -8230,7 +9053,8 @@ export const locations = [
     "address": "Gebze OSB Mahallesi 1600 Sok. NO: 1601 / 619",
     "contract": true,
     "latitude": 40.84873400000001,
-    "longitude": 29.4225119
+    "longitude": 29.4225119,
+    "iletisim": "02126742172"
   },
   {
     "name": "UYGUN ECZANESİ",
@@ -8240,7 +9064,8 @@ export const locations = [
     "address": "Ömerağa Mah. İstiklal Cad. Belsa Sok. NO:24",
     "contract": true,
     "latitude": 40.7651402,
-    "longitude": 29.9288504
+    "longitude": 29.9288504,
+    "iletisim": "02165962000"
   },
   {
     "name": "ÇOKAN ECZANESİ",
@@ -8250,7 +9075,8 @@ export const locations = [
     "address": "Karabaş Mah. Hürriyet Cad. NO:159",
     "contract": true,
     "latitude": 40.7645886,
-    "longitude": 29.9324032
+    "longitude": 29.9324032,
+    "iletisim": "02623228635"
   },
   {
     "name": "NUR ECZANESİ",
@@ -8260,7 +9086,8 @@ export const locations = [
     "address": "4 temmuz mahallesi rauf denktaş bulvarı no: 3/d",
     "contract": true,
     "latitude": 40.690326,
-    "longitude": 29.60906379999999
+    "longitude": 29.60906379999999,
+    "iletisim": "02125936647"
   },
   {
     "name": "AKCAN ECZANESİ",
@@ -8270,7 +9097,8 @@ export const locations = [
     "address": "Çiftlik Mah. Hastane Cad. NO:74 İhsaniye",
     "contract": true,
     "latitude": 40.7063074,
-    "longitude": 29.8386438
+    "longitude": 29.8386438,
+    "iletisim": "04824155900"
   },
   {
     "name": "ESİN ECZANESİ",
@@ -8280,7 +9108,8 @@ export const locations = [
     "address": "Yenişehir Mah. Dönmez Sok. no:34",
     "contract": true,
     "latitude": 40.76448870000001,
-    "longitude": 29.9654622
+    "longitude": 29.9654622,
+    "iletisim": "05388416297"
   },
   {
     "name": "ZEYNEP ECZANESİ",
@@ -8290,7 +9119,8 @@ export const locations = [
     "address": "Ovacık Mah. D-100 Karayolu Cad. no:34 Symbol AVM",
     "contract": true,
     "latitude": 40.7580405,
-    "longitude": 29.9794733
+    "longitude": 29.9794733,
+    "iletisim": "02645173022"
   },
   {
     "name": "NAR ECZANESİ",
@@ -8300,7 +9130,8 @@ export const locations = [
     "address": "Yenişehir Mahallesi, Dönmez Sk. no:30-32",
     "contract": true,
     "latitude": 40.7639877,
-    "longitude": 29.9651866
+    "longitude": 29.9651866,
+    "iletisim": "02165619907"
   },
   {
     "name": "ÇETİNEL ECZANESİ",
@@ -8310,7 +9141,8 @@ export const locations = [
     "address": "Nasrettın Caddesi No:11",
     "contract": true,
     "latitude": 38.3576639,
-    "longitude": 31.4152228
+    "longitude": 31.4152228,
+    "iletisim": "03328134778"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -8320,7 +9152,8 @@ export const locations = [
     "address": "HACISEYİTALİ ATATÜRK MAHALLESİ NO: 14/A",
     "contract": true,
     "latitude": 37.41926,
-    "longitude": 31.848216
+    "longitude": 31.848216,
+    "iletisim": "02323813135"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -8330,7 +9163,8 @@ export const locations = [
     "address": "Belkaya-Cumhuriyet Mah. Sağlık Sok. no:1",
     "contract": true,
     "latitude": 37.512316,
-    "longitude": 34.048806
+    "longitude": 34.048806,
+    "iletisim": "03247141116"
   },
   {
     "name": "BAŞAK ECZANESİ",
@@ -8340,7 +9174,8 @@ export const locations = [
     "address": "HACI ÖMERLİ MAHALLESİ KONYA CADDESİ NO: 21/A",
     "contract": true,
     "latitude": 37.7147408,
-    "longitude": 33.5447876
+    "longitude": 33.5447876,
+    "iletisim": "05437242233"
   },
   {
     "name": "KERVAN ECZANESİ",
@@ -8350,7 +9185,8 @@ export const locations = [
     "address": "Şemsitebrizi Mah. Şerafettin Cad. no:12/C",
     "contract": true,
     "latitude": 37.8733215,
-    "longitude": 32.4999603
+    "longitude": 32.4999603,
+    "iletisim": "03323521007"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -8360,7 +9196,8 @@ export const locations = [
     "address": "Şemsitebrizi Mahallesi, Mevlana Cd. No:9 / C",
     "contract": true,
     "latitude": 37.8726293,
-    "longitude": 32.4949102
+    "longitude": 32.4949102,
+    "iletisim": "03247141116"
   },
   {
     "name": "SARILAR ECZANESİ",
@@ -8370,7 +9207,8 @@ export const locations = [
     "address": "NASREDDİN MAHALLESİ NASREDDİN CADDESİ NO:22/A",
     "contract": true,
     "latitude": 38.357408,
-    "longitude": 31.4155002
+    "longitude": 31.4155002,
+    "iletisim": "03328134903"
   },
   {
     "name": "YENİ KARAAĞA ECZANESİ",
@@ -8380,7 +9218,8 @@ export const locations = [
     "address": "İhsaniye Mah.Kazım Karabekir Cad. Çamlıca Pst.Zafer Meydanı Ferah İş Hanı, No:8/B",
     "contract": true,
     "latitude": 37.8724996,
-    "longitude": 32.4856418
+    "longitude": 32.4856418,
+    "iletisim": "03323517483"
   },
   {
     "name": "GÜL ECZANESİ",
@@ -8390,7 +9229,8 @@ export const locations = [
     "address": "Ferhuniye Mah. Darüşşifa Sok. no:1/A",
     "contract": true,
     "latitude": 37.8778916,
-    "longitude": 32.48996899999999
+    "longitude": 32.48996899999999,
+    "iletisim": "03124469496"
   },
   {
     "name": "YILDIRIM ECZANESİ",
@@ -8400,7 +9240,8 @@ export const locations = [
     "address": "SELÇUKLU MAHALLESİ ATATÜRK CADDESİ ERGİN APARTMANI ALTI NO: 46/A",
     "contract": true,
     "latitude": 37.512316,
-    "longitude": 34.048806
+    "longitude": 34.048806,
+    "iletisim": "02423111969"
   },
   {
     "name": "SEZER ECZANESİ",
@@ -8410,7 +9251,8 @@ export const locations = [
     "address": "Ferhuniye Mah. Darüşşifa Sok. NO:2/B",
     "contract": true,
     "latitude": 37.877707,
-    "longitude": 32.489658
+    "longitude": 32.489658,
+    "iletisim": "03323524746"
   },
   {
     "name": "HADİM ECZANESİ",
@@ -8420,7 +9262,8 @@ export const locations = [
     "address": "ÇAYBAŞI MAHALLESİ FURGAN DEDE CADDESİ NO: 72/A",
     "contract": true,
     "latitude": 37.8659672,
-    "longitude": 32.4998862
+    "longitude": 32.4998862,
+    "iletisim": "03323530576"
   },
   {
     "name": "MEDİFARMA ECZANESİ",
@@ -8430,7 +9273,8 @@ export const locations = [
     "address": "MUSALLA BAĞLARI MAHALLESİ GÜRZ SOKAK NO:56",
     "contract": true,
     "latitude": 37.8930706,
-    "longitude": 32.4967304
+    "longitude": 32.4967304,
+    "iletisim": "03322512299"
   },
   {
     "name": "BEDİR ECZANESİ",
@@ -8440,7 +9284,8 @@ export const locations = [
     "address": "Feritpaşa Mah. Ahmet Hilmi Nalçacı Cad. no:63/B Bulvar Sit.",
     "contract": true,
     "latitude": 37.8857658,
-    "longitude": 32.492252
+    "longitude": 32.492252,
+    "iletisim": "03322386079"
   },
   {
     "name": "ÇETİNKAYA ECZANESİ",
@@ -8450,7 +9295,8 @@ export const locations = [
     "address": "FERHUNİYE MAH. DARULŞİFA SK. ALEMDAR IŞH. NO:8/B",
     "contract": true,
     "latitude": 37.8775877,
-    "longitude": 32.4900653
+    "longitude": 32.4900653,
+    "iletisim": "03323505737"
   },
   {
     "name": "DİNÇ ECZANESİ",
@@ -8460,7 +9306,8 @@ export const locations = [
     "address": "Selçuklu Mah. İstasyon Cad. no:67/D Kilim Apt.",
     "contract": true,
     "latitude": 37.512316,
-    "longitude": 34.048806
+    "longitude": 34.048806,
+    "iletisim": "03327123115"
   },
   {
     "name": "HACETTEPE ECZANESİ",
@@ -8470,7 +9317,8 @@ export const locations = [
     "address": "Ferhuniye Mah. Ulaşbaba Cad. no:17/B",
     "contract": true,
     "latitude": 37.8799416,
-    "longitude": 32.4918048
+    "longitude": 32.4918048,
+    "iletisim": "03707253292"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -8480,7 +9328,8 @@ export const locations = [
     "address": "Musalla Bağları Mah. Telgrafçı Hamdibey Cad. NO:4/A",
     "contract": true,
     "latitude": 37.8869019,
-    "longitude": 32.4976589
+    "longitude": 32.4976589,
+    "iletisim": "02323813135"
   },
   {
     "name": "CAN ECZANESİ",
@@ -8490,7 +9339,8 @@ export const locations = [
     "address": "FATİH MAHALLESİ MUHSİN YAZICIOĞLU CADDESİ NO: 204/B",
     "contract": true,
     "latitude": 38.27719889999999,
-    "longitude": 31.9041509
+    "longitude": 31.9041509,
+    "iletisim": "05416702223"
   },
   {
     "name": "AYVACI ECZANESİ",
@@ -8500,7 +9350,8 @@ export const locations = [
     "address": "Alaylar İki Mah. Milli Egemenlik Cad. NO:17/A",
     "contract": true,
     "latitude": 37.4239696,
-    "longitude": 31.8464314
+    "longitude": 31.8464314,
+    "iletisim": "03325820977"
   },
   {
     "name": "CANER ECZANESİ",
@@ -8510,7 +9361,8 @@ export const locations = [
     "address": "esentepe mahallesi 40525. sokak no: 2/D",
     "contract": true,
     "latitude": 37.6700739,
-    "longitude": 31.7394939
+    "longitude": 31.7394939,
+    "iletisim": "03325127337"
   },
   {
     "name": "YÜCEL ECZANESİ",
@@ -8520,7 +9372,8 @@ export const locations = [
     "address": "Kosova Mah. Seher Sok. NO:9/B",
     "contract": true,
     "latitude": 37.979367,
-    "longitude": 32.5217193
+    "longitude": 32.5217193,
+    "iletisim": "02524191811"
   },
   {
     "name": "ÜMİT ECZANESİ",
@@ -8530,7 +9383,8 @@ export const locations = [
     "address": "Cahı Mah. Şehit Murat Akutay Cad. NO:55",
     "contract": true,
     "latitude": 37.5248985,
-    "longitude": 34.0220051
+    "longitude": 34.0220051,
+    "iletisim": "03883117498"
   },
   {
     "name": "HANDE ECZANESİ",
@@ -8540,7 +9394,8 @@ export const locations = [
     "address": "AKŞEMSETTİN MAHALLESİ SARAY CADDESİ NO:4/C",
     "contract": true,
     "latitude": 37.8849038,
-    "longitude": 32.4573432
+    "longitude": 32.4573432,
+    "iletisim": "03322477733"
   },
   {
     "name": "ŞEREF YAVUZ ECZANESİ",
@@ -8550,7 +9405,8 @@ export const locations = [
     "address": "AYDOĞDU MAH. SÖĞÜTLÜ SOKAK NO:71/H MERAM KONYA",
     "contract": true,
     "latitude": 37.8599174,
-    "longitude": 32.4833646
+    "longitude": 32.4833646,
+    "iletisim": "03323201185"
   },
   {
     "name": "NİSAN ECZANESİ",
@@ -8560,7 +9416,8 @@ export const locations = [
     "address": "Musalla Bağları Mah. Gülbahar Sok. no:5/B",
     "contract": true,
     "latitude": 37.8898583,
-    "longitude": 32.4993
+    "longitude": 32.4993,
+    "iletisim": "03322350077"
   },
   {
     "name": "TÜRKMEN ECZANESİ",
@@ -8570,7 +9427,8 @@ export const locations = [
     "address": "FATİH MAH. BÜLBÜLLÜ SOK. NO:90 (15 Temmuz Kadın Hastalıkları ve Çocuk Hastanesi Acil Kapısı Karşısı)",
     "contract": true,
     "latitude": 37.9110162,
-    "longitude": 32.5018622
+    "longitude": 32.5018622,
+    "iletisim": "03322386197"
   },
   {
     "name": "ŞATO ECZENESİ",
@@ -8580,7 +9438,8 @@ export const locations = [
     "address": "Sahibata Mah. Hoca Hasan Sok. NO:7/A",
     "contract": true,
     "latitude": 37.8702513,
-    "longitude": 32.48534000000001
+    "longitude": 32.48534000000001,
+    "iletisim": "03323520656"
   },
   {
     "name": "YENİ GÜL ECZANESİ",
@@ -8590,7 +9449,8 @@ export const locations = [
     "address": "ALAYLAR İKİ MAH. MİLLİ EGEMENLİK CAD.10-A YENİ GÜL ECZANESİ",
     "contract": true,
     "latitude": 37.4238544,
-    "longitude": 31.8458378
+    "longitude": 31.8458378,
+    "iletisim": "03325825221"
   },
   {
     "name": "KARAKUŞ ECZANESİ",
@@ -8600,7 +9460,8 @@ export const locations = [
     "address": "Fahrettin Altay Mah. 115829 Sok. no:7",
     "contract": true,
     "latitude": 38.2919305,
-    "longitude": 31.8847222
+    "longitude": 31.8847222,
+    "iletisim": "03328825005"
   },
   {
     "name": "KARATAY ECZANESİ",
@@ -8610,7 +9471,8 @@ export const locations = [
     "address": "Akçeşme Mah. Heyamola Sok. 1/F",
     "contract": true,
     "latitude": 37.86698459999999,
-    "longitude": 32.5031991
+    "longitude": 32.5031991,
+    "iletisim": "03323521222"
   },
   {
     "name": "ÇINAR ECZANESİ",
@@ -8620,7 +9482,8 @@ export const locations = [
     "address": "Tepecik Mah. Fevzi Çakmak Cad. NO: 2/A",
     "contract": true,
     "latitude": 39.0883777,
-    "longitude": 28.9784928
+    "longitude": 28.9784928,
+    "iletisim": "03123123334"
   },
   {
     "name": "HALK ECZANESİ",
@@ -8630,7 +9493,8 @@ export const locations = [
     "address": "4 EYLÜL MAHALLESİ ATATÜRK CADDESİ NO: 19-A",
     "contract": true,
     "latitude": 39.0887708,
-    "longitude": 28.9799465
+    "longitude": 28.9799465,
+    "iletisim": "02427225777"
   },
   {
     "name": "SİBEL ECZANESİ",
@@ -8640,7 +9504,8 @@ export const locations = [
     "address": "ULUOYMAK MAH. MEHMET ERSOY CAD. NO: 14",
     "contract": true,
     "latitude": 38.9883281,
-    "longitude": 29.3929242
+    "longitude": 29.3929242,
+    "iletisim": "02862184035"
   },
   {
     "name": "İNAL ECZANESİ",
@@ -8650,7 +9515,8 @@ export const locations = [
     "address": "FATİH MAHALLESİ KIŞLA CADDESİ NO: 41/1",
     "contract": true,
     "latitude": 39.0903424,
-    "longitude": 28.978447
+    "longitude": 28.978447,
+    "iletisim": "02745138286"
   },
   {
     "name": "PAPATYA ECZANESİ",
@@ -8660,7 +9526,8 @@ export const locations = [
     "address": "Mecidiye Mahallesi, Org. Asım Gündüz Cd. No:24",
     "contract": true,
     "latitude": 39.4174047,
-    "longitude": 29.9806671
+    "longitude": 29.9806671,
+    "iletisim": "02367131991"
   },
   {
     "name": "TOLGA ECZANESİ",
@@ -8670,7 +9537,8 @@ export const locations = [
     "address": "MOYMUL MAH KONAK SOK NO:21 TOLGA ECZANESİ",
     "contract": true,
     "latitude": 39.5472378,
-    "longitude": 29.4759846
+    "longitude": 29.4759846,
+    "iletisim": "02746153317"
   },
   {
     "name": "ECZANE SEVGİ YOLU",
@@ -8680,7 +9548,8 @@ export const locations = [
     "address": "Ali Paşa Mahallesi, Cumhuriyet Cd. No:30/A",
     "contract": true,
     "latitude": 39.4199547,
-    "longitude": 29.985732
+    "longitude": 29.985732,
+    "iletisim": "02742163636"
   },
   {
     "name": "ÖZLEM ECZANESİ",
@@ -8690,7 +9559,8 @@ export const locations = [
     "address": "İzzetiye Mahallesi, Şehit Servet Aktaş Cad. No:4",
     "contract": true,
     "latitude": 38.3474369,
-    "longitude": 38.3180448
+    "longitude": 38.3180448,
+    "iletisim": "02483251340"
   },
   {
     "name": "DÖRTYOL ECZANESİ",
@@ -8700,7 +9570,8 @@ export const locations = [
     "address": "Kavaklıbağ Mah. İnönü Cad. NO: 61",
     "contract": true,
     "latitude": 38.34814,
-    "longitude": 38.3122927
+    "longitude": 38.3122927,
+    "iletisim": "04762277218"
   },
   {
     "name": "ERDEM ECZANESİ",
@@ -8710,7 +9581,8 @@ export const locations = [
     "address": "Karakavak Mah. Turgut Özal Blv. no:4/A",
     "contract": true,
     "latitude": 38.3467254,
-    "longitude": 38.2823725
+    "longitude": 38.2823725,
+    "iletisim": "02323369020"
   },
   {
     "name": "GÜVEN ECZANESİ",
@@ -8720,7 +9592,8 @@ export const locations = [
     "address": "Kavaklıbağ Mah. İnönü Cad. NO:62",
     "contract": true,
     "latitude": 38.3483695,
-    "longitude": 38.3129844
+    "longitude": 38.3129844,
+    "iletisim": "03122802411"
   },
   {
     "name": "IŞIK ECZANESİ",
@@ -8730,7 +9603,8 @@ export const locations = [
     "address": "ÖZALPER MAHALLESİ TURGUT ÖZAL BULVARI NO:13/B",
     "contract": true,
     "latitude": 38.3468984,
-    "longitude": 38.2837044
+    "longitude": 38.2837044,
+    "iletisim": "04223221868"
   },
   {
     "name": "KEKİK EZCANESİ",
@@ -8740,7 +9614,8 @@ export const locations = [
     "address": "İnönü Mahallesi, İstasyon Cd. No:7",
     "contract": true,
     "latitude": 38.3507013,
-    "longitude": 38.2844408
+    "longitude": 38.2844408,
+    "iletisim": "04222117636"
   },
   {
     "name": "KUMSAL ECZANESİ",
@@ -8750,7 +9625,8 @@ export const locations = [
     "address": "Fırat Mahallesi, İpek Cad. No:56",
     "contract": true,
     "latitude": 38.3436637,
-    "longitude": 38.3293462
+    "longitude": 38.3293462,
+    "iletisim": "04223255033"
   },
   {
     "name": "ŞELALE ECZANESİ",
@@ -8760,7 +9636,8 @@ export const locations = [
     "address": "Heyiketeği Mah. Somuncubaba Blv. NO:20/C",
     "contract": true,
     "latitude": 38.5559552,
-    "longitude": 37.4910703
+    "longitude": 37.4910703,
+    "iletisim": "04226151555"
   },
   {
     "name": "BAKAN ECZANESİ",
@@ -8770,7 +9647,8 @@ export const locations = [
     "address": "ŞİFA MAHALLESİ İNÖNÜ CADDESİ NO:141",
     "contract": true,
     "latitude": 38.3491291,
-    "longitude": 38.3017711
+    "longitude": 38.3017711,
+    "iletisim": "04223231768"
   },
   {
     "name": "BİRLİK ECZANESİ",
@@ -8780,7 +9658,8 @@ export const locations = [
     "address": "Paşa Mahallesi, Şht. Teğmen Tahir Ün Cd. No:70/B",
     "contract": true,
     "latitude": 38.921277,
-    "longitude": 27.839649
+    "longitude": 27.839649,
+    "iletisim": "02364141720"
   },
   {
     "name": "YENİ HAYAT ECZANESİ",
@@ -8790,7 +9669,8 @@ export const locations = [
     "address": "Hacıhasan Mahallesi, Terziler Sk. No:2",
     "contract": true,
     "latitude": 39.0447767,
-    "longitude": 28.6539034
+    "longitude": 28.6539034,
+    "iletisim": "02626423232"
   },
   {
     "name": "AKARSU ECZANESİ",
@@ -8800,7 +9680,8 @@ export const locations = [
     "address": "AKINCILAR MAHALLESİ İMAM HATİP LİSESİ CADDESİ NO: 11",
     "contract": true,
     "latitude": 39.047336,
-    "longitude": 28.658544
+    "longitude": 28.658544,
+    "iletisim": "02364622020"
   },
   {
     "name": "YÜKSEL ECZANESİ",
@@ -8810,7 +9691,8 @@ export const locations = [
     "address": "SOĞUKSU MAHALLESİ KENAN EVREN CADDESİ NO:56",
     "contract": true,
     "latitude": 38.350462,
-    "longitude": 28.514188
+    "longitude": 28.514188,
+    "iletisim": "02128812242"
   },
   {
     "name": "OZAN ECZANESİ",
@@ -8820,7 +9702,8 @@ export const locations = [
     "address": "PAŞA MAHALLESİ 19.SOKAK NO:73",
     "contract": true,
     "latitude": 38.9205271,
-    "longitude": 27.8385849
+    "longitude": 27.8385849,
+    "iletisim": "02364144730"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -8830,7 +9713,8 @@ export const locations = [
     "address": "Kurtuluş Mahallesi, Fatih Cd. No:36",
     "contract": true,
     "latitude": 39.1811598,
-    "longitude": 27.6081674
+    "longitude": 27.6081674,
+    "iletisim": "02323813135"
   },
   {
     "name": "TETİKER ECZANESİ",
@@ -8840,7 +9724,8 @@ export const locations = [
     "address": "Has Hoca Mahallesi, 50. Sk. No:10",
     "contract": true,
     "latitude": 38.9208798,
-    "longitude": 27.8413396
+    "longitude": 27.8413396,
+    "iletisim": "02364145033"
   },
   {
     "name": "YAVUZ ECZANESİ",
@@ -8850,7 +9735,8 @@ export const locations = [
     "address": "ŞEKER MAHALLESİ 1714. SOKAK NO: 3/A",
     "contract": true,
     "latitude": 38.6155639,
-    "longitude": 27.4303614
+    "longitude": 27.4303614,
+    "iletisim": "04143478110"
   },
   {
     "name": "VAROL ECZANESİ",
@@ -8860,7 +9746,8 @@ export const locations = [
     "address": "Mithatpaşa Mahallesi, Mithatpaşa Cd. No:114",
     "contract": true,
     "latitude": 38.4848982,
-    "longitude": 28.1367948
+    "longitude": 28.1367948,
+    "iletisim": "02367144973"
   },
   {
     "name": "EGE ECZANESİ",
@@ -8870,7 +9757,8 @@ export const locations = [
     "address": "PAŞA MAHALLESİ, 2 . Nakliye Cad./19. Sok. No:74",
     "contract": true,
     "latitude": 38.9206239,
-    "longitude": 27.838537
+    "longitude": 27.838537,
+    "iletisim": "05405101020"
   },
   {
     "name": "GÖZDE ECZANESİ",
@@ -8880,7 +9768,8 @@ export const locations = [
     "address": "Akıncılar Mahallesi, 8 Eylül Cd. no: 37-A",
     "contract": true,
     "latitude": 38.6140363,
-    "longitude": 27.4245757
+    "longitude": 27.4245757,
+    "iletisim": "02362310800"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -8890,7 +9779,8 @@ export const locations = [
     "address": "Kurtuluş Mahallesi, Tahsin Baykal Cad No:32/A",
     "contract": true,
     "latitude": 39.182115,
-    "longitude": 27.6068161
+    "longitude": 27.6068161,
+    "iletisim": "02744124152"
   },
   {
     "name": "ZORLU ECZANESİ",
@@ -8900,7 +9790,8 @@ export const locations = [
     "address": "Mithatpaşa Mahallesi, Mithat Paşa Cad. NO:118/A",
     "contract": true,
     "latitude": 38.4850203,
-    "longitude": 28.1368544
+    "longitude": 28.1368544,
+    "iletisim": "02367147006"
   },
   {
     "name": "YILMAZ ECZANESİ",
@@ -8910,7 +9801,8 @@ export const locations = [
     "address": "Altay Mah. Cevdet Öktem Cad. no:10",
     "contract": true,
     "latitude": 38.500037,
-    "longitude": 27.709391
+    "longitude": 27.709391,
+    "iletisim": "02423129365"
   },
   {
     "name": "KIRDAR ECZANESİ",
@@ -8920,7 +9812,8 @@ export const locations = [
     "address": "Cumhuriyet Mahallesi, Atatürk Blv. No:212",
     "contract": true,
     "latitude": 38.495398,
-    "longitude": 27.7050629
+    "longitude": 27.7050629,
+    "iletisim": "02363132148"
   },
   {
     "name": "MEHMET ECZANESİ",
@@ -8930,7 +9823,8 @@ export const locations = [
     "address": "Ragıp Bey Mahallesi, 15. Şehit Polis Cemal Ilgaz Cd. No:15",
     "contract": true,
     "latitude": 38.9162514,
-    "longitude": 27.8366886
+    "longitude": 27.8366886,
+    "iletisim": "02364145619"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -8940,7 +9834,8 @@ export const locations = [
     "address": "Cumhuriyet Mahallesi, 331. Sk. no:6/D",
     "contract": true,
     "latitude": 38.4830451,
-    "longitude": 28.1500087
+    "longitude": 28.1500087,
+    "iletisim": "02323813135"
   },
   {
     "name": "AYKUT ŞAHİN ECZANESİ",
@@ -8950,7 +9845,8 @@ export const locations = [
     "address": "Camii Cedit Mahallesi, Ethem Polat Sk. no:33/A",
     "contract": true,
     "latitude": 38.5446845,
-    "longitude": 28.6460522
+    "longitude": 28.6460522,
+    "iletisim": "02368162323"
   },
   {
     "name": "İRİER ECZANESİ",
@@ -8960,7 +9856,8 @@ export const locations = [
     "address": "Hafsa Sultan Mah. No:8/B, Özsaruhan Blv.",
     "contract": true,
     "latitude": 38.6197419,
-    "longitude": 27.4022139
+    "longitude": 27.4022139,
+    "iletisim": "02362326010"
   },
   {
     "name": "PINAR ECZANESİ",
@@ -8970,7 +9867,8 @@ export const locations = [
     "address": "Soğuksu Mahallesi, Fevzi Paşa Cd. no:92/A",
     "contract": true,
     "latitude": 38.3495536,
-    "longitude": 28.5143663
+    "longitude": 28.5143663,
+    "iletisim": "05549159175"
   },
   {
     "name": "SEZAL ECZANESİ",
@@ -8980,7 +9878,8 @@ export const locations = [
     "address": "İsmet Paşa Mahallesi Yeni Hükümet Caddesi Hükümet Bulvarı Burak Apartmanı Altı No:13/A",
     "contract": true,
     "latitude": 37.6452813,
-    "longitude": 37.0400339
+    "longitude": 37.0400339,
+    "iletisim": "03442141933"
   },
   {
     "name": "ÖZPOLAT ECZANESİ",
@@ -8990,7 +9889,8 @@ export const locations = [
     "address": "GÜNEŞLİ MAHALLESİ RECEP TAYYİP ERDOĞAN BULVARI NO: 3/C",
     "contract": true,
     "latitude": 38.206537,
-    "longitude": 37.193076
+    "longitude": 37.193076,
+    "iletisim": "03444132960"
   },
   {
     "name": "AYŞEGÜL ECZANESİ",
@@ -9000,7 +9900,8 @@ export const locations = [
     "address": "İsmet Paşa Mahallesi Trabzon Bulvarı No: 30/D",
     "contract": true,
     "latitude": 37.5780064,
-    "longitude": 36.9303745
+    "longitude": 36.9303745,
+    "iletisim": "02163992937"
   },
   {
     "name": "AKSÜT ECZANESİ",
@@ -9010,7 +9911,8 @@ export const locations = [
     "address": "Şazi Bey Mahallesi, Ali Sezal Bulv. No:3",
     "contract": true,
     "latitude": 37.5742242,
-    "longitude": 36.9212559
+    "longitude": 36.9212559,
+    "iletisim": "03442355020"
   },
   {
     "name": "ASU ECZANESİ",
@@ -9020,7 +9922,8 @@ export const locations = [
     "address": "Dedebaba Mahallesi, Elçi Bey Cad. No: 23",
     "contract": true,
     "latitude": 38.2472697,
-    "longitude": 36.916298
+    "longitude": 36.916298,
+    "iletisim": "03445117229"
   },
   {
     "name": "ELMAS ECZANESİ",
@@ -9030,7 +9933,8 @@ export const locations = [
     "address": "5 NİSAN MH.KUZEY ÇEVRE YOLU BLV. NO/47 CC 12 ŞUBAT KMARAŞ",
     "contract": true,
     "latitude": 37.5851338,
-    "longitude": 36.9260134
+    "longitude": 36.9260134,
+    "iletisim": "03442350550"
   },
   {
     "name": "ÖMÜR ECZANESİ",
@@ -9040,7 +9944,8 @@ export const locations = [
     "address": "Medrese Mahallesi, Cumhuriyet Cd. No:184",
     "contract": true,
     "latitude": 37.312903,
-    "longitude": 40.733951
+    "longitude": 40.733951,
+    "iletisim": "02464415557"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -9050,7 +9955,8 @@ export const locations = [
     "address": "Bahçelievler Mah. Cumhuriyet Blv. NO:114/F",
     "contract": true,
     "latitude": 37.4113874,
-    "longitude": 41.3516994
+    "longitude": 41.3516994,
+    "iletisim": "03247141116"
   },
   {
     "name": "MÜFTÜOĞLU ECZANESİ",
@@ -9060,7 +9966,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. HASTANE CAD. NO:17 / B",
     "contract": true,
     "latitude": 37.1907213,
-    "longitude": 40.5940617
+    "longitude": 40.5940617,
+    "iletisim": "04823121170"
   },
   {
     "name": "UĞUR ECZANESİ",
@@ -9070,7 +9977,8 @@ export const locations = [
     "address": "Yenişehir Mahallesi, Vali Ozan caddesi Manolya Apt C Blok No:4",
     "contract": true,
     "latitude": 37.3156839,
-    "longitude": 40.7286719
+    "longitude": 40.7286719,
+    "iletisim": "03122307595"
   },
   {
     "name": "AYANOĞLU ECZANESİ",
@@ -9080,7 +9988,8 @@ export const locations = [
     "address": "13 MART MAHALLESİ ORTADOGU CADDESİ ÇAĞATAY APARTMANI A BLOK ALTI NO: 2",
     "contract": true,
     "latitude": 37.3326854,
-    "longitude": 40.7184672
+    "longitude": 40.7184672,
+    "iletisim": "04822124704"
   },
   {
     "name": "DİLBER ECZANESİ",
@@ -9090,7 +9999,8 @@ export const locations = [
     "address": "Selahaddin Eyyubi Mahallesi, Cumhuriyet Cd. no:6 Nusaybin/mardin",
     "contract": true,
     "latitude": 37.075,
-    "longitude": 41.2089
+    "longitude": 41.2089,
+    "iletisim": "04824156596"
   },
   {
     "name": "EMİN ECZANESİ",
@@ -9100,7 +10010,8 @@ export const locations = [
     "address": "Cumhuriyet Mah. Hastane Cad. No:13/B",
     "contract": true,
     "latitude": 37.1908926,
-    "longitude": 40.5939909
+    "longitude": 40.5939909,
+    "iletisim": "02123439637"
   },
   {
     "name": "AKCAN ECZANESİ",
@@ -9110,7 +10021,8 @@ export const locations = [
     "address": "8 MART MAHALLESİ İPEK YOLU CADDESİ NO: 10/BD",
     "contract": true,
     "latitude": 37.0917318,
-    "longitude": 41.2015269
+    "longitude": 41.2015269,
+    "iletisim": "04824155900"
   },
   {
     "name": "SARIYILDIZ ECZANESİ",
@@ -9120,7 +10032,8 @@ export const locations = [
     "address": "13 MART MAH.VALI OZAN CAD. KıLıç Iş MERKZ.NO:74/B",
     "contract": true,
     "latitude": 37.3152265,
-    "longitude": 40.7285544
+    "longitude": 40.7285544,
+    "iletisim": "04822127773"
   },
   {
     "name": "ÜLKÜ ECZANESİ",
@@ -9130,7 +10043,8 @@ export const locations = [
     "address": "Hacı İlyas Mahallesi, Cumhuriyet Cd. 37/B",
     "contract": true,
     "latitude": 37.3139705,
-    "longitude": 27.7809076
+    "longitude": 27.7809076,
+    "iletisim": "02525121611"
   },
   {
     "name": "ÖZGE ECZANESİ",
@@ -9140,7 +10054,8 @@ export const locations = [
     "address": "Hacı İlyas Mah. Cumhuriyet Cad. 49/C",
     "contract": true,
     "latitude": 37.3149275,
-    "longitude": 27.7809241
+    "longitude": 27.7809241,
+    "iletisim": "02325028584"
   },
   {
     "name": "PINAR ECZANESİ",
@@ -9150,7 +10065,8 @@ export const locations = [
     "address": "TERZİALİLER MAH. CUMHURİYET CAD. NO:97 / D",
     "contract": true,
     "latitude": 36.8370228,
-    "longitude": 28.7640656
+    "longitude": 28.7640656,
+    "iletisim": "05549159175"
   },
   {
     "name": "DEVA ECZANESİ",
@@ -9160,7 +10076,8 @@ export const locations = [
     "address": "Orhaniye mah , İsmet Çatak Cd. No:57",
     "contract": true,
     "latitude": 37.2154095,
-    "longitude": 28.3685259
+    "longitude": 28.3685259,
+    "iletisim": "04462233323"
   },
   {
     "name": "ÇARŞI ECZANESİ",
@@ -9170,7 +10087,8 @@ export const locations = [
     "address": "TUZLA MAHALLESİ SADİ PEKİN (TZL) CADDESİ NO: 26/A",
     "contract": true,
     "latitude": 36.6275617,
-    "longitude": 29.12452549999999
+    "longitude": 29.12452549999999,
+    "iletisim": "02163061077"
   },
   {
     "name": "CAN ECZANESİ",
@@ -9180,7 +10098,8 @@ export const locations = [
     "address": "GÜLLÜK MAHALLESİ 274. SOKAK NO: 3/A",
     "contract": true,
     "latitude": 37.2381606,
-    "longitude": 27.5982138
+    "longitude": 27.5982138,
+    "iletisim": "05416702223"
   },
   {
     "name": "DEMİRTAŞ ECZANESİ",
@@ -9190,7 +10109,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. 500. (CMH) SK. NO: 16/B",
     "contract": true,
     "latitude": 36.659246,
-    "longitude": 29.126347
+    "longitude": 29.126347,
+    "iletisim": "02526147987"
   },
   {
     "name": "ADA ECZANESİ",
@@ -9200,7 +10120,8 @@ export const locations = [
     "address": "TEPE MAHALLESİ ULUSAL EGEMENLİK CADDESİ RODOSLU KEMAL İŞHANI NO: 16/Z",
     "contract": true,
     "latitude": 36.857488,
-    "longitude": 28.2707875
+    "longitude": 28.2707875,
+    "iletisim": "05455201102"
   },
   {
     "name": "TEKİN ECZANESİ",
@@ -9210,7 +10131,8 @@ export const locations = [
     "address": "KONAK MAH.ATATÜRK CAD.NO:22/A",
     "contract": true,
     "latitude": 37.3425381,
-    "longitude": 28.1375291
+    "longitude": 28.1375291,
+    "iletisim": "02525727290"
   },
   {
     "name": "ALTAY ECZANESİ",
@@ -9220,7 +10142,8 @@ export const locations = [
     "address": "Tuzla Mah. Sadi Pekin Cad. no:16",
     "contract": true,
     "latitude": 36.6307372,
-    "longitude": 29.1202657
+    "longitude": 29.1202657,
+    "iletisim": "02526123105"
   },
   {
     "name": "ZEYBEKOĞLU ECZANESİ",
@@ -9230,7 +10153,8 @@ export const locations = [
     "address": "Hacı İlyas Mahallesi, Ulusal Egemenlik Cad. NO: 1/C",
     "contract": true,
     "latitude": 37.3116667,
-    "longitude": 27.7794444
+    "longitude": 27.7794444,
+    "iletisim": "02525129679"
   },
   {
     "name": "KURANOĞLU ECZANESİ",
@@ -9240,7 +10164,8 @@ export const locations = [
     "address": "Emirbeyazıt Mahallesi, Hasan Ercan Cd. No:8",
     "contract": true,
     "latitude": 37.213041,
-    "longitude": 28.3604445
+    "longitude": 28.3604445,
+    "iletisim": "02522125999"
   },
   {
     "name": "EROĞLU ECZANESİ",
@@ -9250,7 +10175,8 @@ export const locations = [
     "address": "Cumhuriyet Mahallesi, Atatürk Cd. no:56/A",
     "contract": true,
     "latitude": 36.6220109,
-    "longitude": 29.1108011
+    "longitude": 29.1108011,
+    "iletisim": "02526141497"
   },
   {
     "name": "OKTAY ECZANESİ",
@@ -9260,7 +10186,8 @@ export const locations = [
     "address": "Türkkuyusu Mahallesi, Turgut Reis Cd. No:48",
     "contract": true,
     "latitude": 37.0383757,
-    "longitude": 27.4280076
+    "longitude": 27.4280076,
+    "iletisim": "03544153148"
   },
   {
     "name": "ORTAKENT ECZANESİ",
@@ -9270,7 +10197,8 @@ export const locations = [
     "address": "MÜSKEBİ MAH CUMHURİYET CAD NO 169 A/A BODRUM MUĞLA",
     "contract": true,
     "latitude": 37.0309075,
-    "longitude": 27.4388563
+    "longitude": 27.4388563,
+    "iletisim": "02523585037"
   },
   {
     "name": "ELİF ECZANESİ",
@@ -9280,7 +10208,8 @@ export const locations = [
     "address": "Hacı İlyas Mahallesi, Ulusal Egemenlik Cd. NO:15/D",
     "contract": true,
     "latitude": 37.3127803,
-    "longitude": 27.7795185
+    "longitude": 27.7795185,
+    "iletisim": "02525137133"
   },
   {
     "name": "BALABAN ECZANESİ",
@@ -9290,7 +10219,8 @@ export const locations = [
     "address": "Cumhuriyet Mahallesi, Ali Gaffar Okan Cad. NO:8/A",
     "contract": true,
     "latitude": 36.659246,
-    "longitude": 29.126347
+    "longitude": 29.126347,
+    "iletisim": "02526148986"
   },
   {
     "name": "SABANCI ECZANESİ",
@@ -9300,7 +10230,8 @@ export const locations = [
     "address": "Emirbeyazıt Mahallesi hasan ercan caddesi armağan apt. no:13/b menteşe/muğla",
     "contract": true,
     "latitude": 37.2136491,
-    "longitude": 28.3595371
+    "longitude": 28.3595371,
+    "iletisim": "02522142608"
   },
   {
     "name": "KARADENİZ ECZANESİ",
@@ -9310,7 +10241,8 @@ export const locations = [
     "address": "İsmet Paşa Mah. Atatürk Blv. NO:40/B",
     "contract": true,
     "latitude": 37.3012547,
-    "longitude": 27.780878
+    "longitude": 27.780878,
+    "iletisim": "02662449497"
   },
   {
     "name": "CANSEL ECZANESİ",
@@ -9320,7 +10252,8 @@ export const locations = [
     "address": "Turgutreis-Bahçelievler Mah. Mehmet Hilmi Cad. 121/1",
     "contract": true,
     "latitude": 37.0111694,
-    "longitude": 27.2705974
+    "longitude": 27.2705974,
+    "iletisim": "02523824137"
   },
   {
     "name": "YÜCEL ECZANESİ",
@@ -9330,7 +10263,8 @@ export const locations = [
     "address": "Cumhuriyet (Bayır) Mahallesi Atatürk Bulvarı no: 64/1",
     "contract": true,
     "latitude": 37.2154837,
-    "longitude": 28.3498095
+    "longitude": 28.3498095,
+    "iletisim": "02524191811"
   },
   {
     "name": "KIVILCIM ECZANESİ",
@@ -9340,7 +10274,8 @@ export const locations = [
     "address": "Türkkuyusu Mah. 3156 Sokak No: 4 BODRUM",
     "contract": true,
     "latitude": 37.0408282,
-    "longitude": 27.4299426
+    "longitude": 27.4299426,
+    "iletisim": "02523586565"
   },
   {
     "name": "BODRUM TURUNÇ ECZANESİ",
@@ -9350,7 +10285,8 @@ export const locations = [
     "address": "Müskebi Mah. Gölbaşı Sok No: 38/1-2",
     "contract": true,
     "latitude": 37.0559209,
-    "longitude": 27.3491172
+    "longitude": 27.3491172,
+    "iletisim": "02523587186"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -9360,7 +10296,8 @@ export const locations = [
     "address": "HÜRRİYET MAH. İSTASYON CADDESİ ATATÜRK BULVARI NO: 7/C",
     "contract": true,
     "latitude": 38.734561,
-    "longitude": 41.491038
+    "longitude": 41.491038,
+    "iletisim": "03247141116"
   },
   {
     "name": "ONUR ECZANESİ",
@@ -9370,7 +10307,8 @@ export const locations = [
     "address": "Yeni Mahallesi, milli irade caddesi no: 22/e",
     "contract": true,
     "latitude": 38.624694,
-    "longitude": 34.714151
+    "longitude": 34.714151,
+    "iletisim": "03266184045"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -9380,7 +10318,8 @@ export const locations = [
     "address": "CUMHURİYET MH. ATATÜRK BLV. NO :24",
     "contract": true,
     "latitude": 38.6311673,
-    "longitude": 34.9121272
+    "longitude": 34.9121272,
+    "iletisim": "02744124152"
   },
   {
     "name": "ARMAĞAN ECZANESİ",
@@ -9390,7 +10329,8 @@ export const locations = [
     "address": "Güzelyurt Mahallesi, Ürgüp Cd. No:39",
     "contract": true,
     "latitude": 38.6307919,
-    "longitude": 34.7373807
+    "longitude": 34.7373807,
+    "iletisim": "03842134515"
   },
   {
     "name": "YENİ YAVUZ ECZANESİ",
@@ -9400,7 +10340,8 @@ export const locations = [
     "address": "ORTAHİSAR-ESENTEPE MAHALLESİ ŞEHİT ALİ KAYACA CADDESİ NO: 26/A",
     "contract": true,
     "latitude": 38.6323822,
-    "longitude": 34.9406069
+    "longitude": 34.9406069,
+    "iletisim": "03843433385"
   },
   {
     "name": "ATAN ECZANESİ",
@@ -9410,7 +10351,8 @@ export const locations = [
     "address": "Cumhuriyet Mahallesi Tahsin Ağa Sokak No: 6",
     "contract": true,
     "latitude": 38.6307224,
-    "longitude": 34.9128622
+    "longitude": 34.9128622,
+    "iletisim": "03843412227"
   },
   {
     "name": "ÇAĞLAR ECZANESİ",
@@ -9420,7 +10362,8 @@ export const locations = [
     "address": "SIRALİ MAHALLESİ MURAT ZEREN CADDESİ D-1",
     "contract": true,
     "latitude": 37.9711085,
-    "longitude": 34.6749252
+    "longitude": 34.6749252,
+    "iletisim": "03322610306"
   },
   {
     "name": "MURAT ECZANESİ",
@@ -9430,7 +10373,8 @@ export const locations = [
     "address": "ŞAHİNALİ MAHALLESİ EMİN ERİŞİRGİL BULVARI NO: 1",
     "contract": true,
     "latitude": 37.9734322,
-    "longitude": 34.6852628
+    "longitude": 34.6852628,
+    "iletisim": "04866168580"
   },
   {
     "name": "ÖMÜR ECZANESİ",
@@ -9440,7 +10384,8 @@ export const locations = [
     "address": "Saruhan Mahallesi, Akmedrese Cd. No: 21/D",
     "contract": true,
     "latitude": 37.9658173,
-    "longitude": 34.6760414
+    "longitude": 34.6760414,
+    "iletisim": "02464415557"
   },
   {
     "name": "OĞUZ ECZANESİ",
@@ -9450,7 +10395,8 @@ export const locations = [
     "address": "Karaca Uğurlu Mahallesi, İstasyon Cd. No:4 D:No:4",
     "contract": true,
     "latitude": 37.8917413,
-    "longitude": 34.559482
+    "longitude": 34.559482,
+    "iletisim": "03883114306"
   },
   {
     "name": "YENİMAHALLE ECZANESİ",
@@ -9460,7 +10406,8 @@ export const locations = [
     "address": "Yeni Mahallesi, Zübeyde Hanım Cd. NO:79/A",
     "contract": true,
     "latitude": 40.97913399999999,
-    "longitude": 37.88651369999999
+    "longitude": 37.88651369999999,
+    "iletisim": "04522145078"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -9470,7 +10417,8 @@ export const locations = [
     "address": "Şarkiye Mahallesi, Süleyman Felek Cd. No:70/A",
     "contract": true,
     "latitude": 40.9846606,
-    "longitude": 37.880118
+    "longitude": 37.880118,
+    "iletisim": "02744124152"
   },
   {
     "name": "BEŞLİOĞLU ECZANESİ",
@@ -9480,7 +10428,8 @@ export const locations = [
     "address": "Kaledere Mahallesi, Hükümet Cad. no:9/A",
     "contract": true,
     "latitude": 41.1300595,
-    "longitude": 37.286648
+    "longitude": 37.286648,
+    "iletisim": "04523232303"
   },
   {
     "name": "MERKEZ ECZANESİ",
@@ -9490,7 +10439,8 @@ export const locations = [
     "address": "Kaledere Mah. Hükümet Cad. NO:28/A",
     "contract": true,
     "latitude": 41.1297579,
-    "longitude": 37.2866334
+    "longitude": 37.2866334,
+    "iletisim": "02642790801"
   },
   {
     "name": "KONAK ECZANESİ",
@@ -9500,7 +10450,8 @@ export const locations = [
     "address": "Durugöl Mah. 1088. Sok. NO:4",
     "contract": true,
     "latitude": 40.977979,
-    "longitude": 37.9279409
+    "longitude": 37.9279409,
+    "iletisim": "04522346046"
   },
   {
     "name": "CANDAN ECZANESİ",
@@ -9510,7 +10461,8 @@ export const locations = [
     "address": "YENİ MAHALLESİ İSMET PAŞA CADDESİ NO: 97/A",
     "contract": true,
     "latitude": 40.9793668,
-    "longitude": 37.8909618
+    "longitude": 37.8909618,
+    "iletisim": "02128122378"
   },
   {
     "name": "BOZTEPE ECZANESİ",
@@ -9520,7 +10472,8 @@ export const locations = [
     "address": "Düz Mahalle Kültür Cd. No: 8",
     "contract": true,
     "latitude": 40.9853571,
-    "longitude": 37.8774052
+    "longitude": 37.8774052,
+    "iletisim": NaN
   },
   {
     "name": "AYDIN ECZANESİ",
@@ -9530,7 +10483,8 @@ export const locations = [
     "address": "Düz Mahallesi, Hükümet Cd. NO:17/B",
     "contract": true,
     "latitude": 40.984899,
-    "longitude": 37.878126
+    "longitude": 37.878126,
+    "iletisim": "02562251346"
   },
   {
     "name": "SEÇKİN ECZANESİ",
@@ -9540,7 +10494,8 @@ export const locations = [
     "address": "DUMLUPINAR MAHALLESİ REŞADİYE CADDESİ NO: 52/c",
     "contract": true,
     "latitude": 41.0296069,
-    "longitude": 37.5025188
+    "longitude": 37.5025188,
+    "iletisim": "03563181581"
   },
   {
     "name": "GÜLER ECZANESİ VE OPTİK",
@@ -9550,7 +10505,8 @@ export const locations = [
     "address": "Akyazı Mah. Ahmet Cemal Mağden Cad. NO:39/B",
     "contract": true,
     "latitude": 40.9789497,
-    "longitude": 37.9051183
+    "longitude": 37.9051183,
+    "iletisim": "04522338485"
   },
   {
     "name": "TEPE ECZANESİ",
@@ -9560,7 +10516,8 @@ export const locations = [
     "address": "Düz Mahallesi, Hükümet Cd. No:17",
     "contract": true,
     "latitude": 40.9853779,
-    "longitude": 37.8781485
+    "longitude": 37.8781485,
+    "iletisim": "04522255050"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -9570,7 +10527,8 @@ export const locations = [
     "address": "Samur Mahallesi, Tekkiraz Cad. No: 7",
     "contract": true,
     "latitude": 40.87975360000001,
-    "longitude": 37.2597623
+    "longitude": 37.2597623,
+    "iletisim": "02744124152"
   },
   {
     "name": "NUR ECZANESİ",
@@ -9580,7 +10538,8 @@ export const locations = [
     "address": "Akyazı Mah. Ahmet Cemal Mağden Blv. no:39 ALTINORDU ORDU",
     "contract": true,
     "latitude": 40.979162,
-    "longitude": 37.9092246
+    "longitude": 37.9092246,
+    "iletisim": "02125936647"
   },
   {
     "name": "KARŞIYAKA ECZANESİ",
@@ -9590,7 +10549,8 @@ export const locations = [
     "address": "Karşıyaka Mah. 906 Sok. no:11",
     "contract": true,
     "latitude": 40.9751048,
-    "longitude": 37.9058393
+    "longitude": 37.9058393,
+    "iletisim": "04522349076"
   },
   {
     "name": "YENİ ECZANESİ",
@@ -9600,7 +10560,8 @@ export const locations = [
     "address": "Çarşı Mah. Atatürk Cad. No: 291",
     "contract": true,
     "latitude": 41.0247941,
-    "longitude": 40.5186038
+    "longitude": 40.5186038,
+    "iletisim": "03626471164"
   },
   {
     "name": "KUDRET ECZANESİ",
@@ -9610,7 +10571,8 @@ export const locations = [
     "address": "RÜSTEMPAŞA MAHALLESİ ŞEHİTLER CADDESİ NO: 45/A",
     "contract": true,
     "latitude": 40.9495849,
-    "longitude": 40.5416487
+    "longitude": 40.5416487,
+    "iletisim": "04642130878"
   },
   {
     "name": "ŞENTÜRK ECZANESİ",
@@ -9620,7 +10582,8 @@ export const locations = [
     "address": "PAPUÇÇULAR MAHALLESİ ATATÜRK BULVARI NO: 64/C",
     "contract": true,
     "latitude": 40.7728097,
-    "longitude": 30.4032894
+    "longitude": 30.4032894,
+    "iletisim": "02642777973"
   },
   {
     "name": "ÇORUH ECZANESİ",
@@ -9630,7 +10593,8 @@ export const locations = [
     "address": "Başpınar Mahallesi, KEMAL PAŞA CADDESİ No:11",
     "contract": true,
     "latitude": 40.795053,
-    "longitude": 30.744706
+    "longitude": 30.744706,
+    "iletisim": "02646147919"
   },
   {
     "name": "KARASU ECZANESİ",
@@ -9640,7 +10604,8 @@ export const locations = [
     "address": "Kabakoz Mah. Mevlana Cad. No:21/A (Aile Sağlığı Merkezi Karşısı)",
     "contract": true,
     "latitude": 41.0943681,
-    "longitude": 30.68874959999999
+    "longitude": 30.68874959999999,
+    "iletisim": "02647184606"
   },
   {
     "name": "BAHAR ECZANESİ",
@@ -9650,7 +10615,8 @@ export const locations = [
     "address": "ERENLER MAH. CUMHURİYET CAD. NO: 2 / BCD",
     "contract": true,
     "latitude": 40.7572894,
-    "longitude": 30.4091597
+    "longitude": 30.4091597,
+    "iletisim": "02124150510"
   },
   {
     "name": "MELİS ECZANESİ",
@@ -9660,7 +10626,8 @@ export const locations = [
     "address": "Başpınar Mahallesi, Teymen Gökhan Yaşartürk Cd. No:1",
     "contract": true,
     "latitude": 40.7949125,
-    "longitude": 30.744643
+    "longitude": 30.744643,
+    "iletisim": "02825029009"
   },
   {
     "name": "ÖMÜR ECZANESİ",
@@ -9670,7 +10637,8 @@ export const locations = [
     "address": "hacınabi mahallesi tekel caddesi no: 11",
     "contract": true,
     "latitude": 41.5667158,
-    "longitude": 35.90272849999999
+    "longitude": 35.90272849999999,
+    "iletisim": "02464415557"
   },
   {
     "name": "MECİDİYE ECZANE OPTİK",
@@ -9680,7 +10648,8 @@ export const locations = [
     "address": "Kale Mah. Afitap Sok. NO:6/A",
     "contract": true,
     "latitude": 41.2908593,
-    "longitude": 36.3323469
+    "longitude": 36.3323469,
+    "iletisim": "03604315050"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -9690,7 +10659,8 @@ export const locations = [
     "address": "Cumhuriyet Mahallesi, Cumhuriyet Cd. No:24",
     "contract": true,
     "latitude": 41.5677864,
-    "longitude": 35.9035112
+    "longitude": 35.9035112,
+    "iletisim": "02744124152"
   },
   {
     "name": "LİSE ECZANESİ",
@@ -9700,7 +10670,8 @@ export const locations = [
     "address": "Çiftlik Mahallesi, Lise Cd. No:28",
     "contract": true,
     "latitude": 41.2819586,
-    "longitude": 36.3381475
+    "longitude": 36.3381475,
+    "iletisim": "03622317479"
   },
   {
     "name": "BAHAR ECZANESİ",
@@ -9710,7 +10681,8 @@ export const locations = [
     "address": "İstasyon Mahallesi, İstiklal Cd. No:161/5",
     "contract": true,
     "latitude": 41.2799899,
-    "longitude": 36.3427679
+    "longitude": 36.3427679,
+    "iletisim": "02124150510"
   },
   {
     "name": "ALVER ECZANESİ",
@@ -9720,7 +10692,8 @@ export const locations = [
     "address": "Sarıcalı Mahallesi, Meserret Sk. No:24",
     "contract": true,
     "latitude": 41.1999601,
-    "longitude": 36.7220945
+    "longitude": 36.7220945,
+    "iletisim": "03628333540"
   },
   {
     "name": "ÇEVRE ECZANESİ",
@@ -9730,7 +10703,8 @@ export const locations = [
     "address": "Çiftlik Mahallesi, 100. Yıl Blv. No:225/A",
     "contract": true,
     "latitude": 41.2809614,
-    "longitude": 36.3348108
+    "longitude": 36.3348108,
+    "iletisim": "03622336321"
   },
   {
     "name": "VATAN ECZANESİ",
@@ -9740,7 +10714,8 @@ export const locations = [
     "address": "Yeni Mahallesi, Kocaman Cd. No: 12",
     "contract": true,
     "latitude": 41.2067199,
-    "longitude": 36.9730911
+    "longitude": 36.9730911,
+    "iletisim": "03625321725"
   },
   {
     "name": "İSTİKLAL ECZANESİ",
@@ -9750,7 +10725,8 @@ export const locations = [
     "address": "Ulugazi Mahallesi, İstiklal Cd. No:22",
     "contract": true,
     "latitude": 41.2899395,
-    "longitude": 36.330854
+    "longitude": 36.330854,
+    "iletisim": "03624315543"
   },
   {
     "name": "BULVAR ECZANESİ",
@@ -9760,7 +10736,8 @@ export const locations = [
     "address": "HACINABİ MAH. ATATÜRK 6.BLV. DILFIRUZ APT. NO:24/G",
     "contract": true,
     "latitude": 41.5642571,
-    "longitude": 35.9017603
+    "longitude": 35.9017603,
+    "iletisim": "02323297727"
   },
   {
     "name": "VATAN ECZANESİ",
@@ -9770,7 +10747,8 @@ export const locations = [
     "address": "Fazıl Ahmet Paşa Mahallesi, Köprüler Cad. No:1",
     "contract": true,
     "latitude": 41.1436161,
-    "longitude": 35.4608578
+    "longitude": 35.4608578,
+    "iletisim": "03625321725"
   },
   {
     "name": "DİLEK ECZANESİ",
@@ -9780,7 +10758,8 @@ export const locations = [
     "address": "KALE MAH. KAPTANAĞA SOKAK UZUNOĞLU İŞ HANI NO:3",
     "contract": true,
     "latitude": 41.29202600000001,
-    "longitude": 36.3345413
+    "longitude": 36.3345413,
+    "iletisim": "02642212545"
   },
   {
     "name": "CUMHURİYET ECZANESİ",
@@ -9790,7 +10769,8 @@ export const locations = [
     "address": "Kale Mahallesi, Kaptanağa SOKAK No:1 D: 7",
     "contract": true,
     "latitude": 41.2902495,
-    "longitude": 36.3332341
+    "longitude": 36.3332341,
+    "iletisim": "02167472232"
   },
   {
     "name": "DERMAN ECZANESİ",
@@ -9800,7 +10780,8 @@ export const locations = [
     "address": "Orta Mh., Cemil Şensoy Cad. No:11/a",
     "contract": true,
     "latitude": 41.1966278,
-    "longitude": 36.7276118
+    "longitude": 36.7276118,
+    "iletisim": "02822625876"
   },
   {
     "name": "ANADOLU ECZANESİ",
@@ -9810,7 +10791,8 @@ export const locations = [
     "address": "Fenk Mahallesi, LİSE SOKAK No:29/A",
     "contract": true,
     "latitude": 41.2088752,
-    "longitude": 36.9675844
+    "longitude": 36.9675844,
+    "iletisim": "03246240054"
   },
   {
     "name": "MERKEZ ECZANESİ",
@@ -9820,7 +10802,8 @@ export const locations = [
     "address": "Çilhane Mahallesi, Alaçam Cd. No:12",
     "contract": true,
     "latitude": 41.5668636,
-    "longitude": 35.90158580000001
+    "longitude": 35.90158580000001,
+    "iletisim": "02642790801"
   },
   {
     "name": "HALE ECZANESİ",
@@ -9830,7 +10813,8 @@ export const locations = [
     "address": "Ulugazi Mah. Osmaniye Cad. no:33/G",
     "contract": true,
     "latitude": 41.2869518,
-    "longitude": 36.3330983
+    "longitude": 36.3330983,
+    "iletisim": "03624323895"
   },
   {
     "name": "HOCAOĞLU ECZANESİ",
@@ -9840,7 +10824,8 @@ export const locations = [
     "address": "ISTASYON MH ENGIN SK NO: 36/2",
     "contract": true,
     "latitude": 41.2822919,
-    "longitude": 36.3432337
+    "longitude": 36.3432337,
+    "iletisim": "03622312992"
   },
   {
     "name": "UMUT ECZANESİ",
@@ -9850,7 +10835,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. ALPARSLAN BLV. NO:22",
     "contract": true,
     "latitude": 41.3343733,
-    "longitude": 36.271464
+    "longitude": 36.271464,
+    "iletisim": "05431862302"
   },
   {
     "name": "ATAKUM PARK ECZANESİ",
@@ -9860,7 +10846,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. ALPASLAN BUL. NO:28/2",
     "contract": true,
     "latitude": 41.3337538,
-    "longitude": 36.2712833
+    "longitude": 36.2712833,
+    "iletisim": "03624375500"
   },
   {
     "name": "YENİ ECZANESİ",
@@ -9870,7 +10857,8 @@ export const locations = [
     "address": "MEHMETPAŞA MAH. ORG FARUK CÖMERT CAD. NO:11",
     "contract": true,
     "latitude": 41.1428982,
-    "longitude": 35.4571974
+    "longitude": 35.4571974,
+    "iletisim": "03626471164"
   },
   {
     "name": "ÜMİT ECZANESİ",
@@ -9880,7 +10868,8 @@ export const locations = [
     "address": "Kaleyazısı Mah. Sakarya Cad. no:85",
     "contract": true,
     "latitude": 42.0257121,
-    "longitude": 35.145422
+    "longitude": 35.145422,
+    "iletisim": "03883117498"
   },
   {
     "name": "DERMAN ECZANESİ",
@@ -9890,7 +10879,8 @@ export const locations = [
     "address": "Meydankapı Mah. Sakarya Cad. 33/B sinop",
     "contract": true,
     "latitude": 42.0260919,
-    "longitude": 35.1484732
+    "longitude": 35.1484732,
+    "iletisim": "02822625876"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -9900,7 +10890,8 @@ export const locations = [
     "address": "MEYDAN KAPI MAH. İNCE DAYI SOK. NO:6/A ALAADDİN CAMİ YANI",
     "contract": true,
     "latitude": 42.0265555,
-    "longitude": 35.1487281
+    "longitude": 35.1487281,
+    "iletisim": "02323813135"
   },
   {
     "name": "MERKEZ ECZANESİ",
@@ -9910,7 +10901,8 @@ export const locations = [
     "address": "CAMİLKEBİR MAHALLESİ SAKARYA CAD. GÜNDOĞDU PASAJI NO: 31/B",
     "contract": true,
     "latitude": 42.02797400000001,
-    "longitude": 35.151725
+    "longitude": 35.151725,
+    "iletisim": "02642790801"
   },
   {
     "name": "YASEMİN ECZANESİ",
@@ -9920,7 +10912,8 @@ export const locations = [
     "address": "GELINCIK MAH FATIH CAD NO 23/B",
     "contract": true,
     "latitude": 42.0235612,
-    "longitude": 35.1386675
+    "longitude": 35.1386675,
+    "iletisim": "03582184038"
   },
   {
     "name": "YAĞMUR ECZANESİ",
@@ -9930,7 +10923,8 @@ export const locations = [
     "address": "YENİ MAHALLE KEMALETTİN SAMİ PAŞA CADDESİ NO: 6/A",
     "contract": true,
     "latitude": 42.02797400000001,
-    "longitude": 35.151725
+    "longitude": 35.151725,
+    "iletisim": "04423275554"
   },
   {
     "name": "ELİF ECZANESİ",
@@ -9940,7 +10934,8 @@ export const locations = [
     "address": "ÇAMLICA MAHALLESİ DEMİRKOL CAD. NO 3/F",
     "contract": true,
     "latitude": 41.4631257,
-    "longitude": 34.7834815
+    "longitude": 34.7834815,
+    "iletisim": "02525137133"
   },
   {
     "name": "KARABULUT ECZANESİ",
@@ -9950,7 +10945,8 @@ export const locations = [
     "address": "MUHSİN YAZICIOĞLU MAHALLESİ HASTNE 1. SOKAK NO: 9/B",
     "contract": true,
     "latitude": 39.1912263,
-    "longitude": 36.0791659
+    "longitude": 36.0791659,
+    "iletisim": NaN
   },
   {
     "name": "ÖZDEN ECZANESİ",
@@ -9960,7 +10956,8 @@ export const locations = [
     "address": "ESKİKALE MAHALLESİ BANKALAR CADDESİ 1. PARK SOKAK NO: 3/B",
     "contract": true,
     "latitude": 37.969774,
-    "longitude": 34.676608
+    "longitude": 34.676608,
+    "iletisim": "03462239344"
   },
   {
     "name": "SELVİ ECZANESİ",
@@ -9970,7 +10967,8 @@ export const locations = [
     "address": "Bahçeli Mah. Şehit Pilot Mehmet Aras Cad. No:74/A",
     "contract": true,
     "latitude": 39.184872,
-    "longitude": 36.071732
+    "longitude": 36.071732,
+    "iletisim": "03466141877"
   },
   {
     "name": "ÖZDAL ECZANE OPTİK",
@@ -9980,7 +10978,8 @@ export const locations = [
     "address": "PINARÖNÜ MAHALLESİ CUMHURİYET CADDESİ NO: 54",
     "contract": true,
     "latitude": 39.3458728,
-    "longitude": 36.3951625
+    "longitude": 36.3951625,
+    "iletisim": "03465124509"
   },
   {
     "name": "SİBEL ECZANESİ",
@@ -9990,7 +10989,8 @@ export const locations = [
     "address": "GÖNÜLOĞLU MAHALLESİ Sivas Cad. No: 136 Suşehri",
     "contract": true,
     "latitude": 40.1627191,
-    "longitude": 38.0834963
+    "longitude": 38.0834963,
+    "iletisim": "02862184035"
   },
   {
     "name": "KANDEMİR ECZANESİ",
@@ -10000,7 +11000,8 @@ export const locations = [
     "address": "Pınarönü Mah. Cumhuriyet Cad No:22",
     "contract": true,
     "latitude": 39.34708,
-    "longitude": 36.400203
+    "longitude": 36.400203,
+    "iletisim": "03465121195"
   },
   {
     "name": "LOKMAN ECZANESİ",
@@ -10010,7 +11011,8 @@ export const locations = [
     "address": "Mercantepe Mah. Naci Demirağ Cad. no: 52/A",
     "contract": true,
     "latitude": 39.374885,
-    "longitude": 38.118521
+    "longitude": 38.118521,
+    "iletisim": "03464181385"
   },
   {
     "name": "HAKAN ECZANESİ",
@@ -10020,7 +11022,8 @@ export const locations = [
     "address": "Camii Kebir Cad.No:12",
     "contract": true,
     "latitude": 39.3723619,
-    "longitude": 38.1183987
+    "longitude": 38.1183987,
+    "iletisim": "05059183392"
   },
   {
     "name": "EMRE ECZANESİ",
@@ -10030,7 +11033,8 @@ export const locations = [
     "address": "İSTANBUL CAD. NO:23/C YENİÇUBUK",
     "contract": true,
     "latitude": 39.75568670000001,
-    "longitude": 36.99691869999999
+    "longitude": 36.99691869999999,
+    "iletisim": "03466548770"
   },
   {
     "name": "İLHAN ECZANESİ",
@@ -10040,7 +11044,8 @@ export const locations = [
     "address": "İnönü Mah. Pınar Blv. No: 41/C Ali İhsan Mandalı İş Mrk",
     "contract": true,
     "latitude": 41.32646949999999,
-    "longitude": 27.976147
+    "longitude": 27.976147,
+    "iletisim": "02827170710"
   },
   {
     "name": "BAYRAM ECZANESİ",
@@ -10050,7 +11055,8 @@ export const locations = [
     "address": "REŞADİYE MAHALLESİ SALİH OMURTAK CADDESİ NO: 34/C",
     "contract": true,
     "latitude": 41.1591365,
-    "longitude": 27.8038868
+    "longitude": 27.8038868,
+    "iletisim": "02322394939"
   },
   {
     "name": "ÇERKEZKÖY ECZANESİ",
@@ -10060,7 +11066,8 @@ export const locations = [
     "address": "G.O.P MAH. BARBAROS CAD. NO:8",
     "contract": true,
     "latitude": 41.2869717,
-    "longitude": 27.9977544
+    "longitude": 27.9977544,
+    "iletisim": "02827260077"
   },
   {
     "name": "DERMAN ECZANESİ",
@@ -10070,7 +11077,8 @@ export const locations = [
     "address": "Yavuz Mah. Hükümet Cad. No:123 Süleymanpaşa",
     "contract": true,
     "latitude": 40.9770273,
-    "longitude": 27.5086
+    "longitude": 27.5086,
+    "iletisim": "02822625876"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -10080,7 +11088,8 @@ export const locations = [
     "address": "Aydınevler Mah. Malkara Cad. Terazi Ceşme Sok. No: 72",
     "contract": true,
     "latitude": 41.21260789999999,
-    "longitude": 27.1056194
+    "longitude": 27.1056194,
+    "iletisim": "02744124152"
   },
   {
     "name": "TUNA ECZANESİ",
@@ -10090,7 +11099,8 @@ export const locations = [
     "address": "ALİPAŞA MAHALLESİ SALİH OMURTAK CADDESİ ORİON 2 ALIŞVERİŞ MERKEZİ NO: 13/Z5",
     "contract": true,
     "latitude": 41.1506252,
-    "longitude": 27.8324715
+    "longitude": 27.8324715,
+    "iletisim": "02126326254"
   },
   {
     "name": "EŞKİNAT ECZANESİ",
@@ -10100,7 +11110,8 @@ export const locations = [
     "address": "ÇİFTLİKÖNÜ MAHALLESİ KAZIM KARABEKİR CAD. NO:59-61/A",
     "contract": true,
     "latitude": 40.983044,
-    "longitude": 27.522428
+    "longitude": 27.522428,
+    "iletisim": "02822614715"
   },
   {
     "name": "YILMAZ ECZANESİ",
@@ -10110,7 +11121,8 @@ export const locations = [
     "address": "GAZİ OSMANPAŞA MH. GÜVENİŞ CD. NO:1/D",
     "contract": true,
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "iletisim": "02423129365"
   },
   {
     "name": "BELGİN ECZANESİ",
@@ -10120,7 +11132,8 @@ export const locations = [
     "address": "GAZİ OSMAN PAŞA MAH. FATİH CAD. AKBABA SOK NO:1",
     "contract": true,
     "latitude": 41.294282,
-    "longitude": 27.995704
+    "longitude": 27.995704,
+    "iletisim": "03423230035"
   },
   {
     "name": "HÜRRİYET ECZANESİ",
@@ -10130,7 +11143,8 @@ export const locations = [
     "address": "HÜRRİYET MAHALLESİ ŞEHİT ŞABAN ÖZTÜRK SOKAK NO: 9/B HÜRRİYET ECZANESİ",
     "contract": true,
     "latitude": 40.9826439,
-    "longitude": 27.5490165
+    "longitude": 27.5490165,
+    "iletisim": "02822638322"
   },
   {
     "name": "TREND ARENA ECZANESİ",
@@ -10140,7 +11154,8 @@ export const locations = [
     "address": "ALİPAŞA MAH.SALİH OMURTAK CD.NO.15/5",
     "contract": true,
     "latitude": 41.1522312,
-    "longitude": 27.8311552
+    "longitude": 27.8311552,
+    "iletisim": "02827274661"
   },
   {
     "name": "BURCU DURGUT ECZANESİ",
@@ -10150,7 +11165,8 @@ export const locations = [
     "address": "NAMIK KEMAL MAH PRF DR CEMİL CANGİR CAD.NO55/3D",
     "contract": true,
     "latitude": 40.9958809,
-    "longitude": 27.5815536
+    "longitude": 27.5815536,
+    "iletisim": "02822933355"
   },
   {
     "name": "SAYGI ECZANESİ",
@@ -10160,7 +11176,8 @@ export const locations = [
     "address": "ESENTEPE MAH. ESKİBAĞLAR CD. NO:8",
     "contract": true,
     "latitude": 41.1509885,
-    "longitude": 27.8486887
+    "longitude": 27.8486887,
+    "iletisim": "05300758859"
   },
   {
     "name": "ŞENBİL ECZANESİ",
@@ -10170,7 +11187,8 @@ export const locations = [
     "address": "Dutlupınar Mah. Cumhuriyet Cad. No: 26/F",
     "contract": true,
     "latitude": 40.3011855,
-    "longitude": 35.8838146
+    "longitude": 35.8838146,
+    "iletisim": "03563171763"
   },
   {
     "name": "KAZOVA ECZANESİ",
@@ -10180,7 +11198,8 @@ export const locations = [
     "address": "KABE-İ MESCİD MAHALLESİ GAZİ OSMAN PAŞA BULVARI NO: 172/A",
     "contract": true,
     "latitude": 40.31525269999999,
-    "longitude": 36.5512555
+    "longitude": 36.5512555,
+    "iletisim": "03562141073"
   },
   {
     "name": "BAKLACI ECZANESİ",
@@ -10190,7 +11209,8 @@ export const locations = [
     "address": "Celal Mahallesi, Cumhuriyet Cad. No:70/A",
     "contract": true,
     "latitude": 40.3880252,
-    "longitude": 36.0846761
+    "longitude": 36.0846761,
+    "iletisim": "03562751642"
   },
   {
     "name": "PAPATYA ECZANESİ",
@@ -10200,7 +11220,8 @@ export const locations = [
     "address": "Celal Mahallesi, Cumhuriyet Cad. No: 76/B",
     "contract": true,
     "latitude": 40.3879311,
-    "longitude": 36.0844334
+    "longitude": 36.0844334,
+    "iletisim": "02367131991"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -10210,7 +11231,8 @@ export const locations = [
     "address": "GOP MAH. ŞEHİT NAZİYE YILDIRIM CADDESİ NO:3",
     "contract": true,
     "latitude": 40.590159,
-    "longitude": 36.951185
+    "longitude": 36.951185,
+    "iletisim": "02323813135"
   },
   {
     "name": "ÇAĞRI ECZANESİ",
@@ -10220,7 +11242,8 @@ export const locations = [
     "address": "Alipaşa Mah. 208 Sok. No: 6/C",
     "contract": true,
     "latitude": 40.3122739,
-    "longitude": 36.5523844
+    "longitude": 36.5523844,
+    "iletisim": "02726128107"
   },
   {
     "name": "GÜNEŞ ECZANESİ",
@@ -10230,7 +11253,8 @@ export const locations = [
     "address": "CUMHURİYET MAHALLESİ CUMHURİYET CADDESİ NO: NO: 70/2",
     "contract": true,
     "latitude": 40.3854844,
-    "longitude": 36.0731937
+    "longitude": 36.0731937,
+    "iletisim": "02322275349"
   },
   {
     "name": "SEÇKİN ECZANESİ",
@@ -10240,7 +11264,8 @@ export const locations = [
     "address": "Cedit Mahallesi, İstasyon Cd. No:34",
     "contract": true,
     "latitude": 40.3001844,
-    "longitude": 35.8871516
+    "longitude": 35.8871516,
+    "iletisim": "03563181581"
   },
   {
     "name": "HEKİMOĞLU ECZANESİ",
@@ -10250,7 +11275,8 @@ export const locations = [
     "address": "ALTIYÜZEVLER MAHALLESİ VALİ AYHAN ÇEVİK CADDESİ 5. SOKAK NO: 2/A",
     "contract": true,
     "latitude": 40.3435857,
-    "longitude": 36.5401919
+    "longitude": 36.5401919,
+    "iletisim": "05556809828"
   },
   {
     "name": "DERMAN ECZANESİ",
@@ -10260,7 +11286,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. GAZİ BULVARI NO:156",
     "contract": true,
     "latitude": 40.6698748,
-    "longitude": 36.5702073
+    "longitude": 36.5702073,
+    "iletisim": "02822625876"
   },
   {
     "name": "ALPAT ECZANESİ",
@@ -10270,7 +11297,8 @@ export const locations = [
     "address": "Cumhuriyet Mahallesi Turgut Özal Caddesi Onur Sokak No: 25/2",
     "contract": true,
     "latitude": 40.3874137,
-    "longitude": 36.0674068
+    "longitude": 36.0674068,
+    "iletisim": "03562753949"
   },
   {
     "name": "ENİS ECZANESİ",
@@ -10280,7 +11308,8 @@ export const locations = [
     "address": "İnönü Mahallesi, İnönü Caddesi No:117/C",
     "contract": true,
     "latitude": 41.003857,
-    "longitude": 39.709082
+    "longitude": 39.709082,
+    "iletisim": "04622233998"
   },
   {
     "name": "ONGAN ECZANESİ",
@@ -10290,7 +11319,8 @@ export const locations = [
     "address": "Çarşı Mahallesi, Merkez, Kahramanmaraş Cd. No: 36/A",
     "contract": true,
     "latitude": 41.0063561,
-    "longitude": 39.72554969999999
+    "longitude": 39.72554969999999,
+    "iletisim": "04623222013"
   },
   {
     "name": "KUNDURACILAR ECZANESİ",
@@ -10300,7 +11330,8 @@ export const locations = [
     "address": "Kemerkaya Mah. Kunduracılar Cad. No: 48",
     "contract": true,
     "latitude": 41.0063577,
-    "longitude": 39.7290902
+    "longitude": 39.7290902,
+    "iletisim": "04623223431"
   },
   {
     "name": "GENÇER ECZANESİ",
@@ -10310,7 +11341,8 @@ export const locations = [
     "address": "Yaylacık Mahallesi, Düzköy Cad. No: 6/B",
     "contract": true,
     "latitude": 41.0149399,
-    "longitude": 39.5936978
+    "longitude": 39.5936978,
+    "iletisim": "04622271242"
   },
   {
     "name": "ZEYNEP ECZANESİ",
@@ -10320,7 +11352,8 @@ export const locations = [
     "address": "KEMALİYE MAH. gülbahar hatun cad. NO:178/A",
     "contract": true,
     "latitude": 41.0482843,
-    "longitude": 39.2785438
+    "longitude": 39.2785438,
+    "iletisim": "02645173022"
   },
   {
     "name": "ARDA ECZANESİ",
@@ -10330,7 +11363,8 @@ export const locations = [
     "address": "ÇUKURÇAYIR MAH NERGİS SOK NO 11",
     "contract": true,
     "latitude": 40.985778,
-    "longitude": 39.738661
+    "longitude": 39.738661,
+    "iletisim": "03222326155"
   },
   {
     "name": "ABİKOĞLU ECZANESİ",
@@ -10340,7 +11374,8 @@ export const locations = [
     "address": "Camikebir Mahallesi, Hürriyet Cad. No:32/a",
     "contract": true,
     "latitude": 37.75339260000001,
-    "longitude": 39.3196792
+    "longitude": 39.3196792,
+    "iletisim": "04145522093"
   },
   {
     "name": "GÖKHAN ECZANESİ",
@@ -10350,7 +11385,8 @@ export const locations = [
     "address": "Selahaddin Eyyubi Mah. Mehmet Akif Ersoy Cad. NO: 42/A",
     "contract": true,
     "latitude": 37.1689131,
-    "longitude": 38.7983161
+    "longitude": 38.7983161,
+    "iletisim": "02126742172"
   },
   {
     "name": "KAYA ECZANESİ",
@@ -10360,7 +11396,8 @@ export const locations = [
     "address": "Kale Mah. Ceylanpınar Cad. NO: 9",
     "contract": true,
     "latitude": 37.2269646,
-    "longitude": 39.7616474
+    "longitude": 39.7616474,
+    "iletisim": "02526925599"
   },
   {
     "name": "SERKAN ECZANESİ",
@@ -10370,7 +11407,8 @@ export const locations = [
     "address": "KURTULUS MAH.HAKKI YAGCI CAD.NO: 6/D",
     "contract": true,
     "latitude": 38.676162,
-    "longitude": 29.4053763
+    "longitude": 29.4053763,
+    "iletisim": "02762272720"
   },
   {
     "name": "ÖNDER ECZANESİ",
@@ -10380,7 +11418,8 @@ export const locations = [
     "address": "MEHMET AKİF ERSOY MAHALLESİ 1. TUNÇ SOKAK NO: 20/A",
     "contract": true,
     "latitude": 38.681127,
-    "longitude": 29.4145788
+    "longitude": 29.4145788,
+    "iletisim": "02462328404"
   },
   {
     "name": "KAPLAN ECZANESİ",
@@ -10390,7 +11429,8 @@ export const locations = [
     "address": "İRFAN BAŞTUĞ CADDESİ URARTU SOKAK NO:6/A",
     "contract": true,
     "latitude": 38.5028725,
-    "longitude": 43.3963058
+    "longitude": 43.3963058,
+    "iletisim": "04322157535"
   },
   {
     "name": "YALÇIN ECZANESİ",
@@ -10400,7 +11440,8 @@ export const locations = [
     "address": "HÜKÜMET CAD.YENİ MAH.NO:52",
     "contract": true,
     "latitude": 39.6393317,
-    "longitude": 34.4685525
+    "longitude": 34.4685525,
+    "iletisim": "02263524350"
   },
   {
     "name": "ERBİR ECZANESİ",
@@ -10410,7 +11451,8 @@ export const locations = [
     "address": "Bahçelievler Mah. Ptt Cad. NO:9/A",
     "contract": true,
     "latitude": 39.8118523,
-    "longitude": 35.1863481
+    "longitude": 35.1863481,
+    "iletisim": "03544140070"
   },
   {
     "name": "YÜKSEL ECZANESİ",
@@ -10420,7 +11462,8 @@ export const locations = [
     "address": "MİTHATPAŞA MAHALLESİ ZÜBEYDE HANIM CADDESİ NO: 11",
     "contract": true,
     "latitude": 41.45352099999999,
-    "longitude": 31.78938
+    "longitude": 31.78938,
+    "iletisim": "02128812242"
   },
   {
     "name": "CEMİL SART ECZANESİ",
@@ -10430,7 +11473,8 @@ export const locations = [
     "address": "MURTAZA MAH. HAMAM ÜSTÜ SOK. NO:19",
     "contract": true,
     "latitude": 41.2803377,
-    "longitude": 31.4217122
+    "longitude": 31.4217122,
+    "iletisim": "03723163477"
   },
   {
     "name": "KADAM ECZANESİ",
@@ -10440,7 +11484,8 @@ export const locations = [
     "address": "YENİ MAH.VEDAT ALİ ÖZKAN CAD NO 31/B",
     "contract": true,
     "latitude": 41.21511659999999,
-    "longitude": 31.9582868
+    "longitude": 31.9582868,
+    "iletisim": "03725560048"
   },
   {
     "name": "UMUT ECZANESİ",
@@ -10450,7 +11495,8 @@ export const locations = [
     "address": "YENİ MAHALLESİ VEDAT ALİ ÖZKAN CADDESİ NO: 20",
     "contract": true,
     "latitude": 41.2185327,
-    "longitude": 31.95535469999999
+    "longitude": 31.95535469999999,
+    "iletisim": "05431862302"
   },
   {
     "name": "BİLGE ECZANESİ",
@@ -10460,7 +11506,8 @@ export const locations = [
     "address": "TEPEBAŞI MAH.KAPUZ CAD. NO:58/B",
     "contract": true,
     "latitude": 41.46394799999999,
-    "longitude": 31.796996
+    "longitude": 31.796996,
+    "iletisim": "02164468206"
   },
   {
     "name": "KİLİMLİ ECZANESİ",
@@ -10470,7 +11517,8 @@ export const locations = [
     "address": "KİLİMLİ MERKEZ MH.BELEDİYE CD. NO:2-A",
     "contract": true,
     "latitude": 41.488171,
-    "longitude": 31.866962
+    "longitude": 31.866962,
+    "iletisim": "03722651142"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -10480,7 +11528,8 @@ export const locations = [
     "address": "MERKEZ MH. HÜKÜMET CD. NO:35/A",
     "contract": true,
     "latitude": 41.179385,
-    "longitude": 31.3876605
+    "longitude": 31.3876605,
+    "iletisim": "03247141116"
   },
   {
     "name": "ÇAĞRI ECZANESİ",
@@ -10490,7 +11539,8 @@ export const locations = [
     "address": "Çay Mah. Atatürk Cad. NO:81/F",
     "contract": true,
     "latitude": 41.428644,
-    "longitude": 32.077204
+    "longitude": 32.077204,
+    "iletisim": "02726128107"
   },
   {
     "name": "İLERİ ECZANESİ",
@@ -10500,7 +11550,8 @@ export const locations = [
     "address": "Minarecik Mah. 24 / Turizm Cad. NO:21",
     "contract": true,
     "latitude": 38.3711567,
-    "longitude": 34.0259288
+    "longitude": 34.0259288,
+    "iletisim": "03822133157"
   },
   {
     "name": "PEREK ECZANESİ",
@@ -10510,7 +11561,8 @@ export const locations = [
     "address": "MEYDAN MAHALLESİ 45/NECİP FAZIL KISAKÜREK CADDESİ GÜRŞELALE APARTMANI NO: 7/A",
     "contract": true,
     "latitude": 38.3744318,
-    "longitude": 34.0278996
+    "longitude": 34.0278996,
+    "iletisim": "03822131665"
   },
   {
     "name": "ARİF MEYDAN ECZANESİ",
@@ -10520,7 +11572,8 @@ export const locations = [
     "address": "HACI HASANLI MAH. GÜNDOĞDU CAD. ÖZAN APT. NO:8/A",
     "contract": true,
     "latitude": 38.3737937,
-    "longitude": 34.0300282
+    "longitude": 34.0300282,
+    "iletisim": "03822124542"
   },
   {
     "name": "ASLI SULTAN ECZANESİ",
@@ -10530,7 +11583,8 @@ export const locations = [
     "address": "TAŞPAZAR MAH. 838.SOK NO:7/2",
     "contract": true,
     "latitude": 38.3663408,
-    "longitude": 34.0190979
+    "longitude": 34.0190979,
+    "iletisim": "03822136688"
   },
   {
     "name": "DERMAN ECZANESİ",
@@ -10540,7 +11594,8 @@ export const locations = [
     "address": "TUZCUZADE MAHALLESİ VALİ NİHAT ÜÇYILDIZ CADDDESİ NO:48/A",
     "contract": true,
     "latitude": 40.255212,
-    "longitude": 40.22221
+    "longitude": 40.22221,
+    "iletisim": "02822625876"
   },
   {
     "name": "SEVGİ ECZANESİ",
@@ -10550,7 +11605,8 @@ export const locations = [
     "address": "tahsin ünal mahallesi GAZİPAŞA caddesi no: 95",
     "contract": true,
     "latitude": 37.1823664,
-    "longitude": 33.2155639
+    "longitude": 33.2155639,
+    "iletisim": "02825056404"
   },
   {
     "name": "KENT ECZANESİ",
@@ -10560,7 +11616,8 @@ export const locations = [
     "address": "GEVHER HATUN MAHALLESİ SAKARYA CADDESİ NO: 55",
     "contract": true,
     "latitude": 37.173479,
-    "longitude": 33.25257000000001
+    "longitude": 33.25257000000001,
+    "iletisim": "03122850232"
   },
   {
     "name": "ÜÇERLER ECZANESİ",
@@ -10570,7 +11627,8 @@ export const locations = [
     "address": "YENİDOĞAN MAHALLESİ ZAFER CADDESİ NO:4/B",
     "contract": true,
     "latitude": 39.8401559,
-    "longitude": 33.5055417
+    "longitude": 33.5055417,
+    "iletisim": NaN
   },
   {
     "name": "ÜMİT ECZANESİ",
@@ -10580,7 +11638,8 @@ export const locations = [
     "address": "Yenidoğan Mah. Barbaros Hayrettin Cad. no:24/A",
     "contract": true,
     "latitude": 39.8397835,
-    "longitude": 33.5088782
+    "longitude": 33.5088782,
+    "iletisim": "03883117498"
   },
   {
     "name": "BAŞKENT ECZANESİ",
@@ -10590,7 +11649,8 @@ export const locations = [
     "address": "YENİDOĞAN MAH. ZAFER CAD. no:12/D",
     "contract": true,
     "latitude": 39.8406964,
-    "longitude": 33.5057981
+    "longitude": 33.5057981,
+    "iletisim": "03124596221"
   },
   {
     "name": "DURU ECZANESİ",
@@ -10600,7 +11660,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. ATATÜRK BYOK@YOK.COMUL. NO:120",
     "contract": true,
     "latitude": 37.8895167,
-    "longitude": 41.1292832
+    "longitude": 41.1292832,
+    "iletisim": "03122306419"
   },
   {
     "name": "MURAT ECZANESİ",
@@ -10610,7 +11671,8 @@ export const locations = [
     "address": "DİCLE MAHALLESİ SANAYİ CADDESİ HASTANE SOKAK NO : 6",
     "contract": true,
     "latitude": 37.3293869,
-    "longitude": 42.190085
+    "longitude": 42.190085,
+    "iletisim": "04866168580"
   },
   {
     "name": "SİLOPİ ECZANESİ",
@@ -10620,7 +11682,8 @@ export const locations = [
     "address": "DİCLE MAH. İPEKYOLU CAD. NO 27/A",
     "contract": true,
     "latitude": 37.2461435,
-    "longitude": 42.4714618
+    "longitude": 42.4714618,
+    "iletisim": "04865184567"
   },
   {
     "name": "NERGİS ECZANESİ",
@@ -10630,7 +11693,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAH. NUJİN CAD. NO:32/A",
     "contract": true,
     "latitude": 37.4944487,
-    "longitude": 42.4874875
+    "longitude": 42.4874875,
+    "iletisim": "04862166943"
   },
   {
     "name": "AMASRA ECZANESI",
@@ -10640,7 +11704,8 @@ export const locations = [
     "address": "Kum Mahallesi, Hükümet Cad. No:14",
     "contract": true,
     "latitude": 41.7470209,
-    "longitude": 32.385537
+    "longitude": 32.385537,
+    "iletisim": "03783151080"
   },
   {
     "name": "MÜGE ECZANESİ",
@@ -10650,7 +11715,8 @@ export const locations = [
     "address": ": Kemer Köprü Mahallesi, 155. Cd. No:26",
     "contract": true,
     "latitude": 41.629338,
-    "longitude": 32.3373089
+    "longitude": 32.3373089,
+    "iletisim": "03782278628"
   },
   {
     "name": "ALTIN ECZANESİ",
@@ -10660,7 +11726,8 @@ export const locations = [
     "address": "KIRTEPE MAHALLESİ HÜKÜMET CADDESİ HACI MEHMET CAMİİ SOKAK NO: 43",
     "contract": true,
     "latitude": 41.6328804,
-    "longitude": 32.3373995
+    "longitude": 32.3373995,
+    "iletisim": "03782271734"
   },
   {
     "name": "EGEMEN ECZANESİ",
@@ -10670,7 +11737,8 @@ export const locations = [
     "address": "KUM MAH. CUMHURİYET CAD. KUMSAL APT. NO:42/A",
     "contract": true,
     "latitude": 41.7470209,
-    "longitude": 32.385537
+    "longitude": 32.385537,
+    "iletisim": "03783152323"
   },
   {
     "name": "ÜNAL ECZANESİ",
@@ -10680,7 +11748,8 @@ export const locations = [
     "address": "Kemer Köprü Mahallesi, şadırvan Cd. NO:42/A",
     "contract": true,
     "latitude": 41.6311813,
-    "longitude": 32.3375966
+    "longitude": 32.3375966,
+    "iletisim": "03782285814"
   },
   {
     "name": "MERKEZ ECZANESİ",
@@ -10690,7 +11759,8 @@ export const locations = [
     "address": "Kaptanpaşa Mah. Kongre Cad. No:76/2",
     "contract": true,
     "latitude": 41.1079019,
-    "longitude": 42.7047612
+    "longitude": 42.7047612,
+    "iletisim": "02642790801"
   },
   {
     "name": "DÖRTYOL ECZANESİ",
@@ -10700,7 +11770,8 @@ export const locations = [
     "address": "Karaağaç Mahallesi, Kazım Karabekir Cad. No:4",
     "contract": true,
     "latitude": 39.9097622,
-    "longitude": 44.0567903
+    "longitude": 44.0567903,
+    "iletisim": "04762277218"
   },
   {
     "name": "BAYRAK ECZANESİ",
@@ -10710,7 +11781,8 @@ export const locations = [
     "address": "Süleyman Bey Mahallesi, Cengiz Koçal Cd No:12",
     "contract": true,
     "latitude": 40.6585891,
-    "longitude": 29.2799255
+    "longitude": 29.2799255,
+    "iletisim": "02268149803"
   },
   {
     "name": "EBRU ECZANESİ",
@@ -10720,7 +11792,8 @@ export const locations = [
     "address": "Rüstem Paşa Mahallesi, Fatih Cad. No:6/1",
     "contract": true,
     "latitude": 40.6566726,
-    "longitude": 29.2702474
+    "longitude": 29.2702474,
+    "iletisim": "03544142010"
   },
   {
     "name": "DEVA ECZANESİ",
@@ -10730,7 +11803,8 @@ export const locations = [
     "address": "Rüstem Paşa Mahallesi, Cumhuriyet Cd. No:60",
     "contract": true,
     "latitude": 40.6555799,
-    "longitude": 29.2706861
+    "longitude": 29.2706861,
+    "iletisim": "04462233323"
   },
   {
     "name": "ÇAĞLAYAN ECZANESİ",
@@ -10740,7 +11814,8 @@ export const locations = [
     "address": "Bayır Mahallesi, Kemal Güneş Cd. No:119",
     "contract": true,
     "latitude": 41.196347,
-    "longitude": 32.6160771
+    "longitude": 32.6160771,
+    "iletisim": "03222620095"
   },
   {
     "name": "KAYA ECZANESİ",
@@ -10750,7 +11825,8 @@ export const locations = [
     "address": "Atatürk Mah. Yeryetmez Sk. No:23",
     "contract": true,
     "latitude": 41.249306,
-    "longitude": 32.683128
+    "longitude": 32.683128,
+    "iletisim": "02526925599"
   },
   {
     "name": "MUHTAROĞLU ECZANESİ",
@@ -10760,7 +11836,8 @@ export const locations = [
     "address": "Hürriyet Mahallesi, Abdullah Gül Bulv. NO:6/A",
     "contract": true,
     "latitude": 36.7771305,
-    "longitude": 37.0829593
+    "longitude": 37.0829593,
+    "iletisim": "03488132232"
   },
   {
     "name": "TUTOĞLU ECZANESİ",
@@ -10770,7 +11847,8 @@ export const locations = [
     "address": "KARAALİ MAHALLESİ TÜRBEDAR SOKAK NO: 4",
     "contract": true,
     "latitude": 36.7188299,
-    "longitude": 37.1171629
+    "longitude": 37.1171629,
+    "iletisim": "03488132081"
   },
   {
     "name": "ÇUKUROVA ECZANESİ",
@@ -10780,7 +11858,8 @@ export const locations = [
     "address": "Ataturk cad. İstiklal Mh. No:251",
     "contract": true,
     "latitude": 37.0742769,
-    "longitude": 36.2556747
+    "longitude": 36.2556747,
+    "iletisim": "03288141617"
   },
   {
     "name": "GEBENLİLER ECZANESİ",
@@ -10790,7 +11869,8 @@ export const locations = [
     "address": "Pazar Mah. Atatürk Cad. NO:149",
     "contract": true,
     "latitude": 37.37239,
-    "longitude": 36.0975889
+    "longitude": 36.0975889,
+    "iletisim": "03287182008"
   },
   {
     "name": "BAL ECZANESI",
@@ -10800,7 +11880,8 @@ export const locations = [
     "address": "PAZAR MAHALLESİ OSMAN NURİ SAYGILI CADDESİ NO: 157",
     "contract": true,
     "latitude": 37.3738131,
-    "longitude": 36.0966762
+    "longitude": 36.0966762,
+    "iletisim": "03287180040"
   },
   {
     "name": "VAHAPOĞLU ECZANESİ",
@@ -10810,7 +11891,8 @@ export const locations = [
     "address": "Tufan Paşa Mahallesi Turgut Özal CADDESİ NO: 55-A",
     "contract": true,
     "latitude": 37.3723035,
-    "longitude": 36.0985149
+    "longitude": 36.0985149,
+    "iletisim": NaN
   },
   {
     "name": "CUMHURİYET ECZANESİ",
@@ -10820,7 +11902,8 @@ export const locations = [
     "address": "KÜLTÜR MAHALLESİ İSTANBUL CADDESİ NO:90/D",
     "contract": true,
     "latitude": 40.8396544,
-    "longitude": 31.1595018
+    "longitude": 31.1595018,
+    "iletisim": "02167472232"
   },
   {
     "name": "NİMET ECZANESİ",
@@ -10830,7 +11913,8 @@ export const locations = [
     "address": "YALI MAH. İSTANBUL CAD. SARIKAYA PSJ N.16/B AKÇAKOCA",
     "contract": true,
     "latitude": 41.088309,
-    "longitude": 31.1223341
+    "longitude": 31.1223341,
+    "iletisim": "03805236505"
   },
   {
     "name": "KENT ECZANESİ",
@@ -10840,7 +11924,8 @@ export const locations = [
     "address": "AZİZİYE MAHALLESİ İSTANBUL CADDESİ NO:159-A",
     "contract": true,
     "latitude": 40.8403263,
-    "longitude": 31.1380367
+    "longitude": 31.1380367,
+    "iletisim": "03122850232"
   },
   {
     "name": "BARAJYOLU ECZANESİ",
@@ -10850,7 +11935,8 @@ export const locations = [
     "address": "Yenibaraj Mahallesi Şehit Yüzbaşı Bülent Angın Bulvarı 72/F",
     "contract": true,
     "latitude": 37.0227639,
-    "longitude": 35.3152217
+    "longitude": 35.3152217,
+    "iletisim": "03222270227"
   },
   {
     "name": "DİNÇEL ECZANESİ",
@@ -10860,7 +11946,8 @@ export const locations = [
     "address": "CUMHURİYET. MAH. ETİ CAD. NO:15 POLATLI/ ANKARA",
     "contract": true,
     "latitude": 39.5838865,
-    "longitude": 32.1447916
+    "longitude": 32.1447916,
+    "iletisim": "03126230068"
   },
   {
     "name": "DAĞDELEN ECZANESİ",
@@ -10870,7 +11957,8 @@ export const locations = [
     "address": "KURTULUŞ MAH. ŞHT. E. ERDOĞAN CD. NO:16/A",
     "contract": true,
     "latitude": 36.49673000000001,
-    "longitude": 36.360703
+    "longitude": 36.360703,
+    "iletisim": "03263454545"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -10880,7 +11968,8 @@ export const locations = [
     "address": "4 Eylül Mahallesi, Tabduk Emre Cad. no:21/A",
     "contract": true,
     "latitude": 38.54396,
-    "longitude": 28.6406534
+    "longitude": 28.6406534,
+    "iletisim": "02744124152"
   },
   {
     "name": "AKAY BESTEKAR ECZANESİ",
@@ -10890,7 +11979,8 @@ export const locations = [
     "address": "KAVAKLIDERE MAH. ESAT CAD. NO:14/C BAKANLIKLAR",
     "contract": true,
     "latitude": 39.912477,
-    "longitude": 32.856712
+    "longitude": 32.856712,
+    "iletisim": "03124198152"
   },
   {
     "name": "KÖKER ECZANESİ",
@@ -10900,7 +11990,8 @@ export const locations = [
     "address": "Atçeken Mah. Hastane Cad. no:54/C",
     "contract": true,
     "latitude": 38.6652023,
-    "longitude": 32.9215941
+    "longitude": 32.9215941,
+    "iletisim": "03326731121"
   },
   {
     "name": "GİZEM UYGUN ECZANESİ",
@@ -10910,7 +12001,8 @@ export const locations = [
     "address": "FUAT MOREL MAH. VALİ HÜSEYİN AKSOY CAD. NO:47/D",
     "contract": true,
     "latitude": 36.8131124,
-    "longitude": 34.5798807
+    "longitude": 34.5798807,
+    "iletisim": "03243264293"
   },
   {
     "name": "ERKAN ECZANESİ",
@@ -10920,7 +12012,8 @@ export const locations = [
     "address": "YUNUS EMRE MAHALLESİ ŞİFA CADDESİ NO:12/A",
     "contract": true,
     "latitude": 37.7684526,
-    "longitude": 38.3209002
+    "longitude": 38.3209002,
+    "iletisim": "04162143050"
   },
   {
     "name": "MERVE ECZANESİ",
@@ -10930,7 +12023,8 @@ export const locations = [
     "address": "Muratpaşa Mahallesi, Burhanettin Onat Caddesi no:30 A/B",
     "contract": true,
     "latitude": 36.885861,
-    "longitude": 30.718961
+    "longitude": 30.718961,
+    "iletisim": "03445029970"
   },
   {
     "name": "SEFA ECZANESİ",
@@ -10940,7 +12034,8 @@ export const locations = [
     "address": "goncalar mahallesi ali alp böke caddesi no 160 nergiz çarsı eczanesi",
     "contract": true,
     "latitude": 38.4674293,
-    "longitude": 27.1080272
+    "longitude": 27.1080272,
+    "iletisim": "02329992824"
   },
   {
     "name": "EMİN ECZANESİ",
@@ -10950,7 +12045,8 @@ export const locations = [
     "address": "GAZİBEYLİ MAH. ŞEHİT OSMAN KIRIK CAD. NO:5",
     "contract": true,
     "latitude": 38.0985105,
-    "longitude": 35.3582942
+    "longitude": 35.3582942,
+    "iletisim": "02123439637"
   },
   {
     "name": "BARAN ECZANESİ",
@@ -10960,7 +12056,8 @@ export const locations = [
     "address": "FAZILAHMET PAŞA MAH. ATATÜRK İŞ MERKEZİ no:8",
     "contract": true,
     "latitude": 41.1419083,
-    "longitude": 35.4591372
+    "longitude": 35.4591372,
+    "iletisim": "03626462434"
   },
   {
     "name": "MURATHAN ECZANESİ",
@@ -10970,7 +12067,8 @@ export const locations = [
     "address": "Gazi Mah. Önder Cad. NO:9/G",
     "contract": true,
     "latitude": 38.3216822,
-    "longitude": 27.1274698
+    "longitude": 27.1274698,
+    "iletisim": "02322510026"
   },
   {
     "name": "NANE LİMON ECZANESİ",
@@ -10980,7 +12078,8 @@ export const locations = [
     "address": "Yeni Mahallesi, Ali İnandık Cd. no:23A",
     "contract": true,
     "latitude": 40.5976446,
-    "longitude": 33.6092437
+    "longitude": 33.6092437,
+    "iletisim": "02422286665"
   },
   {
     "name": "SÜRMELİ ECZANESİ",
@@ -10990,7 +12089,8 @@ export const locations = [
     "address": "ODABAŞI MAH. UĞUR MUMCU BULVARI NO:100/D",
     "contract": true,
     "latitude": 36.2371396,
-    "longitude": 36.1599713
+    "longitude": 36.1599713,
+    "iletisim": "03265021012"
   },
   {
     "name": "ATAŞEHİR METROPOL ECZANESİ",
@@ -11000,7 +12100,8 @@ export const locations = [
     "address": "Ataşehir Atatürk Mah. Ataşehir Blv. NO:14/C",
     "contract": true,
     "latitude": 40.9927753,
-    "longitude": 29.1243693
+    "longitude": 29.1243693,
+    "iletisim": "02165175115"
   },
   {
     "name": "BAYRAM ECZANESİ",
@@ -11010,7 +12111,8 @@ export const locations = [
     "address": "Çamtepe Mah. Mithat Paşa Cad. NO:241/A",
     "contract": true,
     "latitude": 38.3940847,
-    "longitude": 27.0105047
+    "longitude": 27.0105047,
+    "iletisim": "02322394939"
   },
   {
     "name": "DERMAN ECZANESİ",
@@ -11020,7 +12122,8 @@ export const locations = [
     "address": "İnönü Mah. Tolga Cad. Turgut Reis Sok. NO:26",
     "contract": true,
     "latitude": 41.0246272,
-    "longitude": 28.8005372
+    "longitude": 28.8005372,
+    "iletisim": "02822625876"
   },
   {
     "name": "BUKET ECZANESİ",
@@ -11030,7 +12133,8 @@ export const locations = [
     "address": "KIZILIRMAK MAH. 1443 cadde 1450. SK. NO:9/C ÇUKURAMBAR",
     "contract": true,
     "latitude": 39.9013398,
-    "longitude": 32.8122402
+    "longitude": 32.8122402,
+    "iletisim": "03462270606"
   },
   {
     "name": "ELİF ECZANESİ",
@@ -11040,7 +12144,8 @@ export const locations = [
     "address": "19 Mayıs Mah. Mehpare Sok. NO:18",
     "contract": true,
     "latitude": 40.9783555,
-    "longitude": 29.0893124
+    "longitude": 29.0893124,
+    "iletisim": "02525137133"
   },
   {
     "name": "MERİÇ ECZANESİ",
@@ -11050,7 +12155,8 @@ export const locations = [
     "address": "EMRAH MAH. GN. DR. TEVFİK SAĞLAM CD. NO:70/19",
     "contract": true,
     "latitude": 39.972641,
-    "longitude": 32.8426624
+    "longitude": 32.8426624,
+    "iletisim": "02822610760"
   },
   {
     "name": "AİLE ECZANESİ",
@@ -11060,7 +12166,8 @@ export const locations = [
     "address": "Soğuksu Mahallesi, Toroslar Cd. no:26/A",
     "contract": true,
     "latitude": 36.8967037,
-    "longitude": 30.6774293
+    "longitude": 30.6774293,
+    "iletisim": "05388681684"
   },
   {
     "name": "NİHAL ECZANESİ",
@@ -11070,7 +12177,8 @@ export const locations = [
     "address": "Feyzullah Mah. Bağdat Cad. no:324/C",
     "contract": true,
     "latitude": 40.9279202,
-    "longitude": 29.1292597
+    "longitude": 29.1292597,
+    "iletisim": "03124415838"
   },
   {
     "name": "ŞİMŞEK ECZANESİ",
@@ -11080,7 +12188,8 @@ export const locations = [
     "address": "GÜVENEVLER MH. 1908 SK. NO:6/C",
     "contract": true,
     "latitude": 36.7832007,
-    "longitude": 34.5921987
+    "longitude": 34.5921987,
+    "iletisim": "03267124343"
   },
   {
     "name": "FEVZİÇAKMAK ECZANESİ",
@@ -11090,7 +12199,8 @@ export const locations = [
     "address": "Mimarsinan Mah. Billur Cad. NO:73/B",
     "contract": true,
     "latitude": 38.733659,
-    "longitude": 35.510352
+    "longitude": 35.510352,
+    "iletisim": "03522356992"
   },
   {
     "name": "ÖZKAYA ECZANESİ",
@@ -11100,7 +12210,8 @@ export const locations = [
     "address": "BULGURLU MAH. AŞAĞI BULGURLU CAD. KISACIK SOK. NO:6/A",
     "contract": true,
     "latitude": 41.0185401,
-    "longitude": 29.0806861
+    "longitude": 29.0806861,
+    "iletisim": "02163160473"
   },
   {
     "name": "TROYA ECZANESİ",
@@ -11110,7 +12221,8 @@ export const locations = [
     "address": "CEVATPAŞA MAH.MEHMET AKİF ERSOY CAD.GÜRÜN APT.24/a",
     "contract": true,
     "latitude": 40.14671999999999,
-    "longitude": 26.408587
+    "longitude": 26.408587,
+    "iletisim": "02862137213"
   },
   {
     "name": "ORGANİK ECZANESİ",
@@ -11120,7 +12232,8 @@ export const locations = [
     "address": "Zafer Mah. Ortaç Sok. NO:13/A",
     "contract": true,
     "latitude": 38.231887,
-    "longitude": 27.987408
+    "longitude": 27.987408,
+    "iletisim": "02662230323"
   },
   {
     "name": "ÇARŞI ECZANESİ",
@@ -11130,7 +12243,8 @@ export const locations = [
     "address": "Kordonboyu Mah. Ankara Cad. no:56",
     "contract": true,
     "latitude": 40.8886385,
-    "longitude": 29.1880212
+    "longitude": 29.1880212,
+    "iletisim": "02163061077"
   },
   {
     "name": "YEŞİM ECZANESİ",
@@ -11140,7 +12254,8 @@ export const locations = [
     "address": "Bostanlı Mah. 1813/4. Sok. NO:2/B",
     "contract": true,
     "latitude": 38.4620508,
-    "longitude": 27.0972837
+    "longitude": 27.0972837,
+    "iletisim": "02329668010"
   },
   {
     "name": "MERMİT ECZANESİ",
@@ -11150,7 +12265,8 @@ export const locations = [
     "address": "Bahçıvan Mah. Kazım Karabekir Blv. NO:4",
     "contract": true,
     "latitude": 38.4988397,
-    "longitude": 43.3937095
+    "longitude": 43.3937095,
+    "iletisim": "04322149766"
   },
   {
     "name": "KIŞLA BAKAN ECZANESİ",
@@ -11160,7 +12276,8 @@ export const locations = [
     "address": "B. Hüseyinbey, Atatürk Cd. no41/B",
     "contract": true,
     "latitude": 38.3499075,
-    "longitude": 38.3234746
+    "longitude": 38.3234746,
+    "iletisim": "04223227648"
   },
   {
     "name": "PETEK ECZANESİ",
@@ -11170,7 +12287,8 @@ export const locations = [
     "address": "Güzeller Mah. Kavak Cad. no:3/A",
     "contract": true,
     "latitude": 40.8058821,
-    "longitude": 29.4407841
+    "longitude": 29.4407841,
+    "iletisim": "02626422310"
   },
   {
     "name": "GAYE ECZANESİ",
@@ -11180,7 +12298,8 @@ export const locations = [
     "address": "GAZİOSMANPAŞA MAH. ÇELEN SK. NO:5/A",
     "contract": true,
     "latitude": 41.2863141,
-    "longitude": 27.9967188
+    "longitude": 27.9967188,
+    "iletisim": "02827251060"
   },
   {
     "name": "ÖYKÜ ECZANESİ",
@@ -11190,7 +12309,8 @@ export const locations = [
     "address": "Mansuroğlu Mah. 273/1. Sok. no:2/B",
     "contract": true,
     "latitude": 38.4544334,
-    "longitude": 27.1895682
+    "longitude": 27.1895682,
+    "iletisim": "03124252626"
   },
   {
     "name": "TABİAT ECZANESİ",
@@ -11200,7 +12320,8 @@ export const locations = [
     "address": "ÇAĞLAYAN MAH. BARINAKLAR BULV. NO:13/A",
     "contract": true,
     "latitude": 36.8518613,
-    "longitude": 30.7638818
+    "longitude": 30.7638818,
+    "iletisim": "02423239490"
   },
   {
     "name": "PINAR ECZANESİ",
@@ -11210,7 +12331,8 @@ export const locations = [
     "address": "Merkez Mah. Sadabat Cad. no:11/B Dk:1",
     "contract": true,
     "latitude": 41.0827427,
-    "longitude": 28.9759673
+    "longitude": 28.9759673,
+    "iletisim": "05549159175"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -11220,7 +12342,8 @@ export const locations = [
     "address": "Gebizli Mah. 1115. Sk. No:4/C",
     "contract": true,
     "latitude": 36.8992043,
-    "longitude": 30.7238703
+    "longitude": 30.7238703,
+    "iletisim": "02744124152"
   },
   {
     "name": "CANPARK ECZANESİ",
@@ -11230,7 +12353,8 @@ export const locations = [
     "address": "Yamanevler Mah. Alemdağ Cad. NO:169 Canpark AVM",
     "contract": true,
     "latitude": 41.0250387,
-    "longitude": 29.1066022
+    "longitude": 29.1066022,
+    "iletisim": "02165104248"
   },
   {
     "name": "POZİTİF ECZANESİ",
@@ -11240,7 +12364,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. NAZIM HİKMET BULVARI NO:89/B",
     "contract": true,
     "latitude": 41.0172476,
-    "longitude": 28.6465206
+    "longitude": 28.6465206,
+    "iletisim": "02167596650"
   },
   {
     "name": "SEDA ŞAHİN ECZANESİ",
@@ -11250,7 +12375,8 @@ export const locations = [
     "address": "ATATÜRK MAH. AKTER SK. NO:9/C",
     "contract": true,
     "latitude": 41.2517863,
-    "longitude": 32.6840493
+    "longitude": 32.6840493,
+    "iletisim": "03707122266"
   },
   {
     "name": "SUDE ECZANESİ",
@@ -11260,7 +12386,8 @@ export const locations = [
     "address": "Uğur Mumcu Mah. N Cad. No:47-49/M Sima İstanbul Sit.",
     "contract": true,
     "latitude": 41.1003315,
-    "longitude": 28.8682
+    "longitude": 28.8682,
+    "iletisim": "05426761064"
   },
   {
     "name": "SEVGİ ECZANESİ",
@@ -11270,7 +12397,8 @@ export const locations = [
     "address": "ZEYTİNLİK MAH. FİŞEKHANE CAD. NO:30/A",
     "contract": true,
     "latitude": 40.9783039,
-    "longitude": 28.8721762
+    "longitude": 28.8721762,
+    "iletisim": "02825056404"
   },
   {
     "name": "GÜLHAN ECZANESİ",
@@ -11280,7 +12408,8 @@ export const locations = [
     "address": "Fethiye Mahallesi, Feyiz Sk. No:1",
     "contract": true,
     "latitude": 40.2322115,
-    "longitude": 28.9791907
+    "longitude": 28.9791907,
+    "iletisim": "02242420535"
   },
   {
     "name": "SELDA ECZANESİ",
@@ -11290,7 +12419,8 @@ export const locations = [
     "address": "ESKİSARAY MAH. 703 SK. NO:2/B",
     "contract": true,
     "latitude": 37.7615825,
-    "longitude": 38.2714149
+    "longitude": 38.2714149,
+    "iletisim": "05059136261"
   },
   {
     "name": "PINAR ECZANESİ",
@@ -11300,7 +12430,8 @@ export const locations = [
     "address": "Çaybaşı Mh. Burhanettin Onat Cd, No:20/B",
     "contract": true,
     "latitude": 36.8870839,
-    "longitude": 30.7195697
+    "longitude": 30.7195697,
+    "iletisim": "05549159175"
   },
   {
     "name": "ŞAHİKA ECZANESİ",
@@ -11310,7 +12441,8 @@ export const locations = [
     "address": "Acıbadem Mah. Acıbadem Cad. no:125 Dk:1",
     "contract": true,
     "latitude": 41.0072744,
-    "longitude": 29.0475229
+    "longitude": 29.0475229,
+    "iletisim": "02163392546"
   },
   {
     "name": "GONCA ECZANESİ",
@@ -11320,7 +12452,8 @@ export const locations = [
     "address": "Atakent Mah. Reşit Paşa Cad. no:73/D",
     "contract": true,
     "latitude": 41.01489309999999,
-    "longitude": 29.1036284
+    "longitude": 29.1036284,
+    "iletisim": "02164615171"
   },
   {
     "name": "ERASLAN ECZANESİ",
@@ -11330,7 +12463,8 @@ export const locations = [
     "address": "Bostanlı Mah. Cengiz Topel Cad. no:48/c",
     "contract": true,
     "latitude": 38.461991,
-    "longitude": 27.088725
+    "longitude": 27.088725,
+    "iletisim": "02323620068"
   },
   {
     "name": "SEVİLAY ECZANESİ",
@@ -11340,7 +12474,8 @@ export const locations = [
     "address": "BALGAT MAH. MEVLANA BLV. NO:139 B BLOK/89 MEMORİAL HASTANESİ YANI",
     "contract": true,
     "latitude": 39.9039843,
-    "longitude": 32.8149106
+    "longitude": 32.8149106,
+    "iletisim": "03122854864"
   },
   {
     "name": "ÖNAL ECZANESİ",
@@ -11350,7 +12485,8 @@ export const locations = [
     "address": "Zafer Mahallesi, Atatürk Cd. No:18",
     "contract": true,
     "latitude": 40.2168438,
-    "longitude": 29.19313229999999
+    "longitude": 29.19313229999999,
+    "iletisim": "02243716868"
   },
   {
     "name": "AŞKALE ECZANESİ",
@@ -11360,7 +12496,8 @@ export const locations = [
     "address": "EMEK MAH. ERZİNCAN CD. NO:4/702",
     "contract": true,
     "latitude": 39.920188,
-    "longitude": 40.694704
+    "longitude": 40.694704,
+    "iletisim": "04424151721"
   },
   {
     "name": "SEZGİ ECZANESİ",
@@ -11370,7 +12507,8 @@ export const locations = [
     "address": "ALTINŞEHİR MAH. UĞUR MUMCU BLV TAŞYAKAN SİTESİ NO: 76 A-D",
     "contract": true,
     "latitude": 40.2211814,
-    "longitude": 28.9152819
+    "longitude": 28.9152819,
+    "iletisim": "02244135075"
   },
   {
     "name": "ÖZEK ECZANESİ",
@@ -11380,7 +12518,8 @@ export const locations = [
     "address": "BEYTEPE MAHALLESİ 5387. CADDE NO: 15 / B İÇ KAPI NO: 6",
     "contract": true,
     "latitude": 39.8627402,
-    "longitude": 32.7115842
+    "longitude": 32.7115842,
+    "iletisim": "03123682030"
   },
   {
     "name": "BAHÇELİEVLER ECZANESİ",
@@ -11390,7 +12529,8 @@ export const locations = [
     "address": "Bahçelievler Mah. İstiklal Cad. NO:194",
     "contract": true,
     "latitude": 41.2779666,
-    "longitude": 36.3413042
+    "longitude": 36.3413042,
+    "iletisim": "04882126065"
   },
   {
     "name": "YENİ KARTAL ECZANESİ",
@@ -11400,7 +12540,8 @@ export const locations = [
     "address": "Alipaşa Mah.Maraş Cad.Semaver Kavşağı Carrefour Yanı No:9/1",
     "contract": true,
     "latitude": 37.5752755,
-    "longitude": 36.9228223
+    "longitude": 36.9228223,
+    "iletisim": "04322273355"
   },
   {
     "name": "ELBİSTAN ECZANESİ",
@@ -11410,7 +12551,8 @@ export const locations = [
     "address": "Esentepe mah., Darende Cd. No:2",
     "contract": true,
     "latitude": 38.2106181,
-    "longitude": 37.1810485
+    "longitude": 37.1810485,
+    "iletisim": "03444133033"
   },
   {
     "name": "SAMANLIOĞLU ECZANESİ",
@@ -11420,7 +12562,8 @@ export const locations = [
     "address": "Güneşli Mah. 507 Sok. no:2/A",
     "contract": true,
     "latitude": 38.4014438,
-    "longitude": 27.1270761
+    "longitude": 27.1270761,
+    "iletisim": "02324531545"
   },
   {
     "name": "BÜYÜK ECZANE",
@@ -11430,7 +12573,8 @@ export const locations = [
     "address": "ATATÜRK MAH. ALEMDAĞ CD. NO:8/D",
     "contract": true,
     "latitude": 41.0244893,
-    "longitude": 29.084643
+    "longitude": 29.084643,
+    "iletisim": "05336569880"
   },
   {
     "name": "LİVA ECZANESİ",
@@ -11440,7 +12584,8 @@ export const locations = [
     "address": "Hançerli Mahallesi, Dervişzade Sokak No: 6/16",
     "contract": true,
     "latitude": 41.29991709999999,
-    "longitude": 36.3329856
+    "longitude": 36.3329856,
+    "iletisim": "03424088818"
   },
   {
     "name": "ONUR ECZANESİ",
@@ -11450,7 +12595,8 @@ export const locations = [
     "address": "Akbük Mahallesi, 1001. Cd. NO:25C D:3",
     "contract": true,
     "latitude": 37.3912586,
-    "longitude": 27.4331085
+    "longitude": 27.4331085,
+    "iletisim": "03266184045"
   },
   {
     "name": "UĞUR ECZANESİ",
@@ -11460,7 +12606,8 @@ export const locations = [
     "address": "Konak Mahallesi, Cumhuriyet Cd. No:21",
     "contract": true,
     "latitude": 37.7521872,
-    "longitude": 27.4054956
+    "longitude": 27.4054956,
+    "iletisim": "03122307595"
   },
   {
     "name": "MELTEM ECZANESİ",
@@ -11470,7 +12617,8 @@ export const locations = [
     "address": "MOĞULTAY MH. NUPELDA AYAZ GÜLOĞLU CAD. NO:12/A",
     "contract": true,
     "latitude": 39.10617,
-    "longitude": 39.548259
+    "longitude": 39.548259,
+    "iletisim": "05455902595"
   },
   {
     "name": "PLEVNELİ ECZANESİ",
@@ -11480,7 +12628,8 @@ export const locations = [
     "address": "Şirinevler Mah. Adnan Kahveci Blv. no:176/A",
     "contract": true,
     "latitude": 40.9937029,
-    "longitude": 28.85191
+    "longitude": 28.85191,
+    "iletisim": "02124382533"
   },
   {
     "name": "HİLAL ECZANESİ",
@@ -11490,7 +12639,8 @@ export const locations = [
     "address": "Odunluk Mahallesi Akpınar Caddesi, No: 12A/B5",
     "contract": true,
     "latitude": 40.2111218,
-    "longitude": 28.9990157
+    "longitude": 28.9990157,
+    "iletisim": "03442153400"
   },
   {
     "name": "YÜCELER ECZANESİ",
@@ -11500,7 +12650,8 @@ export const locations = [
     "address": "ÇAYIRLI MAHALLESİ CUMHURİYET CADDESİ GİRGİN SOKAK NO: 3",
     "contract": true,
     "latitude": 40.2626077,
-    "longitude": 29.6497066
+    "longitude": 29.6497066,
+    "iletisim": "02247732717"
   },
   {
     "name": "ANKARA DİLEK ECZANESİ",
@@ -11510,7 +12661,8 @@ export const locations = [
     "address": "KENTKOOP MAH. 1820 CAD. İKİZKENT SİTESİ NO:69/36-24N BATIKENT",
     "contract": true,
     "latitude": 39.96561200000001,
-    "longitude": 32.706865
+    "longitude": 32.706865,
+    "iletisim": "03122551030"
   },
   {
     "name": "YENİ ESEN ECZANESİ",
@@ -11520,7 +12672,8 @@ export const locations = [
     "address": "AKÇAY MAHALLESİ CUMHURİYET BULVARI NO:14/C",
     "contract": true,
     "latitude": 39.5844285,
-    "longitude": 26.9255722
+    "longitude": 26.9255722,
+    "iletisim": "02663843162"
   },
   {
     "name": "AYGÜN ECZANESİ",
@@ -11530,7 +12683,8 @@ export const locations = [
     "address": "FETHİYE MAH. ULU CAD. NO:14/A-A",
     "contract": true,
     "latitude": 40.2327007,
-    "longitude": 28.9789201
+    "longitude": 28.9789201,
+    "iletisim": "02242206978"
   },
   {
     "name": "YASEMİN ECZANESİ",
@@ -11540,7 +12694,8 @@ export const locations = [
     "address": "Yenigün Mah. Gül Sok. No:1",
     "contract": true,
     "latitude": 40.2683056,
-    "longitude": 29.6519732
+    "longitude": 29.6519732,
+    "iletisim": "03582184038"
   },
   {
     "name": "SUNGU ECZANESİ",
@@ -11550,7 +12705,8 @@ export const locations = [
     "address": "28 Haziran Mah. Turan Güneş Cad. no:230 Bekirpaşa",
     "contract": true,
     "latitude": 40.7723984,
-    "longitude": 29.95109009999999
+    "longitude": 29.95109009999999,
+    "iletisim": "02623210275"
   },
   {
     "name": "LALE ECZANESİ",
@@ -11560,7 +12716,8 @@ export const locations = [
     "address": "İçerenköy Mah. Prof.Dr. Necmettin Erbakan Cad. NO:20 Dk:1-B",
     "contract": true,
     "latitude": 40.9706926,
-    "longitude": 29.1177402
+    "longitude": 29.1177402,
+    "iletisim": "02165767992"
   },
   {
     "name": "SOMUNCU BABA ECZANESİ",
@@ -11570,7 +12727,8 @@ export const locations = [
     "address": "Sungur Mah. İlhan Darendelioğlu Cad. no:3",
     "contract": true,
     "latitude": 38.556664,
-    "longitude": 37.490605
+    "longitude": 37.490605,
+    "iletisim": "04226152265"
   },
   {
     "name": "PINAR ECZANESİ",
@@ -11580,7 +12738,8 @@ export const locations = [
     "address": "YILDIZLI MAH. SAHİL YOLU CAD. NO: 23/B",
     "contract": true,
     "latitude": 41.0075847,
-    "longitude": 39.623503
+    "longitude": 39.623503,
+    "iletisim": "05549159175"
   },
   {
     "name": "ÜNSAL ECZANESİ",
@@ -11590,7 +12749,8 @@ export const locations = [
     "address": "Akçay Mah. Cengiz Topel Cad. no: 6/B (Belediye Binası Yanı)",
     "contract": true,
     "latitude": 40.4708046,
-    "longitude": 32.6484043
+    "longitude": 32.6484043,
+    "iletisim": "05323600225"
   },
   {
     "name": "MİR ECZANESİ",
@@ -11600,7 +12760,8 @@ export const locations = [
     "address": "AHMET TANER KIŞLALI MAH. ALACAATLI CAD. NO:30/6",
     "contract": true,
     "latitude": 39.8674872,
-    "longitude": 32.6852209
+    "longitude": 32.6852209,
+    "iletisim": "04882152222"
   },
   {
     "name": "KARAÇALI ECZANESİ",
@@ -11610,7 +12771,8 @@ export const locations = [
     "address": "Karaçalı Mahallesi, İnönü Cd. NO:43A",
     "contract": true,
     "latitude": 36.7625038,
-    "longitude": 28.8059996
+    "longitude": 28.8059996,
+    "iletisim": "02526925560"
   },
   {
     "name": "SEDA ECZANESİ",
@@ -11620,7 +12782,8 @@ export const locations = [
     "address": "Atatürk Mah. Fatih Sultan Mehmet Cad. NO:1/B",
     "contract": true,
     "latitude": 41.0255579,
-    "longitude": 29.0922703
+    "longitude": 29.0922703,
+    "iletisim": "02367133100"
   },
   {
     "name": "DOSTLAR ECZANESİ",
@@ -11630,7 +12793,8 @@ export const locations = [
     "address": "Yenişehir Mah. Mareşal Fevzi Çakmak Cad. no:13/C",
     "contract": true,
     "latitude": 36.591171,
-    "longitude": 36.169909
+    "longitude": 36.169909,
+    "iletisim": "03266142379"
   },
   {
     "name": "ÜSTÜNER ECZANESİ",
@@ -11640,7 +12804,8 @@ export const locations = [
     "address": "KARTALTEPE MAH. ŞANLI ASKER SK. NO:2D",
     "contract": true,
     "latitude": 40.9843678,
-    "longitude": 28.8776509
+    "longitude": 28.8776509,
+    "iletisim": "02125430719"
   },
   {
     "name": "BURCU ECZANESİ",
@@ -11650,7 +12815,8 @@ export const locations = [
     "address": "M. RIFAT KAZANCIOĞLU MH. TURGUT. ÖZAL CAD. NO:52/B",
     "contract": true,
     "latitude": 36.7074907,
-    "longitude": 37.1432802
+    "longitude": 37.1432802,
+    "iletisim": "03682617888"
   },
   {
     "name": "ADA ECZANESİ",
@@ -11660,7 +12826,8 @@ export const locations = [
     "address": "Soğanlık Yeni Mah. Mimar Sinan Cad. NO:40/A",
     "contract": true,
     "latitude": 40.9170877,
-    "longitude": 29.1919088
+    "longitude": 29.1919088,
+    "iletisim": "05455201102"
   },
   {
     "name": "BİLGE ECZANESİ",
@@ -11670,7 +12837,8 @@ export const locations = [
     "address": "ALTINOVA MAH. İNÖNÜ CAD. NO:97/C",
     "contract": true,
     "latitude": 39.319185,
-    "longitude": 26.692387
+    "longitude": 26.692387,
+    "iletisim": "02164468206"
   },
   {
     "name": "GALLERİA ECZANESİ",
@@ -11680,7 +12848,8 @@ export const locations = [
     "address": "MUTLUKENT MAH. 2432. CAD. NO: 97/26 GALLERİA AVM",
     "contract": true,
     "latitude": 39.8954652,
-    "longitude": 32.7041955
+    "longitude": 32.7041955,
+    "iletisim": "03122357001"
   },
   {
     "name": "İPEK EKŞİOĞLU ECZANESİ",
@@ -11690,7 +12859,8 @@ export const locations = [
     "address": "İcadiye Mah. Cumhuriyet Cad. no:175",
     "contract": true,
     "latitude": 41.0242403,
-    "longitude": 29.0368103
+    "longitude": 29.0368103,
+    "iletisim": "02166510707"
   },
   {
     "name": "KÜBRA ECZANESİ",
@@ -11700,7 +12870,8 @@ export const locations = [
     "address": "Bağlarbaşı Mah. Sakızağacı Sok. no:60/B",
     "contract": true,
     "latitude": 40.9259485,
-    "longitude": 29.133657
+    "longitude": 29.133657,
+    "iletisim": "04162131013"
   },
   {
     "name": "SİBEL ECZANESİ",
@@ -11710,7 +12881,8 @@ export const locations = [
     "address": "Cerrahpaşa Mah. Bozacı Odaları Sok. NO:3",
     "contract": true,
     "latitude": 41.0067338,
-    "longitude": 28.9393658
+    "longitude": 28.9393658,
+    "iletisim": "02862184035"
   },
   {
     "name": "BARANSEL ECZANESİ",
@@ -11720,7 +12892,8 @@ export const locations = [
     "address": "BAHÇIVAN MAH. CUMHURİYET CAD. NO:24/A",
     "contract": true,
     "latitude": 38.5027414,
-    "longitude": 43.3951111
+    "longitude": 43.3951111,
+    "iletisim": "04322160182"
   },
   {
     "name": "FİTOFARM ECZANESİ",
@@ -11730,7 +12903,8 @@ export const locations = [
     "address": "Çukurambar Mahallesi, Ufuk Üniversitesi Cad. Başkent Gaz Kule No:13 / A-1",
     "contract": true,
     "latitude": 39.9074969,
-    "longitude": 32.8089489
+    "longitude": 32.8089489,
+    "iletisim": "03125034008"
   },
   {
     "name": "YELİZ ECZANESİ",
@@ -11740,7 +12914,8 @@ export const locations = [
     "address": "Mansuroğlu Mah. 267/1. Sok. NO:8/D",
     "contract": true,
     "latitude": 38.4570364,
-    "longitude": 27.1969831
+    "longitude": 27.1969831,
+    "iletisim": "02323395181"
   },
   {
     "name": "BEYZA ECZANESİ",
@@ -11750,7 +12925,8 @@ export const locations = [
     "address": "MUSTAFA KEMAL MAH. ŞEHİT ÖĞRETMEN ŞENAY AYBÜKE YALÇIN CAD. NO:7/B",
     "contract": true,
     "latitude": 39.910659,
-    "longitude": 32.7663749
+    "longitude": 32.7663749,
+    "iletisim": "03462222206"
   },
   {
     "name": "YENİ AKPLAZA ECZANESİ",
@@ -11760,7 +12936,8 @@ export const locations = [
     "address": "BEŞTEPE MAH. YAŞAM CAD. NO:7/G söğütözü",
     "contract": true,
     "latitude": 39.9135393,
-    "longitude": 32.8043943
+    "longitude": 32.8043943,
+    "iletisim": "03122191668"
   },
   {
     "name": "SU ECZANESİ",
@@ -11770,7 +12947,8 @@ export const locations = [
     "address": "Örnekevler Mah. Çiçek Sok. NO:25",
     "contract": true,
     "latitude": 38.8733113,
-    "longitude": 35.3466253
+    "longitude": 35.3466253,
+    "iletisim": "03124186654"
   },
   {
     "name": "NURCAN ECZANESİ",
@@ -11780,7 +12958,8 @@ export const locations = [
     "address": "İstiklal Mah. Tabip Sok. no: 6/D",
     "contract": true,
     "latitude": 41.017748,
-    "longitude": 29.0998066
+    "longitude": 29.0998066,
+    "iletisim": "02163443818"
   },
   {
     "name": "YEŞİLOVA CADDE ECZANESİ",
@@ -11790,7 +12969,8 @@ export const locations = [
     "address": "RAFETPAŞA MAH. ABDİ İPEKÇİ CAD. NO:199/A",
     "contract": true,
     "latitude": 38.4383913,
-    "longitude": 27.2019017
+    "longitude": 27.2019017,
+    "iletisim": "02324350090"
   },
   {
     "name": "YEDİTEPE ECZANESİ",
@@ -11800,7 +12980,8 @@ export const locations = [
     "address": "Yenişehir Mah. Millet Cad. no:25/3",
     "contract": true,
     "latitude": 40.9261826,
-    "longitude": 29.3073584
+    "longitude": 29.3073584,
+    "iletisim": "02862132230"
   },
   {
     "name": "AYDIN ECZANESİ",
@@ -11810,7 +12991,8 @@ export const locations = [
     "address": "LİMAN MH. 15. SK. NO:5/B",
     "contract": true,
     "latitude": 36.8544242,
-    "longitude": 30.6149351
+    "longitude": 30.6149351,
+    "iletisim": "02562251346"
   },
   {
     "name": "KOTAN ECZANESİ",
@@ -11820,7 +13002,8 @@ export const locations = [
     "address": "DUMLUPINAR MAH. OSMAN ATİLLA CAD. NO:15/A",
     "contract": true,
     "latitude": 38.7562669,
-    "longitude": 30.5427051
+    "longitude": 30.5427051,
+    "iletisim": "02722147121"
   },
   {
     "name": "YENİ MİMAR SİNAN ECZANESİ",
@@ -11830,7 +13013,8 @@ export const locations = [
     "address": "Ahmediye Mah. Gündıoğumu Cad. No:3/A",
     "contract": true,
     "latitude": 41.0213244,
-    "longitude": 29.0164316
+    "longitude": 29.0164316,
+    "iletisim": "02163411065"
   },
   {
     "name": "MELEK ECZANESİ",
@@ -11840,7 +13024,8 @@ export const locations = [
     "address": "Güzelyalı Mahallesi Anadolu Lisesi Caddesi NO: 42/B",
     "contract": true,
     "latitude": 37.0538849,
-    "longitude": 35.2825122
+    "longitude": 35.2825122,
+    "iletisim": "03226063302"
   },
   {
     "name": "YONCA ECZANESİ",
@@ -11850,7 +13035,8 @@ export const locations = [
     "address": "Leylek Pınar Mahallesi Vali Konağı Caddesi NO:41",
     "contract": true,
     "latitude": 39.72193499999999,
-    "longitude": 43.0536204
+    "longitude": 43.0536204,
+    "iletisim": "02125598304"
   },
   {
     "name": "NAZLI ECZANESİ",
@@ -11860,7 +13046,8 @@ export const locations = [
     "address": "SANCAK MAH. TİFLİS CAD. NO:45 ŞAVAŞ APT. yıldız",
     "contract": true,
     "latitude": 39.8714991,
-    "longitude": 32.8630677
+    "longitude": 32.8630677,
+    "iletisim": "02126531101"
   },
   {
     "name": "DURMAZ ECZANESİ",
@@ -11870,7 +13057,8 @@ export const locations = [
     "address": "Hürriyet Mah. Gazi Cad. No:42/A",
     "contract": true,
     "latitude": 41.0338733,
-    "longitude": 28.6502259
+    "longitude": 28.6502259,
+    "iletisim": "02126894252"
   },
   {
     "name": "PARSELLER NİLGÜN ECZANESİ",
@@ -11880,7 +13068,8 @@ export const locations = [
     "address": "Yenigün Mah. Bağcılar Cad. NO: 157/A",
     "contract": true,
     "latitude": 41.0226504,
-    "longitude": 28.8575794
+    "longitude": 28.8575794,
+    "iletisim": "02126344343"
   },
   {
     "name": "SEVAL DENLİKOL ECZANESİ",
@@ -11890,7 +13079,8 @@ export const locations = [
     "address": "UFUKTEPE MAH. UFUKTEPE CAD. NO:27/15",
     "contract": true,
     "latitude": 40.0119641,
-    "longitude": 32.8523842
+    "longitude": 32.8523842,
+    "iletisim": "03125811785"
   },
   {
     "name": "EN ELEGANCE ECZANESİ",
@@ -11900,7 +13090,8 @@ export const locations = [
     "address": "Küçükbakkalköy Mah. Vedat Günyol Cad. no:34/A Dk:1",
     "contract": true,
     "latitude": 40.98543859999999,
-    "longitude": 29.108171
+    "longitude": 29.108171,
+    "iletisim": "02165767672"
   },
   {
     "name": "ÇELİK ECZANESİ",
@@ -11910,7 +13101,8 @@ export const locations = [
     "address": "CUMHURİYET CAD NO:13/H ŞARKIŞLA / SİVAS",
     "contract": true,
     "latitude": 39.3506511,
-    "longitude": 36.4103489
+    "longitude": 36.4103489,
+    "iletisim": "03465128383"
   },
   {
     "name": "HACETTEPE ECZANESİ",
@@ -11920,7 +13112,8 @@ export const locations = [
     "address": "ATATÜRK MAHALLESİ AKTER SOKAK NO:1/1",
     "contract": true,
     "latitude": 41.25171230000001,
-    "longitude": 32.6836548
+    "longitude": 32.6836548,
+    "iletisim": "03707253292"
   },
   {
     "name": "ATLANTİS ECZANESİ",
@@ -11930,7 +13123,8 @@ export const locations = [
     "address": "KARDELEN MH. BAŞKENT BLV. ATLANTİS AVM NO:224/429",
     "contract": true,
     "latitude": 40.0129334,
-    "longitude": 32.740723
+    "longitude": 32.740723,
+    "iletisim": "03122878725"
   },
   {
     "name": "KARTAL ECZANESİ",
@@ -11940,7 +13134,8 @@ export const locations = [
     "address": "KUNDUZHAN MH. HÜRRİYET CAD. NO:2",
     "contract": true,
     "latitude": 40.550217,
-    "longitude": 34.953394
+    "longitude": 34.953394,
+    "iletisim": "03645050102"
   },
   {
     "name": "MERKEZ ECZANESİ",
@@ -11950,7 +13145,8 @@ export const locations = [
     "address": "MERDİVENKÖY MAH. RESSAM SALİH ERİMEZ CAD NO:7 GÖZTEPE",
     "contract": true,
     "latitude": 40.9842856,
-    "longitude": 29.0621969
+    "longitude": 29.0621969,
+    "iletisim": "02642790801"
   },
   {
     "name": "ÖZ HİSAR ECZANESİ",
@@ -11960,7 +13156,8 @@ export const locations = [
     "address": "A. Hisar Mahallesi, 4504. Sk. No:13",
     "contract": true,
     "latitude": 36.784914,
-    "longitude": 31.4473885
+    "longitude": 31.4473885,
+    "iletisim": "02427431025"
   },
   {
     "name": "DURSUNBEY ECZANESİ",
@@ -11970,7 +13167,8 @@ export const locations = [
     "address": "CEBECİ MAHALLESİ ÇARŞI CADDESİ NO: 10/B",
     "contract": true,
     "latitude": 39.5850739,
-    "longitude": 28.6287084
+    "longitude": 28.6287084,
+    "iletisim": "02666621754"
   },
   {
     "name": "SEVİM ECZANESİ",
@@ -11980,7 +13178,8 @@ export const locations = [
     "address": "Mahfesığmaz Mahallesi 79060. Sokak No: 14/A",
     "contract": true,
     "latitude": 37.0338353,
-    "longitude": 35.3094911
+    "longitude": 35.3094911,
+    "iletisim": "03228017151"
   },
   {
     "name": "ESPİYE ECZANESİ",
@@ -11990,7 +13189,8 @@ export const locations = [
     "address": "SARAY MAHALLESİ SİTEYOLU CADDESİ AK SANAYİ SİTESİ 1.KISIM NO: 8 101",
     "contract": true,
     "latitude": 41.0252477,
-    "longitude": 29.1166365
+    "longitude": 29.1166365,
+    "iletisim": "02166300901"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -12000,7 +13200,8 @@ export const locations = [
     "address": "GÜNEY MAH. HÜRRİYET CAD. NO:3",
     "contract": true,
     "latitude": 41.4350735,
-    "longitude": 31.7490951
+    "longitude": 31.7490951,
+    "iletisim": "03247141116"
   },
   {
     "name": "GÖKPINAR ECZANESİ",
@@ -12010,7 +13211,8 @@ export const locations = [
     "address": "ALLEBEN MH. KEMAL KÖKER CD. PAPATYA APT. NO:39/B",
     "contract": true,
     "latitude": 37.0637426,
-    "longitude": 37.3703455
+    "longitude": 37.3703455,
+    "iletisim": "03422200027"
   },
   {
     "name": "AKADEMİ ECZANESİ",
@@ -12020,7 +13222,8 @@ export const locations = [
     "address": "Esentepe Mah. Orhan Gazi Caddesi Sok. 50/F (Atatürk Köprüsü Karşısı) Karşıyaka",
     "contract": true,
     "latitude": 40.34030310000001,
-    "longitude": 36.5435064
+    "longitude": 36.5435064,
+    "iletisim": "03562289922"
   },
   {
     "name": "MERAL UZUNÖZ ECZANESİ",
@@ -12030,7 +13233,8 @@ export const locations = [
     "address": "Kale Mahallesi, İsmet İnönü Cad. No:2",
     "contract": true,
     "latitude": 38.93789,
-    "longitude": 33.53916
+    "longitude": 33.53916,
+    "iletisim": "03126865125"
   },
   {
     "name": "BERİL ECZANESİ",
@@ -12040,7 +13244,8 @@ export const locations = [
     "address": "Yeşilkent Mah. Mahmut Çavuş Cad. NO:141",
     "contract": true,
     "latitude": 40.6867898,
-    "longitude": 29.9215862
+    "longitude": 29.9215862,
+    "iletisim": "02623424327"
   },
   {
     "name": "DOĞA ECZANESİ",
@@ -12050,7 +13255,8 @@ export const locations = [
     "address": "TURABALİ MAH. ATATÜRK CAD. NO:493",
     "contract": true,
     "latitude": 39.374885,
-    "longitude": 38.118521
+    "longitude": 38.118521,
+    "iletisim": "05063565981"
   },
   {
     "name": "SEMA ECZANESİ",
@@ -12060,7 +13266,8 @@ export const locations = [
     "address": "ATAKENT MAH. REŞİTPAŞA CAD. SEÇKİN SİTESİ NO:36/1-A",
     "contract": true,
     "latitude": 41.0176086,
-    "longitude": 29.1039873
+    "longitude": 29.1039873,
+    "iletisim": "02165203691"
   },
   {
     "name": "EZGİ UYAR ECZANESİ",
@@ -12070,7 +13277,8 @@ export const locations = [
     "address": "İSMET İNÖNÜ MH. 720 SK. NO:9/B",
     "contract": true,
     "latitude": 36.5564301,
-    "longitude": 36.15771660000001
+    "longitude": 36.15771660000001,
+    "iletisim": "03266136699"
   },
   {
     "name": "ALPER AKIN ECZANESİ",
@@ -12080,7 +13288,8 @@ export const locations = [
     "address": "EĞİTİM MH. ATA CAD. NO:51/A",
     "contract": true,
     "latitude": 38.391761,
-    "longitude": 27.058111
+    "longitude": 27.058111,
+    "iletisim": "02322787035"
   },
   {
     "name": "EBRU ECZANESİ",
@@ -12090,7 +13299,8 @@ export const locations = [
     "address": "Arabacıalanı Mahallesi, Mert Sk. NO:3/ D",
     "contract": true,
     "latitude": 40.7734175,
-    "longitude": 30.3674672
+    "longitude": 30.3674672,
+    "iletisim": "03544142010"
   },
   {
     "name": "NATURA ECZANESİ",
@@ -12100,7 +13310,8 @@ export const locations = [
     "address": "Yalı Mh., Mehmet Hilmi Cd. NO:50/B",
     "contract": true,
     "latitude": 37.0078734,
-    "longitude": 27.2617204
+    "longitude": 27.2617204,
+    "iletisim": "05418320633"
   },
   {
     "name": "ORTAKÖY ECZANESİ",
@@ -12110,7 +13321,8 @@ export const locations = [
     "address": "MECİDİYE MAH. MUVAKKİT SOK. NO:10/B ORTAKÖY",
     "contract": true,
     "latitude": 41.0486416,
-    "longitude": 29.0253574
+    "longitude": 29.0253574,
+    "iletisim": "02122592426"
   },
   {
     "name": "LEVENT GÖZDE ECZANESİ",
@@ -12120,7 +13332,8 @@ export const locations = [
     "address": "Esentepe Mah. Ecza Sok. Pol Center NO: 4/27",
     "contract": true,
     "latitude": 41.0787998,
-    "longitude": 29.0100638
+    "longitude": 29.0100638,
+    "iletisim": "02122818185"
   },
   {
     "name": "UZUN ECZANESİ",
@@ -12130,7 +13343,8 @@ export const locations = [
     "address": "Şükrüpaşa Mah. Ahmet Yalçın Sarıgöl Cad. No:16/12",
     "contract": true,
     "latitude": 41.6652103,
-    "longitude": 26.5983869
+    "longitude": 26.5983869,
+    "iletisim": "02842360055"
   },
   {
     "name": "GÜNEŞ ECZANESİ",
@@ -12140,7 +13354,8 @@ export const locations = [
     "address": "Karakaş Mah. Hastane Cad. no: 15",
     "contract": true,
     "latitude": 41.736843,
-    "longitude": 27.219164
+    "longitude": 27.219164,
+    "iletisim": "02322275349"
   },
   {
     "name": "SİBEL ATLAS ECZANESİ",
@@ -12150,7 +13365,8 @@ export const locations = [
     "address": "Alsancak Mah. Kıbrıs Şehitleri Cad. no:177 D:1",
     "contract": true,
     "latitude": 38.44035179999999,
-    "longitude": 27.1438272
+    "longitude": 27.1438272,
+    "iletisim": "02323397778"
   },
   {
     "name": "ÖZ SEVGİ ECZANESİ",
@@ -12160,7 +13376,8 @@ export const locations = [
     "address": "ÇINARLI MAHALLESİ ŞEHİTLER CADDESİ NO: 93/2",
     "contract": true,
     "latitude": 39.029069,
-    "longitude": 43.359149
+    "longitude": 43.359149,
+    "iletisim": "04323519977"
   },
   {
     "name": "FULYA ECZANESİ",
@@ -12170,7 +13387,8 @@ export const locations = [
     "address": "bugday pazarı Mahallesi Elif Cad. Şeyh İsmail Rumi İş Hanı no:21/F",
     "contract": true,
     "latitude": 40.5996722,
-    "longitude": 33.6200073
+    "longitude": 33.6200073,
+    "iletisim": "03762125909"
   },
   {
     "name": "AVRASYA ECZANESİ",
@@ -12180,7 +13398,8 @@ export const locations = [
     "address": "Saray Mah. Akgül Sok. No: 1/K En Plaza",
     "contract": true,
     "latitude": 41.0248832,
-    "longitude": 29.1144183
+    "longitude": 29.1144183,
+    "iletisim": "02165102124"
   },
   {
     "name": "GÜNEBAKAN ECZANESİ",
@@ -12190,7 +13409,8 @@ export const locations = [
     "address": "Kurtköy Mah. Ankara Cad. No: 289/19",
     "contract": true,
     "latitude": 40.9109379,
-    "longitude": 29.2972084
+    "longitude": 29.2972084,
+    "iletisim": "02165951059"
   },
   {
     "name": "SEVİNÇ ŞENEL ÖZDEMİR ECZANESİ",
@@ -12200,7 +13420,8 @@ export const locations = [
     "address": "Esenkent Mah. Süleyman Demirel Cad. no:4/C",
     "contract": true,
     "latitude": 41.0566655,
-    "longitude": 28.672389
+    "longitude": 28.672389,
+    "iletisim": "02126050016"
   },
   {
     "name": "NİHAN OKUTAN ECZANESİ",
@@ -12210,7 +13431,8 @@ export const locations = [
     "address": "Manavkuyu Mah. Fatih Sultan Mehmet Cad. NO:70/C",
     "contract": true,
     "latitude": 38.4623528,
-    "longitude": 27.1964555
+    "longitude": 27.1964555,
+    "iletisim": "02329993901"
   },
   {
     "name": "SEVİN ECZANESİ",
@@ -12220,7 +13442,8 @@ export const locations = [
     "address": "Yukarı Dikmen Mah. Turan Güneş Blv. 636. Cad. No:10/A Nazlıcanlar Sitesi",
     "contract": true,
     "latitude": 39.8515273,
-    "longitude": 32.8428039
+    "longitude": 32.8428039,
+    "iletisim": "03124909092"
   },
   {
     "name": "BASIN SİTESİ ECZANESİ",
@@ -12230,7 +13453,8 @@ export const locations = [
     "address": "Basın Sitesi Mah. 216. Sok. no:6/A",
     "contract": true,
     "latitude": 38.3994664,
-    "longitude": 27.1027562
+    "longitude": 27.1027562,
+    "iletisim": "02322449119"
   },
   {
     "name": "SİMAY TANER ECZANESİ",
@@ -12240,7 +13464,8 @@ export const locations = [
     "address": "NUMUNE MAH.572.SK.NO:75/1",
     "contract": true,
     "latitude": 36.5653379,
-    "longitude": 36.1583088
+    "longitude": 36.1583088,
+    "iletisim": "03266189393"
   },
   {
     "name": "PERPA ECZANESİ",
@@ -12250,7 +13475,8 @@ export const locations = [
     "address": "H. Rıfat Paşa Mah. Perpa Sok. Perpa Tic. Mrk. K:1 Dk:4",
     "contract": true,
     "latitude": 41.061617,
-    "longitude": 28.9681771
+    "longitude": 28.9681771,
+    "iletisim": "02122104425"
   },
   {
     "name": "RENDECİ ECZANESİ",
@@ -12260,7 +13486,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAH. 100.YIL BULVARI NO:257/B",
     "contract": true,
     "latitude": 41.2783975,
-    "longitude": 36.338824
+    "longitude": 36.338824,
+    "iletisim": "03622306074"
   },
   {
     "name": "BULVAR ECZANESİ",
@@ -12270,7 +13497,8 @@ export const locations = [
     "address": "İstasyonaltı Mah. Atatürk Blv. NO:14/A",
     "contract": true,
     "latitude": 38.4843519,
-    "longitude": 27.0367464
+    "longitude": 27.0367464,
+    "iletisim": "02323297727"
   },
   {
     "name": "HEKİMOĞLU ECZANESİ",
@@ -12280,7 +13508,8 @@ export const locations = [
     "address": "Mansuroğlu Mah. 268/10. Sok. NO:5/B",
     "contract": true,
     "latitude": 38.3775456,
-    "longitude": 27.1667108
+    "longitude": 27.1667108,
+    "iletisim": "05556809828"
   },
   {
     "name": "ARI ECZANESİ",
@@ -12290,7 +13519,8 @@ export const locations = [
     "address": "Yenişehir Mah. Barajyolu Cad. 6/A Adıgüzel Sit. G Blok",
     "contract": true,
     "latitude": 40.9937506,
-    "longitude": 29.1417355
+    "longitude": 29.1417355,
+    "iletisim": "02125043643"
   },
   {
     "name": "ZEYNEP ECZANESİ",
@@ -12300,7 +13530,8 @@ export const locations = [
     "address": "Harbiye Mahallesi Dikmen Caddesi no : 200/A",
     "contract": true,
     "latitude": 39.88612759999999,
-    "longitude": 32.8397241
+    "longitude": 32.8397241,
+    "iletisim": "02645173022"
   },
   {
     "name": "YALVAÇ ECZANESİ",
@@ -12310,7 +13541,8 @@ export const locations = [
     "address": "BARIŞ MAH. SÜMER SOK. NO:2",
     "contract": true,
     "latitude": 40.2133844,
-    "longitude": 28.975184
+    "longitude": 28.975184,
+    "iletisim": "02244521995"
   },
   {
     "name": "DELİKLİTAŞ ECZANESİ",
@@ -12320,7 +13552,8 @@ export const locations = [
     "address": "DELİKLİTAŞ MAH.İBRAHİM KARAOĞLAN CAD.NO:26/E",
     "contract": true,
     "latitude": 39.7785409,
-    "longitude": 30.4731998
+    "longitude": 30.4731998,
+    "iletisim": "02222206248"
   },
   {
     "name": "CAN ECZANESİ",
@@ -12330,7 +13563,8 @@ export const locations = [
     "address": "OĞUZLAR MAH. CEYHUN ATUF KANSU CAD. NO:33/B BALGAT",
     "contract": true,
     "latitude": 39.9030539,
-    "longitude": 32.816782
+    "longitude": 32.816782,
+    "iletisim": "05416702223"
   },
   {
     "name": "UYGUR ATA ECZANESİ",
@@ -12340,7 +13574,8 @@ export const locations = [
     "address": "MİMAR SİNAN MAH. ÇAĞATAY CD. NO:41/A",
     "contract": true,
     "latitude": 40.0483254,
-    "longitude": 32.8936735
+    "longitude": 32.8936735,
+    "iletisim": "05072482992"
   },
   {
     "name": "ŞAFAK ECZANESİ",
@@ -12350,7 +13585,8 @@ export const locations = [
     "address": "Atatürk Mah. Demokrasi Cad. No:32/A",
     "contract": true,
     "latitude": 41.0108902,
-    "longitude": 29.2172349
+    "longitude": 29.2172349,
+    "iletisim": "02164622734"
   },
   {
     "name": "İLKNUR ECZANESİ",
@@ -12360,7 +13596,8 @@ export const locations = [
     "address": "YILDIZ MAH.220 SOK.ELGİN APT.NO:23/B",
     "contract": true,
     "latitude": 36.8935394,
-    "longitude": 30.6846931
+    "longitude": 30.6846931,
+    "iletisim": "02423352122"
   },
   {
     "name": "ÇINAR ECZANESİ",
@@ -12370,7 +13607,8 @@ export const locations = [
     "address": "KUVA-İ MİLLİYE MAHALLESİ EDREMİT CADDESİ NO:24/B",
     "contract": true,
     "latitude": 39.6552982,
-    "longitude": 27.8569124
+    "longitude": 27.8569124,
+    "iletisim": "03123123334"
   },
   {
     "name": "DEFNE ECZANESİ",
@@ -12380,7 +13618,8 @@ export const locations = [
     "address": "218. SK. POL-KAR SİTESİ C BLOK ALTI NO: 3/CE",
     "contract": true,
     "latitude": 37.9653913,
-    "longitude": 40.0815606
+    "longitude": 40.0815606,
+    "iletisim": "04122513045"
   },
   {
     "name": "SEGAH ECZANESİ",
@@ -12390,7 +13629,8 @@ export const locations = [
     "address": "Tatlısu Mah. Elalmış Cad. no:54/B",
     "contract": true,
     "latitude": 41.0038337,
-    "longitude": 29.1306841
+    "longitude": 29.1306841,
+    "iletisim": "02165403292"
   },
   {
     "name": "AY ECZANESİ",
@@ -12400,7 +13640,8 @@ export const locations = [
     "address": "4 Temmuz Mahallesi, Cumhuriyet Cd. No:27/1",
     "contract": true,
     "latitude": 40.6928898,
-    "longitude": 29.6158589
+    "longitude": 29.6158589,
+    "iletisim": "02624521394"
   },
   {
     "name": "FİKRET ECZANESİ",
@@ -12410,7 +13651,8 @@ export const locations = [
     "address": "Mahkeme Mahallesi, Hızırzade Hakkı Bey Sok 12/A",
     "contract": true,
     "latitude": 39.5016565,
-    "longitude": 26.9720342
+    "longitude": 26.9720342,
+    "iletisim": "02664129537"
   },
   {
     "name": "ESRA ECZANESİ",
@@ -12420,7 +13662,8 @@ export const locations = [
     "address": "Veysel Karani Mah. Recep Tayyip Erdoğan Cad. no:63/A",
     "contract": true,
     "latitude": 40.9636742,
-    "longitude": 29.2356815
+    "longitude": 29.2356815,
+    "iletisim": "05325031065"
   },
   {
     "name": "ÖZBAKAN ECZANESİ",
@@ -12430,7 +13673,8 @@ export const locations = [
     "address": "KEMER KÖPRÜ MAH. ŞADIRCAN CAD. NO:8/2",
     "contract": true,
     "latitude": 41.6320712,
-    "longitude": 32.3376109
+    "longitude": 32.3376109,
+    "iletisim": "03782279222"
   },
   {
     "name": "SALKIM ECZANESİ",
@@ -12440,7 +13684,8 @@ export const locations = [
     "address": "BAŞAK MAH. HÜDAVENDİGAR CAD. SALKIM ÇARŞI SİT.NO:4C BAŞAKŞEHİR / İSTANBUL",
     "contract": true,
     "latitude": 41.0903335,
-    "longitude": 28.8110367
+    "longitude": 28.8110367,
+    "iletisim": "02124878866"
   },
   {
     "name": "LOKMAN HEKİM ECZANESİ",
@@ -12450,7 +13695,8 @@ export const locations = [
     "address": "KIRCAALİ MAH. 9. ÖZEN SOK.TUĞCU 2 PLAZA NO:1/A",
     "contract": true,
     "latitude": 40.1983784,
-    "longitude": 29.0591363
+    "longitude": 29.0591363,
+    "iletisim": "02125836370"
   },
   {
     "name": "TAŞKAN ECZANESİ",
@@ -12460,7 +13706,8 @@ export const locations = [
     "address": "Koru Mah.Ankaralılar Cad.Gordion Konutları Altı 47/A1 BLOK No:6-IG ÇAYYOLU",
     "contract": true,
     "latitude": 39.8970734,
-    "longitude": 32.691308
+    "longitude": 32.691308,
+    "iletisim": "03122367576"
   },
   {
     "name": "NURAYSEL ECZANESİ",
@@ -12470,7 +13717,8 @@ export const locations = [
     "address": "DEMETEVLER MAH. VATAN CAD. NO:94/B YENİMAHALLE",
     "contract": true,
     "latitude": 39.9703568,
-    "longitude": 32.7806996
+    "longitude": 32.7806996,
+    "iletisim": "03123320366"
   },
   {
     "name": "BOĞAZİÇİ ECZANESİ",
@@ -12480,7 +13728,8 @@ export const locations = [
     "address": "ÇIRPAN MAH. İLKBAHAR CAD. 1. DURAK SOK. NO:9",
     "contract": true,
     "latitude": 40.1948999,
-    "longitude": 29.0562761
+    "longitude": 29.0562761,
+    "iletisim": "02242526060"
   },
   {
     "name": "TAKSİM ECZANESİ",
@@ -12490,7 +13739,8 @@ export const locations = [
     "address": "GÜMÜŞSUYU MAH. İNÖNÜ CAD. NO: 25/A",
     "contract": true,
     "latitude": 41.0355777,
-    "longitude": 28.9883479
+    "longitude": 28.9883479,
+    "iletisim": "02122495099"
   },
   {
     "name": "BÜYÜK ECZANE",
@@ -12500,7 +13750,8 @@ export const locations = [
     "address": "YUSUFPAŞA MAH. KAZIMPAŞA CAD. NO:51",
     "contract": true,
     "latitude": 40.6084943,
-    "longitude": 43.0928149
+    "longitude": 43.0928149,
+    "iletisim": "05336569880"
   },
   {
     "name": "CANAN ECZANESİ",
@@ -12510,7 +13761,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. İNÖNÜ CAD. NO:6",
     "contract": true,
     "latitude": 40.6013378,
-    "longitude": 43.0974525
+    "longitude": 43.0974525,
+    "iletisim": "02327827876"
   },
   {
     "name": "DEVA ECZANESİ",
@@ -12520,7 +13772,8 @@ export const locations = [
     "address": "NENEHATUN CAD. ATTAR SOK. NO:21/B G.O.P",
     "contract": true,
     "latitude": 39.9028459,
-    "longitude": 32.867813
+    "longitude": 32.867813,
+    "iletisim": "04462233323"
   },
   {
     "name": "İLKİM ECZANESİ",
@@ -12530,7 +13783,8 @@ export const locations = [
     "address": "KURTULUŞ MAH. YUNUSEMRE CAD. NO:34/B",
     "contract": true,
     "latitude": 39.7692741,
-    "longitude": 30.5256541
+    "longitude": 30.5256541,
+    "iletisim": "02222343696"
   },
   {
     "name": "SEMANUR ECZANESİ",
@@ -12540,7 +13794,8 @@ export const locations = [
     "address": "ÖMERAĞA MAH. NACİ GİRGİNSOY SK. NO:3/A",
     "contract": true,
     "latitude": 40.759922,
-    "longitude": 29.9292405
+    "longitude": 29.9292405,
+    "iletisim": "02623235422"
   },
   {
     "name": "PERİHAN ECZANESİ",
@@ -12550,7 +13805,8 @@ export const locations = [
     "address": "YAVUZ SELİM MAH. 5085 SK. NO:29/B",
     "contract": true,
     "latitude": 37.786899,
-    "longitude": 38.619005
+    "longitude": 38.619005,
+    "iletisim": "04167262126"
   },
   {
     "name": "SONGÜL ECZANESİ",
@@ -12560,7 +13816,8 @@ export const locations = [
     "address": "NUMUNE MAH. DR. SADIK AHMET CAD. NO:196/1",
     "contract": true,
     "latitude": 36.5647676,
-    "longitude": 36.1585057
+    "longitude": 36.1585057,
+    "iletisim": "03266184003"
   },
   {
     "name": "GÜMÜŞ ECZANESİ",
@@ -12570,7 +13827,8 @@ export const locations = [
     "address": "BALGAT MAH. ZİYABEY CAD. NO:54",
     "contract": true,
     "latitude": 39.9072835,
-    "longitude": 32.8168883
+    "longitude": 32.8168883,
+    "iletisim": "03123234245"
   },
   {
     "name": "ERDEM ECZANESİ",
@@ -12580,7 +13838,8 @@ export const locations = [
     "address": "ATAKENT MAH. 237 SK. E BLOK NO:1/e İÇ KAPI NO:2",
     "contract": true,
     "latitude": 41.0364776,
-    "longitude": 28.772874
+    "longitude": 28.772874,
+    "iletisim": "02323369020"
   },
   {
     "name": "CADDE TUNUS ECZANESİ",
@@ -12590,7 +13849,8 @@ export const locations = [
     "address": "KAVAKLIDERE MAH. TUNUS CAD. NO:15/A (ANKARA ÖZEL LİV HASTANESİ YANI)",
     "contract": true,
     "latitude": 39.911596,
-    "longitude": 32.856702
+    "longitude": 32.856702,
+    "iletisim": "03122120684"
   },
   {
     "name": "ÖZ ECZANESİ",
@@ -12600,7 +13860,8 @@ export const locations = [
     "address": "KUZEY MAH. CAHİT ZARİFOĞLU CAD. NO:27/1-A",
     "contract": true,
     "latitude": 40.7607635,
-    "longitude": 29.7883763
+    "longitude": 29.7883763,
+    "iletisim": "02625260907"
   },
   {
     "name": "ORKİDE ECZANESİ",
@@ -12610,7 +13871,8 @@ export const locations = [
     "address": "4 EYLÜL MAH. KAZIM KARABEKİR CADDESİ NO:19 KULA",
     "contract": true,
     "latitude": 38.542597,
-    "longitude": 28.6304721
+    "longitude": 28.6304721,
+    "iletisim": "02368164545"
   },
   {
     "name": "KURTUL ECZANESİ",
@@ -12620,7 +13882,8 @@ export const locations = [
     "address": "İSTİKLAL MAH.KURTULUŞ CAD.NO:33 BİGA",
     "contract": true,
     "latitude": 40.2275076,
-    "longitude": 27.2422497
+    "longitude": 27.2422497,
+    "iletisim": "02863166366"
   },
   {
     "name": "GÜZELŞEHİR ECZANESİ",
@@ -12630,7 +13893,8 @@ export const locations = [
     "address": "Doğukent Mah.Abdulkadir Badıllı Bulv.No:163/A",
     "contract": true,
     "latitude": 37.3214043,
-    "longitude": 38.7786956
+    "longitude": 38.7786956,
+    "iletisim": "04143471255"
   },
   {
     "name": "ATAMAN ECZANESİ",
@@ -12640,7 +13904,8 @@ export const locations = [
     "address": "Reşatbey Mahallesi Atatürk Bulvarı No: 14/E",
     "contract": true,
     "latitude": 36.9963996,
-    "longitude": 35.3329082
+    "longitude": 35.3329082,
+    "iletisim": "03228890064"
   },
   {
     "name": "FUNDA ECZANESİ",
@@ -12650,7 +13915,8 @@ export const locations = [
     "address": "POSTANE MAH. İSTASYON CAD. NO:53/D",
     "contract": true,
     "latitude": 40.8187828,
-    "longitude": 29.3055286
+    "longitude": 29.3055286,
+    "iletisim": "02163954231"
   },
   {
     "name": "ŞAHİN ECZANESİ",
@@ -12660,7 +13926,8 @@ export const locations = [
     "address": "AKIN CAD. NO:34/A YENİMAHALLE",
     "contract": true,
     "latitude": 40.0129334,
-    "longitude": 32.740723
+    "longitude": 32.740723,
+    "iletisim": "03123447985"
   },
   {
     "name": "TATLISU ECZANESİ",
@@ -12670,7 +13937,8 @@ export const locations = [
     "address": "TATLISU MAH. PAKDİL SK. NO:17/A",
     "contract": true,
     "latitude": 40.9986662,
-    "longitude": 29.1377621
+    "longitude": 29.1377621,
+    "iletisim": "02165408892"
   },
   {
     "name": "YAŞAM ECZANESİ",
@@ -12680,7 +13948,8 @@ export const locations = [
     "address": "YENİ SANAYİ MAH. DKY CAD(KENARI) NO:61/B",
     "contract": true,
     "latitude": 37.8933443,
-    "longitude": 28.3052807
+    "longitude": 28.3052807,
+    "iletisim": "02166509418"
   },
   {
     "name": "İSTANBUL ECZANESİ",
@@ -12690,7 +13959,8 @@ export const locations = [
     "address": "MURATREİS MAH. NUHKUYUSU CAD. NO:293/A",
     "contract": true,
     "latitude": 41.0231247,
-    "longitude": 29.0362234
+    "longitude": 29.0362234,
+    "iletisim": "03125129986"
   },
   {
     "name": "DEMİRCİ ECZANESİ",
@@ -12700,7 +13970,8 @@ export const locations = [
     "address": "DEMİRCİ MAH. KOŞUYOLU CAD. NO:2/A",
     "contract": true,
     "latitude": 40.1855585,
-    "longitude": 28.9377169
+    "longitude": 28.9377169,
+    "iletisim": "02249991993"
   },
   {
     "name": "ERGAZİ ECZANESİ",
@@ -12710,7 +13981,8 @@ export const locations = [
     "address": "ERGAZİ MAH. 1835 SOKAK NO:4 MEHMET GÖZCÜ ASM. KARŞISI - BATIKENT",
     "contract": true,
     "latitude": 39.9560525,
-    "longitude": 32.7096666
+    "longitude": 32.7096666,
+    "iletisim": "03125020074"
   },
   {
     "name": "BUKET ECZANESİ",
@@ -12720,7 +13992,8 @@ export const locations = [
     "address": "PULUR MAH. AHİEMİR CAD. ESKİ GARAJLAR SK. NO:1/G",
     "contract": true,
     "latitude": 39.744809,
-    "longitude": 37.0237769
+    "longitude": 37.0237769,
+    "iletisim": "03462270606"
   },
   {
     "name": "KOÇAKOĞLU ECZANESİ",
@@ -12730,7 +14003,8 @@ export const locations = [
     "address": "SAHİBATA MAH. HAL SOKAK. NO:2/A",
     "contract": true,
     "latitude": 37.8668092,
-    "longitude": 32.4982798
+    "longitude": 32.4982798,
+    "iletisim": "03323520620"
   },
   {
     "name": "TUĞÇE ORAL ECZANESİ",
@@ -12740,7 +14014,8 @@ export const locations = [
     "address": "GÜRSELPAŞA MAH. 75566 SK. NO:7/C",
     "contract": true,
     "latitude": 37.0241663,
-    "longitude": 35.2653544
+    "longitude": 35.2653544,
+    "iletisim": "03225034443"
   },
   {
     "name": "GÖKÇE CEREN ECZANESİ",
@@ -12750,7 +14025,8 @@ export const locations = [
     "address": "BAĞLICA MAH. BAĞLICA BULVARI NO:24A-G",
     "contract": true,
     "latitude": 39.8963352,
-    "longitude": 32.6603852
+    "longitude": 32.6603852,
+    "iletisim": "03123360987"
   },
   {
     "name": "ARI ECZANESİ",
@@ -12760,7 +14036,8 @@ export const locations = [
     "address": "GÜZELOBA MAH. BARINAKLAR BLV. ARIKAN APT. NO:168/B",
     "contract": true,
     "latitude": 36.8598008,
-    "longitude": 30.8326663
+    "longitude": 30.8326663,
+    "iletisim": "02125043643"
   },
   {
     "name": "KARACA ECZANESİ",
@@ -12770,7 +14047,8 @@ export const locations = [
     "address": "ÖRTÜLÜPINAR MAH. HOCA AHMET YESEVİ CAD. YETİŞ APT. NO: 7/A",
     "contract": true,
     "latitude": 39.7460274,
-    "longitude": 37.0117774
+    "longitude": 37.0117774,
+    "iletisim": "03129990198"
   },
   {
     "name": "VERESELİ GÜNDOĞAN ECZANESİ",
@@ -12780,7 +14058,8 @@ export const locations = [
     "address": "MOĞULTAY MAH. NUPELDA-AYAZ GÜLOĞLU CADDESİ ATA SOKAK NO: 4/1",
     "contract": true,
     "latitude": 39.1066305,
-    "longitude": 39.54986239999999
+    "longitude": 39.54986239999999,
+    "iletisim": "04282121287"
   },
   {
     "name": "CADDE 50 ECZANESİ",
@@ -12790,7 +14069,8 @@ export const locations = [
     "address": "FIRAT MAH. MEZOPOTAMYA BULV. STAR PLUS SİTESİ NO:47/BA",
     "contract": true,
     "latitude": 37.9255788,
-    "longitude": 40.1453999
+    "longitude": 40.1453999,
+    "iletisim": "04125028818"
   },
   {
     "name": "CEVDET ECZANESİ",
@@ -12800,7 +14080,8 @@ export const locations = [
     "address": "İNÖNÜ MAH. SAĞLIK SOKAK ALİ SAİT BEY APT. NO:2/A",
     "contract": true,
     "latitude": 40.9562156,
-    "longitude": 39.73504020000001
+    "longitude": 39.73504020000001,
+    "iletisim": "04622241645"
   },
   {
     "name": "ÖZGE TOPTANİ ECZANESİ",
@@ -12810,7 +14091,8 @@ export const locations = [
     "address": "FINDIKLI MAH. GAZİ MUSTAFA KEMAL CAD. NO:135/",
     "contract": true,
     "latitude": 40.9715186,
-    "longitude": 29.1347256
+    "longitude": 29.1347256,
+    "iletisim": "02165900908"
   },
   {
     "name": "AKAR ECZANESİ",
@@ -12820,7 +14102,8 @@ export const locations = [
     "address": "KIZILAY MAH. NECATİBEY CAD. NO:53/A",
     "contract": true,
     "latitude": 39.922618,
-    "longitude": 32.848445
+    "longitude": 32.848445,
+    "iletisim": "03122294384"
   },
   {
     "name": "BURÇİN ECZANESİ",
@@ -12830,7 +14113,8 @@ export const locations = [
     "address": "BULGURLU MAH. SÖĞÜTLÜÇAYIR ÇEŞMESİ SOKAK. NO:13/A",
     "contract": true,
     "latitude": 41.0163075,
-    "longitude": 29.0798888
+    "longitude": 29.0798888,
+    "iletisim": "02523877286"
   },
   {
     "name": "SAKARYA ECZANESİ",
@@ -12840,7 +14124,8 @@ export const locations = [
     "address": "EMEK MAH. YEŞİLIRMAK CAD. NO:33/B",
     "contract": true,
     "latitude": 36.9157908,
-    "longitude": 30.7149302
+    "longitude": 30.7149302,
+    "iletisim": "02423257232"
   },
   {
     "name": "DURU ECZANESİ",
@@ -12850,7 +14135,8 @@ export const locations = [
     "address": "KIZILAY MAH. KUMRULAR CAD. NO:32/B",
     "contract": true,
     "latitude": 39.9212,
-    "longitude": 32.848321
+    "longitude": 32.848321,
+    "iletisim": "03122306419"
   },
   {
     "name": "KÜBRA ECZANESİ",
@@ -12860,7 +14146,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. ŞEHİT ALPAY EVİRGEN SK. NO:2/A",
     "contract": true,
     "latitude": 40.6008466,
-    "longitude": 33.6162068
+    "longitude": 33.6162068,
+    "iletisim": "04162131013"
   },
   {
     "name": "İCONOVA ECZANESİ",
@@ -12870,7 +14157,8 @@ export const locations = [
     "address": "15 TEMMUZ MAH. PROF. DR NECMETTİN ERBAKAN CAD. NO:74/MF",
     "contract": true,
     "latitude": 37.0514478,
-    "longitude": 37.3161945
+    "longitude": 37.3161945,
+    "iletisim": "03425030333"
   },
   {
     "name": "ÖZÜN ECZANESİ",
@@ -12880,7 +14168,8 @@ export const locations = [
     "address": "MİMAR SİNAN MAH. MİMAR SİNAN CAD. NO:10/A",
     "contract": true,
     "latitude": 41.03147500000001,
-    "longitude": 29.18211
+    "longitude": 29.18211,
+    "iletisim": "02166401045"
   },
   {
     "name": "AYLİN ECZANESİ",
@@ -12890,7 +14179,8 @@ export const locations = [
     "address": "KOŞUYOLU MAH. KOŞUYOLU CAD. NO:95/A",
     "contract": true,
     "latitude": 41.00468050000001,
-    "longitude": 29.032345
+    "longitude": 29.032345,
+    "iletisim": "02663736867"
   },
   {
     "name": "LOTUS ECZANESİ",
@@ -12900,7 +14190,8 @@ export const locations = [
     "address": "ÖRNEK MAH. FİKRİ SÖNMEZ CAD. NO:23/A",
     "contract": true,
     "latitude": 41.0451917,
-    "longitude": 28.6732702
+    "longitude": 28.6732702,
+    "iletisim": "05075200055"
   },
   {
     "name": "ARİFİYE ECZANESİ",
@@ -12910,7 +14201,8 @@ export const locations = [
     "address": "Arifbey Mah.Şehit Mustafa Sezer Cad.Kültür Mrk. B Blok no: 1",
     "contract": true,
     "latitude": 40.7160923,
-    "longitude": 30.3623307
+    "longitude": 30.3623307,
+    "iletisim": "02642291075"
   },
   {
     "name": "MALTEPE PLUS ECZANESİ",
@@ -12920,7 +14212,8 @@ export const locations = [
     "address": "Bağlarbaşı Mah.Bağdat Cad.No: 459/B1",
     "contract": true,
     "latitude": 40.9217202,
-    "longitude": 29.1362649
+    "longitude": 29.1362649,
+    "iletisim": "02164595586"
   },
   {
     "name": "ŞEHİR ECZANESİ",
@@ -12930,7 +14223,8 @@ export const locations = [
     "address": "YILDIZ MAH. KAZIM KARABEKİR CAD. NO:58/A",
     "contract": true,
     "latitude": 36.8925317,
-    "longitude": 30.6802884
+    "longitude": 30.6802884,
+    "iletisim": "02422377176"
   },
   {
     "name": "GÖKKUŞAĞI ECZANESİ",
@@ -12940,7 +14234,8 @@ export const locations = [
     "address": "BAĞCILAR MAH. EVRİM ALATAŞ CAD. BİRTANE 3 SİTESİ B BLOK ALTI NO:4",
     "contract": true,
     "latitude": 37.9169665,
-    "longitude": 40.1377035
+    "longitude": 40.1377035,
+    "iletisim": "04122901322"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -12950,7 +14245,8 @@ export const locations = [
     "address": "ATATÜRK CAD NO:151",
     "contract": true,
     "latitude": 41.1914696,
-    "longitude": 40.988404
+    "longitude": 40.988404,
+    "iletisim": "03247141116"
   },
   {
     "name": "ÜMİT ECZANESİ",
@@ -12960,7 +14256,8 @@ export const locations = [
     "address": "İSTASYON CAD. TARIM APT ALTI NO:201",
     "contract": true,
     "latitude": 37.8899618,
-    "longitude": 34.5606434
+    "longitude": 34.5606434,
+    "iletisim": "03883117498"
   },
   {
     "name": "LAL ECZANE OPTİK",
@@ -12970,7 +14267,8 @@ export const locations = [
     "address": "ŞEMSETTİN GÜNALTAY CAD. NO:300/C",
     "contract": true,
     "latitude": 39.891763,
-    "longitude": 32.88571
+    "longitude": 32.88571,
+    "iletisim": "03124962016"
   },
   {
     "name": "BOZANOĞLU ECZANESİ",
@@ -12980,7 +14278,8 @@ export const locations = [
     "address": "VEYSEL KARANİ MAHALLESİ YUNUSEMRE CAD NO:72/B ŞANLIURFA",
     "contract": true,
     "latitude": 37.173187,
-    "longitude": 38.813437
+    "longitude": 38.813437,
+    "iletisim": "04142156260"
   },
   {
     "name": "HACETTEPE ECZANESİ",
@@ -12990,7 +14289,8 @@ export const locations = [
     "address": "URFA BULVARI ALTINŞEHİR 2 PLAZA 5 NO:162/B",
     "contract": true,
     "latitude": 37.9249733,
-    "longitude": 40.2109826
+    "longitude": 40.2109826,
+    "iletisim": "03707253292"
   },
   {
     "name": "ATIL ECZANESİ",
@@ -13000,7 +14300,8 @@ export const locations = [
     "address": "ATAŞEHİR MAH. 8258/2 SOKAK. NO:2/C",
     "contract": true,
     "latitude": 38.486576,
-    "longitude": 27.06297
+    "longitude": 27.06297,
+    "iletisim": "02323942030"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -13010,7 +14311,8 @@ export const locations = [
     "address": "İNÖNÜ MAH. SAĞLIK SOKAK NO:2/B",
     "contract": true,
     "latitude": 40.999758,
-    "longitude": 39.6999635
+    "longitude": 39.6999635,
+    "iletisim": "03247141116"
   },
   {
     "name": "MERT ÖZKURT ECZANESİ",
@@ -13020,7 +14322,8 @@ export const locations = [
     "address": "Kurtuluş Mahallesi Mithat Saraçoğlu Caddesi No: 8/E",
     "contract": true,
     "latitude": 37.0009626,
-    "longitude": 35.32187589999999
+    "longitude": 35.32187589999999,
+    "iletisim": "03225020140"
   },
   {
     "name": "VATAN ECZANESİ",
@@ -13030,7 +14333,8 @@ export const locations = [
     "address": "ESENTEPE MAH. DEVA SOKAK. NO:6/A",
     "contract": true,
     "latitude": 41.155812,
-    "longitude": 27.8137319
+    "longitude": 27.8137319,
+    "iletisim": "03625321725"
   },
   {
     "name": "ŞEHİR ECZANESİ",
@@ -13040,7 +14344,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAH. HZ. FAKİRULLAH CAD. NO:11/B",
     "contract": true,
     "latitude": 37.9343465,
-    "longitude": 41.9369108
+    "longitude": 41.9369108,
+    "iletisim": "02422377176"
   },
   {
     "name": "BAHAR ECZANESİ",
@@ -13050,7 +14355,8 @@ export const locations = [
     "address": "ZİYA GÖKALP MAH. ATATÜRK BULVARI NO:81/A",
     "contract": true,
     "latitude": 37.8895167,
-    "longitude": 41.1292832
+    "longitude": 41.1292832,
+    "iletisim": "02124150510"
   },
   {
     "name": "ESRA ECZANESİ",
@@ -13060,7 +14366,8 @@ export const locations = [
     "address": "PAŞAKENT MAH. MEHMETCİK CAD. NO:168/A",
     "contract": true,
     "latitude": 40.3435948,
-    "longitude": 27.958285
+    "longitude": 27.958285,
+    "iletisim": "05325031065"
   },
   {
     "name": "ECZANE AYŞEGÜL",
@@ -13070,7 +14377,8 @@ export const locations = [
     "address": "FULYA MAH. BÜYÜKDERE CAD. NO:64/D",
     "contract": true,
     "latitude": 41.0663097,
-    "longitude": 28.996927
+    "longitude": 28.996927,
+    "iletisim": "02122744607"
   },
   {
     "name": "YAŞAMKENT DOĞA ECZANESİ",
@@ -13080,7 +14388,8 @@ export const locations = [
     "address": "YAŞAMKENT MAH. 3300 CAD. NO:6/A D:2-3",
     "contract": true,
     "latitude": 39.8556298,
-    "longitude": 32.6488911
+    "longitude": 32.6488911,
+    "iletisim": "03122173917"
   },
   {
     "name": "GÜVEN ECZANESİ",
@@ -13090,7 +14399,8 @@ export const locations = [
     "address": "GİRNE MAH. NARLIDERE CAD. NO:28/A",
     "contract": true,
     "latitude": 40.943365,
-    "longitude": 29.13926
+    "longitude": 29.13926,
+    "iletisim": "03122802411"
   },
   {
     "name": "UYGUN ECZANESİ",
@@ -13100,7 +14410,8 @@ export const locations = [
     "address": "FAHRETTİN KERİM GÖKAY CAD. NO:8/A (ACIBADEM ALTUNİZADE HASTANESİ ACİL BÖLÜMÜ YANI)",
     "contract": true,
     "latitude": 40.992872,
-    "longitude": 29.03875
+    "longitude": 29.03875,
+    "iletisim": "02165962000"
   },
   {
     "name": "MİR ECZANESİ",
@@ -13110,7 +14421,8 @@ export const locations = [
     "address": "PINARBAŞI MAH. 2211 SOKAK NO: 6/A",
     "contract": true,
     "latitude": 37.8259651,
-    "longitude": 41.1243068
+    "longitude": 41.1243068,
+    "iletisim": "04882152222"
   },
   {
     "name": "ŞENOL ECZANE OPTİK",
@@ -13120,7 +14432,8 @@ export const locations = [
     "address": "DALYAN MAH. ATATÜRK CAD. NO:13/B",
     "contract": true,
     "latitude": 37.6797896,
-    "longitude": 31.7249089
+    "longitude": 31.7249089,
+    "iletisim": "03325124732"
   },
   {
     "name": "ASRIN ECZANESİ",
@@ -13130,7 +14443,8 @@ export const locations = [
     "address": "ALİBEY MAH. FEVZİ ÇAKMAK CAD. NO:8/B",
     "contract": true,
     "latitude": 41.074574,
-    "longitude": 28.248761
+    "longitude": 28.248761,
+    "iletisim": "02324461310"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -13140,7 +14454,8 @@ export const locations = [
     "address": "HÜRRİYET MAH. MAHMUT BEY CAD. NO:7/C",
     "contract": true,
     "latitude": 40.9929405,
-    "longitude": 28.842979
+    "longitude": 28.842979,
+    "iletisim": "02744124152"
   },
   {
     "name": "AYŞEN SÜYECE ECZANESİ",
@@ -13150,7 +14465,8 @@ export const locations = [
     "address": "GİRNE BULVARI NO:29/B",
     "contract": true,
     "latitude": 38.480189,
-    "longitude": 27.1153623
+    "longitude": 27.1153623,
+    "iletisim": "02323236561"
   },
   {
     "name": "SU ECZANESİ",
@@ -13160,7 +14476,8 @@ export const locations = [
     "address": "YAHYAKAPTAN MAH. BESTEKAR MİR ATEŞ CAD. NO:29/B",
     "contract": true,
     "latitude": 40.7683026,
-    "longitude": 29.9769441
+    "longitude": 29.9769441,
+    "iletisim": "03124186654"
   },
   {
     "name": "ÖMÜR ECZANESİ",
@@ -13170,7 +14487,8 @@ export const locations = [
     "address": "AZİZİYE MAH. MİLLİ EGEMENLİK CAD. NO:8",
     "contract": true,
     "latitude": 38.2680418,
-    "longitude": 39.7615614
+    "longitude": 39.7615614,
+    "iletisim": "02464415557"
   },
   {
     "name": "BEYZA ALTAY ECZANESİ",
@@ -13180,7 +14498,8 @@ export const locations = [
     "address": "HAMZABEY MAH. SEYİT AHMET SOKAK NO:15/1",
     "contract": true,
     "latitude": 40.0397891,
-    "longitude": 28.4066169
+    "longitude": 28.4066169,
+    "iletisim": "02246141414"
   },
   {
     "name": "ÖZGÜN ECZANESİ",
@@ -13190,7 +14509,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAH. YAŞAR AKSOY SOKAK: NO:119/F",
     "contract": true,
     "latitude": 38.4665204,
-    "longitude": 27.1192366
+    "longitude": 27.1192366,
+    "iletisim": "02323830400"
   },
   {
     "name": "ÖZLEM ECZANESİ",
@@ -13200,7 +14520,8 @@ export const locations = [
     "address": "YENİ MAH. GARİP CAD. NO:39",
     "contract": true,
     "latitude": 39.233578,
-    "longitude": 42.86330299999999
+    "longitude": 42.86330299999999,
+    "iletisim": "02483251340"
   },
   {
     "name": "AYLİN KESKİN ECZANESİ",
@@ -13210,7 +14531,8 @@ export const locations = [
     "address": "ÇARŞI MAH. İNÖNÜ CAD. NO:63",
     "contract": true,
     "latitude": 41.1802041,
-    "longitude": 41.8194937
+    "longitude": 41.8194937,
+    "iletisim": "04662121015"
   },
   {
     "name": "ADA ECZANESİ",
@@ -13220,7 +14542,8 @@ export const locations = [
     "address": "HOŞNUDİYE MAH. 738 SOKAK NO:10/C",
     "contract": true,
     "latitude": 39.779352,
-    "longitude": 30.5020001
+    "longitude": 30.5020001,
+    "iletisim": "05455201102"
   },
   {
     "name": "SAĞDUYU ECZANESİ",
@@ -13230,7 +14553,8 @@ export const locations = [
     "address": "YEŞİLBAYIR MAH. SAĞDUYU CAD. NO:77/C",
     "contract": true,
     "latitude": 39.904162,
-    "longitude": 32.963001
+    "longitude": 32.963001,
+    "iletisim": "05063417831"
   },
   {
     "name": "YENİ GELİBOLU ECZANESİ",
@@ -13240,7 +14564,8 @@ export const locations = [
     "address": "BAĞLARBAŞI MAH. AŞİYAN SOKAK NO:5/B",
     "contract": true,
     "latitude": 40.92566,
-    "longitude": 29.1344536
+    "longitude": 29.1344536,
+    "iletisim": "02163834527"
   },
   {
     "name": "ADA ECZANESİ",
@@ -13250,7 +14575,8 @@ export const locations = [
     "address": "BAHARİYE MAH. HİDAYET ERZEYBEK CAD. NO:55/B",
     "contract": true,
     "latitude": 38.4613758,
-    "longitude": 27.1203593
+    "longitude": 27.1203593,
+    "iletisim": "05455201102"
   },
   {
     "name": "EYLÜL ECZANESİ",
@@ -13260,7 +14586,8 @@ export const locations = [
     "address": "MİLLİ EGEMELİK MEYDANI AYDIN DOĞAN CAD. NO:31",
     "contract": true,
     "latitude": 40.129592,
-    "longitude": 39.4365037
+    "longitude": 39.4365037,
+    "iletisim": "03122299679"
   },
   {
     "name": "AYŞEGÜLÜN ECZANESİ",
@@ -13270,7 +14597,8 @@ export const locations = [
     "address": "GÜZELTEPE MAHALLESİ HALİT ZİYA CAD. NO:4/B",
     "contract": true,
     "latitude": 39.8852886,
-    "longitude": 32.8488345
+    "longitude": 32.8488345,
+    "iletisim": "03124359641"
   },
   {
     "name": "ALARA ECZANESİ",
@@ -13280,7 +14608,8 @@ export const locations = [
     "address": "KORKUT REİS MAH. GAZİ MUSTAFA KEMAL BULVARI SEDEF APT. NO:34",
     "contract": true,
     "latitude": 39.9251873,
-    "longitude": 32.8479179
+    "longitude": 32.8479179,
+    "iletisim": "03122314052"
   },
   {
     "name": "CANDAN ECZANESİ",
@@ -13290,7 +14619,8 @@ export const locations = [
     "address": "FATİH MAH. CENGİZ TOPEL CAD. MİMOZA SOKAK A2 BLOK NO:79/1U",
     "contract": true,
     "latitude": 41.0652602,
-    "longitude": 28.8075322
+    "longitude": 28.8075322,
+    "iletisim": "02128122378"
   },
   {
     "name": "DUYGU ECZANESİ",
@@ -13300,7 +14630,8 @@ export const locations = [
     "address": "ERTUĞRUL MAH. MUSTAFA YAZICI CAD. NO: 9/A",
     "contract": true,
     "latitude": 39.1157073,
-    "longitude": 27.1767429
+    "longitude": 27.1767429,
+    "iletisim": "02326757050"
   },
   {
     "name": "TUĞÇE ECZANESİ",
@@ -13310,7 +14641,8 @@ export const locations = [
     "address": "İSKELE MAH. DR. TURGUT DÜNDAR CAD. NO:12/C",
     "contract": true,
     "latitude": 36.7271835,
-    "longitude": 27.6875296
+    "longitude": 27.6875296,
+    "iletisim": "02163638785"
   },
   {
     "name": "ASLIGÜL ECZANESİ",
@@ -13320,7 +14652,8 @@ export const locations = [
     "address": "KIBRIS CAD. UMUT SOKAK NO:4/11 KURTULUŞ",
     "contract": true,
     "latitude": 39.926246,
-    "longitude": 32.867582
+    "longitude": 32.867582,
+    "iletisim": "03124337077"
   },
   {
     "name": "DERYA ECZANESİ",
@@ -13330,7 +14663,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. CUMHURİYET BULVARI NO:212/A",
     "contract": true,
     "latitude": 40.5431982,
-    "longitude": 41.9878507
+    "longitude": 41.9878507,
+    "iletisim": "02566180508"
   },
   {
     "name": "DÜNYA ECZANESİ",
@@ -13340,7 +14674,8 @@ export const locations = [
     "address": "ESENLİK MAH. ORDU CAD. NO:102/C YEŞİLYURT",
     "contract": true,
     "latitude": 38.39727,
-    "longitude": 27.112895
+    "longitude": 27.112895,
+    "iletisim": "02165679302"
   },
   {
     "name": "YENİCE ECZANESİ",
@@ -13350,7 +14685,8 @@ export const locations = [
     "address": "HAMİDİYE MAH. RECAİ KURUOĞLU BULV. NO: 2/A",
     "contract": true,
     "latitude": 41.8040329,
-    "longitude": 35.194973
+    "longitude": 35.194973,
+    "iletisim": "03687184885"
   },
   {
     "name": "PINAR KAYNAR ECZANESİ",
@@ -13360,7 +14696,8 @@ export const locations = [
     "address": "PROF. DR. AHMET TANER KIŞLALI MAH. ALACAATLI CAD. NO:12/10 ÇAYYOLU",
     "contract": true,
     "latitude": 39.8698625,
-    "longitude": 32.6861043
+    "longitude": 32.6861043,
+    "iletisim": "03122402030"
   },
   {
     "name": "TORUN ECZANESİ",
@@ -13370,7 +14707,8 @@ export const locations = [
     "address": "PROF. DR. AHMET TANER KIŞLALI MAH. ALACAATLI CAD. NO:36/1",
     "contract": true,
     "latitude": 39.8633911,
-    "longitude": 32.6820471
+    "longitude": 32.6820471,
+    "iletisim": "03125116050"
   },
   {
     "name": "ÇAMLICA ŞİFA ECZANESİ",
@@ -13380,7 +14718,8 @@ export const locations = [
     "address": "KISIKLI MAH. ALEMDAĞ YAN YOLU CAD. KASRAN PLAZA NO:24/B",
     "contract": true,
     "latitude": 41.0247043,
-    "longitude": 29.0813134
+    "longitude": 29.0813134,
+    "iletisim": "02163299755"
   },
   {
     "name": "MARAŞ ECZANESİ",
@@ -13390,7 +14729,8 @@ export const locations = [
     "address": "KEMERKAYA MAH. KAHRAMANMARAŞ CAD.TİCARET MEKTEP SOKAK KURŞUNOVA APARTMANI NO:6/A",
     "contract": true,
     "latitude": 41.0058304,
-    "longitude": 39.7281371
+    "longitude": 39.7281371,
+    "iletisim": "04623242626"
   },
   {
     "name": "SERAP ECZANESİ",
@@ -13400,7 +14740,8 @@ export const locations = [
     "address": "GÜÇLÜKAYA MAH. ZİLELİLER CAD. NO:9/F",
     "contract": true,
     "latitude": 39.9796882,
-    "longitude": 32.8699305
+    "longitude": 32.8699305,
+    "iletisim": "03123597241"
   },
   {
     "name": "FURKAN ECZANESİ",
@@ -13410,7 +14751,8 @@ export const locations = [
     "address": "Köşk Mah.Kışla Cad.No:51/A",
     "contract": true,
     "latitude": 38.7231667,
-    "longitude": 35.5174012
+    "longitude": 35.5174012,
+    "iletisim": "03522374393"
   },
   {
     "name": "ONUR ECZANESİ",
@@ -13420,7 +14762,8 @@ export const locations = [
     "address": "Andifli Mahallesi Atatürk Bulvarı No:1/1",
     "contract": true,
     "latitude": 36.1996011,
-    "longitude": 29.6396647
+    "longitude": 29.6396647,
+    "iletisim": "03266184045"
   },
   {
     "name": "PERA ECZANESİ",
@@ -13430,7 +14773,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAH. DEMOKRASİ BULV. NO:6/Z02 (ZEMİN 2. KAT)",
     "contract": true,
     "latitude": 36.7856925,
-    "longitude": 31.4404724
+    "longitude": 31.4404724,
+    "iletisim": "02427427372"
   },
   {
     "name": "DEMİRCAN ECZANESİ",
@@ -13440,7 +14784,8 @@ export const locations = [
     "address": "YAŞAMKENT MAH. 3250. CAD. ANKA MEYDAN AVM NO:26C/39",
     "contract": true,
     "latitude": 39.8578492,
-    "longitude": 32.6361587
+    "longitude": 32.6361587,
+    "iletisim": "03125113300"
   },
   {
     "name": "KOFOĞLU ECZANESİ",
@@ -13450,7 +14795,8 @@ export const locations = [
     "address": "KEMERKAYA MAH. HALKEVİ CAD. TEMEL APT. NO:22/A",
     "contract": true,
     "latitude": 41.0080058,
-    "longitude": 39.7288345
+    "longitude": 39.7288345,
+    "iletisim": "04623225050"
   },
   {
     "name": "GİZEM NUR ECZANESİ",
@@ -13460,7 +14806,8 @@ export const locations = [
     "address": "ELMASBAHÇELER MAH. GAZLI SOKAK NO:68/4",
     "contract": true,
     "latitude": 40.1921143,
-    "longitude": 29.0767293
+    "longitude": 29.0767293,
+    "iletisim": "02242513210"
   },
   {
     "name": "SOYLAR ECZANESİ",
@@ -13470,7 +14817,8 @@ export const locations = [
     "address": "SAVRUN MAH. ATATÜRK CAD. NO:28/B",
     "contract": true,
     "latitude": 37.3690969,
-    "longitude": 36.0973303
+    "longitude": 36.0973303,
+    "iletisim": "03287181353"
   },
   {
     "name": "İSKELE ECZANESİ",
@@ -13480,7 +14828,8 @@ export const locations = [
     "address": "KEMALPAŞA MAH.CUMHURİYET BULVARI NO:34",
     "contract": true,
     "latitude": 40.1499004,
-    "longitude": 26.40334
+    "longitude": 26.40334,
+    "iletisim": "02862135755"
   },
   {
     "name": "GÖKÇE ECZANESİ",
@@ -13490,7 +14839,8 @@ export const locations = [
     "address": "ATA MAH.TEPECİK BULVARI NO 35 EFELER",
     "contract": true,
     "latitude": 37.8379346,
-    "longitude": 27.8555752
+    "longitude": 27.8555752,
+    "iletisim": "02268111357"
   },
   {
     "name": "OKTAY ECZANESİ",
@@ -13500,7 +14850,8 @@ export const locations = [
     "address": "Bahçelievler mah.Cumhuriyet cad. no:64/A",
     "contract": true,
     "latitude": 39.8118523,
-    "longitude": 35.1863481
+    "longitude": 35.1863481,
+    "iletisim": "03544153148"
   },
   {
     "name": "YÜCE ECZANESİ",
@@ -13510,7 +14861,8 @@ export const locations = [
     "address": "BAĞLARBAŞI MAHALLESİ KAZIM KARABEKİR CADDESİ NO:28/B",
     "contract": true,
     "latitude": 40.4366361,
-    "longitude": 39.5086007
+    "longitude": 39.5086007,
+    "iletisim": "04562137083"
   },
   {
     "name": "BEYAZ KÖŞK ECZANESİ",
@@ -13520,7 +14872,8 @@ export const locations = [
     "address": "FENERYOLU MAH. BAĞDAT CAD. NO:61/A",
     "contract": true,
     "latitude": 40.9829403,
-    "longitude": 29.0406512
+    "longitude": 29.0406512,
+    "iletisim": "02163373020"
   },
   {
     "name": "BAHARİYE CADDE ECZANESİ",
@@ -13530,7 +14883,8 @@ export const locations = [
     "address": "OSMANAĞA MAHALLESİ GENERAL ASIM GÜNDÜZ. CAD. NO:17/C",
     "contract": true,
     "latitude": 40.9888193,
-    "longitude": 29.0289496
+    "longitude": 29.0289496,
+    "iletisim": "02165505302"
   },
   {
     "name": "DEVA ECZANESİ",
@@ -13540,7 +14894,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. KAZIM KARABEKİR SK. SAĞLIK SİTESİ A BLOK NO:1",
     "contract": true,
     "latitude": 37.7697758,
-    "longitude": 29.3714909
+    "longitude": 29.3714909,
+    "iletisim": "04462233323"
   },
   {
     "name": "ZAFER ECZANESİ",
@@ -13550,7 +14905,8 @@ export const locations = [
     "address": "GÜVENEVLER MAH. 1 CAD. NO:101/B",
     "contract": true,
     "latitude": 36.784443,
-    "longitude": 34.5887461
+    "longitude": 34.5887461,
+    "iletisim": "04623223233"
   },
   {
     "name": "DEVA ECZANESİ",
@@ -13560,7 +14916,8 @@ export const locations = [
     "address": "CUMHURİYET MAH.KAZIM KARABEKİR SOK.SAĞLIK SİTESİ A BLOK N:1",
     "contract": true,
     "latitude": 37.7697758,
-    "longitude": 29.3714909
+    "longitude": 29.3714909,
+    "iletisim": "04462233323"
   },
   {
     "name": "TOHUM ECZANESİ",
@@ -13570,7 +14927,8 @@ export const locations = [
     "address": "Şerifali Mah.Çetin Cad.No:71/D",
     "contract": true,
     "latitude": 40.99751879999999,
-    "longitude": 29.1397709
+    "longitude": 29.1397709,
+    "iletisim": "02164999555"
   },
   {
     "name": "HÜLYAM ECZANESİ",
@@ -13580,7 +14938,8 @@ export const locations = [
     "address": "BANGABANDHU ŞEYH MUCİBURRAHMAN BULVARI NO:94D-12C",
     "contract": true,
     "latitude": 39.8883161,
-    "longitude": 32.6863287
+    "longitude": 32.6863287,
+    "iletisim": "03122412523"
   },
   {
     "name": "BİSMİL ECZANESİ",
@@ -13590,7 +14949,8 @@ export const locations = [
     "address": "ALTIOK MAHALLESİ ÖZGÜRLÜK BULVARI NO:56",
     "contract": true,
     "latitude": 37.8485181,
-    "longitude": 40.663659
+    "longitude": 40.663659,
+    "iletisim": "04124151075"
   },
   {
     "name": "DEMİRAY ECZANESİ",
@@ -13600,7 +14960,8 @@ export const locations = [
     "address": "Orta Mah.Yusuf Efendi Sokak No:4/C KARTAL",
     "contract": true,
     "latitude": 40.9147889,
-    "longitude": 29.2048976
+    "longitude": 29.2048976,
+    "iletisim": "02163097099"
   },
   {
     "name": "DENİZİM ECZANESİ",
@@ -13610,7 +14971,8 @@ export const locations = [
     "address": "Bahçeli evler mah.3007.sok.no:28/A MERKEZEFENDİ",
     "contract": true,
     "latitude": 37.7738793,
-    "longitude": 29.0437652
+    "longitude": 29.0437652,
+    "iletisim": "03122851307"
   },
   {
     "name": "ARSUZ ECZANESİ",
@@ -13620,7 +14982,8 @@ export const locations = [
     "address": "Uluçınar mah.yıldızlar cad.no:12",
     "contract": true,
     "latitude": 36.4122745,
-    "longitude": 35.890322
+    "longitude": 35.890322,
+    "iletisim": "03266432005"
   },
   {
     "name": "İLKBAHAR ECZANESİ",
@@ -13630,7 +14993,8 @@ export const locations = [
     "address": "Meydan kavşağı mah.1610 sok.no:9/2",
     "contract": true,
     "latitude": 36.8816453,
-    "longitude": 30.73598
+    "longitude": 30.73598,
+    "iletisim": "02423496666"
   },
   {
     "name": "EGE ECZANESİ",
@@ -13640,7 +15004,8 @@ export const locations = [
     "address": "KARAMANLI MAH. İSMET PAŞA CAD. NO:82/A ABAT APARTMANI",
     "contract": true,
     "latitude": 40.7342124,
-    "longitude": 31.6045933
+    "longitude": 31.6045933,
+    "iletisim": "05405101020"
   },
   {
     "name": "GÜNEŞİM ECZANESİ",
@@ -13650,7 +15015,8 @@ export const locations = [
     "address": "ŞÜKRÜPAŞA MAH. ABDİ İPEKÇİ CAD. NO:11/14",
     "contract": true,
     "latitude": 41.6659839,
-    "longitude": 26.5984445
+    "longitude": 26.5984445,
+    "iletisim": "02843363636"
   },
   {
     "name": "BEYZA ECZANESİ",
@@ -13660,7 +15026,8 @@ export const locations = [
     "address": "EFELER MAH. ALAÇAM CAD. NO:1",
     "contract": true,
     "latitude": 37.8428684,
-    "longitude": 27.832944
+    "longitude": 27.832944,
+    "iletisim": "03462222206"
   },
   {
     "name": "ÇAĞDAŞ ECZANESİ",
@@ -13670,7 +15037,8 @@ export const locations = [
     "address": "HAFİZİYE MAH. K.KARABEKİR BULVARI FERGÜL OFİS NO: 41",
     "contract": true,
     "latitude": 38.4998405,
-    "longitude": 43.3820117
+    "longitude": 43.3820117,
+    "iletisim": "04325036060"
   },
   {
     "name": "NUMUNE ECZANESİ",
@@ -13680,7 +15048,8 @@ export const locations = [
     "address": "TALATPAŞA BULVARI 9/C SAMANPAZARI",
     "contract": true,
     "latitude": 39.9336612,
-    "longitude": 32.857687
+    "longitude": 32.857687,
+    "iletisim": "03123100410"
   },
   {
     "name": "SAHİL ECZANESİ",
@@ -13690,7 +15059,8 @@ export const locations = [
     "address": "FENERBAHÇE MAH. OPR.CEMİL TOPUZLU CAD.NO:39/A",
     "contract": true,
     "latitude": 40.9715297,
-    "longitude": 29.0525171
+    "longitude": 29.0525171,
+    "iletisim": "02165774466"
   },
   {
     "name": "BATUHAN ECZANESİ",
@@ -13700,7 +15070,8 @@ export const locations = [
     "address": "Aşağı Hisar Mah. 4504 sok.no:8/B MANAVGAT/ANTALYA",
     "contract": true,
     "latitude": 36.7853501,
-    "longitude": 31.4471558
+    "longitude": 31.4471558,
+    "iletisim": "02427460500"
   },
   {
     "name": "HÜLYA ECZANESİ",
@@ -13710,7 +15081,8 @@ export const locations = [
     "address": "BEYLERBEYİ MAH. ABDULLAHAĞA CAD. NO:7/B",
     "contract": true,
     "latitude": 41.0435925,
-    "longitude": 29.0439733
+    "longitude": 29.0439733,
+    "iletisim": "02164227290"
   },
   {
     "name": "ESİN ECZANESİ",
@@ -13720,7 +15092,8 @@ export const locations = [
     "address": "OSMAN YILMAZ MAHALLESİ İLYAS UZUNER CADDESİ NO: 17/B",
     "contract": true,
     "latitude": 40.7914555,
-    "longitude": 29.4224981
+    "longitude": 29.4224981,
+    "iletisim": "05388416297"
   },
   {
     "name": "BİLGE ECZANESİ",
@@ -13730,7 +15103,8 @@ export const locations = [
     "address": "ULUDAĞ MAH. OK SOKAK NO:5/A",
     "contract": true,
     "latitude": 41.2670434,
-    "longitude": 36.3657013
+    "longitude": 36.3657013,
+    "iletisim": "02164468206"
   },
   {
     "name": "LEVENT BAYYURT ECZANESİ",
@@ -13740,7 +15114,8 @@ export const locations = [
     "address": "MÜEYYETZADE MAH. KEMERALTI CAD. NO:5/D",
     "contract": true,
     "latitude": 41.0244166,
-    "longitude": 28.9760357
+    "longitude": 28.9760357,
+    "iletisim": "02122494910"
   },
   {
     "name": "EZGİ ECZANESİ",
@@ -13750,7 +15125,8 @@ export const locations = [
     "address": "YUNUSEMRE MAH. 1. KIZILIRMAK SOKAK. NO:88/A",
     "contract": true,
     "latitude": 40.2105942,
-    "longitude": 29.1018538
+    "longitude": 29.1018538,
+    "iletisim": "03129998044"
   },
   {
     "name": "19 MAYIS ECZANESİ",
@@ -13760,7 +15136,8 @@ export const locations = [
     "address": "19 MAYIS MAH. HİLMİPAŞA SOKAK. NO:11-B ÇAMLICA APT.",
     "contract": true,
     "latitude": 40.9700336,
-    "longitude": 29.0896142
+    "longitude": 29.0896142,
+    "iletisim": "02163807766"
   },
   {
     "name": "SİBEL KOÇAK ECZANESİ",
@@ -13770,7 +15147,8 @@ export const locations = [
     "address": "İNÖNÜ MAH. GMK BULVARI UĞUR APT. NO:337/B",
     "contract": true,
     "latitude": 36.8121041,
-    "longitude": 34.6414811
+    "longitude": 34.6414811,
+    "iletisim": "03243266061"
   },
   {
     "name": "ŞEYDA ECZANESİ",
@@ -13780,7 +15158,8 @@ export const locations = [
     "address": "KAMİL OCAK MAH. DEVREK SOK. NO:23/A",
     "contract": true,
     "latitude": 39.9862876,
-    "longitude": 32.8811447
+    "longitude": 32.8811447,
+    "iletisim": "03123556000"
   },
   {
     "name": "ÖNDER ECZANESİ",
@@ -13790,7 +15169,8 @@ export const locations = [
     "address": "ACIBADEM MAH. ACIBADEM CAD. NO:125/B",
     "contract": true,
     "latitude": 41.0072744,
-    "longitude": 29.0475229
+    "longitude": 29.0475229,
+    "iletisim": "02462328404"
   },
   {
     "name": "ÖYKÜM ECZANESİ",
@@ -13800,7 +15180,8 @@ export const locations = [
     "address": "DEDEBAŞI MAH. ORDU BULVARI NO:95/D",
     "contract": true,
     "latitude": 38.4687119,
-    "longitude": 27.106069
+    "longitude": 27.106069,
+    "iletisim": "02329993536"
   },
   {
     "name": "YILDIZKENT KAVŞAK ECZANESİ",
@@ -13810,7 +15191,8 @@ export const locations = [
     "address": "HÜSEYİN AVNİ ULAŞ MAH. ALPARSLAN TÜRKEŞ BULVARI. NO:181/B",
     "contract": true,
     "latitude": 39.8861224,
-    "longitude": 41.2391309
+    "longitude": 41.2391309,
+    "iletisim": "04423422283"
   },
   {
     "name": "KUZEY YAKA ECZANESİ",
@@ -13820,7 +15202,8 @@ export const locations = [
     "address": "ZİYA GÖKALP MAH. DR.KADİR TOPBAŞ CAD. MAVERA COMFORT SİTESİ T2 BLOK 4AHD NO:4",
     "contract": true,
     "latitude": 41.0836118,
-    "longitude": 28.771456
+    "longitude": 28.771456,
+    "iletisim": "02128903327"
   },
   {
     "name": "CADDE 360 ECZANESİ",
@@ -13830,7 +15213,8 @@ export const locations = [
     "address": "BAĞDAT CAD. NO:327/A CADDEBOSTAN ERENKÖY",
     "contract": true,
     "latitude": 40.96547150000001,
-    "longitude": 29.0720196
+    "longitude": 29.0720196,
+    "iletisim": "02163580968"
   },
   {
     "name": "VERESELİ YENİ YÜKSELİŞ ECZANESİ",
@@ -13840,7 +15224,8 @@ export const locations = [
     "address": "Eti Mah. GMK Bulvarı No:72/C ÇANKAYA/ANKARA",
     "contract": true,
     "latitude": 39.929787,
-    "longitude": 32.845871
+    "longitude": 32.845871,
+    "iletisim": "03122292491"
   },
   {
     "name": "DUMLUPINAR ECZANESİ",
@@ -13850,7 +15235,8 @@ export const locations = [
     "address": "MANDIRA CAD. MEHTAP SOK.11/B FİKİRTEPE",
     "contract": true,
     "latitude": 40.9673484,
-    "longitude": 29.0589132
+    "longitude": 29.0589132,
+    "iletisim": "02165650607"
   },
   {
     "name": "BOR ECZANESİ",
@@ -13860,7 +15246,8 @@ export const locations = [
     "address": "SELÇUK MAH. İSTASYON CAD. NO:19/B",
     "contract": true,
     "latitude": 37.8888842,
-    "longitude": 34.561326
+    "longitude": 34.561326,
+    "iletisim": "03883117685"
   },
   {
     "name": "EKİN ECZANESİ",
@@ -13870,7 +15257,8 @@ export const locations = [
     "address": "GÜMÜŞPINAR MAH. ATATÜRK CAD. NO:123B SOĞANLIK/KARTAL",
     "contract": true,
     "latitude": 40.9155637,
-    "longitude": 29.2043733
+    "longitude": 29.2043733,
+    "iletisim": "02163778455"
   },
   {
     "name": "ÖZGE ECZANESİ",
@@ -13880,7 +15268,8 @@ export const locations = [
     "address": "KURUÇEŞME MAH. 205 SOKAK NO:26/A",
     "contract": true,
     "latitude": 38.370342,
-    "longitude": 27.193071
+    "longitude": 27.193071,
+    "iletisim": "02325028584"
   },
   {
     "name": "BERHAYAT ECZANESİ",
@@ -13890,7 +15279,8 @@ export const locations = [
     "address": "ALLEBEN MAH.KEMAL KOKER CAD.PAPATYA APT.NO: 39/A ŞAHİNBEY",
     "contract": true,
     "latitude": 37.0637426,
-    "longitude": 37.3703455
+    "longitude": 37.3703455,
+    "iletisim": "03423438666"
   },
   {
     "name": "FATİH EREN ECZANESİ",
@@ -13900,7 +15290,8 @@ export const locations = [
     "address": "güselpaş mah.yüzbaşı pilot mehmet ali kurcer cad.b/2 blok no:45/d seyhan",
     "contract": true,
     "latitude": 37.0154332,
-    "longitude": 35.2645838
+    "longitude": 35.2645838,
+    "iletisim": "03229994598"
   },
   {
     "name": "TOPATAN ECZANESİ",
@@ -13910,7 +15301,8 @@ export const locations = [
     "address": "ihsaniye mah.sultan cem cad.no:4/b selçuklu",
     "contract": true,
     "latitude": 37.8708923,
-    "longitude": 32.484763
+    "longitude": 32.484763,
+    "iletisim": "03323517523"
   },
   {
     "name": "DENİZ KUZUDİŞLİ ECZANESİ",
@@ -13920,7 +15312,8 @@ export const locations = [
     "address": "ALACAATLI MAH. 3381. 1 CAD NO:36-C\\N",
     "contract": true,
     "latitude": 39.8599313,
-    "longitude": 32.6764999
+    "longitude": 32.6764999,
+    "iletisim": "03125129612"
   },
   {
     "name": "ETİMESGUT CADDE ECZANESİ",
@@ -13930,7 +15323,8 @@ export const locations = [
     "address": "30 AĞUSTOS MAH. ŞEHİT HİKMET ÖZER CAD. NO:48/A",
     "contract": true,
     "latitude": 39.9452316,
-    "longitude": 32.6604983
+    "longitude": 32.6604983,
+    "iletisim": "03122453434"
   },
   {
     "name": "RUMELİ ECZANESİ",
@@ -13940,7 +15334,8 @@ export const locations = [
     "address": "Hürriye mah.Eski Edirne Asfaltı cad. no:182/1B",
     "contract": true,
     "latitude": 41.0688783,
-    "longitude": 28.8953736
+    "longitude": 28.8953736,
+    "iletisim": "02126178617"
   },
   {
     "name": "ASİL ECZANESİ",
@@ -13950,7 +15345,8 @@ export const locations = [
     "address": "feneryolu mah.feneryolu sok.no:20/c-d",
     "contract": true,
     "latitude": 40.98378719999999,
-    "longitude": 29.0468564
+    "longitude": 29.0468564,
+    "iletisim": "03125620202"
   },
   {
     "name": "NATUREL ECZANESİ",
@@ -13960,7 +15356,8 @@ export const locations = [
     "address": "Fenerbahçe mah. OP.Cemil Topuzlu cad. no:19/A KADIKÖY",
     "contract": true,
     "latitude": 40.9730376,
-    "longitude": 29.0500612
+    "longitude": 29.0500612,
+    "iletisim": "02167718887"
   },
   {
     "name": "KEREM DEMİRGİL ECZANESİ",
@@ -13970,7 +15367,8 @@ export const locations = [
     "address": "Fenerbahçe mah.Bağdat cad. no:38/A",
     "contract": true,
     "latitude": 40.9830725,
-    "longitude": 29.0399932
+    "longitude": 29.0399932,
+    "iletisim": "02163680670"
   },
   {
     "name": "ÖZEL İLGİM ECZANESİ",
@@ -13980,7 +15378,8 @@ export const locations = [
     "address": "30 Ağustos Mah.Şehit Hasan Öztürk Cad.No:9/A",
     "contract": true,
     "latitude": 39.946634,
-    "longitude": 32.659219
+    "longitude": 32.659219,
+    "iletisim": "03122454488"
   },
   {
     "name": "IŞIL ECZANESİ",
@@ -13990,7 +15389,8 @@ export const locations = [
     "address": "Zeytinlik Mah.Fişikhane Cad.No:24/C",
     "contract": true,
     "latitude": 40.98203669999999,
-    "longitude": 28.904672
+    "longitude": 28.904672,
+    "iletisim": "02125725517"
   },
   {
     "name": "BOTANİK ECZANESİ",
@@ -14000,7 +15400,8 @@ export const locations = [
     "address": "Merkez Mah.İstanbul Cad.No:30/A",
     "contract": true,
     "latitude": 41.0340281,
-    "longitude": 28.860433
+    "longitude": 28.860433,
+    "iletisim": "02128095154"
   },
   {
     "name": "HİLAL ECZANESİ",
@@ -14010,7 +15411,8 @@ export const locations = [
     "address": "CUMHURİYET MAHALLESİ ERZURUM CADDESİ NO: 210",
     "contract": true,
     "latitude": 40.5467453,
-    "longitude": 41.9884107
+    "longitude": 41.9884107,
+    "iletisim": "03442153400"
   },
   {
     "name": "GÜLALİ ECZANESİ",
@@ -14020,7 +15422,8 @@ export const locations = [
     "address": "GAZİ MAHALLESİ TAYFUR SÖKMEN CADDESİ NO: 108/A",
     "contract": true,
     "latitude": 36.5024895,
-    "longitude": 36.3647671
+    "longitude": 36.3647671,
+    "iletisim": "03263450326"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -14030,7 +15433,8 @@ export const locations = [
     "address": "Ayyıldız Mah.1624 CADDE No:3B/15",
     "contract": true,
     "latitude": 39.9414019,
-    "longitude": 32.6151979
+    "longitude": 32.6151979,
+    "iletisim": "02323813135"
   },
   {
     "name": "KIZILELMA ECZANESİ",
@@ -14040,7 +15444,8 @@ export const locations = [
     "address": "Seyit Ömer Mah.Kızılelma Cad.No: 60/1B",
     "contract": true,
     "latitude": 41.0075659,
-    "longitude": 28.9365909
+    "longitude": 28.9365909,
+    "iletisim": "02125854191"
   },
   {
     "name": "DERYA ECZANESİ",
@@ -14050,7 +15455,8 @@ export const locations = [
     "address": "Aşağınohutlu Mah Lise Caddesi Çelikkayalar İşhanı NO: 7/C",
     "contract": true,
     "latitude": 39.822926,
-    "longitude": 34.811942
+    "longitude": 34.811942,
+    "iletisim": "02566180508"
   },
   {
     "name": "HAKAN ECZANESİ",
@@ -14060,7 +15466,8 @@ export const locations = [
     "address": "Fevzi Çakmak mah.sultan Murat cad. no:54/A Sefaköy-Küçükçekmece",
     "contract": true,
     "latitude": 41.003939,
-    "longitude": 28.794122
+    "longitude": 28.794122,
+    "iletisim": "05059183392"
   },
   {
     "name": "LOTUS ECZANESİ",
@@ -14070,7 +15477,8 @@ export const locations = [
     "address": "Atatürk mah.31118.sok. no:4/A MEZİTLİ",
     "contract": true,
     "latitude": 36.7598465,
-    "longitude": 34.544428
+    "longitude": 34.544428,
+    "iletisim": "05075200055"
   },
   {
     "name": "ZEYNEP YILMAZ ECZANESİ",
@@ -14080,7 +15488,8 @@ export const locations = [
     "address": "SELÇUK MAH.HARZAMİ SOK NO:7/B SELÇUKLU",
     "contract": true,
     "latitude": 37.878317,
-    "longitude": 32.468723
+    "longitude": 32.468723,
+    "iletisim": "03323129262"
   },
   {
     "name": "MİNERALİM ECZANESİ",
@@ -14090,7 +15499,8 @@ export const locations = [
     "address": "KISIKLI MAH.ALEMDAĞ CAD.NO:117/B",
     "contract": true,
     "latitude": 41.024581,
-    "longitude": 29.0843009
+    "longitude": 29.0843009,
+    "iletisim": "05423724972"
   },
   {
     "name": "ŞEBNEM ECZANESİ",
@@ -14100,7 +15510,8 @@ export const locations = [
     "address": "Caddebostan Mah. Op.Cemil Topuzlu Cad.No:55/A",
     "contract": true,
     "latitude": 40.9696568,
-    "longitude": 29.0539679
+    "longitude": 29.0539679,
+    "iletisim": "02163566909"
   },
   {
     "name": "GÖKMEN ECZANESİ",
@@ -14110,7 +15521,8 @@ export const locations = [
     "address": "FEVZİ PAŞA CAD. NO:3 ZONGULDAK",
     "contract": true,
     "latitude": 41.4906116,
-    "longitude": 31.83950669999999
+    "longitude": 31.83950669999999,
+    "iletisim": "03728534948"
   },
   {
     "name": "VERESELİ MELİH ECZANESİ",
@@ -14120,7 +15532,8 @@ export const locations = [
     "address": "AKÜ TIP FAKÜLTESİ DÖRTYOL MAH. 2078 SOKAK NO:4/B",
     "contract": true,
     "latitude": 38.7935496,
-    "longitude": 30.4242401
+    "longitude": 30.4242401,
+    "iletisim": "02722121197"
   },
   {
     "name": "TAKSİM TALİMHANE ECZANESİ",
@@ -14130,7 +15543,8 @@ export const locations = [
     "address": "KOCATEPE MAH. DOLAPDERE CAD. NO:19/A TAKSİM",
     "contract": true,
     "latitude": 41.043608,
-    "longitude": 28.9818742
+    "longitude": 28.9818742,
+    "iletisim": "02122500393"
   },
   {
     "name": "HUZUR ECZANESİ",
@@ -14140,7 +15554,8 @@ export const locations = [
     "address": "KURTULUŞ MAHALLESİ ZİYAPAŞA BULVARI NO: 21/1A",
     "contract": true,
     "latitude": 36.999697,
-    "longitude": 35.3204561
+    "longitude": 35.3204561,
+    "iletisim": "02367162626"
   },
   {
     "name": "YEDİTEPE ECZANESİ",
@@ -14150,7 +15565,8 @@ export const locations = [
     "address": "KEMALPAŞA MAH. İNÖNÜ CAD. SAĞLIK PASAJI NO:100/A",
     "contract": true,
     "latitude": 40.14671999999999,
-    "longitude": 26.408587
+    "longitude": 26.408587,
+    "iletisim": "02862132230"
   },
   {
     "name": "MAVİ ECZANESİ",
@@ -14160,7 +15576,8 @@ export const locations = [
     "address": "TAŞDELEN MAH. ŞEHİT KUBİLAY CAD. NO:53-55B",
     "contract": true,
     "latitude": 41.03412,
-    "longitude": 29.2293513
+    "longitude": 29.2293513,
+    "iletisim": "05423622498"
   },
   {
     "name": "TOPÇU ECZANESİ",
@@ -14170,7 +15587,8 @@ export const locations = [
     "address": "KARASAİT MAH. ATATÜRK CAD. NO: 6/A",
     "contract": true,
     "latitude": 41.5107979,
-    "longitude": 34.216679
+    "longitude": 34.216679,
+    "iletisim": "03664175081"
   },
   {
     "name": "YDA CENTER ECZANESİ",
@@ -14180,7 +15598,8 @@ export const locations = [
     "address": "YDA CENTER İŞ MERKEZİ KIZILIRMAK MAH. DUMLUPINAR BULVARI 9/A-41",
     "contract": true,
     "latitude": 39.9112911,
-    "longitude": 32.8088229
+    "longitude": 32.8088229,
+    "iletisim": "03125444044"
   },
   {
     "name": "GÖKBALA ECZANESİ",
@@ -14190,7 +15609,8 @@ export const locations = [
     "address": "Ehlibeyt Mah.Ceyhun Atuf Kansu Cad. No:91/E",
     "contract": true,
     "latitude": 39.8949262,
-    "longitude": 32.8171615
+    "longitude": 32.8171615,
+    "iletisim": "03129115546"
   },
   {
     "name": "KENTKOOP BÜŞRA ECZANESİ",
@@ -14200,7 +15620,8 @@ export const locations = [
     "address": "Kentkoop Mah. 1860. CADDE Barış Sinan Sitesi B2 Blok NO:8/A",
     "contract": true,
     "latitude": 39.9662885,
-    "longitude": 32.720961
+    "longitude": 32.720961,
+    "iletisim": "03122512414"
   },
   {
     "name": "BARTUM ECZANESİ",
@@ -14210,7 +15631,8 @@ export const locations = [
     "address": "Alacaatlı Mah. 4841.Cad. No:1/C",
     "contract": true,
     "latitude": 39.8322502,
-    "longitude": 32.6985601
+    "longitude": 32.6985601,
+    "iletisim": "03125576020"
   },
   {
     "name": "TÜRKER ECZANESİ",
@@ -14220,7 +15642,8 @@ export const locations = [
     "address": "YILDIZ MAH.KAZIM KARABEKİR CAD.ÖZKAN APT. NO:74/A MURATPAŞA",
     "contract": true,
     "latitude": 36.8827594,
-    "longitude": 30.769476
+    "longitude": 30.769476,
+    "iletisim": "02422379902"
   },
   {
     "name": "SOYUER ECZANESİ",
@@ -14230,7 +15653,8 @@ export const locations = [
     "address": "zafer mah.ortaç sok no:13/c ödemiş",
     "contract": true,
     "latitude": 38.231887,
-    "longitude": 27.987408
+    "longitude": 27.987408,
+    "iletisim": "02325448686"
   },
   {
     "name": "ÖZEN ECZANESİ",
@@ -14240,7 +15664,8 @@ export const locations = [
     "address": "ataşehir mah. malatya cad. no: 105 merkez",
     "contract": true,
     "latitude": 38.6503813,
-    "longitude": 39.14111020000001
+    "longitude": 39.14111020000001,
+    "iletisim": "04242386666"
   },
   {
     "name": "ALPAN ECZANESİ",
@@ -14250,7 +15675,8 @@ export const locations = [
     "address": "kamberiye mah.Atatürk bulv.no:55/A HALİLİYE",
     "contract": true,
     "latitude": 37.15948270000001,
-    "longitude": 38.7916373
+    "longitude": 38.7916373,
+    "iletisim": "04143132463"
   },
   {
     "name": "BİZİM TEPE AYDOS SALİH ECZANESİ",
@@ -14260,7 +15686,8 @@ export const locations = [
     "address": "VEYSEL KARANİ MAH.KANUNİ CAD.TİCARET NO: 3/25 SANCAKTEPE",
     "contract": true,
     "latitude": 40.9690555,
-    "longitude": 29.2367654
+    "longitude": 29.2367654,
+    "iletisim": "02167554031"
   },
   {
     "name": "AĞCA ECZANESİ",
@@ -14270,7 +15697,8 @@ export const locations = [
     "address": "YÜZÜNCÜYIL MAH. DR. SADIK AHMET BULVARI NO: 91\\D",
     "contract": true,
     "latitude": 37.0521869,
-    "longitude": 35.2527225
+    "longitude": 35.2527225,
+    "iletisim": "05528262422"
   },
   {
     "name": "NUR ECZANESİ",
@@ -14280,7 +15708,8 @@ export const locations = [
     "address": "Merkez Mah. Şamlı Sokak No:32/C",
     "contract": true,
     "latitude": 40.9811662,
-    "longitude": 28.7212803
+    "longitude": 28.7212803,
+    "iletisim": "02125936647"
   },
   {
     "name": "DİLA ECZANESİ",
@@ -14290,7 +15719,8 @@ export const locations = [
     "address": "Bahçelievler Mah. İstiklal Cad. Özden Apt.No:132/1",
     "contract": true,
     "latitude": 41.2797031,
-    "longitude": 36.3360667
+    "longitude": 36.3360667,
+    "iletisim": "02165216120"
   },
   {
     "name": "KOZA ECZANESİ",
@@ -14300,7 +15730,8 @@ export const locations = [
     "address": "19 Mayıs Mah. Begonya Sokak No:9/A KADIKÖY/İSTANBUL",
     "contract": true,
     "latitude": 40.9763636,
-    "longitude": 29.0945187
+    "longitude": 29.0945187,
+    "iletisim": "02323625692"
   },
   {
     "name": "ELVAN ECZANESİ",
@@ -14310,7 +15741,8 @@ export const locations = [
     "address": "Merkez Mah. Denizköşkler Cad. No:3/1",
     "contract": true,
     "latitude": 40.9780829,
-    "longitude": 28.7219239
+    "longitude": 28.7219239,
+    "iletisim": "02125904927"
   },
   {
     "name": "ÇINAR ECZANESİ",
@@ -14320,7 +15752,8 @@ export const locations = [
     "address": "Fevzi Çakmak Mah.İstasyon Cad.No:404",
     "contract": true,
     "latitude": 40.7740097,
-    "longitude": 29.4015038
+    "longitude": 29.4015038,
+    "iletisim": "03123123334"
   },
   {
     "name": "İKLİM ECZANESİ",
@@ -14330,7 +15763,8 @@ export const locations = [
     "address": "Barbaros Mah. Atatürk Cad.No:11/B",
     "contract": true,
     "latitude": 40.7125506,
-    "longitude": 29.9289511
+    "longitude": 29.9289511,
+    "iletisim": "02623432563"
   },
   {
     "name": "NESLİ ECZANESİ",
@@ -14340,7 +15774,8 @@ export const locations = [
     "address": "Yeniçağ Mah.Ragıp Tüzün Cad.No:97/A",
     "contract": true,
     "latitude": 39.9648012,
-    "longitude": 32.8136738
+    "longitude": 32.8136738,
+    "iletisim": "03129999838"
   },
   {
     "name": "HALK ECZANESİ",
@@ -14350,7 +15785,8 @@ export const locations = [
     "address": "EMİNCELER MAH.EMİNCELER SOK.NO:174-1/1 SERİK",
     "contract": true,
     "latitude": 36.917399,
-    "longitude": 31.10444699999999
+    "longitude": 31.10444699999999,
+    "iletisim": "02427225777"
   },
   {
     "name": "ANKA ECZANESİ",
@@ -14360,7 +15796,8 @@ export const locations = [
     "address": "bahçelievler mahallesi İZZETTİN ÇALIŞLAR CAD. NO: 53/A",
     "contract": true,
     "latitude": 40.9994579,
-    "longitude": 28.870469
+    "longitude": 28.870469,
+    "iletisim": "02325033444"
   },
   {
     "name": "YAĞMUR ECZANESİ",
@@ -14370,7 +15807,8 @@ export const locations = [
     "address": "SALTUKLU MAH. HACI HÜSEYİN EFENDİ CAD. NO: 28/A",
     "contract": true,
     "latitude": 39.94579,
-    "longitude": 41.105188
+    "longitude": 41.105188,
+    "iletisim": "04423275554"
   },
   {
     "name": "SOMER PLUS ECZANESİ",
@@ -14380,7 +15818,8 @@ export const locations = [
     "address": "BARBAROS MAH.2121 SOK. NO:2/A",
     "contract": true,
     "latitude": 36.7777144,
-    "longitude": 34.5717909
+    "longitude": 34.5717909,
+    "iletisim": "03243254457"
   },
   {
     "name": "GÜLNAZ ECZANESİ",
@@ -14390,7 +15829,8 @@ export const locations = [
     "address": "KOZYATAĞI MAH. KAYA SULTAN SOK. NO:24/A",
     "contract": true,
     "latitude": 40.9657544,
-    "longitude": 29.0915306
+    "longitude": 29.0915306,
+    "iletisim": "05448159347"
   },
   {
     "name": "HUZUR ECZANESİ",
@@ -14400,7 +15840,8 @@ export const locations = [
     "address": "TURGUT ÖZAL CAD. TAŞDELEN MAH. NO: 135/A",
     "contract": true,
     "latitude": 41.0314218,
-    "longitude": 29.2281125
+    "longitude": 29.2281125,
+    "iletisim": "02367162626"
   },
   {
     "name": "TARHAN ECZANESİ",
@@ -14410,7 +15851,8 @@ export const locations = [
     "address": "HÜDAVENDİGAR MAH. 2. HOŞDERE SOK. NO: 4/A",
     "contract": true,
     "latitude": 40.2013012,
-    "longitude": 29.0065262
+    "longitude": 29.0065262,
+    "iletisim": "02242394455"
   },
   {
     "name": "UĞUR ECZANESİ",
@@ -14420,7 +15862,8 @@ export const locations = [
     "address": "Ekin Mah.Bostancık Cad.No:134/D",
     "contract": true,
     "latitude": 39.9636439,
-    "longitude": 32.9432216
+    "longitude": 32.9432216,
+    "iletisim": "03122307595"
   },
   {
     "name": "ELMADAĞ ECZANESİ",
@@ -14430,7 +15873,8 @@ export const locations = [
     "address": "İsmetpaşa Mah. Cumhuriyet Cad. No:61/A",
     "contract": true,
     "latitude": 39.9183059,
-    "longitude": 33.2320929
+    "longitude": 33.2320929,
+    "iletisim": NaN
   },
   {
     "name": "MAKİ ECZANESİ",
@@ -14440,7 +15884,8 @@ export const locations = [
     "address": "Karasoku Mah. Abidinpaşa Cad. No:24/7",
     "contract": true,
     "latitude": 36.986305,
-    "longitude": 35.327552
+    "longitude": 35.327552,
+    "iletisim": "03223521800"
   },
   {
     "name": "AKBULUT ECZANESİ",
@@ -14450,7 +15895,8 @@ export const locations = [
     "address": "Gebizli Mah. 1115 Sk. Karalar Apt. No:10/E",
     "contract": true,
     "latitude": 36.9019695,
-    "longitude": 30.7299657
+    "longitude": 30.7299657,
+    "iletisim": "02423228223"
   },
   {
     "name": "MERT YAŞAM ECZANESİ",
@@ -14460,7 +15906,8 @@ export const locations = [
     "address": "Alacaatlı Mah. Park Cad. No:65/7",
     "contract": true,
     "latitude": 39.8583613,
-    "longitude": 32.6524506
+    "longitude": 32.6524506,
+    "iletisim": "03122172804"
   },
   {
     "name": "SEREN ECZANESİ",
@@ -14470,7 +15917,8 @@ export const locations = [
     "address": "Mehmet Akif Mah. Elalmış Cad. No:11/B",
     "contract": true,
     "latitude": 41.0095008,
-    "longitude": 29.1358582
+    "longitude": 29.1358582,
+    "iletisim": "02163653673"
   },
   {
     "name": "MELTEM ZENGER ECZANESİ",
@@ -14480,7 +15928,8 @@ export const locations = [
     "address": "Gültepe Mah. Gelincik Sokak No:21",
     "contract": true,
     "latitude": 38.7190534,
-    "longitude": 35.5076381
+    "longitude": 35.5076381,
+    "iletisim": "03522355552"
   },
   {
     "name": "TUTKUN ECZANESİ",
@@ -14490,7 +15939,8 @@ export const locations = [
     "address": "ALACAATLI MAH. ŞEHİT EREN BÜLBÜL CAD. BEKER PLAZA NO: 42/B19",
     "contract": true,
     "latitude": 39.8541785,
-    "longitude": 32.6567718
+    "longitude": 32.6567718,
+    "iletisim": "03122173636"
   },
   {
     "name": "NİDA ECZANESİ",
@@ -14500,7 +15950,8 @@ export const locations = [
     "address": "Çınar Mah. Kadirhas Cad. No:40/A",
     "contract": true,
     "latitude": 40.9445347,
-    "longitude": 29.1190863
+    "longitude": 29.1190863,
+    "iletisim": "03122420491"
   },
   {
     "name": "UÇAR ECZANESİ",
@@ -14510,7 +15961,8 @@ export const locations = [
     "address": "Gürselpaşa Mah. 75566 Sokak No:5/A",
     "contract": true,
     "latitude": 37.0246193,
-    "longitude": 35.265053
+    "longitude": 35.265053,
+    "iletisim": "03224229225"
   },
   {
     "name": "PURUT ECZANESİ",
@@ -14520,7 +15972,8 @@ export const locations = [
     "address": "Şeyhhayran Mah. Cumhuriyet Cad. No:27/E",
     "contract": true,
     "latitude": 40.26032,
-    "longitude": 40.228048
+    "longitude": 40.228048,
+    "iletisim": "04582112211"
   },
   {
     "name": "BEYZA ECZANESİ",
@@ -14530,7 +15983,8 @@ export const locations = [
     "address": "Yeşilyurt Mah. 56-3 Sokak No:2/A",
     "contract": true,
     "latitude": 39.743227,
-    "longitude": 37.0015814
+    "longitude": 37.0015814,
+    "iletisim": "03462222206"
   },
   {
     "name": "BAŞKAYA ECZANESİ",
@@ -14540,7 +15994,8 @@ export const locations = [
     "address": "Cumhuriyet Mah. Cengiz Topel Cad. No:42/D",
     "contract": true,
     "latitude": 39.7790141,
-    "longitude": 30.5165725
+    "longitude": 30.5165725,
+    "iletisim": "02222310481"
   },
   {
     "name": "ÖZGÜLER ECZANESİ",
@@ -14550,7 +16005,8 @@ export const locations = [
     "address": "KEMALPAŞA MAH. HALKALI CAD. NO:113/B",
     "contract": true,
     "latitude": 41.0011735,
-    "longitude": 28.7972442
+    "longitude": 28.7972442,
+    "iletisim": "02124252747"
   },
   {
     "name": "DENİZ ECZANESİ",
@@ -14560,7 +16016,8 @@ export const locations = [
     "address": "YENİŞEHİR MAH. GAZİ MUSTAFA KEMAL BULVARI NO:150/A",
     "contract": true,
     "latitude": 40.7679073,
-    "longitude": 29.966422
+    "longitude": 29.966422,
+    "iletisim": "02663241355"
   },
   {
     "name": "NEVÇARŞI ECZANESİ",
@@ -14570,7 +16027,8 @@ export const locations = [
     "address": "MİMAR SİNAN MAH. NO:41/E ÇAVUŞDERE CAD. NO:104",
     "contract": true,
     "latitude": 41.0204124,
-    "longitude": 29.0234211
+    "longitude": 29.0234211,
+    "iletisim": "02167557216"
   },
   {
     "name": "DUYGU ECZANESİ",
@@ -14580,7 +16038,8 @@ export const locations = [
     "address": "KABAKUM MAH. KABAKUM CUMHURİYET CAD. NO:7/A",
     "contract": true,
     "latitude": 39.1312999,
-    "longitude": 26.8917
+    "longitude": 26.8917,
+    "iletisim": "02326757050"
   },
   {
     "name": "NEZİRE ECZANESİ",
@@ -14590,7 +16049,8 @@ export const locations = [
     "address": "ERTUĞRUL GAZİ MAH. YUNUS EMRE CAD. NO:78/B",
     "contract": true,
     "latitude": 37.174068,
-    "longitude": 38.8136588
+    "longitude": 38.8136588,
+    "iletisim": "04143124232"
   },
   {
     "name": "ARDA ECZANESİ",
@@ -14600,7 +16060,8 @@ export const locations = [
     "address": "ÖRNEK MAH. ŞEHİT ÇAHAR DUDAYEV CAD. NO:24/B-C",
     "contract": true,
     "latitude": 40.995586,
-    "longitude": 29.0775455
+    "longitude": 29.0775455,
+    "iletisim": "03222326155"
   },
   {
     "name": "ÖZGE ECZANESİ",
@@ -14610,7 +16071,8 @@ export const locations = [
     "address": "SARIGAZİ MAH. NAMIK KEMAL CAD. NO:25/B",
     "contract": true,
     "latitude": 41.006511,
-    "longitude": 29.209844
+    "longitude": 29.209844,
+    "iletisim": "02325028584"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -14620,7 +16082,8 @@ export const locations = [
     "address": "REŞADİYE MAH. ALİ MENTEŞOĞLU CAD. NO:6/1B",
     "contract": true,
     "latitude": 36.9192214,
-    "longitude": 34.8962837
+    "longitude": 34.8962837,
+    "iletisim": "02323813135"
   },
   {
     "name": "AYBALA ECZANESİ",
@@ -14630,7 +16093,8 @@ export const locations = [
     "address": "AŞAĞI ÖVEÇLER MAH. KABİL CAD. NO:28/A",
     "contract": true,
     "latitude": 39.88983959999999,
-    "longitude": 32.8289379
+    "longitude": 32.8289379,
+    "iletisim": "03122873226"
   },
   {
     "name": "TUNA ECZANESİ",
@@ -14640,7 +16104,8 @@ export const locations = [
     "address": "YAMANEVLER MAH. ALEMDAĞ CAD. NO:155/B",
     "contract": true,
     "latitude": 41.0249301,
-    "longitude": 29.1015621
+    "longitude": 29.1015621,
+    "iletisim": "02126326254"
   },
   {
     "name": "EN MERKEZ ECZANESİ",
@@ -14650,7 +16115,8 @@ export const locations = [
     "address": "YENİKENT MAH. DOĞAN ARASLI BULVARI NO:218/C 4. DÜKKAN",
     "contract": true,
     "latitude": 41.0419544,
-    "longitude": 28.6764649
+    "longitude": 28.6764649,
+    "iletisim": "02128062510"
   },
   {
     "name": "UYSAL ECZANESİ",
@@ -14660,7 +16126,8 @@ export const locations = [
     "address": "ERTUĞRUL MAH. MİTHATPAŞA CAD. NO:67/B",
     "contract": true,
     "latitude": 38.1549871,
-    "longitude": 27.3580246
+    "longitude": 27.3580246,
+    "iletisim": "02328561024"
   },
   {
     "name": "ÇİÇEKLİ ECZANESİ",
@@ -14670,7 +16137,8 @@ export const locations = [
     "address": "ÇINAR MAH. FATİH CAD. NO:1/23 F",
     "contract": true,
     "latitude": 38.4404966,
-    "longitude": 27.1803896
+    "longitude": 27.1803896,
+    "iletisim": "05455049303"
   },
   {
     "name": "SİNEM ECZANESİ",
@@ -14680,7 +16148,8 @@ export const locations = [
     "address": "YENİMAHALLE MAH. ATAKENT BULVARI NO: 88/D",
     "contract": true,
     "latitude": 41.3420417,
-    "longitude": 36.2437332
+    "longitude": 36.2437332,
+    "iletisim": "03624330516"
   },
   {
     "name": "SİBEL ELHAKAN ECZANESİ",
@@ -14690,7 +16159,8 @@ export const locations = [
     "address": "CEVİZLİ MAHALLESİ MUSTAFA KEMAL CADDESİ NO:42/A",
     "contract": true,
     "latitude": 40.91300630000001,
-    "longitude": 29.1751179
+    "longitude": 29.1751179,
+    "iletisim": "02163059080"
   },
   {
     "name": "TEKİNŞEN ECZANESİ",
@@ -14700,7 +16170,8 @@ export const locations = [
     "address": "AKİF İNAN MAHALLESİ 5001 . SOKAK NO: 3/B",
     "contract": true,
     "latitude": 37.5860972,
-    "longitude": 36.8951514
+    "longitude": 36.8951514,
+    "iletisim": "05534508810"
   },
   {
     "name": "ZEYNEP İLHAN ECZANESİ",
@@ -14710,7 +16181,8 @@ export const locations = [
     "address": "MACUN MAHALLESİ BAĞDAT CADDESİ NO: 101/3",
     "contract": true,
     "latitude": 39.96133,
-    "longitude": 32.76917
+    "longitude": 32.76917,
+    "iletisim": "03123859585"
   },
   {
     "name": "BİLGİN ECZANESİ",
@@ -14720,7 +16192,8 @@ export const locations = [
     "address": "BATIKENT MAHALLESİ GEVEN SOKAK NO: 4/I",
     "contract": true,
     "latitude": 39.7930531,
-    "longitude": 30.4579375
+    "longitude": 30.4579375,
+    "iletisim": "02223202123"
   },
   {
     "name": "AZRA ECZANESİ",
@@ -14730,7 +16203,8 @@ export const locations = [
     "address": "BAĞCILAR MAH. ÇEVLİK CAD. NO:1/D",
     "contract": true,
     "latitude": 37.9153117,
-    "longitude": 40.1732893
+    "longitude": 40.1732893,
+    "iletisim": "05323597069"
   },
   {
     "name": "DİDİM ECZANESİ",
@@ -14740,7 +16214,8 @@ export const locations = [
     "address": "KOZ BEYTEPE EVLERİ 5365. SOK. A BLOK NO:42",
     "contract": true,
     "latitude": 39.8927853,
-    "longitude": 32.8689507
+    "longitude": 32.8689507,
+    "iletisim": "03122382299"
   },
   {
     "name": "UYSAL ECZANESİ",
@@ -14750,7 +16225,8 @@ export const locations = [
     "address": "YUKARI ZAFERİYE MAHALLESİ ŞEHİT UZMAN ÇAVUŞ CAHİT ERGİN SOKAK NO: 32/A",
     "contract": true,
     "latitude": 40.8507069,
-    "longitude": 26.6332255
+    "longitude": 26.6332255,
+    "iletisim": "02328561024"
   },
   {
     "name": "AYŞENUR ECZANESİ",
@@ -14760,7 +16236,8 @@ export const locations = [
     "address": "HÜRRİYET MAHALLESİ ATATÜRK CADDESİ NO: 13/15 C",
     "contract": true,
     "latitude": 41.0303318,
-    "longitude": 28.8279475
+    "longitude": 28.8279475,
+    "iletisim": "05010869379"
   },
   {
     "name": "ORAN GÜLAY ECZANESİ",
@@ -14770,7 +16247,8 @@ export const locations = [
     "address": "ORAN MAHALLESİ TURAN GÜNEŞ BULVARI NO: 128/A ORAN",
     "contract": true,
     "latitude": 39.853255,
-    "longitude": 32.84882900000001
+    "longitude": 32.84882900000001,
+    "iletisim": "03124905023"
   },
   {
     "name": "BANDIRMA ECZANESİ",
@@ -14780,7 +16258,8 @@ export const locations = [
     "address": "CEVİZLİ MAHALLESİ BAĞDAT CADDESİ NO: 553/A",
     "contract": true,
     "latitude": 40.9167906,
-    "longitude": 29.1457933
+    "longitude": 29.1457933,
+    "iletisim": "02163994370"
   },
   {
     "name": "FULYA YAŞAM ECZANESİ",
@@ -14790,7 +16269,8 @@ export const locations = [
     "address": "19 MAYIS MAH. MEHMETÇİK CAD. NO:112/A",
     "contract": true,
     "latitude": 41.056505,
-    "longitude": 28.9969294
+    "longitude": 28.9969294,
+    "iletisim": "02122758890"
   },
   {
     "name": "ANAVRİN ECZANESİ",
@@ -14800,7 +16280,8 @@ export const locations = [
     "address": "ÜMİT MAH. 2479 CAD. NO:2/39",
     "contract": true,
     "latitude": 39.8992998,
-    "longitude": 32.6930637
+    "longitude": 32.6930637,
+    "iletisim": "03125771777"
   },
   {
     "name": "SELAY ECZANESİ",
@@ -14810,7 +16291,8 @@ export const locations = [
     "address": "Süleymaniye mah. Uzunçarşı cad. Tesbihçi sok. no:2/b Fatih",
     "contract": true,
     "latitude": 41.01533730000001,
-    "longitude": 28.9672831
+    "longitude": 28.9672831,
+    "iletisim": "02125201040"
   },
   {
     "name": "MAVİ ECZANESİ",
@@ -14820,7 +16302,8 @@ export const locations = [
     "address": "ÇİFTLİK MAHALLESİ LİSE CADDESİ NO: 36/E",
     "contract": true,
     "latitude": 41.2810893,
-    "longitude": 36.33726619999999
+    "longitude": 36.33726619999999,
+    "iletisim": "05423622498"
   },
   {
     "name": "SARDUNYA ECZANESİ",
@@ -14830,7 +16313,8 @@ export const locations = [
     "address": "SAFA MAHALLESİ BAHÇELİEVLER CADDESİ NO: 11/A",
     "contract": true,
     "latitude": 41.0077304,
-    "longitude": 29.2409993
+    "longitude": 29.2409993,
+    "iletisim": "02163123122"
   },
   {
     "name": "ERDAL FİLİK ECZANESİ",
@@ -14840,7 +16324,8 @@ export const locations = [
     "address": "GÖKTÜRK MERKEZ MAHALLESİ ÇEŞMEBAŞI CADDESİ NO: 10/A",
     "contract": true,
     "latitude": 41.1838373,
-    "longitude": 28.8870089
+    "longitude": 28.8870089,
+    "iletisim": "02123601823"
   },
   {
     "name": "HEP İSTANBUL ECZANESİ",
@@ -14850,7 +16335,8 @@ export const locations = [
     "address": "ZAFER MAH. ADİLE NAŞİT BULV. HEP İSTANBUL BLOKLARI NO:54-58 AAH",
     "contract": true,
     "latitude": 41.0094934,
-    "longitude": 28.6810521
+    "longitude": 28.6810521,
+    "iletisim": "02128032025"
   },
   {
     "name": "GEDİK ECZANESİ",
@@ -14860,7 +16346,8 @@ export const locations = [
     "address": "Siyavuşpaşa Mah. Siyavuşpaşa Cad. No: 28/A",
     "contract": true,
     "latitude": 40.9987984,
-    "longitude": 28.854581
+    "longitude": 28.854581,
+    "iletisim": "02124422101"
   },
   {
     "name": "ORAN GÜLCEM ECZANESİ",
@@ -14870,7 +16357,8 @@ export const locations = [
     "address": "Dumlupınar Mah. Turan Güneş Blv. No: 175/C",
     "contract": true,
     "latitude": 39.8530044,
-    "longitude": 32.8500329
+    "longitude": 32.8500329,
+    "iletisim": "03124909404"
   },
   {
     "name": "BAŞAK ECZANESİ",
@@ -14880,7 +16368,8 @@ export const locations = [
     "address": "MERKEZ MAHALLESİ ÇAVUŞBAŞI CADDESİ NO:44 İÇ KAPI NO: 12",
     "contract": true,
     "latitude": 41.0335714,
-    "longitude": 29.1748786
+    "longitude": 29.1748786,
+    "iletisim": "05437242233"
   },
   {
     "name": "CADDE ECZANESİ",
@@ -14890,7 +16379,8 @@ export const locations = [
     "address": "MERKEZ MAHALLESİ ÇAVUŞBAŞI CADDESİ NO: 5-1A",
     "contract": true,
     "latitude": 41.0319163,
-    "longitude": 29.1726617
+    "longitude": 29.1726617,
+    "iletisim": "02222214010"
   },
   {
     "name": "CADDE SAĞLIK ECZANESİ",
@@ -14900,7 +16390,8 @@ export const locations = [
     "address": "CADDEBOSTAN MAHALLESİ BAĞDAT CADDESİ NO: 275-D",
     "contract": true,
     "latitude": 40.9690333,
-    "longitude": 29.0649479
+    "longitude": 29.0649479,
+    "iletisim": "02163560085"
   },
   {
     "name": "BUĞRA ECZANESİ",
@@ -14910,7 +16401,8 @@ export const locations = [
     "address": "ORTA MAHALLESİ HENDEK YANI CADDESİ NO: 44/A",
     "contract": true,
     "latitude": 41.6326224,
-    "longitude": 32.3415374
+    "longitude": 32.3415374,
+    "iletisim": "03782272737"
   },
   {
     "name": "HALİTAĞA ECZANESİ",
@@ -14920,7 +16412,8 @@ export const locations = [
     "address": "OSMANAĞA MAHALLESİ HALİT AĞA CADDESİ NO: 24/B",
     "contract": true,
     "latitude": 40.9919939,
-    "longitude": 29.0291886
+    "longitude": 29.0291886,
+    "iletisim": "05308008881"
   },
   {
     "name": "ZEYNEP ERDEM ECZANESİ",
@@ -14930,7 +16423,8 @@ export const locations = [
     "address": "İSMET İNÖNÜ MAHALLESİ 720. SOKAK NO:9",
     "contract": true,
     "latitude": 36.5564301,
-    "longitude": 36.15771660000001
+    "longitude": 36.15771660000001,
+    "iletisim": "05302684909"
   },
   {
     "name": "VADİ ECZANESİ",
@@ -14940,7 +16434,8 @@ export const locations = [
     "address": "YENİŞEHİR MAHALLESİ ALİ EMİRİ 1. SOKAK NO: 4/D-4/E",
     "contract": true,
     "latitude": 37.9169994,
-    "longitude": 40.233537
+    "longitude": 40.233537,
+    "iletisim": "04122280505"
   },
   {
     "name": "YENİ ŞİMŞEK ECZANESİ",
@@ -14950,7 +16445,8 @@ export const locations = [
     "address": "REMZİ OĞUZ ARIK MAH. ŞİMŞEK CAD. NO:20/D AYRANCI",
     "contract": true,
     "latitude": 39.9056409,
-    "longitude": 32.857805
+    "longitude": 32.857805,
+    "iletisim": "03124688414"
   },
   {
     "name": "ÇAĞLAYAN ECZANESİ",
@@ -14960,7 +16456,8 @@ export const locations = [
     "address": "ÖMERCİKLER MAH. NECATİ TEMEL CAD. NO:8/B akyazı/SAKARYA",
     "contract": true,
     "latitude": 40.6832018,
-    "longitude": 30.6232967
+    "longitude": 30.6232967,
+    "iletisim": "03222620095"
   },
   {
     "name": "PAPATYA ECZANESİ",
@@ -14970,7 +16467,8 @@ export const locations = [
     "address": "SEYİT ÖMER MAH. TAŞKÖPRÜLÜZADE SOKAK NO:3/A",
     "contract": true,
     "latitude": 41.0079857,
-    "longitude": 28.9316043
+    "longitude": 28.9316043,
+    "iletisim": "02367131991"
   },
   {
     "name": "KENTPARK ECZANESİ",
@@ -14980,7 +16478,8 @@ export const locations = [
     "address": "OSMANGAZİ MAHALLESİ 56073 NOLU CADDE",
     "contract": true,
     "latitude": 37.0657349,
-    "longitude": 37.330876
+    "longitude": 37.330876,
+    "iletisim": "05528178787"
   },
   {
     "name": "KIVANÇ ECZANESİ",
@@ -14990,7 +16489,8 @@ export const locations = [
     "address": "ELÇİ SOK. 19/E Y.AYRANCI",
     "contract": true,
     "latitude": 39.9026892,
-    "longitude": 32.8467513
+    "longitude": 32.8467513,
+    "iletisim": "03124680580"
   },
   {
     "name": "ERTUĞRUL ECZANESİ",
@@ -15000,7 +16500,8 @@ export const locations = [
     "address": "CAMİKEBİR MAHALLESİ SEMERKANT SOKAK NO: 5A",
     "contract": true,
     "latitude": 39.23940229999999,
-    "longitude": 28.1722547
+    "longitude": 28.1722547,
+    "iletisim": "02665164235"
   },
   {
     "name": "VİTAMİN ECZANESİ",
@@ -15010,7 +16511,8 @@ export const locations = [
     "address": "HAYDAR ÇAVUŞ MAHALLESİ KAŞİF ACAR CADDESİ NO: 30/A",
     "contract": true,
     "latitude": 40.35396799999999,
-    "longitude": 27.9721559
+    "longitude": 27.9721559,
+    "iletisim": "02126748718"
   },
   {
     "name": "ANNEM ECZANESİ",
@@ -15020,7 +16522,8 @@ export const locations = [
     "address": "TEPEALTI MAHALLESİ İVEDİK CADDESİ NO: 276/A",
     "contract": true,
     "latitude": 39.964028,
-    "longitude": 32.8023612
+    "longitude": 32.8023612,
+    "iletisim": "03123150990"
   },
   {
     "name": "ESEN ECZANESİ",
@@ -15030,7 +16533,8 @@ export const locations = [
     "address": "Esen Eczanesi Donanmacı Mah. 1728 Sk. No:44/B",
     "contract": true,
     "latitude": 38.4555382,
-    "longitude": 27.11486
+    "longitude": 27.11486,
+    "iletisim": NaN
   },
   {
     "name": "YAZICI ECZANESİ",
@@ -15040,7 +16544,8 @@ export const locations = [
     "address": "İNCİVEZ MAH. AYDOĞMUŞ SOKAK NO:1/A",
     "contract": true,
     "latitude": 41.4488768,
-    "longitude": 31.7587324
+    "longitude": 31.7587324,
+    "iletisim": "03722810202"
   },
   {
     "name": "ERDEN ECZANESİ",
@@ -15050,7 +16555,8 @@ export const locations = [
     "address": "ATAŞEHİR MAH 8229/1 SOKAK NO:11",
     "contract": true,
     "latitude": 38.489196,
-    "longitude": 27.053174
+    "longitude": 27.053174,
+    "iletisim": "02323720708"
   },
   {
     "name": "MISRA KAN ECZANESİ",
@@ -15060,7 +16566,8 @@ export const locations = [
     "address": "ERENKÖY MAHALLESİ ŞEMSETTİN GÜNALTAY CADDESİ NO: 173/C",
     "contract": true,
     "latitude": 40.9744223,
-    "longitude": 29.0809404
+    "longitude": 29.0809404,
+    "iletisim": "05322715881"
   },
   {
     "name": "ALAADDİN ECZANESİ",
@@ -15070,7 +16577,8 @@ export const locations = [
     "address": "MESCİT MAHALLESİ ULUGÜNEY SOKAK NO: 1/A ORHANLI",
     "contract": true,
     "latitude": 40.907604,
-    "longitude": 29.3511681
+    "longitude": 29.3511681,
+    "iletisim": "02163944200"
   },
   {
     "name": "ARDIÇ ECZANESİ",
@@ -15080,7 +16588,8 @@ export const locations = [
     "address": "ŞEMİKLER MAHALLESİ KARAPINAR CADDESİ 3006 SOKAK NO: 61/BD",
     "contract": true,
     "latitude": 37.8001002,
-    "longitude": 29.03991319999999
+    "longitude": 29.03991319999999,
+    "iletisim": "05452372190"
   },
   {
     "name": "DİLARA ECZANESİ",
@@ -15090,7 +16599,8 @@ export const locations = [
     "address": "AKİF İNAN MAHALLESİ ALPARSLAN TÜRKEŞ BULVARI NO: 11/A",
     "contract": true,
     "latitude": 37.5867069,
-    "longitude": 36.894909
+    "longitude": 36.894909,
+    "iletisim": "03442159596"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -15100,7 +16610,8 @@ export const locations = [
     "address": "ATATÜRK MAHALLESİ MENDERES BULVARI NO: 153",
     "contract": true,
     "latitude": 39.234129,
-    "longitude": 42.8622425
+    "longitude": 42.8622425,
+    "iletisim": "03247141116"
   },
   {
     "name": "SEÇİL ECZANESİ",
@@ -15110,7 +16621,8 @@ export const locations = [
     "address": "KARADENİZ MAH. LİSE CAD. NO:18/2",
     "contract": true,
     "latitude": 41.2834096,
-    "longitude": 36.3394054
+    "longitude": 36.3394054,
+    "iletisim": "03622332626"
   },
   {
     "name": "ÖNDER ECZANESİ",
@@ -15120,7 +16632,8 @@ export const locations = [
     "address": "ANADOLU MAH. SOSYAL TESİSLERİ NO:7",
     "contract": true,
     "latitude": 37.7940744,
-    "longitude": 30.5552528
+    "longitude": 30.5552528,
+    "iletisim": "02462328404"
   },
   {
     "name": "KOZMOS ECZANESİ",
@@ -15130,7 +16643,8 @@ export const locations = [
     "address": "ALSANCAK MAH. TALATPAŞA BULV. NO:47/B",
     "contract": true,
     "latitude": 38.435391,
-    "longitude": 27.1439617
+    "longitude": 27.1439617,
+    "iletisim": "02324635252"
   },
   {
     "name": "GÜNDEM ECZANESİ",
@@ -15140,7 +16654,8 @@ export const locations = [
     "address": "DR. CEMİL BENGÜ CAD. HÜRRİYET MAH. NO:16/B",
     "contract": true,
     "latitude": 41.0720914,
-    "longitude": 28.9852971
+    "longitude": 28.9852971,
+    "iletisim": "02122316505"
   },
   {
     "name": "ÜNİVERSİTE ECZANESİ",
@@ -15150,7 +16665,8 @@ export const locations = [
     "address": "ÜNİVERSİTE MAH. EFSANUR SOKAK NO:1",
     "contract": true,
     "latitude": 41.220675,
-    "longitude": 32.6472877
+    "longitude": 32.6472877,
+    "iletisim": "03124800507"
   },
   {
     "name": "AYŞEGÜL ECZANESİ",
@@ -15160,7 +16676,8 @@ export const locations = [
     "address": "ZÜMRÜTEVLER MAH. GÜL CAD. YILMAZ APT. NO:18",
     "contract": true,
     "latitude": 40.9378649,
-    "longitude": 29.1426528
+    "longitude": 29.1426528,
+    "iletisim": "02163992937"
   },
   {
     "name": "ELİT ECZANESİ",
@@ -15170,7 +16687,8 @@ export const locations = [
     "address": "SEYH ŞAMİL MAH. DOÇ. DR. HALİL ÜRÜN CAD. NO:23/I",
     "contract": true,
     "latitude": 37.9476704,
-    "longitude": 32.4974028
+    "longitude": 32.4974028,
+    "iletisim": "02163632020"
   },
   {
     "name": "YENİ ARAS ECZANESİ",
@@ -15180,7 +16698,8 @@ export const locations = [
     "address": "ERGENE MAH. 457.SOKAK NO:9/D BORNOVA",
     "contract": true,
     "latitude": 38.4678162,
-    "longitude": 27.2193128
+    "longitude": 27.2193128,
+    "iletisim": "02523736524"
   },
   {
     "name": "GAZİ BULVAR ECZANESİ",
@@ -15190,7 +16709,8 @@ export const locations = [
     "address": "Eti Mahallesi GMK Bulvarı NO: 80/B",
     "contract": true,
     "latitude": 39.9304453,
-    "longitude": 32.845364
+    "longitude": 32.845364,
+    "iletisim": "03122307090"
   },
   {
     "name": "ARIN ECZANESİ",
@@ -15200,7 +16720,8 @@ export const locations = [
     "address": "Ahi Mesut Mahallesi 2208. Sokak NO: 4/A",
     "contract": true,
     "latitude": 39.7945574,
-    "longitude": 32.8017715
+    "longitude": 32.8017715,
+    "iletisim": "03125020300"
   },
   {
     "name": "AYLİN ECZANESİ",
@@ -15210,7 +16731,8 @@ export const locations = [
     "address": "Eroğlan Mahallesi Çanakkale Yolu Caddesi NO: 61/A EDREMİT BALIKESIR",
     "contract": true,
     "latitude": 39.5998171,
-    "longitude": 26.992882
+    "longitude": 26.992882,
+    "iletisim": "02663736867"
   },
   {
     "name": "HAYAT AĞACI ECZANESİ",
@@ -15220,7 +16742,8 @@ export const locations = [
     "address": "Atatürk Mahallesi Ataşehir Bulvarı Ata 3/4 Ada: 38 NO: 12H",
     "contract": true,
     "latitude": 40.9923174,
-    "longitude": 29.1227895
+    "longitude": 29.1227895,
+    "iletisim": "03122136788"
   },
   {
     "name": "İPEKCAN ECZANESİ",
@@ -15230,7 +16753,8 @@ export const locations = [
     "address": "Mimar Sinan Mahallesi Mimar Sinan Caddesi NO: 11/B",
     "contract": true,
     "latitude": 41.0328765,
-    "longitude": 29.175205
+    "longitude": 29.175205,
+    "iletisim": "02166414415"
   },
   {
     "name": "ŞİLBE YOLALTI ECZANESİ",
@@ -15240,7 +16764,8 @@ export const locations = [
     "address": "Yolaltı Mahallesi Şilbe Caddesi 735.Sokak NO: 5/A",
     "contract": true,
     "latitude": 37.9529103,
-    "longitude": 40.1947953
+    "longitude": 40.1947953,
+    "iletisim": "04122621212"
   },
   {
     "name": "BEGÜM ECZANESİ",
@@ -15250,7 +16775,8 @@ export const locations = [
     "address": "Atatürk Eczanesi 115.Sokak NO: 32",
     "contract": true,
     "latitude": 38.6683183,
-    "longitude": 26.7544247
+    "longitude": 26.7544247,
+    "iletisim": "03125036262"
   },
   {
     "name": "GÖKSU ERYAMAN ECZANESİ",
@@ -15260,7 +16786,8 @@ export const locations = [
     "address": "Göksu Mahallesi Selçuklular Caddesi NO: 57/45",
     "contract": true,
     "latitude": 39.9865717,
-    "longitude": 32.6463446
+    "longitude": 32.6463446,
+    "iletisim": "03122807020"
   },
   {
     "name": "ŞENGÜR ECZANESİ",
@@ -15270,7 +16797,8 @@ export const locations = [
     "address": "Fatih Mahallesi Geylani Caddesi NO: 29/B",
     "contract": true,
     "latitude": 40.9608493,
-    "longitude": 29.219757
+    "longitude": 29.219757,
+    "iletisim": "02163119291"
   },
   {
     "name": "ÇAÇAR ECZANESİ",
@@ -15280,7 +16808,8 @@ export const locations = [
     "address": "Hüdavendigar Mahallesi 1. Kanal Caddesi NO: 40/A",
     "contract": true,
     "latitude": 40.2011306,
-    "longitude": 29.0107789
+    "longitude": 29.0107789,
+    "iletisim": "02242380010"
   },
   {
     "name": "YONCA YILMAZ ECZANESİ",
@@ -15290,7 +16819,8 @@ export const locations = [
     "address": "BARBAROS MAH. 2148 SOKAK NO:22/A",
     "contract": true,
     "latitude": 36.7792831,
-    "longitude": 34.5750698
+    "longitude": 34.5750698,
+    "iletisim": "05305191729"
   },
   {
     "name": "SEHER ECZANESİ",
@@ -15300,7 +16830,8 @@ export const locations = [
     "address": "BÜYÜKESAT MAH. UĞUR MUMCU CAD. NO:64/1A",
     "contract": true,
     "latitude": 39.8935339,
-    "longitude": 32.876971
+    "longitude": 32.876971,
+    "iletisim": "03124474849"
   },
   {
     "name": "DENİZ BOSTANLI ECZANESİ",
@@ -15310,7 +16841,8 @@ export const locations = [
     "address": "BOSTANLI MAHALLESİ 1820/1. SOKAK NO: 2/A",
     "contract": true,
     "latitude": 38.4592233,
-    "longitude": 27.098389
+    "longitude": 27.098389,
+    "iletisim": "02324162735"
   },
   {
     "name": "BÜŞRA ECZANESİ",
@@ -15320,7 +16852,8 @@ export const locations = [
     "address": "19 MAYIS MAHALLESİ YUNUS EMRE CADDESİ NO: 133/A",
     "contract": true,
     "latitude": 39.9840309,
-    "longitude": 32.8540037
+    "longitude": 32.8540037,
+    "iletisim": "03123585395"
   },
   {
     "name": "AYSAN ECZANESİ",
@@ -15330,7 +16863,8 @@ export const locations = [
     "address": "BOSTANLI MAHALLESİ CEMAL BÜLBÜL SOKAK NO: 14/A",
     "contract": true,
     "latitude": 38.45854,
-    "longitude": 27.097556
+    "longitude": 27.097556,
+    "iletisim": "02323365194"
   },
   {
     "name": "PARK DİLEK ECZANESİ",
@@ -15340,7 +16874,8 @@ export const locations = [
     "address": "PROF DR. AHMET TANER KIŞLALI MAH. 2864 CAD. NO:34/1",
     "contract": true,
     "latitude": 39.871699,
-    "longitude": 32.681547
+    "longitude": 32.681547,
+    "iletisim": "03125775867"
   },
   {
     "name": "ELİF ALATAŞ ECZANESİ",
@@ -15350,7 +16885,8 @@ export const locations = [
     "address": "YURT MAH. KURTTEPE CAD. NİGAR ERSÖZ SİTESİ NO:26",
     "contract": true,
     "latitude": 37.0522368,
-    "longitude": 35.2777779
+    "longitude": 35.2777779,
+    "iletisim": "03222484850"
   },
   {
     "name": "ANTALYA MODERN ECZANESİ",
@@ -15360,7 +16896,8 @@ export const locations = [
     "address": "LİMAN MAHALLESİ BOĞAÇAYI CADDESİ NO: 36/A",
     "contract": true,
     "latitude": 36.8535586,
-    "longitude": 30.6138604
+    "longitude": 30.6138604,
+    "iletisim": "02422591909"
   },
   {
     "name": "RENGİN ECZANESİ",
@@ -15370,7 +16907,8 @@ export const locations = [
     "address": "BÜLBÜL MAHALLESİ SERDAR ÖMERPAŞA CADDESİ NO: 20",
     "contract": true,
     "latitude": 41.0400826,
-    "longitude": 28.9788974
+    "longitude": 28.9788974,
+    "iletisim": "02123612404"
   },
   {
     "name": "KİTAPLI ECZANESİ",
@@ -15380,7 +16918,8 @@ export const locations = [
     "address": "PAZAR MAHALLESİ BAĞDAT CADDESİ NO: 50/4",
     "contract": true,
     "latitude": 41.2930766,
-    "longitude": 36.3311795
+    "longitude": 36.3311795,
+    "iletisim": "03624323003"
   },
   {
     "name": "KAPTAN ECZANESİ",
@@ -15390,7 +16929,8 @@ export const locations = [
     "address": "AKADEMİ MAHALLESİ ŞEHİT ETHEM BARIŞ SOKAK 2 A",
     "contract": true,
     "latitude": 38.0095429,
-    "longitude": 32.497668
+    "longitude": 32.497668,
+    "iletisim": "03323534355"
   },
   {
     "name": "SAFİRTEPE ECZANESİ",
@@ -15400,7 +16940,8 @@ export const locations = [
     "address": "MUSTAFA KEMAL MAHALLESİ DUMLUPINAR BULVARI NO: 266 B12",
     "contract": true,
     "latitude": 39.9105661,
-    "longitude": 32.7574821
+    "longitude": 32.7574821,
+    "iletisim": "03122853233"
   },
   {
     "name": "ELİF ÖYKÜ ECZANESİ",
@@ -15410,7 +16951,8 @@ export const locations = [
     "address": "AKDENİZ MAHALLESİ AKDENİZ CADDESİ NO: 8/G",
     "contract": true,
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "iletisim": "02324841956"
   },
   {
     "name": "KÖŞE ECZANESİ",
@@ -15420,7 +16962,8 @@ export const locations = [
     "address": "GÜZELYALI, İNÖNÜ CADDESİ NO: 522/A",
     "contract": true,
     "latitude": 38.3933597,
-    "longitude": 27.0856239
+    "longitude": 27.0856239,
+    "iletisim": "05323722666"
   },
   {
     "name": "FATİH ECZANESİ",
@@ -15430,7 +16973,8 @@ export const locations = [
     "address": "KURTKÖY MAHALLESİ EMİR SOKAK NO: 10/A PENDİK",
     "contract": true,
     "latitude": 40.9139173,
-    "longitude": 29.3005061
+    "longitude": 29.3005061,
+    "iletisim": "03545165151"
   },
   {
     "name": "NİŞANTAŞI NABIZ ECZANESİ",
@@ -15440,7 +16984,8 @@ export const locations = [
     "address": "TEŞVİKİYE MAHALLESİ NİŞANTAŞI IHLAMUR YOLU SOKAK NO: 32/B",
     "contract": true,
     "latitude": 41.0513558,
-    "longitude": 28.99613909999999
+    "longitude": 28.99613909999999,
+    "iletisim": "02122472001"
   },
   {
     "name": "ELİF ECZANESİ",
@@ -15450,7 +16995,8 @@ export const locations = [
     "address": "KAZIM KARABEKİR MAHALLESİ ORDU CADDESİ NO: 10",
     "contract": true,
     "latitude": 39.7576637,
-    "longitude": 39.4921782
+    "longitude": 39.4921782,
+    "iletisim": "02525137133"
   },
   {
     "name": "AVŞAROĞLU ECZANESİ",
@@ -15460,7 +17006,8 @@ export const locations = [
     "address": "AŞAĞI EĞLENCE MAHALLESİ ETLİK CADDESİ NO: 58/C KEÇİÖREN",
     "contract": true,
     "latitude": 39.971351,
-    "longitude": 32.8339455
+    "longitude": 32.8339455,
+    "iletisim": "03123520835"
   },
   {
     "name": "VİTA ECZANESİ",
@@ -15470,7 +17017,8 @@ export const locations = [
     "address": "EMEK MAHALLESİ BİŞKEK CADDESİ NO: 133-135B",
     "contract": true,
     "latitude": 39.921892,
-    "longitude": 32.817786
+    "longitude": 32.817786,
+    "iletisim": "03122233349"
   },
   {
     "name": "YİĞİT ECZANESİ",
@@ -15480,7 +17028,8 @@ export const locations = [
     "address": "HATUNİYE MAHALLESİ ASMİN 1. SOKAK NO: 3/A",
     "contract": true,
     "latitude": 38.5047294,
-    "longitude": 43.3833867
+    "longitude": 43.3833867,
+    "iletisim": "04322171110"
   },
   {
     "name": "ÇINAR ECZANESİ",
@@ -15490,7 +17039,8 @@ export const locations = [
     "address": "BEYÇELEBİ MAHALLESİ ESKİ ANKARA CADDESİ NO: 3/A",
     "contract": true,
     "latitude": 41.36368700000001,
-    "longitude": 33.770672
+    "longitude": 33.770672,
+    "iletisim": "03123123334"
   },
   {
     "name": "MENEKŞE ECZANESİ",
@@ -15500,7 +17050,8 @@ export const locations = [
     "address": "YENİDOĞAN MAHALLESİ NUMUNEBAĞ CADDESİ NO:76/B",
     "contract": true,
     "latitude": 41.0352949,
-    "longitude": 28.9129361
+    "longitude": 28.9129361,
+    "iletisim": "02742161642"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -15510,7 +17061,8 @@ export const locations = [
     "address": "ÇARŞI MAHALLESİ 13 ŞUBAT CADDESİ GÜN İŞHANI",
     "contract": true,
     "latitude": 39.735705,
-    "longitude": 39.4883899
+    "longitude": 39.4883899,
+    "iletisim": "03247141116"
   },
   {
     "name": "İKRA ECZANESİ",
@@ -15520,7 +17072,8 @@ export const locations = [
     "address": "KAZIM KARABEKİR MAHALLESİ MUSTAFA KEMAL PAŞA BULVARI NO: 88/A",
     "contract": true,
     "latitude": 37.007248,
-    "longitude": 35.3535853
+    "longitude": 35.3535853,
+    "iletisim": "03223227536"
   },
   {
     "name": "VELİPAŞAOĞLU ECZANESİ",
@@ -15530,7 +17083,8 @@ export const locations = [
     "address": "İSTİKLAL MAHALLESİ DOKTOR SADIK AHMET CADDESİ NO: 4",
     "contract": true,
     "latitude": 37.0755709,
-    "longitude": 36.24958
+    "longitude": 36.24958,
+    "iletisim": "03288144030"
   },
   {
     "name": "KALPAKLIOĞLU ECZANESİ",
@@ -15540,7 +17094,8 @@ export const locations = [
     "address": "KARŞIYAKA MAHALLESİ 907. SOKAK NO: 8/A",
     "contract": true,
     "latitude": 40.9750057,
-    "longitude": 37.9050964
+    "longitude": 37.9050964,
+    "iletisim": "04528885201"
   },
   {
     "name": "NANE LİMON ECZANESİ",
@@ -15550,7 +17105,8 @@ export const locations = [
     "address": "SARISU MAH. 169.SOK. KONYAALTI İŞ MERKEZİ NO:11/C (9)",
     "contract": true,
     "latitude": 36.8482603,
-    "longitude": 30.5961933
+    "longitude": 30.5961933,
+    "iletisim": "02422286665"
   },
   {
     "name": "BURAK AKBUĞA ECZANESİ",
@@ -15560,7 +17116,8 @@ export const locations = [
     "address": "HAVZAN MAHALLESİ KILIKÇI SOKAK NO: 12/A MERAM/KONYA",
     "contract": true,
     "latitude": 37.8646833,
-    "longitude": 32.4666795
+    "longitude": 32.4666795,
+    "iletisim": "03323202530"
   },
   {
     "name": "ARI ECZANESİ",
@@ -15570,7 +17127,8 @@ export const locations = [
     "address": "HACIHALİL MAHALLESİ ATATÜRK CADDESİ NO: 24/B",
     "contract": true,
     "latitude": 40.796584,
-    "longitude": 29.431926
+    "longitude": 29.431926,
+    "iletisim": "02125043643"
   },
   {
     "name": "MÜĞREN ECZANESİ",
@@ -15580,7 +17138,8 @@ export const locations = [
     "address": "KIZILTOPRAK MAHALLESİ ALİ ÇETİNKAYA CADDESİ ALİ ÇAVUŞ APARTMANI NO: 147/C",
     "contract": true,
     "latitude": 36.8883988,
-    "longitude": 30.7225429
+    "longitude": 30.7225429,
+    "iletisim": "05539120717"
   },
   {
     "name": "MAVİSU ECZANESİ",
@@ -15590,7 +17149,8 @@ export const locations = [
     "address": "ADİL MAHALLESİ POLENEZ CADDESİ ATAHAN APARTMANI NO: 38/A",
     "contract": true,
     "latitude": 40.9816697,
-    "longitude": 29.2573578
+    "longitude": 29.2573578,
+    "iletisim": "02165921481"
   },
   {
     "name": "YENİ LİSE ECZANESİ",
@@ -15600,7 +17160,8 @@ export const locations = [
     "address": "ÇİFTLİK MAHALLESİ LİSE CADDESİ NO: 30",
     "contract": true,
     "latitude": 41.2816332,
-    "longitude": 36.3378373
+    "longitude": 36.3378373,
+    "iletisim": "03622333040"
   },
   {
     "name": "YENİ ÖYKÜ ECZANESİ",
@@ -15610,7 +17171,8 @@ export const locations = [
     "address": "EĞİTİM MAHALLESİ MİTHATPAŞA CADDESİ NO: 27",
     "contract": true,
     "latitude": 38.3949758,
-    "longitude": 27.0583046
+    "longitude": 27.0583046,
+    "iletisim": "02322787506"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -15620,7 +17182,8 @@ export const locations = [
     "address": "GEBİZLİ MAHALLESİ 1115. SOKAK NO: 4/C ASV YAŞAM HASTANESİ KARŞISI",
     "contract": true,
     "latitude": 36.8992043,
-    "longitude": 30.7238703
+    "longitude": 30.7238703,
+    "iletisim": "02744124152"
   },
   {
     "name": "TAŞDELEN ECZANESİ",
@@ -15630,7 +17193,8 @@ export const locations = [
     "address": "GÜNGÖREN MAHALLESİ TURGUT ÖZAL CADDESİ NO: 66/70-F",
     "contract": true,
     "latitude": 41.0275997,
-    "longitude": 29.2231717
+    "longitude": 29.2231717,
+    "iletisim": "02169995099"
   },
   {
     "name": "HALASKARGAZİ ECZANESİ",
@@ -15640,7 +17204,8 @@ export const locations = [
     "address": "MERKEZ MAHALLESİ HALASKARGAZİ CADDESİ NO: 195/A",
     "contract": true,
     "latitude": 41.0592514,
-    "longitude": 28.9869247
+    "longitude": 28.9869247,
+    "iletisim": "02122242470"
   },
   {
     "name": "DERMAN ECZANESİ",
@@ -15650,7 +17215,8 @@ export const locations = [
     "address": "PINARBAŞI MAHALLESİ ATATÜRK BULVARI NO: 11/A",
     "contract": true,
     "latitude": 36.6454336,
-    "longitude": 33.4373063
+    "longitude": 33.4373063,
+    "iletisim": "02822625876"
   },
   {
     "name": "LÜLEBURGAZ ECZANESİ",
@@ -15660,7 +17226,8 @@ export const locations = [
     "address": "KURTULUŞ MAHALLESİ, İSTASYON CADDESİ NO: 41/B",
     "contract": true,
     "latitude": 41.40040399999999,
-    "longitude": 27.3546009
+    "longitude": 27.3546009,
+    "iletisim": "02884171617"
   },
   {
     "name": "KURAL ECZANESİ",
@@ -15670,7 +17237,8 @@ export const locations = [
     "address": "ORTA MAHALLESİ YUSUFEFENDİ SOKAK NO: 8/A",
     "contract": true,
     "latitude": 40.9150257,
-    "longitude": 29.205207
+    "longitude": 29.205207,
+    "iletisim": "02163090900"
   },
   {
     "name": "GÖRKEM ECZANESİ",
@@ -15680,7 +17248,8 @@ export const locations = [
     "address": "KINIKLI MAHALLESİ ŞEHİT DOKTOR MUNİSE ÖZCAN CADDESİ NO: 17A/B",
     "contract": true,
     "latitude": 37.7498118,
-    "longitude": 29.0880758
+    "longitude": 29.0880758,
+    "iletisim": "02589991901"
   },
   {
     "name": "ARI ECZANESİ",
@@ -15690,7 +17259,8 @@ export const locations = [
     "address": "ILICA MAHALLESİ MİTHATPAŞA CADDESİ NO: 28/B",
     "contract": true,
     "latitude": 38.3933489,
-    "longitude": 27.0211028
+    "longitude": 27.0211028,
+    "iletisim": "02125043643"
   },
   {
     "name": "BEŞKONAK ECZANESİ",
@@ -15700,7 +17270,8 @@ export const locations = [
     "address": "VARLIK MAHALLESİ KAZIM KARABEKİR CADDESİ ACAR APARTMANI NO: 22/B",
     "contract": true,
     "latitude": 36.8895584,
-    "longitude": 30.6798119
+    "longitude": 30.6798119,
+    "iletisim": "02429991025"
   },
   {
     "name": "BEYAZ ECZANESİ",
@@ -15710,7 +17281,8 @@ export const locations = [
     "address": "ZEYTİNLİK MAHALLESİ YAKUT SOKAK SİNANOĞLU PASAJI VE İŞHANI NO: 28/1A",
     "contract": true,
     "latitude": 40.978955,
-    "longitude": 28.871816
+    "longitude": 28.871816,
+    "iletisim": "02323819043"
   },
   {
     "name": "YURDAGÜL ECZANESİ",
@@ -15720,7 +17292,8 @@ export const locations = [
     "address": "REŞATBEY MAHALLESİ DR. SELİM YILMAZ SOKAK GÜLEN APARTMANI NO: 10/A",
     "contract": true,
     "latitude": 36.9963996,
-    "longitude": 35.3329082
+    "longitude": 35.3329082,
+    "iletisim": "03225025906"
   },
   {
     "name": "EDANUR ECZANESİ",
@@ -15730,7 +17303,8 @@ export const locations = [
     "address": "SARAY MAHALLESİ ALEMDAĞ CADDESİ NO: 191/B",
     "contract": true,
     "latitude": 41.0210019,
-    "longitude": 29.1203342
+    "longitude": 29.1203342,
+    "iletisim": "02166341896"
   },
   {
     "name": "ROZA ECZANESİ",
@@ -15740,7 +17314,8 @@ export const locations = [
     "address": "YENİ MAHALLE MAHALLESİ 8780/1. SOKAK NO: 6/D",
     "contract": true,
     "latitude": 38.50149469999999,
-    "longitude": 27.0463727
+    "longitude": 27.0463727,
+    "iletisim": "02323636313"
   },
   {
     "name": "LOKMAN ECZANESİ",
@@ -15750,7 +17325,8 @@ export const locations = [
     "address": "MERCANTEPE MAHALLESİ NACİ DEMİRAĞ CADDESİ NO: 52/A",
     "contract": true,
     "latitude": 39.374885,
-    "longitude": 38.118521
+    "longitude": 38.118521,
+    "iletisim": "03464181385"
   },
   {
     "name": "POZİTİF ECZANESİ",
@@ -15760,7 +17336,8 @@ export const locations = [
     "address": "CUMHURİYET MAHALLESİ HALASKARGAZİ CADDESİ NO: 95/A",
     "contract": true,
     "latitude": 41.05289579999999,
-    "longitude": 28.9871792
+    "longitude": 28.9871792,
+    "iletisim": "02167596650"
   },
   {
     "name": "METROPOL ECZANESİ",
@@ -15770,7 +17347,8 @@ export const locations = [
     "address": "YAZIR MAHALLESİ ŞENOCAK SOKAK NO: 11/F",
     "contract": true,
     "latitude": 37.9550971,
-    "longitude": 32.4995878
+    "longitude": 32.4995878,
+    "iletisim": "02244514200"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -15780,7 +17358,8 @@ export const locations = [
     "address": "HÜRRİYET MAHALLESİ ATATÜRK BULVARI NO: 7/C",
     "contract": true,
     "latitude": 38.74144709999999,
-    "longitude": 41.49149360000001
+    "longitude": 41.49149360000001,
+    "iletisim": "03247141116"
   },
   {
     "name": "GÜNEŞ ECZANESİ",
@@ -15790,7 +17369,8 @@ export const locations = [
     "address": "İSTASYON MAHALLESİ 78001. SOKAK NO: 29/A",
     "contract": true,
     "latitude": 37.6452813,
-    "longitude": 37.0400339
+    "longitude": 37.0400339,
+    "iletisim": "02322275349"
   },
   {
     "name": "ASIM HAMDİ ARCA ECZANESİ",
@@ -15800,7 +17380,8 @@ export const locations = [
     "address": "CUMHURİYET ECZANESİ UZUN ÇARŞI SOKAK NO: 13",
     "contract": true,
     "latitude": 40.7788174,
-    "longitude": 30.400976
+    "longitude": 30.400976,
+    "iletisim": "02642711198"
   },
   {
     "name": "MUTLU ECZANESİ",
@@ -15810,7 +17391,8 @@ export const locations = [
     "address": "VEYSEL KARANİ MAHALLESİ YUNUS EMRE CADDESİ NO: 70/B",
     "contract": true,
     "latitude": 37.1730509,
-    "longitude": 38.8133511
+    "longitude": 38.8133511,
+    "iletisim": "03242373086"
   },
   {
     "name": "ÖZLEM ECZANESİ",
@@ -15820,7 +17402,8 @@ export const locations = [
     "address": "YETMİŞ EVLER MAHALLESİ 2493. SOKAK NO:8 Z-5",
     "contract": true,
     "latitude": 37.456548,
-    "longitude": 30.589834
+    "longitude": 30.589834,
+    "iletisim": "02483251340"
   },
   {
     "name": "BURCU ECZANESİ",
@@ -15830,7 +17413,8 @@ export const locations = [
     "address": "YENİ MAHALLESİ GÜNEŞ MÜFTÜOĞLU SOKAK NO: 4/A",
     "contract": true,
     "latitude": 41.42768,
-    "longitude": 32.0770237
+    "longitude": 32.0770237,
+    "iletisim": "03682617888"
   },
   {
     "name": "CADDE ECZANESİ",
@@ -15840,7 +17424,8 @@ export const locations = [
     "address": "ŞEKERHANE MAHALLESİ ALAİYE CADDESİ NO: 91/B",
     "contract": true,
     "latitude": 36.5513566,
-    "longitude": 31.9983736
+    "longitude": 31.9983736,
+    "iletisim": "02222214010"
   },
   {
     "name": "KÜBRA ECZANESİ",
@@ -15850,7 +17435,8 @@ export const locations = [
     "address": "ŞEKERHANE MAHALLESİ ŞEVKET TOKUŞ CADDESİ NO: 49/B",
     "contract": true,
     "latitude": 36.5470652,
-    "longitude": 31.9975922
+    "longitude": 31.9975922,
+    "iletisim": "04162131013"
   },
   {
     "name": "MAXIMUM ECZANESİ",
@@ -15860,7 +17446,8 @@ export const locations = [
     "address": "ORHANTEPE MAHALLESİ ÜSKÜDAR CADDESİ NO: 145/D",
     "contract": true,
     "latitude": 40.9070292,
-    "longitude": 29.1602387
+    "longitude": 29.1602387,
+    "iletisim": "02165172118"
   },
   {
     "name": "KINIK ECZANESİ",
@@ -15870,7 +17457,8 @@ export const locations = [
     "address": "ALİ HİKMET PAŞA MAHALLESİ EKİN SOKAK NO : 62/A",
     "contract": true,
     "latitude": 39.655,
-    "longitude": 27.88839
+    "longitude": 27.88839,
+    "iletisim": "02662396707"
   },
   {
     "name": "POLAT ECZANESİ",
@@ -15880,7 +17468,8 @@ export const locations = [
     "address": "HACİ SAKİ MAHALLESİ ATATÜRK BULVARI NO: 11/B",
     "contract": true,
     "latitude": 38.7217085,
-    "longitude": 35.4820065
+    "longitude": 35.4820065,
+    "iletisim": "02123020443"
   },
   {
     "name": "NEŞEM ECZANESİ",
@@ -15890,7 +17479,8 @@ export const locations = [
     "address": "ÖMERAĞA MAHALLESİ ALEMDAĞ CADDESİ NO: 34/C",
     "contract": true,
     "latitude": 40.7645788,
-    "longitude": 29.9285004
+    "longitude": 29.9285004,
+    "iletisim": "03123564056"
   },
   {
     "name": "ŞİMŞEK ECZANESİ",
@@ -15900,7 +17490,8 @@ export const locations = [
     "address": "NUMUNE EVLER MAHALLE M. DOĞANAY ÖÇGÜDER CADDESİ NO: 53/A",
     "contract": true,
     "latitude": 36.8356172,
-    "longitude": 36.2278347
+    "longitude": 36.2278347,
+    "iletisim": "03267124343"
   },
   {
     "name": "DİDEM ECZANESİ",
@@ -15910,7 +17501,8 @@ export const locations = [
     "address": "MERKEZ MAHALLESİ CUMHURİYET MEYDANI NO: 9",
     "contract": true,
     "latitude": 41.18269,
-    "longitude": 31.38453
+    "longitude": 31.38453,
+    "iletisim": "03723783160"
   },
   {
     "name": "İYİ GÜNLER ECZANESİ",
@@ -15920,7 +17512,8 @@ export const locations = [
     "address": "TOROS MAHALLESİ MESUT MERCAN CADDESİ ÖZGÜR APARTMANI NO: 19/A",
     "contract": true,
     "latitude": 37.0405916,
-    "longitude": 35.2999779
+    "longitude": 35.2999779,
+    "iletisim": "05323576881"
   },
   {
     "name": "ANKA ECZANESİ",
@@ -15930,7 +17523,8 @@ export const locations = [
     "address": "MALTEPE MAHALLESİ GAZİ MUSTAFA KEMAL BULVARI NO: 47/A",
     "contract": true,
     "latitude": 39.9260972,
-    "longitude": 32.8471393
+    "longitude": 32.8471393,
+    "iletisim": "02325033444"
   },
   {
     "name": "LAVANTA ECZANESİ",
@@ -15940,7 +17534,8 @@ export const locations = [
     "address": "SULTANÇİFTLİĞİ MAHALLESİ TURGUT ÖZAL CADDESİ NO: 89-93G",
     "contract": true,
     "latitude": 41.029346,
-    "longitude": 29.2242101
+    "longitude": 29.2242101,
+    "iletisim": "02124794026"
   },
   {
     "name": "YENİHAYAT ECZANESİ",
@@ -15950,7 +17545,8 @@ export const locations = [
     "address": "CEMALPAŞA MAHALLESİ ATATÜRK CADDESİ NO: 60/A",
     "contract": true,
     "latitude": 36.9992288,
-    "longitude": 35.324027
+    "longitude": 35.324027,
+    "iletisim": "03222313202"
   },
   {
     "name": "BAĞLICA MERKEZ ECZANESİ",
@@ -15960,7 +17556,8 @@ export const locations = [
     "address": "YENİ BAĞLICA MAHALLESİ BAĞLICA BULVARI NO: 48/CA",
     "contract": true,
     "latitude": 39.8981093,
-    "longitude": 32.6481154
+    "longitude": 32.6481154,
+    "iletisim": "03129631415"
   },
   {
     "name": "HAZAN ECZANESİ",
@@ -15970,7 +17567,8 @@ export const locations = [
     "address": "SOKULLU MEHMET PAŞA MAHALLESİ SOKULLU MEHMETPAŞA CADDESİ NO: 32/B",
     "contract": true,
     "latitude": 39.8931683,
-    "longitude": 32.8345745
+    "longitude": 32.8345745,
+    "iletisim": "03122238353"
   },
   {
     "name": "REHBER ECZANESİ",
@@ -15980,7 +17578,8 @@ export const locations = [
     "address": "ÇANKAYA MAHALLESİ 2017. SOKAK NO: 25/11",
     "contract": true,
     "latitude": 37.2144548,
-    "longitude": 38.80036440000001
+    "longitude": 38.80036440000001,
+    "iletisim": "05370455258"
   },
   {
     "name": "BAŞAK ECZANESİ",
@@ -15990,7 +17589,8 @@ export const locations = [
     "address": "15 MAYIS MAHALLESİ ATATÜRK CADDESİ ÇINAR APARTMANI NO: 3/B",
     "contract": true,
     "latitude": 37.777189,
-    "longitude": 29.0881728
+    "longitude": 29.0881728,
+    "iletisim": "05437242233"
   },
   {
     "name": "AMAZON ECZANESİ",
@@ -16000,7 +17600,8 @@ export const locations = [
     "address": "KARADENİZ MAHALLESİ LİSE CADDESİ NO:20/4",
     "contract": true,
     "latitude": 41.2832331,
-    "longitude": 36.3393181
+    "longitude": 36.3393181,
+    "iletisim": "03622310034"
   },
   {
     "name": "MEYDAN BATIKENT ECZANESİ",
@@ -16010,7 +17611,8 @@ export const locations = [
     "address": "KENTKOOP MAHALLESİ BATIKENT BULVARI NO: 255/38-39 MEYDAN AVM",
     "contract": true,
     "latitude": 39.9697754,
-    "longitude": 32.7169663
+    "longitude": 32.7169663,
+    "iletisim": "03122504500"
   },
   {
     "name": "PELİN ECZANESİ",
@@ -16020,7 +17622,8 @@ export const locations = [
     "address": "YAKACIK ÇARŞI MAHALLESİ GÖKDEMİR SOKAK NO:9/B",
     "contract": true,
     "latitude": 40.918858,
-    "longitude": 29.2264549
+    "longitude": 29.2264549,
+    "iletisim": "02164525344"
   },
   {
     "name": "DOĞA ECZANESİ",
@@ -16030,7 +17633,8 @@ export const locations = [
     "address": "BAĞLARBAŞI MAHALLESİ BAĞDAT CADDESİ NO:457/F",
     "contract": true,
     "latitude": 40.9220388,
-    "longitude": 29.1360346
+    "longitude": 29.1360346,
+    "iletisim": "05063565981"
   },
   {
     "name": "AKTAŞ ECZANESİ",
@@ -16040,7 +17644,8 @@ export const locations = [
     "address": "BAŞBAĞLAR MAHALLESİ HACI ALİ AKIN CADDESİ NO: 43/1",
     "contract": true,
     "latitude": 39.262337,
-    "longitude": 38.4960961
+    "longitude": 38.4960961,
+    "iletisim": "04462121812"
   },
   {
     "name": "OZAN TÜRK ECZANESİ",
@@ -16050,7 +17655,8 @@ export const locations = [
     "address": "KEMALPAŞA MAHALLESİ ALİ EYSEN SOKAK NO: 6/A",
     "contract": true,
     "latitude": 39.9210822,
-    "longitude": 33.2266237
+    "longitude": 33.2266237,
+    "iletisim": "05418363274"
   },
   {
     "name": "YAHYALI ECZANESİ",
@@ -16060,7 +17666,8 @@ export const locations = [
     "address": "SEYDİLİ MAHALLESİ ATATÜRK BULVARI NO: 14/A",
     "contract": true,
     "latitude": 38.1012502,
-    "longitude": 35.353483
+    "longitude": 35.353483,
+    "iletisim": "03526113498"
   },
   {
     "name": "KADIOĞLU ECZANESİ",
@@ -16070,7 +17677,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAHALLESİ DEMOKRASİ BULVARI NO: 14",
     "contract": true,
     "latitude": 36.78498750000001,
-    "longitude": 31.44044289999999
+    "longitude": 31.44044289999999,
+    "iletisim": "02427431310"
   },
   {
     "name": "SEVGİN ECZANESİ",
@@ -16080,7 +17688,8 @@ export const locations = [
     "address": "MEHMET AKİF ERSOY MAHALLESİ VATAN CADDESİ NO: 96/J",
     "contract": true,
     "latitude": 39.9703392,
-    "longitude": 32.7802186
+    "longitude": 32.7802186,
+    "iletisim": "03123466900"
   },
   {
     "name": "DEMOKRASİ ECZANESİ",
@@ -16090,7 +17699,8 @@ export const locations = [
     "address": "ATATÜRK MAHALLESİ DEMOKRASİ CADDESİ NO: 42/A",
     "contract": true,
     "latitude": 41.0117457,
-    "longitude": 29.2181507
+    "longitude": 29.2181507,
+    "iletisim": "05342090014"
   },
   {
     "name": "BOŞCU ECZANESİ",
@@ -16100,7 +17710,8 @@ export const locations = [
     "address": "KALEDERE MAHALLESİ AKKUŞ NİKSAR CADDESİ NO: 10/A",
     "contract": true,
     "latitude": 41.126847,
-    "longitude": 37.2879779
+    "longitude": 37.2879779,
+    "iletisim": "04523232301"
   },
   {
     "name": "BANU ECZANESİ",
@@ -16110,7 +17721,8 @@ export const locations = [
     "address": "CUMHURİYET MAHALLESİ FATİH AHMET BABA BULVARI NO: 24/A",
     "contract": true,
     "latitude": 38.6680946,
-    "longitude": 39.1734465
+    "longitude": 39.1734465,
+    "iletisim": "04242480024"
   },
   {
     "name": "GÜNEŞ ECZANESİ",
@@ -16120,7 +17732,8 @@ export const locations = [
     "address": "KUZEYKENT MAHALLESİ KAZIM KARABEKİR CADDESİ NO: 39 DB",
     "contract": true,
     "latitude": 41.4275098,
-    "longitude": 33.7768457
+    "longitude": 33.7768457,
+    "iletisim": "02322275349"
   },
   {
     "name": "FATİH TUNÇEL ECZANESİ",
@@ -16130,7 +17743,8 @@ export const locations = [
     "address": "ABİDİNPAŞA MAHALLESİ MEHMET ALİ ALTIN CADDESİ NO: 27/B",
     "contract": true,
     "latitude": 39.9237369,
-    "longitude": 32.8853336
+    "longitude": 32.8853336,
+    "iletisim": "03123645686"
   },
   {
     "name": "AYÇE ECZANESİ",
@@ -16140,7 +17754,8 @@ export const locations = [
     "address": "BAHARİYE MAHALLESİ DOÇENT DOKTOR BAHRİYE ÜÇOK BULVARI NO: 20/B",
     "contract": true,
     "latitude": 38.4630654,
-    "longitude": 27.1153155
+    "longitude": 27.1153155,
+    "iletisim": "02323727695"
   },
   {
     "name": "ÇAKMAK ECZANESİ",
@@ -16150,7 +17765,8 @@ export const locations = [
     "address": "ÇAKMAK CADDESİ NO:72/B (ÇAKMAK PLAZA KARŞISI)",
     "contract": true,
     "latitude": 36.9889053,
-    "longitude": 35.3255475
+    "longitude": 35.3255475,
+    "iletisim": "03224322535"
   },
   {
     "name": "YOĞURTPAZARI ECZANESİ",
@@ -16160,7 +17776,8 @@ export const locations = [
     "address": "CUMA MAHALLESİ KASIMEFENDİ CADDESİ NO: 6",
     "contract": true,
     "latitude": 40.0771293,
-    "longitude": 29.51229
+    "longitude": 29.51229,
+    "iletisim": "02247154982"
   },
   {
     "name": "İNALTEKİN ECZANESİ",
@@ -16170,7 +17787,8 @@ export const locations = [
     "address": "İMBATLI MAHALLESİ 6092/1. SOKAK NO: 1/A",
     "contract": true,
     "latitude": 38.474491,
-    "longitude": 27.106111
+    "longitude": 27.106111,
+    "iletisim": "02329999912"
   },
   {
     "name": "MELTEM ECZANESİ",
@@ -16180,7 +17798,8 @@ export const locations = [
     "address": "SALİMBEY MAHALLESİ ŞEHİT SAMİ AKBULUT CADDESİ 19. SOKAK NO: 2/A",
     "contract": true,
     "latitude": 39.073635,
-    "longitude": 26.888998
+    "longitude": 26.888998,
+    "iletisim": "05455902595"
   },
   {
     "name": "HACETTEPE ECZANESİ",
@@ -16190,7 +17809,8 @@ export const locations = [
     "address": "ZİYAPAŞA MAHALLESİ 67055. SOKAK GÖRKEM APARTMANI B BLOK NO: 4/A",
     "contract": true,
     "latitude": 37.0147199,
-    "longitude": 35.3251699
+    "longitude": 35.3251699,
+    "iletisim": "03707253292"
   },
   {
     "name": "MANZARA ADALAR ECZANESİ",
@@ -16200,7 +17820,8 @@ export const locations = [
     "address": "KARLIKTEPE MAHALLESİ YAKACIK CADDESİ NO: 67B/2 KARTAL/İSTANBUL",
     "contract": true,
     "latitude": 40.8951705,
-    "longitude": 29.1983085
+    "longitude": 29.1983085,
+    "iletisim": "05384704242"
   },
   {
     "name": "EREL ECZANESİ",
@@ -16210,7 +17831,8 @@ export const locations = [
     "address": "ŞİRİNYALI MAHALLESİ İSMET GÖKŞEN CADDESİ NO: 36-B-2",
     "contract": true,
     "latitude": 36.8595774,
-    "longitude": 30.7323492
+    "longitude": 30.7323492,
+    "iletisim": "02429991870"
   },
   {
     "name": "ESİN KAYA ECZANESİ",
@@ -16220,7 +17842,8 @@ export const locations = [
     "address": "BAĞLARBAŞI MAHALLESİ FEYZULLAH CADDESİ NO: 28D",
     "contract": true,
     "latitude": 40.9278088,
-    "longitude": 29.1381017
+    "longitude": 29.1381017,
+    "iletisim": "02164419477"
   },
   {
     "name": "BORNOVA MAVİ ECZANESİ",
@@ -16230,7 +17853,8 @@ export const locations = [
     "address": "KAZIMDİRİK MAHALLESİ MUSTAFA KEMAL CADDESİ NO: 37/A",
     "contract": true,
     "latitude": 38.4640289,
-    "longitude": 27.214629
+    "longitude": 27.214629,
+    "iletisim": "05337352332"
   },
   {
     "name": "BOZBURUN ECZANESİ",
@@ -16240,7 +17864,8 @@ export const locations = [
     "address": "BELDİBİ MAHALLESİ ATATÜRK BULVARI NO: 103/F",
     "contract": true,
     "latitude": 36.872649,
-    "longitude": 28.266193
+    "longitude": 28.266193,
+    "iletisim": "05511936420"
   },
   {
     "name": "KARAHAN ECZANESİ",
@@ -16250,7 +17875,8 @@ export const locations = [
     "address": "CUMHURİYET MAHALLESİ MENDERES BULVARI NO:39B",
     "contract": true,
     "latitude": 39.0396386,
-    "longitude": 28.6579786
+    "longitude": 28.6579786,
+    "iletisim": "02364623800"
   },
   {
     "name": "ÖZTÜRK ECZANESİ",
@@ -16260,7 +17886,8 @@ export const locations = [
     "address": "MERKEZ MAHALLESİ ATATÜRK CADDESİ NO: 27A",
     "contract": true,
     "latitude": 41.4881856,
-    "longitude": 31.8388131
+    "longitude": 31.8388131,
+    "iletisim": "02126184512"
   },
   {
     "name": "HEYKEL ECZANESİ",
@@ -16270,7 +17897,8 @@ export const locations = [
     "address": "YENİ MAHALLESİ NİHAT KANTARCI CADDESİ NO: 11/C",
     "contract": true,
     "latitude": 41.4258196,
-    "longitude": 32.0758749
+    "longitude": 32.0758749,
+    "iletisim": "03726157000"
   },
   {
     "name": "1071 ECZANESİ",
@@ -16280,7 +17908,8 @@ export const locations = [
     "address": "KIZILIRMAK MAHALLESİ 1443. CADDE NO: 25-04 1071 AVM",
     "contract": true,
     "latitude": 39.9078946,
-    "longitude": 32.8124602
+    "longitude": 32.8124602,
+    "iletisim": "03122862186"
   },
   {
     "name": "IHLAMUR ECZANESİ",
@@ -16290,7 +17919,8 @@ export const locations = [
     "address": "HAYDAR ÇAVUŞ MAHALLESİ İSMET İNÖNÜ CADDESİ NO: 39",
     "contract": true,
     "latitude": 40.3533217,
-    "longitude": 27.970112
+    "longitude": 27.970112,
+    "iletisim": "05405042804"
   },
   {
     "name": "ELİT ECZANESİ",
@@ -16300,7 +17930,8 @@ export const locations = [
     "address": "KUZEYTEPE MAHALLESİ 2906.SOK NO:5/14 ANTAKYA/HATAY",
     "contract": true,
     "latitude": 36.265489,
-    "longitude": 36.1599713
+    "longitude": 36.1599713,
+    "iletisim": "02163632020"
   },
   {
     "name": "YAŞAM ECZANESİ",
@@ -16310,7 +17941,8 @@ export const locations = [
     "address": "ESKİ HABİPLER MAHALLESİ ÇİLEK SOKAK NO: 10/A",
     "contract": true,
     "latitude": 41.1316737,
-    "longitude": 28.830923
+    "longitude": 28.830923,
+    "iletisim": "02166509418"
   },
   {
     "name": "TUTKU KARÇAL ECZANESİ",
@@ -16320,7 +17952,8 @@ export const locations = [
     "address": "BALAT MAHALLESİ FARUK BAYKAL CADDESİ NO: 13/D",
     "contract": true,
     "latitude": 40.25980029999999,
-    "longitude": 28.9398413
+    "longitude": 28.9398413,
+    "iletisim": "02245023325"
   },
   {
     "name": "ZENGİN ECZANESİ",
@@ -16330,7 +17963,8 @@ export const locations = [
     "address": "BULGURLU MAHALLESİ SÖĞÜTLÜÇAYIR CADDESİ NO: 20B",
     "contract": true,
     "latitude": 41.0171334,
-    "longitude": 29.0803614
+    "longitude": 29.0803614,
+    "iletisim": "02166508052"
   },
   {
     "name": "KARADENİZ ECZANESİ",
@@ -16340,7 +17974,8 @@ export const locations = [
     "address": "OSMANİYE MAH. ŞİFA SOKAKNO:4/C",
     "contract": true,
     "latitude": 41.0876433,
-    "longitude": 31.1264702
+    "longitude": 31.1264702,
+    "iletisim": "02662449497"
   },
   {
     "name": "FEYZA ECZANESİ",
@@ -16350,7 +17985,8 @@ export const locations = [
     "address": "SUNDURA MAHALLESİ LİSE CADDESİ NO: 49/A",
     "contract": true,
     "latitude": 41.3867031,
-    "longitude": 41.4196602
+    "longitude": 41.4196602,
+    "iletisim": "02164943676"
   },
   {
     "name": "ÖZTÜRK ECZANESİ",
@@ -16360,7 +17996,8 @@ export const locations = [
     "address": "BAHÇELİ MAHALLESİ DEVLET BAHÇELİ CADDESİ NO: 21/A",
     "contract": true,
     "latitude": 39.184872,
-    "longitude": 36.071732
+    "longitude": 36.071732,
+    "iletisim": "02126184512"
   },
   {
     "name": "BEGÜM ECZANESİ",
@@ -16370,7 +18007,8 @@ export const locations = [
     "address": "YILDIZTEPE MAHALLESİ 169. CADDE NO: 28/A",
     "contract": true,
     "latitude": 39.9768611,
-    "longitude": 32.8946574
+    "longitude": 32.8946574,
+    "iletisim": "03125036262"
   },
   {
     "name": "ERYAMAN CANSU ECZANESİ",
@@ -16380,7 +18018,8 @@ export const locations = [
     "address": "DEVLET MAHALLESİ 262. CADDE NO: 6/59",
     "contract": true,
     "latitude": 39.9869864,
-    "longitude": 32.5678616
+    "longitude": 32.5678616,
+    "iletisim": "03122794767"
   },
   {
     "name": "SEMT ECZANESİ",
@@ -16390,7 +18029,8 @@ export const locations = [
     "address": "DOKUZKAVAKLAR MAHALLESİ 2049/5. SOKAK NO: 10B",
     "contract": true,
     "latitude": 37.7913383,
-    "longitude": 29.10351199999999
+    "longitude": 29.10351199999999,
+    "iletisim": "02585025344"
   },
   {
     "name": "KARDELEN ECZANESİ",
@@ -16400,7 +18040,8 @@ export const locations = [
     "address": "KAVAKLIDERE MAHALLESİ BÜKLÜM CADDESİ NO: 5/A",
     "contract": true,
     "latitude": 39.9125617,
-    "longitude": 32.8582591
+    "longitude": 32.8582591,
+    "iletisim": "02525021928"
   },
   {
     "name": "UYSAL ECZANESİ",
@@ -16410,7 +18051,8 @@ export const locations = [
     "address": "ERTUĞRUL MAHALLESİ MİTHAT PAŞA CADDESİ NO: 67/B",
     "contract": true,
     "latitude": 38.1549871,
-    "longitude": 27.3580246
+    "longitude": 27.3580246,
+    "iletisim": "02328561024"
   },
   {
     "name": "ATLAS ECZANESİ",
@@ -16420,7 +18062,8 @@ export const locations = [
     "address": "YALI MAHALLESİ 6471/5. SOKAK NO: 3/B",
     "contract": true,
     "latitude": 38.4721273,
-    "longitude": 27.0861395
+    "longitude": 27.0861395,
+    "iletisim": "02882140071"
   },
   {
     "name": "YAŞAR ECZANESİ",
@@ -16430,7 +18073,8 @@ export const locations = [
     "address": "İÇERENKÖY MAHALLESİ KARSLI AHMET CADDESİ NO: 12/2/A",
     "contract": true,
     "latitude": 40.9712907,
-    "longitude": 29.1121964
+    "longitude": 29.1121964,
+    "iletisim": "03545161017"
   },
   {
     "name": "LEMAN ECZANESİ",
@@ -16440,7 +18084,8 @@ export const locations = [
     "address": "VALİ RAHMİ BEY MAHALLESİ FORBES SOKAK NO: 161/A",
     "contract": true,
     "latitude": 38.388104,
-    "longitude": 27.1621745
+    "longitude": 27.1621745,
+    "iletisim": "02324263656"
   },
   {
     "name": "HAŞHAŞLAR ECZANESİ",
@@ -16450,7 +18095,8 @@ export const locations = [
     "address": "MERKEZ MAHALLESİ KÜÇÜKKÖY YOLU CADDESİ NO: 11/C",
     "contract": true,
     "latitude": 41.0596334,
-    "longitude": 28.9127652
+    "longitude": 28.9127652,
+    "iletisim": "02126152024"
   },
   {
     "name": "GÜMÜŞSU ECZANESİ",
@@ -16460,7 +18106,8 @@ export const locations = [
     "address": "ÇARŞI MAHALLESİ DOKTOR SADIK AHMET CADDESİ NO: 105/C",
     "contract": true,
     "latitude": 38.6128719,
-    "longitude": 27.4303225
+    "longitude": 27.4303225,
+    "iletisim": "02362313575"
   },
   {
     "name": "PALMİYE ECZANESİ",
@@ -16470,7 +18117,8 @@ export const locations = [
     "address": "TOSMUR MAHALLESİ 9. SOKAK MİMOZA APARTMANI NO: 5/B",
     "contract": true,
     "latitude": 36.5303641,
-    "longitude": 32.0453925
+    "longitude": 32.0453925,
+    "iletisim": "02425122714"
   },
   {
     "name": "IHLAMUR ECZANESİ",
@@ -16480,7 +18128,8 @@ export const locations = [
     "address": "ZÜMRÜTEVLER MAHALLESİ HANDEGÜL SOKAK NO: 129/A",
     "contract": true,
     "latitude": 40.94812,
-    "longitude": 29.1544145
+    "longitude": 29.1544145,
+    "iletisim": "05405042804"
   },
   {
     "name": "TUBA ÇOMOĞLU ECZANESİ",
@@ -16490,7 +18139,8 @@ export const locations = [
     "address": "ÇINARLI MAHALLESİ ATATÜRK CADDESİ NO: 47B",
     "contract": true,
     "latitude": 36.997157,
-    "longitude": 35.3243699
+    "longitude": 35.3243699,
+    "iletisim": "05356837696"
   },
   {
     "name": "GANNEMOĞLU ECZANESİ",
@@ -16500,7 +18150,8 @@ export const locations = [
     "address": "ÖĞRETMENLER MAHALLESİ DUMLUPINAR BULVARI NO: 2/1F",
     "contract": true,
     "latitude": 36.9088258,
-    "longitude": 34.8837657
+    "longitude": 34.8837657,
+    "iletisim": "03246140036"
   },
   {
     "name": "CADDE E5 ECZANESİ",
@@ -16510,7 +18161,8 @@ export const locations = [
     "address": "KARTALTEPE MAHALLESİ SÜVARİ CADDESİ, NO: 6/D",
     "contract": true,
     "latitude": 41.0002211,
-    "longitude": 28.7981861
+    "longitude": 28.7981861,
+    "iletisim": "05073287007"
   },
   {
     "name": "FEYZA ECZANESİ",
@@ -16520,7 +18172,8 @@ export const locations = [
     "address": "GÜZELYALI MAHALLESİ ÇİÇEKSUYU SOKAK NO: 13/B",
     "contract": true,
     "latitude": 40.8596145,
-    "longitude": 29.2796735
+    "longitude": 29.2796735,
+    "iletisim": "02164943676"
   },
   {
     "name": "ELİFÇE ECZANESİ",
@@ -16530,7 +18183,8 @@ export const locations = [
     "address": "CUMHURİYET MAHALLESİ ŞEHİT NURETTİN CİNSOY SOKAK NO: 3/D",
     "contract": true,
     "latitude": 40.6007385,
-    "longitude": 33.6143152
+    "longitude": 33.6143152,
+    "iletisim": "05465006318"
   },
   {
     "name": "ECEM ECZANESİ",
@@ -16540,7 +18194,8 @@ export const locations = [
     "address": "SANCAK MAHALLESİ KONRAD ADENAUER CADDESİ NO: 32/A",
     "contract": true,
     "latitude": 39.8666953,
-    "longitude": 32.8623202
+    "longitude": 32.8623202,
+    "iletisim": "02167712657"
   },
   {
     "name": "SARAYBOSNA ECZANESİ",
@@ -16550,7 +18205,8 @@ export const locations = [
     "address": "MURATPAŞA MAHALLESİ SARAYBOSNA CADDESİ SINAV İŞ MERKEZİ NO: 41/C",
     "contract": true,
     "latitude": 39.9030451,
-    "longitude": 41.2679935
+    "longitude": 41.2679935,
+    "iletisim": "04424104623"
   },
   {
     "name": "YAŞAM PINARI ECZANESİ",
@@ -16560,7 +18216,8 @@ export const locations = [
     "address": "KAYABAŞI MAHALLESİ 6313. CADDE NO: 169",
     "contract": true,
     "latitude": 38.720489,
-    "longitude": 35.48259700000001
+    "longitude": 35.48259700000001,
+    "iletisim": "03522407664"
   },
   {
     "name": "DEMİRSOY ECZANESİ",
@@ -16570,7 +18227,8 @@ export const locations = [
     "address": "VALİ RAHMİ BEY MAHALLESİ ÖZMEN CADDESİ NO: 122/A",
     "contract": true,
     "latitude": 38.385181,
-    "longitude": 27.1665426
+    "longitude": 27.1665426,
+    "iletisim": "02324870166"
   },
   {
     "name": "TURUNÇ ECZANESİ",
@@ -16580,7 +18238,8 @@ export const locations = [
     "address": "MERKEZ EFENDİ MAHALLESİ 266. SOKAK NO: 158/D",
     "contract": true,
     "latitude": 37.8057579,
-    "longitude": 29.0227159
+    "longitude": 29.0227159,
+    "iletisim": "02583778578"
   },
   {
     "name": "MERT ECZANESİ",
@@ -16590,7 +18249,8 @@ export const locations = [
     "address": "AKPINAR MAHALLESİ KANUNİ CADDESİ NO: 4ED NEF 19 SİTESİ SANCAKTEPE/İSTANBUL",
     "contract": true,
     "latitude": 40.9715022,
-    "longitude": 29.23799339999999
+    "longitude": 29.23799339999999,
+    "iletisim": "03624388152"
   },
   {
     "name": "ÖZYİĞİT PLATO ECZANESİ",
@@ -16600,7 +18260,8 @@ export const locations = [
     "address": "ABDURRAHMANGAZİ MAHALLESİ FATİH BULVARI NO: 75",
     "contract": true,
     "latitude": 40.9692281,
-    "longitude": 29.2577672
+    "longitude": 29.2577672,
+    "iletisim": "02163732865"
   },
   {
     "name": "SOYAK YENİŞEHİR ECZANESİ",
@@ -16610,7 +18271,8 @@ export const locations = [
     "address": "SİTE MAHALLESİ CEVAHİR CADDESİ SOYAK YENİŞEHİR TİCARET MERKEZİ NO: 4A-5",
     "contract": true,
     "latitude": 41.0077006,
-    "longitude": 29.1172723
+    "longitude": 29.1172723,
+    "iletisim": "02165330880"
   },
   {
     "name": "ÜNİVERSİTE ECZANESİ",
@@ -16620,7 +18282,8 @@ export const locations = [
     "address": "DUMLUPINAR MAHALLESİ KADER (500) SOKAK NO: 15/B",
     "contract": true,
     "latitude": 40.2293489,
-    "longitude": 28.8381414
+    "longitude": 28.8381414,
+    "iletisim": "03124800507"
   },
   {
     "name": "BARLAS ECZANESİ",
@@ -16630,7 +18293,8 @@ export const locations = [
     "address": "BOSTANLI MAHALLESİ 1799. SOKAK NO: 14/A",
     "contract": true,
     "latitude": 38.4576673,
-    "longitude": 27.0990589
+    "longitude": 27.0990589,
+    "iletisim": "02323301160"
   },
   {
     "name": "KAPLUMBAĞA ECZANESİ",
@@ -16640,7 +18304,8 @@ export const locations = [
     "address": "ARAPÇEŞME MAHALLESİ KAVAK CADDESİ NO: 6/B",
     "contract": true,
     "latitude": 40.803443,
-    "longitude": 29.440262
+    "longitude": 29.440262,
+    "iletisim": "02626464666"
   },
   {
     "name": "SERA ECZANESİ",
@@ -16650,7 +18315,8 @@ export const locations = [
     "address": "MEHMET AKİF MAHALLESİ ELALMIŞ CADDESİ NO: 17/B",
     "contract": true,
     "latitude": 41.00849059999999,
-    "longitude": 29.1350308
+    "longitude": 29.1350308,
+    "iletisim": "03122173002"
   },
   {
     "name": "CADDE ECZANESİ",
@@ -16660,7 +18326,8 @@ export const locations = [
     "address": "YENİ MAHALLESİ VEDAT ALİ ÖZKAN CADDESİ NO: 35/B",
     "contract": true,
     "latitude": 41.2164735,
-    "longitude": 31.9553957
+    "longitude": 31.9553957,
+    "iletisim": "02222214010"
   },
   {
     "name": "BEYLİKDÜZÜ ECZANESİ",
@@ -16670,7 +18337,8 @@ export const locations = [
     "address": "PINARTEPE MAHALLESİ YAVUZ SULTAN SELİM BULVARI BEYZA PLAZA NO: 6/1C",
     "contract": true,
     "latitude": 41.0049665,
-    "longitude": 28.6259514
+    "longitude": 28.6259514,
+    "iletisim": "02128554050"
   },
   {
     "name": "OGÜN ECZANESİ",
@@ -16680,7 +18348,8 @@ export const locations = [
     "address": "ACIBADEM MAHALLESİ ACIBADEM CADDESİ NO: 224-I",
     "contract": true,
     "latitude": 41.01341499999999,
-    "longitude": 29.054944
+    "longitude": 29.054944,
+    "iletisim": "02167555475"
   },
   {
     "name": "YENİHATBOYU ECZANESİ",
@@ -16690,7 +18359,8 @@ export const locations = [
     "address": "ERENKÖY MAHALLESİ ETHEMEFENDİ CADDESİ HATBOYU SOKAK NO: 5",
     "contract": true,
     "latitude": 40.9719757,
-    "longitude": 29.0773169
+    "longitude": 29.0773169,
+    "iletisim": "02164115424"
   },
   {
     "name": "ÖMER ECZANESİ",
@@ -16700,7 +18370,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAHALLESİ 749. SOKAK NO: 6E",
     "contract": true,
     "latitude": 37.4113874,
-    "longitude": 41.3516994
+    "longitude": 41.3516994,
+    "iletisim": "02164612691"
   },
   {
     "name": "COŞKUN ECZANESİ",
@@ -16710,7 +18381,8 @@ export const locations = [
     "address": "KIZILAY MAHALLESİ KUMRULAR CADDESİ NO: 8/E",
     "contract": true,
     "latitude": 39.9198262,
-    "longitude": 32.8510636
+    "longitude": 32.8510636,
+    "iletisim": "03124177899"
   },
   {
     "name": "ARDA ECZANESİ",
@@ -16720,7 +18392,8 @@ export const locations = [
     "address": "CEBRAİL MAHALLESİ CUMHURİYET CADDESİ NO: 6/G",
     "contract": true,
     "latitude": 36.2031738,
-    "longitude": 36.1595129
+    "longitude": 36.1595129,
+    "iletisim": "03222326155"
   },
   {
     "name": "GÜLİN ECZANESİ",
@@ -16730,7 +18403,8 @@ export const locations = [
     "address": "30 AĞUSTOS MAHALLESİ 7122. SOKAK NO: 7/A-L",
     "contract": true,
     "latitude": 38.5560213,
-    "longitude": 27.0494877
+    "longitude": 27.0494877,
+    "iletisim": "02328383525"
   },
   {
     "name": "FLORA ECZANESİ",
@@ -16740,7 +18414,8 @@ export const locations = [
     "address": "19 MAYIS MAHALLESİ MERCAN SOKAK NO: 5/A",
     "contract": true,
     "latitude": 40.9771924,
-    "longitude": 29.0954855
+    "longitude": 29.0954855,
+    "iletisim": "05395163222"
   },
   {
     "name": "DEDEOĞLU ECZANESİ",
@@ -16750,7 +18425,8 @@ export const locations = [
     "address": "ÇARŞI MAHALLESİ ESKİ BELEDİYE CADDESİ NO: 9/B",
     "contract": true,
     "latitude": 39.1929861,
-    "longitude": 35.2443409
+    "longitude": 35.2443409,
+    "iletisim": "03546451359"
   },
   {
     "name": "YAŞAMKENT ÖZGE ECZANESİ",
@@ -16760,7 +18436,8 @@ export const locations = [
     "address": "YAŞAMKENT MAHALLESİ MEHMET RİFAT BÖREKÇİ CADDESİ BESA NOVAC PLAZA NO: 16/13",
     "contract": true,
     "latitude": 39.86143999999999,
-    "longitude": 32.64365
+    "longitude": 32.64365,
+    "iletisim": "03122171313"
   },
   {
     "name": "İNCİ ECZANESİ",
@@ -16770,7 +18447,8 @@ export const locations = [
     "address": "İCADİYE MAHALLESİ CEMİL MERİÇ SOKAK NO: 3/B",
     "contract": true,
     "latitude": 41.027455,
-    "longitude": 29.0329304
+    "longitude": 29.0329304,
+    "iletisim": "02324454386"
   },
   {
     "name": "ANIK ECZANESİ",
@@ -16780,7 +18458,8 @@ export const locations = [
     "address": "19 MAYIS MAHALLESİ BAYAR CADDESİ NO: 14/1",
     "contract": true,
     "latitude": 40.9777482,
-    "longitude": 29.0852962
+    "longitude": 29.0852962,
+    "iletisim": "02164081250"
   },
   {
     "name": "LOKMAN HEKİM NİLÜFER ECZANESİ",
@@ -16790,7 +18469,8 @@ export const locations = [
     "address": "ODUNLUK MAHALLESİ AKPINAR CADDESİ NO: 12/A",
     "contract": true,
     "latitude": 40.2109509,
-    "longitude": 28.9992263
+    "longitude": 28.9992263,
+    "iletisim": "05451231673"
   },
   {
     "name": "TORBALI ECZANESİ",
@@ -16800,7 +18480,8 @@ export const locations = [
     "address": "TORBALI MAHALLESİ METROPOLİS BULVARI NO: 70",
     "contract": true,
     "latitude": 38.1758868,
-    "longitude": 27.3509594
+    "longitude": 27.3509594,
+    "iletisim": "02328562514"
   },
   {
     "name": "OSTİM MEYDAN ECZANESİ",
@@ -16810,7 +18491,8 @@ export const locations = [
     "address": "OSTİM OSB MAHALLESİ 100. YIL BULVARI NO: 104",
     "contract": true,
     "latitude": 39.9714009,
-    "longitude": 32.7471999
+    "longitude": 32.7471999,
+    "iletisim": "03123851585"
   },
   {
     "name": "SEDA ECZANESİ",
@@ -16820,7 +18502,8 @@ export const locations = [
     "address": "ÇAMLIK MAHALLESİ ŞAHİNBEY CADDESİ NO: 60/A",
     "contract": true,
     "latitude": 41.0207344,
-    "longitude": 29.192906
+    "longitude": 29.192906,
+    "iletisim": "02367133100"
   },
   {
     "name": "PAMUK ECZANESİ",
@@ -16830,7 +18513,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAHALLESİ NUCAN CADDESİ NO: 1/C",
     "contract": true,
     "latitude": 37.518974,
-    "longitude": 42.453714
+    "longitude": 42.453714,
+    "iletisim": "02122480619"
   },
   {
     "name": "YENİ ŞİFA ECZANESİ",
@@ -16840,7 +18524,8 @@ export const locations = [
     "address": "ŞEMSİTEBRİZİ MAHALLESİ MEVLANA CADDESİ NO: 9/C",
     "contract": true,
     "latitude": 37.8727314,
-    "longitude": 32.4950043
+    "longitude": 32.4950043,
+    "iletisim": "03323513531"
   },
   {
     "name": "CENNET ECZANESİ",
@@ -16850,7 +18535,8 @@ export const locations = [
     "address": "CENNET MAHALLESİ HÜRRİYET CADDESİ HELVACIOĞLU NO: 46",
     "contract": true,
     "latitude": 40.9897938,
-    "longitude": 28.78006
+    "longitude": 28.78006,
+    "iletisim": "02426431838"
   },
   {
     "name": "SENA YALÇINKAYA ECZANESİ",
@@ -16860,7 +18546,8 @@ export const locations = [
     "address": "ALPASLAN MAHALLESİ BAHAR CADDESİ NO: 20/C",
     "contract": true,
     "latitude": 38.727222,
-    "longitude": 35.51276
+    "longitude": 35.51276,
+    "iletisim": "03522340303"
   },
   {
     "name": "NEŞEM ECZANESİ",
@@ -16870,7 +18557,8 @@ export const locations = [
     "address": "GÜÇLÜKAYA MAHALLESİ ZİLELİLER CADDESİ NO: 16/A",
     "contract": true,
     "latitude": 39.9800779,
-    "longitude": 32.8688986
+    "longitude": 32.8688986,
+    "iletisim": "03123564056"
   },
   {
     "name": "MEDİCAGO KIZILAY ECZANESİ",
@@ -16880,7 +18568,8 @@ export const locations = [
     "address": "CUMHURİYET MAHALLESİ ATATÜRK BULVARI NO: 67",
     "contract": true,
     "latitude": 39.9246427,
-    "longitude": 32.8552497
+    "longitude": 32.8552497,
+    "iletisim": "03124313141"
   },
   {
     "name": "ÇELEBİ ECZANESİ",
@@ -16890,7 +18579,8 @@ export const locations = [
     "address": "EVLİYA ÇELEBİ MAHALLESİ NAR ÇİÇEĞİ SOKAK NO: 2/A",
     "contract": true,
     "latitude": 39.4258018,
-    "longitude": 29.9636003
+    "longitude": 29.9636003,
+    "iletisim": "02742310111"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -16900,7 +18590,8 @@ export const locations = [
     "address": "OSMANAĞA MAHALLESİ VİŞNE SOKAK NO: 41/A",
     "contract": true,
     "latitude": 40.9897593,
-    "longitude": 29.0316117
+    "longitude": 29.0316117,
+    "iletisim": "02744124152"
   },
   {
     "name": "BELGİN ECZANESİ",
@@ -16910,7 +18601,8 @@ export const locations = [
     "address": "KARATAŞ MAHALLESİ 400 NOLU CADDE NO: 32/A",
     "contract": true,
     "latitude": 37.0868737,
-    "longitude": 37.4410031
+    "longitude": 37.4410031,
+    "iletisim": "03423230035"
   },
   {
     "name": "MELİS ECZANESİ",
@@ -16920,7 +18612,8 @@ export const locations = [
     "address": "ALİPAŞA MAHALLESİ KILIÇ ALİ PAŞA CADDESİ NO: 38/C",
     "contract": true,
     "latitude": 41.150432,
-    "longitude": 27.8307865
+    "longitude": 27.8307865,
+    "iletisim": "02825029009"
   },
   {
     "name": "NAZLI ECZANESİ",
@@ -16930,7 +18623,8 @@ export const locations = [
     "address": "FEVZİ ÇAKMAK MAHALLESİ FATİH CADDESİ NO: 20/A",
     "contract": true,
     "latitude": 40.9984624,
-    "longitude": 28.8308831
+    "longitude": 28.8308831,
+    "iletisim": "02126531101"
   },
   {
     "name": "CEVHERİBUCAK ECZANESİ",
@@ -16940,7 +18634,8 @@ export const locations = [
     "address": "KURUKÖPRÜ MAHALLESİ ZİYAPAŞA BULVARI ÖZALTIN APARTMANI NO: 93/B",
     "contract": true,
     "latitude": 36.9895086,
-    "longitude": 35.3232364
+    "longitude": 35.3232364,
+    "iletisim": "03223633775"
   },
   {
     "name": "BETÜL ECZANESİ",
@@ -16950,7 +18645,8 @@ export const locations = [
     "address": "SECAATTİN MAHALLESİ ATIF AKIN CADDESİ NO: 63/A",
     "contract": true,
     "latitude": 39.04743029999999,
-    "longitude": 28.6578533
+    "longitude": 28.6578533,
+    "iletisim": "02124243832"
   },
   {
     "name": "GÖKSU ECZANESİ",
@@ -16960,7 +18656,8 @@ export const locations = [
     "address": "HÜRRİYET MAHALLESİ ABİDE-İ HÜRRİYET CADDESİ NO: 166A",
     "contract": true,
     "latitude": 41.0694004,
-    "longitude": 28.9827893
+    "longitude": 28.9827893,
+    "iletisim": "05422904292"
   },
   {
     "name": "ÇAMLIK ECZANESİ",
@@ -16970,7 +18667,8 @@ export const locations = [
     "address": "FEYZULLAH MAHALLESİ BAĞDAT CADDESİ NO: 336-338C",
     "contract": true,
     "latitude": 40.9264933,
-    "longitude": 29.1293643
+    "longitude": 29.1293643,
+    "iletisim": "02329991874"
   },
   {
     "name": "ÇAMLIK ECZANESİ",
@@ -16980,7 +18678,8 @@ export const locations = [
     "address": "ÇAMLIK MAHALLESİ SELÇUKLU CADDESİ NO: 24/J",
     "contract": true,
     "latitude": 40.92280299999999,
-    "longitude": 29.290469
+    "longitude": 29.290469,
+    "iletisim": "02329991874"
   },
   {
     "name": "TİMUÇİN ECZANESİ",
@@ -16990,7 +18689,8 @@ export const locations = [
     "address": "MALTEPE MAHALLESİ DAVUTPAŞA CADDESİ NO: 75-79/C",
     "contract": true,
     "latitude": 41.02112959999999,
-    "longitude": 28.9020033
+    "longitude": 28.9020033,
+    "iletisim": "02125514499"
   },
   {
     "name": "ECEM ECZANESİ",
@@ -17000,7 +18700,8 @@ export const locations = [
     "address": "MERKEZ MAHALLESİ GMK BULVARI YILMAZ APARTMANI ALTI NO:81O/A",
     "contract": true,
     "latitude": 36.8573692,
-    "longitude": 34.3976356
+    "longitude": 34.3976356,
+    "iletisim": "02167712657"
   },
   {
     "name": "HACIBEKTAŞ ECZANESİ",
@@ -17010,7 +18711,8 @@ export const locations = [
     "address": "BALA MAH. ATATÜRK BULVARI NO: 61/3",
     "contract": true,
     "latitude": 38.9396719,
-    "longitude": 34.55712570000001
+    "longitude": 34.55712570000001,
+    "iletisim": "03844413562"
   },
   {
     "name": "HEKİM ECZANESİ",
@@ -17020,7 +18722,8 @@ export const locations = [
     "address": "KOZYATAĞI MAHALLESİ KAYA SULTAN SOKAK NO: 57C/A",
     "contract": true,
     "latitude": 40.9681678,
-    "longitude": 29.0944965
+    "longitude": 29.0944965,
+    "iletisim": "02169393428"
   },
   {
     "name": "SOYSAL ECZANESİ",
@@ -17030,7 +18733,8 @@ export const locations = [
     "address": "ORTABAYIR MAHALLESİ TALATPAŞA CADDESİ NO: 5/A",
     "contract": true,
     "latitude": 41.0796455,
-    "longitude": 29.0072787
+    "longitude": 29.0072787,
+    "iletisim": "02123256360"
   },
   {
     "name": "NİLAY ECZANESİ",
@@ -17040,7 +18744,8 @@ export const locations = [
     "address": "ANADOLU MAHALLESİ GAZİOSMANPAŞA CADDESİ NO: 42/A",
     "contract": true,
     "latitude": 41.1839482,
-    "longitude": 28.7458018
+    "longitude": 28.7458018,
+    "iletisim": "02125978396"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -17050,7 +18755,8 @@ export const locations = [
     "address": "KARAAĞAÇ MAHALLESİ KAZIM KAZARABEKİR CADDESİ NO: 4/A",
     "contract": true,
     "latitude": 39.9097622,
-    "longitude": 44.0567903
+    "longitude": 44.0567903,
+    "iletisim": "02744124152"
   },
   {
     "name": "MUTLU ECZANESİ",
@@ -17060,7 +18766,8 @@ export const locations = [
     "address": "ÇANKAYA MAHALLESİ İSTİKLAL CADDESİ NO: 75/A",
     "contract": true,
     "latitude": 36.7976684,
-    "longitude": 34.6258874
+    "longitude": 34.6258874,
+    "iletisim": "03242373086"
   },
   {
     "name": "HAKAN ECZANESİ",
@@ -17070,7 +18777,8 @@ export const locations = [
     "address": "YEŞİLTEPE MAHALLESİ 2. CADDE NO: 4",
     "contract": true,
     "latitude": 37.2473836,
-    "longitude": 42.4692116
+    "longitude": 42.4692116,
+    "iletisim": "05059183392"
   },
   {
     "name": "GÖKBAYRAK ECZANESİ",
@@ -17080,7 +18788,8 @@ export const locations = [
     "address": "İSMETPAŞA MAHALLESİ HASTANE 1. SOKAK NO: 32",
     "contract": true,
     "latitude": 41.561959,
-    "longitude": 35.905686
+    "longitude": 35.905686,
+    "iletisim": "03625321725"
   },
   {
     "name": "29 MAYIS ECZANESİ",
@@ -17090,7 +18799,8 @@ export const locations = [
     "address": "HACI BAYRAM MAHALLESİ TALATPAŞA BULVARI NO: 57/A",
     "contract": true,
     "latitude": 39.93396,
-    "longitude": 32.860798
+    "longitude": 32.860798,
+    "iletisim": "03123115956"
   },
   {
     "name": "İSTANBULLUOĞLU ECZANESİ",
@@ -17100,7 +18810,8 @@ export const locations = [
     "address": "CEMALPAŞA MAHALLESİ ORDU CADDESİ THE ONE RESIDANCE SİTESİ BLOK NO: 100 İÇ KAPI NO: 20",
     "contract": true,
     "latitude": 37.0050728,
-    "longitude": 35.3304724
+    "longitude": 35.3304724,
+    "iletisim": "03229995753"
   },
   {
     "name": "MAYA ECZANESİ",
@@ -17110,7 +18821,8 @@ export const locations = [
     "address": "ÇAYYOLU MAHALLESİ 2661/1. SOKAK NO: 3 EA/2",
     "contract": true,
     "latitude": 39.8868017,
-    "longitude": 32.695086
+    "longitude": 32.695086,
+    "iletisim": "02165101050"
   },
   {
     "name": "NİDA CADDE ECZANESİ",
@@ -17120,7 +18832,8 @@ export const locations = [
     "address": "ÇINAR MAHALLESİ BAĞDAT CADDESİ DİZDAR İŞ HANI İÇ KAPI NO: 5",
     "contract": true,
     "latitude": 40.9334926,
-    "longitude": 29.126291
+    "longitude": 29.126291,
+    "iletisim": "02164177417"
   },
   {
     "name": "NAZENİN ECZANESİ",
@@ -17130,7 +18843,8 @@ export const locations = [
     "address": "DEMETEVLER MAHALLESİ 357. CADDE NO: 53/A",
     "contract": true,
     "latitude": 39.962142,
-    "longitude": 32.782375
+    "longitude": 32.782375,
+    "iletisim": "03123344242"
   },
   {
     "name": "ARMADA METROPOL ECZANESİ",
@@ -17140,7 +18854,8 @@ export const locations = [
     "address": "BEŞTEPE MAHALLESİ DUMLUPINAR BULVARI ARMADA AVM B BLOK NO: 6/215",
     "contract": true,
     "latitude": 39.912828,
-    "longitude": 32.809639
+    "longitude": 32.809639,
+    "iletisim": "03122191590"
   },
   {
     "name": "CADDE ÇAYYOLU ECZANESİ",
@@ -17150,7 +18865,8 @@ export const locations = [
     "address": "Prof. Dr. AHMET TANER KIŞLALI MAH. DOĞAN TAŞDELEN BULV. NO:179/C",
     "contract": true,
     "latitude": 39.8822685,
-    "longitude": 32.6860334
+    "longitude": 32.6860334,
+    "iletisim": "03122404420"
   },
   {
     "name": "ÇAMLICA ŞİFA ECZANESİ",
@@ -17160,7 +18876,8 @@ export const locations = [
     "address": "KISIKLI MAHALLESİ ALEMDAĞ YAN YOLU CADDESİ KASRAN PLAZA NO: 24/B",
     "contract": true,
     "latitude": 41.0247043,
-    "longitude": 29.0813134
+    "longitude": 29.0813134,
+    "iletisim": "02163299755"
   },
   {
     "name": "YAMANEVLER ECZANESİ",
@@ -17170,7 +18887,8 @@ export const locations = [
     "address": "ATAKENT MAHALLESİ ALEMDAĞ CADDESİ NO: 296/B",
     "contract": true,
     "latitude": 41.0241431,
-    "longitude": 29.1074407
+    "longitude": 29.1074407,
+    "iletisim": "02164433720"
   },
   {
     "name": "ÖZMEN ECZANESİ",
@@ -17180,7 +18898,8 @@ export const locations = [
     "address": "MÜCAHİTLER MAHALLESİ GAZİ MUHTAR PAŞA BULVARI NO: 58/B",
     "contract": true,
     "latitude": 37.0767849,
-    "longitude": 37.3667775
+    "longitude": 37.3667775,
+    "iletisim": "03243261616"
   },
   {
     "name": "POZİTİF ECZANESİ",
@@ -17190,7 +18909,8 @@ export const locations = [
     "address": "DUDULLU OSB MAHALLESİ DES 1. CADDE NO: 4/1",
     "contract": true,
     "latitude": 40.9987445,
-    "longitude": 29.169537
+    "longitude": 29.169537,
+    "iletisim": "02167596650"
   },
   {
     "name": "AKİF ECZANESİ",
@@ -17200,7 +18920,8 @@ export const locations = [
     "address": "HAMDİBEY MAHALLESİ İNÖNÜ CADDESİ NO: 10",
     "contract": true,
     "latitude": 40.22786809999999,
-    "longitude": 27.2437685
+    "longitude": 27.2437685,
+    "iletisim": "02863172728"
   },
   {
     "name": "ALKAN ECZANESİ",
@@ -17210,7 +18931,8 @@ export const locations = [
     "address": "ULUOYMAK MAHALLESİ MEHMET ERSOY CADDESİ NO: 3/B",
     "contract": true,
     "latitude": 38.9883485,
-    "longitude": 29.39378469999999
+    "longitude": 29.39378469999999,
+    "iletisim": "03266612072"
   },
   {
     "name": "GENÇALİOĞLU ECZANESİ",
@@ -17220,7 +18942,8 @@ export const locations = [
     "address": "YENİMAHALLE MAHALLESİ 100. YIL BULVARI NO: 7/13",
     "contract": true,
     "latitude": 41.2725418,
-    "longitude": 36.3505148
+    "longitude": 36.3505148,
+    "iletisim": "03622280200"
   },
   {
     "name": "YENİ BAYRAKTAR ECZANESİ",
@@ -17230,7 +18953,8 @@ export const locations = [
     "address": "EVKA 3 MAHALLESİ 121. SOKAK NO: 42/B",
     "contract": true,
     "latitude": 38.4634492,
-    "longitude": 27.2430558
+    "longitude": 27.2430558,
+    "iletisim": NaN
   },
   {
     "name": "NAR ÇİÇEĞİ ECZANESİ",
@@ -17240,7 +18964,8 @@ export const locations = [
     "address": "KIRMIZITOPRAK MAHALLESİ VALİ ALİ FUAT GÜVEN CADDESİ NO: 24/A",
     "contract": true,
     "latitude": 39.768785,
-    "longitude": 30.5010373
+    "longitude": 30.5010373,
+    "iletisim": "05321679892"
   },
   {
     "name": "ŞİRİN ECZANESİ",
@@ -17250,7 +18975,8 @@ export const locations = [
     "address": "AŞIK VEYSEL MAHALLESİ TIP FAKÜLTESİ CADDESİ NO: 86-B",
     "contract": true,
     "latitude": 39.92644749999999,
-    "longitude": 32.8949215
+    "longitude": 32.8949215,
+    "iletisim": "03123392228"
   },
   {
     "name": "KARŞIYAKA ATA ECZANESİ",
@@ -17260,7 +18986,8 @@ export const locations = [
     "address": "YALI MAHALLESİ CAHER DUDAYEV BULVARI NO: 119/A",
     "contract": true,
     "latitude": 38.467943,
-    "longitude": 27.0881795
+    "longitude": 27.0881795,
+    "iletisim": "05459297000"
   },
   {
     "name": "SAPANCA ECZANESİ",
@@ -17270,7 +18997,8 @@ export const locations = [
     "address": "RÜSTEMPAŞA MAHALLESİ VEHBİBEY CADDESİ NO: 21/B",
     "contract": true,
     "latitude": 40.6923525,
-    "longitude": 30.2679332
+    "longitude": 30.2679332,
+    "iletisim": "02645827777"
   },
   {
     "name": "DERYA ECZANESİ",
@@ -17280,7 +19008,8 @@ export const locations = [
     "address": "İSLAMBEY MAHALLESİ FATİH CADDESİ NO: 124",
     "contract": true,
     "latitude": 41.18529909999999,
-    "longitude": 28.7405391
+    "longitude": 28.7405391,
+    "iletisim": "02566180508"
   },
   {
     "name": "TAN ECZANESİ",
@@ -17290,7 +19019,8 @@ export const locations = [
     "address": "BAĞLAR MAHALLESİ VALİ KONAĞI YOLU CADDESİ NO: 48/A",
     "contract": true,
     "latitude": 39.922664,
-    "longitude": 44.04105149999999
+    "longitude": 44.04105149999999,
+    "iletisim": "04762227437"
   },
   {
     "name": "GÜLERYÜZ ECZANESİ",
@@ -17300,7 +19030,8 @@ export const locations = [
     "address": "MERKEZ EFENDİ MAHALLESİ 226/21. SOKAK NO: 127/A",
     "contract": true,
     "latitude": 37.7858019,
-    "longitude": 29.069663
+    "longitude": 29.069663,
+    "iletisim": "02585021015"
   },
   {
     "name": "GİZEM ECZANESİ",
@@ -17310,7 +19041,8 @@ export const locations = [
     "address": "ZAFER MAHALLESİ ORTAÇ SOKAK NO:19/A",
     "contract": true,
     "latitude": 38.2317215,
-    "longitude": 27.9880177
+    "longitude": 27.9880177,
+    "iletisim": "05315878991"
   },
   {
     "name": "KÜKÜRTLÜ ECZANESİ",
@@ -17320,7 +19052,8 @@ export const locations = [
     "address": "KÜKÜRTLÜ MAHALLESİ 3.BUĞDAY SOKAK BAŞAK APARTMANI NO: 2/A",
     "contract": true,
     "latitude": 40.20554,
-    "longitude": 29.025519
+    "longitude": 29.025519,
+    "iletisim": "02242343383"
   },
   {
     "name": "NAMAZGAH ECZANESİ",
@@ -17330,7 +19063,8 @@ export const locations = [
     "address": "BULGURLU MAHALLESİ İZZETTİNBEY SOKAK NO: 11A",
     "contract": true,
     "latitude": 41.0225944,
-    "longitude": 29.0810048
+    "longitude": 29.0810048,
+    "iletisim": "05544676596"
   },
   {
     "name": "AKDENİZ ECZANESİ",
@@ -17340,7 +19074,8 @@ export const locations = [
     "address": "MAHFESIĞMAZ MAHALLESİ ŞEHİTLER BULVARI DOĞUŞ APARTMANI B BLOK NO: 36/D",
     "contract": true,
     "latitude": 37.040808,
-    "longitude": 35.298451
+    "longitude": 35.298451,
+    "iletisim": "03222351587"
   },
   {
     "name": "SERVET ECZANESİ",
@@ -17350,7 +19085,8 @@ export const locations = [
     "address": "ÖZYURT MAHALLESİ MÜKERREM SAROL CADDESİ NO: 10/A GEDİZ/KÜTAHYA",
     "contract": true,
     "latitude": 38.9891534,
-    "longitude": 29.3937254
+    "longitude": 29.3937254,
+    "iletisim": "02744122200"
   },
   {
     "name": "ÇINAR ECZANESİ",
@@ -17360,7 +19096,8 @@ export const locations = [
     "address": "FULYA MAHALLESİ ÖZTÜRK SOKAK ŞİMA APARTMANI A BLOK NO: 2/C",
     "contract": true,
     "latitude": 40.97714740000001,
-    "longitude": 29.059547
+    "longitude": 29.059547,
+    "iletisim": "03123123334"
   },
   {
     "name": "AYŞEGÜL VURAL ECZANESİ",
@@ -17370,7 +19107,8 @@ export const locations = [
     "address": "ORTA MAHALLE ATATÜRK CADDESİ NO: 85/A",
     "contract": true,
     "latitude": 36.9165563,
-    "longitude": 31.1019666
+    "longitude": 31.1019666,
+    "iletisim": "02427220304"
   },
   {
     "name": "ANADOLU ECZANESİ",
@@ -17380,7 +19118,8 @@ export const locations = [
     "address": "ANADOLU MAHALLESİ NECİP FAZIL CADDESİ NO: 59/61A",
     "contract": true,
     "latitude": 41.18439,
-    "longitude": 28.746844
+    "longitude": 28.746844,
+    "iletisim": "03246240054"
   },
   {
     "name": "MESKEN VAROL ECZANESİ",
@@ -17390,7 +19129,8 @@ export const locations = [
     "address": "EĞİTİM MAHALLESİ TEYYARECİ MEHMET ALİ CADDESİ NO: 337",
     "contract": true,
     "latitude": 40.1796213,
-    "longitude": 29.11020959999999
+    "longitude": 29.11020959999999,
+    "iletisim": "02243672184"
   },
   {
     "name": "LAVANTA ECZANESİ",
@@ -17400,7 +19140,8 @@ export const locations = [
     "address": "HÜRRİYET MAH. 268. SOKAK NO:18/B",
     "contract": true,
     "latitude": 41.0694818,
-    "longitude": 28.8948352
+    "longitude": 28.8948352,
+    "iletisim": "02124794026"
   },
   {
     "name": "YAREN ECZANESİ",
@@ -17410,7 +19151,8 @@ export const locations = [
     "address": "BAHÇE MAH. BURHAN FELEK CAD. NO:3/A",
     "contract": true,
     "latitude": 36.7960025,
-    "longitude": 34.6230314
+    "longitude": 34.6230314,
+    "iletisim": "05382633866"
   },
   {
     "name": "TUNALI ECZANESİ",
@@ -17420,7 +19162,8 @@ export const locations = [
     "address": "KAVAKLIDERE MAH. TUNALI HİLMİ CAD. NO:52/F",
     "contract": true,
     "latitude": 39.9096663,
-    "longitude": 32.8617409
+    "longitude": 32.8617409,
+    "iletisim": "03124180500"
   },
   {
     "name": "ESRA ECZANESİ",
@@ -17430,7 +19173,8 @@ export const locations = [
     "address": "KAVACIK MAHALLESİ ORHAN VELİ KANIK CADDESİ NO: 49/D",
     "contract": true,
     "latitude": 41.0950246,
-    "longitude": 29.0876784
+    "longitude": 29.0876784,
+    "iletisim": "05325031065"
   },
   {
     "name": "BARBAROS ECZANESİ",
@@ -17440,7 +19184,8 @@ export const locations = [
     "address": "GÜZELYALI MAHALLESİ 81185. SOKAK NO: 24/C",
     "contract": true,
     "latitude": 37.05274,
-    "longitude": 35.2909
+    "longitude": 35.2909,
+    "iletisim": "05301610901"
   },
   {
     "name": "ACIBADEM CANSU ECZANESİ",
@@ -17450,7 +19195,8 @@ export const locations = [
     "address": "ACIBADEM MAHALLESİ TEKİN SOKAK NO 6/A",
     "contract": true,
     "latitude": 41.0058807,
-    "longitude": 29.04340149999999
+    "longitude": 29.04340149999999,
+    "iletisim": "02163263507"
   },
   {
     "name": "GÜLNUR ECZANESİ",
@@ -17460,7 +19206,8 @@ export const locations = [
     "address": "19 MAYIS MAHALLESİ BAYAR CADDESİ NO: 41/B",
     "contract": true,
     "latitude": 40.97650369999999,
-    "longitude": 29.0889115
+    "longitude": 29.0889115,
+    "iletisim": "02164114845"
   },
   {
     "name": "ABBASOĞLU ECZANESİ",
@@ -17470,7 +19217,8 @@ export const locations = [
     "address": "KAVAKLIDERE MAHALLESİ TUNALI HİLMİ CADDESİ NO: 84/E",
     "contract": true,
     "latitude": 39.9059861,
-    "longitude": 32.8605729
+    "longitude": 32.8605729,
+    "iletisim": "03123252281"
   },
   {
     "name": "ÇİMEN ECZANESİ",
@@ -17480,7 +19228,8 @@ export const locations = [
     "address": "MEMUREVLERİ MAHALLESİ GÜLLÜK CADDESİ KUROĞLU APARTMANI NO: 111/D",
     "contract": true,
     "latitude": 36.8959412,
-    "longitude": 30.6918967
+    "longitude": 30.6918967,
+    "iletisim": "02423454693"
   },
   {
     "name": "ESRA ECZANESİ",
@@ -17490,7 +19239,8 @@ export const locations = [
     "address": "HANÇERLİ MAHALLESİ DERVİŞZADE SOKAK NO: 6/15",
     "contract": true,
     "latitude": 41.29991709999999,
-    "longitude": 36.3329856
+    "longitude": 36.3329856,
+    "iletisim": "05325031065"
   },
   {
     "name": "TUĞLU ECZANESİ",
@@ -17500,7 +19250,8 @@ export const locations = [
     "address": "GAZİ OSMANPAŞA MAHALLESİ CUMHURİYET CADDESİ NO: 134/A",
     "contract": true,
     "latitude": 40.5891892,
-    "longitude": 36.95334649999999
+    "longitude": 36.95334649999999,
+    "iletisim": "03565283436"
   },
   {
     "name": "AKSA ECZANESİ",
@@ -17510,7 +19261,8 @@ export const locations = [
     "address": "OSMANGAZİ MAHALLESİ HİLAL CADDESİ NO:30/A",
     "contract": true,
     "latitude": 40.9861058,
-    "longitude": 29.2346249
+    "longitude": 29.2346249,
+    "iletisim": "02165154028"
   },
   {
     "name": "EGE MERKEZ ECZANESİ",
@@ -17520,7 +19272,8 @@ export const locations = [
     "address": "EGE MAHALLESİ NATOYOLU CADDESİ NO: 166M",
     "contract": true,
     "latitude": 39.8972499,
-    "longitude": 32.9204187
+    "longitude": 32.9204187,
+    "iletisim": "03123906062"
   },
   {
     "name": "AJDA ECZANESİ",
@@ -17530,7 +19283,8 @@ export const locations = [
     "address": "BAĞLICA MAHALLESİ MERMEROĞLU CADDESİ NO:45/B",
     "contract": true,
     "latitude": 39.890545,
-    "longitude": 32.641265
+    "longitude": 32.641265,
+    "iletisim": "03125029992"
   },
   {
     "name": "NURALP ECZANESİ",
@@ -17540,7 +19294,8 @@ export const locations = [
     "address": "İSTİKLAL MAHALLESİ MUSTAFA KEMAL ATATÜRK CADDESİ NO: 96D",
     "contract": true,
     "latitude": 39.772989,
-    "longitude": 30.513807
+    "longitude": 30.513807,
+    "iletisim": "02222343121"
   },
   {
     "name": "GÜNER ECZANESİ",
@@ -17550,7 +19305,8 @@ export const locations = [
     "address": "KORUPINAR MAHALLESİ ORHAN ACAR BULVARI NO: 3",
     "contract": true,
     "latitude": 37.6941055,
-    "longitude": 37.8804081
+    "longitude": 37.8804081,
+    "iletisim": "04163183536"
   },
   {
     "name": "SEVİNÇ ECZANESİ",
@@ -17560,7 +19316,8 @@ export const locations = [
     "address": "SEYMEN MAHALLESİ HASAN GAZİ CADDESİ NO: 2/1",
     "contract": true,
     "latitude": 40.7028544,
-    "longitude": 29.90331
+    "longitude": 29.90331,
+    "iletisim": "02623435440"
   },
   {
     "name": "AVRUPA ECZANESİ",
@@ -17570,7 +19327,8 @@ export const locations = [
     "address": "YAMANEVLER MAHALLESİ DOKTOR FAZIL KÜÇÜK CADDESİ NO: 8/1AF AVRUPA KONUTLARI",
     "contract": true,
     "latitude": 41.0269007,
-    "longitude": 29.1126099
+    "longitude": 29.1126099,
+    "iletisim": "02165205555"
   },
   {
     "name": "ERDİNÇ ECZANESİ",
@@ -17580,7 +19338,8 @@ export const locations = [
     "address": "ŞEHİTMUSTAFA MAHALLESİ ATATÜRK BULVARI NO: 55",
     "contract": true,
     "latitude": 36.9172287,
-    "longitude": 34.8883651
+    "longitude": 34.8883651,
+    "iletisim": "03246130121"
   },
   {
     "name": "ÖYKÜ ECZANESİ",
@@ -17590,7 +19349,8 @@ export const locations = [
     "address": "BAĞLARBAŞI MAHALLESİ BEŞEVLER SOKAK NO: 21/D",
     "contract": true,
     "latitude": 40.9245718,
-    "longitude": 29.133173
+    "longitude": 29.133173,
+    "iletisim": "03124252626"
   },
   {
     "name": "KOCABAŞ ECZANESİ",
@@ -17600,7 +19360,8 @@ export const locations = [
     "address": "2. ANAFARTALAR MAHALLESİ CUMHURİYET CADDESİ NO: 55/A",
     "contract": true,
     "latitude": 38.6178438,
-    "longitude": 27.4335757
+    "longitude": 27.4335757,
+    "iletisim": "02362347153"
   },
   {
     "name": "KIZILAY MERKEZ ECZANESİ",
@@ -17610,7 +19371,8 @@ export const locations = [
     "address": "MEŞRUTİYET MAHALLESİ MEŞRUTİYET CADDESİ NO: 3/A",
     "contract": true,
     "latitude": 39.9177454,
-    "longitude": 32.8548711
+    "longitude": 32.8548711,
+    "iletisim": "03124252420"
   },
   {
     "name": "BOĞAÇAY ECZANESİ",
@@ -17620,7 +19382,8 @@ export const locations = [
     "address": "HURMA MAHALLESİ BOĞAÇAYI CADDESİ NO: 88/A",
     "contract": true,
     "latitude": 36.859899,
-    "longitude": 30.605086
+    "longitude": 30.605086,
+    "iletisim": "02422596066"
   },
   {
     "name": "MAVİ GÜNEŞ ECZANESİ",
@@ -17630,7 +19393,8 @@ export const locations = [
     "address": "PROFESÖR DOKTOR AHMET TANER KIŞLALI MAHALLESİ S. SALTOĞLU BULVARI NO: 35/2",
     "contract": true,
     "latitude": 39.8738675,
-    "longitude": 32.6857713
+    "longitude": 32.6857713,
+    "iletisim": "03122415902"
   },
   {
     "name": "ATAŞEHİR BULVAR ECZANESİ",
@@ -17640,7 +19404,8 @@ export const locations = [
     "address": "ATATÜRK MAHALLESİ ATAŞEHİR BULVARI ATA 3/5 BLOK NO: 12S",
     "contract": true,
     "latitude": 40.9925742,
-    "longitude": 29.1233688
+    "longitude": 29.1233688,
+    "iletisim": "02164552818"
   },
   {
     "name": "ECZANE GİZEMİN",
@@ -17650,7 +19415,8 @@ export const locations = [
     "address": "DEMİRLİBAHÇE MAH.MAMK CAD.NO:15/B MAMAK/ANKARA",
     "contract": true,
     "latitude": 39.93757189999999,
-    "longitude": 32.8803594
+    "longitude": 32.8803594,
+    "iletisim": "03123195243"
   },
   {
     "name": "LİVA ECZANESİ",
@@ -17660,7 +19426,8 @@ export const locations = [
     "address": "SEYRANTEPE MAHALLESİ 65112. SOKAK NO: 1/B",
     "contract": true,
     "latitude": 37.0707674,
-    "longitude": 37.4137652
+    "longitude": 37.4137652,
+    "iletisim": "03424088818"
   },
   {
     "name": "YAVUZ ECZANESİ",
@@ -17670,7 +19437,8 @@ export const locations = [
     "address": "ŞENEVLER MAHALLESİ ATATÜRK BULVARI NO: 58",
     "contract": true,
     "latitude": 37.2214785,
-    "longitude": 38.8053959
+    "longitude": 38.8053959,
+    "iletisim": "04143478110"
   },
   {
     "name": "SAFRANBOLU ECZANESİ",
@@ -17680,7 +19448,8 @@ export const locations = [
     "address": "ERENKÖY MAHALLESİ TELLİKAVAK SOKAK NO: 35/A",
     "contract": true,
     "latitude": 40.9700573,
-    "longitude": 29.0813174
+    "longitude": 29.0813174,
+    "iletisim": "02164117162"
   },
   {
     "name": "GÜMÜŞ ECZANESİ",
@@ -17690,7 +19459,8 @@ export const locations = [
     "address": "EMRAH MAHALLESİ GENERAL DOKTOR TEVFİK SAĞLAM CADDESİ NO: 62/A",
     "contract": true,
     "latitude": 39.9716336,
-    "longitude": 32.843311
+    "longitude": 32.843311,
+    "iletisim": "03123234245"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -17700,7 +19470,8 @@ export const locations = [
     "address": "CAMİKEBİR MAHALLESİ ALİ HIZIR SOKAK NO: 19",
     "contract": true,
     "latitude": 39.809523,
-    "longitude": 26.612047
+    "longitude": 26.612047,
+    "iletisim": "03247141116"
   },
   {
     "name": "ALKAN ECZANESİ",
@@ -17710,7 +19481,8 @@ export const locations = [
     "address": "GÖZCÜLER MAHALLESİ ATATÜRK 19. CADDE NO: 102",
     "contract": true,
     "latitude": 36.388927,
-    "longitude": 35.916277
+    "longitude": 35.916277,
+    "iletisim": "03266612072"
   },
   {
     "name": "AYBİKE ECZANESİ",
@@ -17720,7 +19492,8 @@ export const locations = [
     "address": "MECİDİYE MAHALLESİ ABDURRAHMANPAŞA CADDESİ NO: 5",
     "contract": true,
     "latitude": 39.4176351,
-    "longitude": 29.9803112
+    "longitude": 29.9803112,
+    "iletisim": "02742245458"
   },
   {
     "name": "TAŞKIN ECZANESİ",
@@ -17730,7 +19503,8 @@ export const locations = [
     "address": "GÜVENLİK MAHALLESİ KAZIM KARABEKİR CADDESİ NO: 152/A",
     "contract": true,
     "latitude": 36.90075090000001,
-    "longitude": 30.6808522
+    "longitude": 30.6808522,
+    "iletisim": "02423343434"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -17740,7 +19514,8 @@ export const locations = [
     "address": "HASANEFENİ RAMAZAN PAŞA MAHALLESİ DOĞU GAZİ BULVARI NO: 12/E",
     "contract": true,
     "latitude": 37.8497422,
-    "longitude": 27.8446929
+    "longitude": 27.8446929,
+    "iletisim": "02744124152"
   },
   {
     "name": "CADDE ECZANESİ",
@@ -17750,7 +19525,8 @@ export const locations = [
     "address": "FEYZULLAH MAHALLESİ BAĞDAT CADDESİ NO: 304/B",
     "contract": true,
     "latitude": 40.930031,
-    "longitude": 29.1287182
+    "longitude": 29.1287182,
+    "iletisim": "02222214010"
   },
   {
     "name": "TEMEL ECZANESİ",
@@ -17760,7 +19536,8 @@ export const locations = [
     "address": "ALACAATLI MAHALLESİ ŞEHİR EREN BÜLBÜL CADDESİ B BLOK NO: 39/5",
     "contract": true,
     "latitude": 39.8565257,
-    "longitude": 32.6641392
+    "longitude": 32.6641392,
+    "iletisim": "03122290415"
   },
   {
     "name": "AMİSOS ECZANESİ",
@@ -17770,7 +19547,8 @@ export const locations = [
     "address": "KALKANCI MAHALLESİ 602. SOKAK NO: 7/4 AMİSOS ECZANESİ",
     "contract": true,
     "latitude": 41.3154151,
-    "longitude": 36.3134978
+    "longitude": 36.3134978,
+    "iletisim": "03622310177"
   },
   {
     "name": "GEMLİK ECZANESİ",
@@ -17780,7 +19558,8 @@ export const locations = [
     "address": "DEMİRSUBAŞI MAHALLESİ İSKELE CADDESİ NO: 5/B",
     "contract": true,
     "latitude": 40.431491,
-    "longitude": 29.15468
+    "longitude": 29.15468,
+    "iletisim": "02245130247"
   },
   {
     "name": "İDEAL ECZANESİ",
@@ -17790,7 +19569,8 @@ export const locations = [
     "address": "ERENKÖY MAHALLESİ TELLİKAVAK SOKAK NO: 16/C",
     "contract": true,
     "latitude": 40.9709153,
-    "longitude": 29.07936279999999
+    "longitude": 29.07936279999999,
+    "iletisim": "02164672603"
   },
   {
     "name": "GÜNHAN ECZANESİ",
@@ -17800,7 +19580,8 @@ export const locations = [
     "address": "MACUN MAHALLESİ BAĞDAT CADDESİ NO: 101/3",
     "contract": true,
     "latitude": 39.96133,
-    "longitude": 32.76917
+    "longitude": 32.76917,
+    "iletisim": "03123976916"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -17810,7 +19591,8 @@ export const locations = [
     "address": "YENİ MAHALLESİ ALBAY ŞÜKRÜ KANATLI CADDESİ NO: 19/B",
     "contract": true,
     "latitude": 36.26851870000001,
-    "longitude": 36.5665646
+    "longitude": 36.5665646,
+    "iletisim": "02323813135"
   },
   {
     "name": "GÜL ECZANESİ",
@@ -17820,7 +19602,8 @@ export const locations = [
     "address": "KÜÇÜKESAT MAHALLESİ ESAT CADDESİ NO: 99/B",
     "contract": true,
     "latitude": 39.9086529,
-    "longitude": 32.8647281
+    "longitude": 32.8647281,
+    "iletisim": "03124469496"
   },
   {
     "name": "YÜKSEL ECZANESİ",
@@ -17830,7 +19613,8 @@ export const locations = [
     "address": "FATİH MAHALLESİ FEDAKAR SOKAK NO: 5/A",
     "contract": true,
     "latitude": 41.0217436,
-    "longitude": 28.5855294
+    "longitude": 28.5855294,
+    "iletisim": "02128812242"
   },
   {
     "name": "ÖZNUR ÇALIK ECZANESİ",
@@ -17840,7 +19624,8 @@ export const locations = [
     "address": "İZZETİYE MAHALLESİ MÜCELLİ CADDESİ YAKINCIOĞLU İŞ MERKEZİ NO: 6/B",
     "contract": true,
     "latitude": 38.3476096,
-    "longitude": 38.3175094
+    "longitude": 38.3175094,
+    "iletisim": "04223213790"
   },
   {
     "name": "YAŞAR ECZANESİ",
@@ -17850,7 +19635,8 @@ export const locations = [
     "address": "MİSKET MAHALLESİ ANADOLU CADDESİ NO: 82/B",
     "contract": true,
     "latitude": 39.9217875,
-    "longitude": 32.9139949
+    "longitude": 32.9139949,
+    "iletisim": "03545161017"
   },
   {
     "name": "BAHAR ECZANESİ",
@@ -17860,7 +19646,8 @@ export const locations = [
     "address": "DOĞU MAHALLESİ ORTANCA CADDESİ NO: 61/A",
     "contract": true,
     "latitude": 40.87823909999999,
-    "longitude": 29.2346842
+    "longitude": 29.2346842,
+    "iletisim": "02124150510"
   },
   {
     "name": "BİNKONUTLAR ECZANESİ",
@@ -17870,7 +19657,8 @@ export const locations = [
     "address": "YENİKENT MAHALLESİ HÜSEYİN ZEREN CADDESİ NO: 32/A",
     "contract": true,
     "latitude": 38.3294777,
-    "longitude": 26.7742312
+    "longitude": 26.7742312,
+    "iletisim": "05336117260"
   },
   {
     "name": "TURKUAZ ECZANESİ",
@@ -17880,7 +19668,8 @@ export const locations = [
     "address": "AKSOY MAHALLESİ FAZIL BEY CADDESİ NO:89/B",
     "contract": true,
     "latitude": 38.4549004,
-    "longitude": 27.1082072
+    "longitude": 27.1082072,
+    "iletisim": "02243723274"
   },
   {
     "name": "VANYOLU ECZANESİ",
@@ -17890,7 +19679,8 @@ export const locations = [
     "address": "VANYOLU MAHALLESİ KARA YUSUF BEY BULVARI NO: 93",
     "contract": true,
     "latitude": 39.0219994,
-    "longitude": 43.3763691
+    "longitude": 43.3763691,
+    "iletisim": "04323511969"
   },
   {
     "name": "ÖZDEMİR ECZANESİ",
@@ -17900,7 +19690,8 @@ export const locations = [
     "address": "SAZOVA MAHALLESİ ULUSAL EGEMENLİK BULVARI NO: 205/B",
     "contract": true,
     "latitude": 39.7702319,
-    "longitude": 30.4721707
+    "longitude": 30.4721707,
+    "iletisim": "03462254005"
   },
   {
     "name": "KENT ECZANESİ",
@@ -17910,7 +19701,8 @@ export const locations = [
     "address": "BALGAT MAHALLESİ ZİYABEY CADDESİ NO: 63/B",
     "contract": true,
     "latitude": 39.9088298,
-    "longitude": 32.8175088
+    "longitude": 32.8175088,
+    "iletisim": "03122850232"
   },
   {
     "name": "YALÇINER ECZANESİ",
@@ -17920,7 +19712,8 @@ export const locations = [
     "address": "GÜZELOBA MAHALLESİ BARINAKLAR BULVARI ARIKAN APTMANI NO: 168/A",
     "contract": true,
     "latitude": 36.8598008,
-    "longitude": 30.8326663
+    "longitude": 30.8326663,
+    "iletisim": "02423491339"
   },
   {
     "name": "ELİT ECZANESİ",
@@ -17930,7 +19723,8 @@ export const locations = [
     "address": "BAHRİYE ÜÇOK 1836. SOKAK NO: 29/A",
     "contract": true,
     "latitude": 38.4601085,
-    "longitude": 27.1142405
+    "longitude": 27.1142405,
+    "iletisim": "02163632020"
   },
   {
     "name": "KERİM ECZANESİ",
@@ -17940,7 +19734,8 @@ export const locations = [
     "address": "AKÇAY MAHALLESİ CENGİZ TOPEL CADDESİ NO: 6/B",
     "contract": true,
     "latitude": 40.4708046,
-    "longitude": 32.6484043
+    "longitude": 32.6484043,
+    "iletisim": "03127361195"
   },
   {
     "name": "KÖROĞLU ECZANESİ",
@@ -17950,7 +19745,8 @@ export const locations = [
     "address": "CUMHURİYET MAHALLESİ ZİYA GÖKALP CADDESİ NO: 42/AB",
     "contract": true,
     "latitude": 40.9785262,
-    "longitude": 37.9481334
+    "longitude": 37.9481334,
+    "iletisim": "04522340981"
   },
   {
     "name": "ATLAS ECZANESİ",
@@ -17960,7 +19756,8 @@ export const locations = [
     "address": "SAHRAYICEDİT MAHALLESİ İNÖNÜ CADDESİ NO: 14/A",
     "contract": true,
     "latitude": 40.9897436,
-    "longitude": 29.0842722
+    "longitude": 29.0842722,
+    "iletisim": "02882140071"
   },
   {
     "name": "MAYA ECZANESİ",
@@ -17970,7 +19767,8 @@ export const locations = [
     "address": "KURTULUŞ MAHALLESİ HAKKI YAĞCI CADDESİ NO: 5/C",
     "contract": true,
     "latitude": 38.6761083,
-    "longitude": 29.4046979
+    "longitude": 29.4046979,
+    "iletisim": "02165101050"
   },
   {
     "name": "DAŞ ECZANESİ",
@@ -17980,7 +19778,8 @@ export const locations = [
     "address": "EMİRBEYAZIT MAHALLESİ ÖZER TÜRK CADDESİ NO: 22 / B",
     "contract": true,
     "latitude": 37.2131789,
-    "longitude": 28.3606374
+    "longitude": 28.3606374,
+    "iletisim": "02522130794"
   },
   {
     "name": "KİRAZ ECZANESİ",
@@ -17990,7 +19789,8 @@ export const locations = [
     "address": "ATATÜRK MAHALLESİ 1. SAÇMA SOKAK NO: 16/A",
     "contract": true,
     "latitude": 38.66653660000001,
-    "longitude": 29.4200467
+    "longitude": 29.4200467,
+    "iletisim": "02762235411"
   },
   {
     "name": "PORTAKAL ECZANESİ",
@@ -18000,7 +19800,8 @@ export const locations = [
     "address": "CENGİZHAN MAHALLESİ SULTAN FATİH CADDESİ NO: 18 D/6",
     "contract": true,
     "latitude": 39.8960271,
-    "longitude": 32.9231354
+    "longitude": 32.9231354,
+    "iletisim": "03125446007"
   },
   {
     "name": "BURAK ECZANESİ",
@@ -18010,7 +19811,8 @@ export const locations = [
     "address": "ABACI MAHALLESİ ATATÜRK CADDESİ NO: 49/1",
     "contract": true,
     "latitude": 39.3943371,
-    "longitude": 28.1310626
+    "longitude": 28.1310626,
+    "iletisim": "02666146200"
   },
   {
     "name": "ULYA ECZANESİ",
@@ -18020,7 +19822,8 @@ export const locations = [
     "address": "GÜNEŞEVLER MAHALLESİ TÜRKMEN CADDESİ NO: 2/B",
     "contract": true,
     "latitude": 39.9723267,
-    "longitude": 32.892507
+    "longitude": 32.892507,
+    "iletisim": "03123475701"
   },
   {
     "name": "KOÇAK ECZANESİ",
@@ -18030,7 +19833,8 @@ export const locations = [
     "address": "KARŞIYAKA MAHALLESİ CUMHURİYET CADDESİ NO: 3",
     "contract": true,
     "latitude": 39.9640828,
-    "longitude": 33.1073852
+    "longitude": 33.1073852,
+    "iletisim": "03128652637"
   },
   {
     "name": "OYMAN ECZANESİ",
@@ -18040,7 +19844,8 @@ export const locations = [
     "address": "REMZİ OĞUZ ARIK MAHALLESİ GÜVENLİK CADDESİ NO: 61/C",
     "contract": true,
     "latitude": 39.9039393,
-    "longitude": 32.8530908
+    "longitude": 32.8530908,
+    "iletisim": "03124262146"
   },
   {
     "name": "YASEMİN ECZANESİ",
@@ -18050,7 +19855,8 @@ export const locations = [
     "address": "GÜZELYALI MAHALLESİ BAĞDAT CADDESİ NO: 31",
     "contract": true,
     "latitude": 40.8588003,
-    "longitude": 29.276426
+    "longitude": 29.276426,
+    "iletisim": "03582184038"
   },
   {
     "name": "CAN ECZANESİ",
@@ -18060,7 +19866,8 @@ export const locations = [
     "address": "YASİN HAŞİMOĞLU MAHALLESİ NAZLI SOKAK NO: 2A/3",
     "contract": true,
     "latitude": 40.5383079,
-    "longitude": 41.9705884
+    "longitude": 41.9705884,
+    "iletisim": "05416702223"
   },
   {
     "name": "GÜROL ECZANESİ",
@@ -18070,7 +19877,8 @@ export const locations = [
     "address": "İNÖNÜ MAHALLESİ 13. SOKAK NO : 145/C",
     "contract": true,
     "latitude": 39.746797,
-    "longitude": 39.491124
+    "longitude": 39.491124,
+    "iletisim": "04462121785"
   },
   {
     "name": "EBRU ECZANESİ",
@@ -18080,7 +19888,8 @@ export const locations = [
     "address": "RÜSTEM PAŞA MAHALLESİ FATİH CADDESİ YALOVA İŞ MERKEZİ NO: 6/1",
     "contract": true,
     "latitude": 40.6566577,
-    "longitude": 29.270107
+    "longitude": 29.270107,
+    "iletisim": "03544142010"
   },
   {
     "name": "YAKAKENT ECZANESİ",
@@ -18090,7 +19899,8 @@ export const locations = [
     "address": "MERKEZ MAHALLESİ RASİM ÇAĞLAR SOKAK NO: 17/A",
     "contract": true,
     "latitude": 41.6323362,
-    "longitude": 35.53031850000001
+    "longitude": 35.53031850000001,
+    "iletisim": "03626113223"
   },
   {
     "name": "BAYRAMYERİ ECZANESİ",
@@ -18100,7 +19910,8 @@ export const locations = [
     "address": "SARAYLAR MAHALLESİ 459. SOKAK NO: 1/A",
     "contract": true,
     "latitude": 37.7834237,
-    "longitude": 29.0847453
+    "longitude": 29.0847453,
+    "iletisim": "02582620057"
   },
   {
     "name": "GÜZELEVLER ECZANESİ",
@@ -18110,7 +19921,8 @@ export const locations = [
     "address": "GÜZELEVLER MAHALLESİ 1942. SOKAK NO: 22",
     "contract": true,
     "latitude": 36.9746273,
-    "longitude": 35.3900531
+    "longitude": 35.3900531,
+    "iletisim": "03223468050"
   },
   {
     "name": "ÖZDEMİR ECZANESİ",
@@ -18120,7 +19932,8 @@ export const locations = [
     "address": "ÖRTÜLÜPINAR MAHALLESİ HOCA AHMET YESEVİ CADDESİ NO: 17/B",
     "contract": true,
     "latitude": 39.747407,
-    "longitude": 37.015249
+    "longitude": 37.015249,
+    "iletisim": "03462254005"
   },
   {
     "name": "KUMBUL ECZANESİ",
@@ -18130,7 +19943,8 @@ export const locations = [
     "address": "ŞİRİNYALI MAHALLESİ İSMET GÖKŞEN CADDESİ NO: 69A",
     "contract": true,
     "latitude": 36.859101,
-    "longitude": 30.737609
+    "longitude": 30.737609,
+    "iletisim": "02423160055"
   },
   {
     "name": "EYLÜL ECZANESİ",
@@ -18140,7 +19954,8 @@ export const locations = [
     "address": "ABDURRAHMANGAZİ MAHALLESİ SİPER SOKAK NO: 5/A",
     "contract": true,
     "latitude": 40.9885579,
-    "longitude": 29.2320747
+    "longitude": 29.2320747,
+    "iletisim": "03122299679"
   },
   {
     "name": "ANGORA ECZANESİ",
@@ -18150,7 +19965,8 @@ export const locations = [
     "address": "HÜSEYİNGAZİ MAHALLESİ MAMAK CADDESİ NO: 122",
     "contract": true,
     "latitude": 39.9322897,
-    "longitude": 32.9097913
+    "longitude": 32.9097913,
+    "iletisim": "05069721144"
   },
   {
     "name": "FLORA ECZANESİ",
@@ -18160,7 +19976,8 @@ export const locations = [
     "address": "SULTANÇİFTLİĞİ MAHALLESİ ÖZVERİ SOKAK NO: 1A/1C",
     "contract": true,
     "latitude": 41.0300794,
-    "longitude": 29.2277722
+    "longitude": 29.2277722,
+    "iletisim": "05395163222"
   },
   {
     "name": "ORMANKÖY CADDE ECZANESİ",
@@ -18170,7 +19987,8 @@ export const locations = [
     "address": "GÜNGÖREN MAHALLESİ TOLGAHAN SOKAK NO: 3ACL",
     "contract": true,
     "latitude": 41.0250962,
-    "longitude": 29.2171796
+    "longitude": 29.2171796,
+    "iletisim": "05532223289"
   },
   {
     "name": "OVACIK ECZANESİ",
@@ -18180,7 +19998,8 @@ export const locations = [
     "address": "YAYLA MAHALLESİ 1525. CADDE NO: 2AB/48",
     "contract": true,
     "latitude": 39.996486,
-    "longitude": 32.8244715
+    "longitude": 32.8244715,
+    "iletisim": "03129999761"
   },
   {
     "name": "EBRU ECZANESİ",
@@ -18190,7 +20009,8 @@ export const locations = [
     "address": "HANBAŞI MAHALLESİ CUMHURİYET CADDESİ NO: 106/A",
     "contract": true,
     "latitude": 39.8104543,
-    "longitude": 35.1837607
+    "longitude": 35.1837607,
+    "iletisim": "03544142010"
   },
   {
     "name": "MODA ECZANESİ",
@@ -18200,7 +20020,8 @@ export const locations = [
     "address": "KÖŞK MAHALLESİ TUNCA SOKAK NO: 12/C",
     "contract": true,
     "latitude": 38.72360949999999,
-    "longitude": 35.5175794
+    "longitude": 35.5175794,
+    "iletisim": "03522376431"
   },
   {
     "name": "ADALET ECZANESİ",
@@ -18210,7 +20031,8 @@ export const locations = [
     "address": "CEVİZLİ MAHALLESİ MUSTAFA KEMAL CADDESİ NO: 58/A",
     "contract": true,
     "latitude": 40.91233320000001,
-    "longitude": 29.1788156
+    "longitude": 29.1788156,
+    "iletisim": "02582571707"
   },
   {
     "name": "EVREN ECZANESİ",
@@ -18220,7 +20042,8 @@ export const locations = [
     "address": "KURTULUŞ MAHALLESİ 64013. SOKAK NO: 17/A",
     "contract": true,
     "latitude": 37.0021862,
-    "longitude": 35.3164108
+    "longitude": 35.3164108,
+    "iletisim": "03224577575"
   },
   {
     "name": "SELDA ECZANESİ",
@@ -18230,7 +20053,8 @@ export const locations = [
     "address": "GAZİPAŞA MAHALLESİ ŞEHİR ONUR FİKRET DÜLGER CADDESİ NO: 15/A",
     "contract": true,
     "latitude": 41.0027579,
-    "longitude": 39.7294637
+    "longitude": 39.7294637,
+    "iletisim": "05059136261"
   },
   {
     "name": "ARYA ECZANESİ",
@@ -18240,7 +20064,8 @@ export const locations = [
     "address": "ÇEPNİ MAHALLESİ İNÖNÜ CADDESİ NO: 172/E",
     "contract": true,
     "latitude": 40.5331688,
-    "longitude": 34.9288418
+    "longitude": 34.9288418,
+    "iletisim": "05467449409"
   },
   {
     "name": "OĞUZ CAN ECZANESİ",
@@ -18250,7 +20075,8 @@ export const locations = [
     "address": "ABDURRAHMANGAZİ MAHALLESİ ALPASLAN CADDESİ NO: 2/1E",
     "contract": true,
     "latitude": 40.99178029999999,
-    "longitude": 29.2317514
+    "longitude": 29.2317514,
+    "iletisim": "02162083232"
   },
   {
     "name": "GAMZE ECZANESİ",
@@ -18260,7 +20086,8 @@ export const locations = [
     "address": "CAMİVASAT MAHALLESİ MENDERES BULVARI NO: 23",
     "contract": true,
     "latitude": 39.5916786,
-    "longitude": 27.0202844
+    "longitude": 27.0202844,
+    "iletisim": "05464858881"
   },
   {
     "name": "ULUSOY ECZANESİ",
@@ -18270,7 +20097,8 @@ export const locations = [
     "address": "SAHİL MAHALLESİ CUMHURİYET BULVARI NO: 281/C",
     "contract": true,
     "latitude": 38.501998,
-    "longitude": 42.281276
+    "longitude": 42.281276,
+    "iletisim": "04348275747"
   },
   {
     "name": "SERA ECZANESİ",
@@ -18280,7 +20108,8 @@ export const locations = [
     "address": "YAŞAMKENT MAHALLESİ 3250. CADDE NO: 6B/A",
     "contract": true,
     "latitude": 39.8604028,
-    "longitude": 32.6366135
+    "longitude": 32.6366135,
+    "iletisim": "03122173002"
   },
   {
     "name": "KIZILAY İLHAN ECZANESİ",
@@ -18290,7 +20119,8 @@ export const locations = [
     "address": "MEŞRUTİYET MAHALLESİ MEŞRUTİYET CADDESİ ERGENE APARTMANI NO : 20/D",
     "contract": true,
     "latitude": 39.9172418,
-    "longitude": 32.8556902
+    "longitude": 32.8556902,
+    "iletisim": "03123859585"
   },
   {
     "name": "YENİ AYLİN ECZANESİ",
@@ -18300,7 +20130,8 @@ export const locations = [
     "address": "KOŞUYOLU MAHALLESİ KOŞUYOLU CADDESİ NO : 95/A",
     "contract": true,
     "latitude": 41.00468050000001,
-    "longitude": 29.032345
+    "longitude": 29.032345,
+    "iletisim": "02165450323"
   },
   {
     "name": "GÜVEN ECZANESİ",
@@ -18310,7 +20141,8 @@ export const locations = [
     "address": "AYRANCILAR MAHALLESİ İZMİR-AYDIN CADDESİ NO: 118/A",
     "contract": true,
     "latitude": 38.2588414,
-    "longitude": 27.2509774
+    "longitude": 27.2509774,
+    "iletisim": "03122802411"
   },
   {
     "name": "BÜYÜKŞEHİR ECZANESİ",
@@ -18320,7 +20152,8 @@ export const locations = [
     "address": "BÜYÜKŞEHİR MAHALLESİ ENVER ADAKAN CADDESİ NO: 14 A2 İÇ KAPI NO:1",
     "contract": true,
     "latitude": 41.0025969,
-    "longitude": 28.6480147
+    "longitude": 28.6480147,
+    "iletisim": "02128721808"
   },
   {
     "name": "YILDIRIM ECZANESİ",
@@ -18330,7 +20163,8 @@ export const locations = [
     "address": "DEMİRCİKARA MAHALLESİ BURHANETTİN ONAT CADDESİ NO: 101/B",
     "contract": true,
     "latitude": 36.876458,
-    "longitude": 30.717972
+    "longitude": 30.717972,
+    "iletisim": "02423111969"
   },
   {
     "name": "ERKUT ECZANESİ",
@@ -18340,7 +20174,8 @@ export const locations = [
     "address": "ESENLER MAHALLESİ MARMARA CADDESİ NO: 61/B",
     "contract": true,
     "latitude": 40.8789014,
-    "longitude": 29.2713363
+    "longitude": 29.2713363,
+    "iletisim": "02324624862"
   },
   {
     "name": "SELEN KATARTAŞ ECZANESİ",
@@ -18350,7 +20185,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAHALLESİ TEPEBAĞLAR CADDESİ ARMAĞAN SOKAK NO: 18 TALAS/KAYSERİ",
     "contract": true,
     "latitude": 38.6846983,
-    "longitude": 35.5450895
+    "longitude": 35.5450895,
+    "iletisim": "03525131330"
   },
   {
     "name": "AYDIN ECZANESİ",
@@ -18360,7 +20196,8 @@ export const locations = [
     "address": "YILDIZTEPE MAHALLESİ HASAN HÜSEYİN AKSOY CADDESİ NO: 4/B",
     "contract": true,
     "latitude": 41.02818300000001,
-    "longitude": 28.8071988
+    "longitude": 28.8071988,
+    "iletisim": "02562251346"
   },
   {
     "name": "MİNERAL ECZANESİ",
@@ -18370,7 +20207,8 @@ export const locations = [
     "address": "KAZIMDİRİK ECZANESİ ÜNİVERSİTE CADDESİ NO: 124/0",
     "contract": true,
     "latitude": 38.4457879,
-    "longitude": 27.1858874
+    "longitude": 27.1858874,
+    "iletisim": "02325040931"
   },
   {
     "name": "YAĞIZ ECZANESİ",
@@ -18380,7 +20218,8 @@ export const locations = [
     "address": "GÜRSELPAŞA MAHALLESİ 75380. SOKAK NO: 22",
     "contract": true,
     "latitude": 37.0227472,
-    "longitude": 35.274108
+    "longitude": 35.274108,
+    "iletisim": "05526408010"
   },
   {
     "name": "METROPOL ECZANESİ",
@@ -18390,7 +20229,8 @@ export const locations = [
     "address": "KONAK MAHALLESİ GÜLBİTEN SOKAK NO: 1A/A",
     "contract": true,
     "latitude": 40.2095314,
-    "longitude": 28.991244
+    "longitude": 28.991244,
+    "iletisim": "02244514200"
   },
   {
     "name": "ÖZTÜRK ECZANESİ",
@@ -18400,7 +20240,8 @@ export const locations = [
     "address": "BUHARAEVLER MAHALLESİ BUHARAEVLER 2. CADDE NO: 5/5",
     "contract": true,
     "latitude": 40.5907274,
-    "longitude": 34.9535239
+    "longitude": 34.9535239,
+    "iletisim": "02126184512"
   },
   {
     "name": "HİLAL ECZANESİ",
@@ -18410,7 +20251,8 @@ export const locations = [
     "address": "KARABURUN MAHALLESİ ATATÜRK BULVARI NO: 72/E",
     "contract": true,
     "latitude": 36.8426758,
-    "longitude": 28.7572293
+    "longitude": 28.7572293,
+    "iletisim": "03442153400"
   },
   {
     "name": "FERDANE ECZANESİ",
@@ -18420,7 +20262,8 @@ export const locations = [
     "address": "DUMLUPINAR MAHALLESİ LALE CADDESİ NO: 5/H",
     "contract": true,
     "latitude": 37.9283181,
-    "longitude": 32.5056977
+    "longitude": 32.5056977,
+    "iletisim": "03322499930"
   },
   {
     "name": "DOĞU ECZANESİ",
@@ -18430,7 +20273,8 @@ export const locations = [
     "address": "ORHANTEPE MAHALLESİ ÇINAR CADDESİ NO: 55/D",
     "contract": true,
     "latitude": 40.91141229999999,
-    "longitude": 29.1634753
+    "longitude": 29.1634753,
+    "iletisim": "02163710350"
   },
   {
     "name": "TURKUAZ ECZANESİ",
@@ -18440,7 +20284,8 @@ export const locations = [
     "address": "KONAK MAHALLESİ LEFKOŞA CADDESİ NO: 28/A",
     "contract": true,
     "latitude": 40.2088723,
-    "longitude": 28.9923113
+    "longitude": 28.9923113,
+    "iletisim": "02243723274"
   },
   {
     "name": "ERDEM ECZANESİ",
@@ -18450,7 +20295,8 @@ export const locations = [
     "address": "BOSTANLI MAHALLESİ 1735 SOKAK NO: 198/A",
     "contract": true,
     "latitude": 38.459349,
-    "longitude": 27.098061
+    "longitude": 27.098061,
+    "iletisim": "02323369020"
   },
   {
     "name": "BÜŞRA EFE ECZANESİ",
@@ -18460,7 +20306,8 @@ export const locations = [
     "address": "İSTİKLAL MAHALLESİ 305 SOKAK NO: 2/F",
     "contract": true,
     "latitude": 40.7828018,
-    "longitude": 30.3204873
+    "longitude": 30.3204873,
+    "iletisim": "02642114738"
   },
   {
     "name": "SARAY ECZANESİ",
@@ -18470,7 +20317,8 @@ export const locations = [
     "address": "ÇEKİRGE MAHALLESİ ÇEKİRGE CADDESİ NO: 171/A EVMEN APARTMANI",
     "contract": true,
     "latitude": 40.2017003,
-    "longitude": 29.0244309
+    "longitude": 29.0244309,
+    "iletisim": "02242352362"
   },
   {
     "name": "BİZİM ECZANESİ",
@@ -18480,7 +20328,8 @@ export const locations = [
     "address": "FATİH MAHALLESİ CUMHURİYET CADDESİ NO: 29/A",
     "contract": true,
     "latitude": 40.6877351,
-    "longitude": 29.9670152
+    "longitude": 29.9670152,
+    "iletisim": "02663950607"
   },
   {
     "name": "CUMHURİYET ECZANESİ",
@@ -18490,7 +20339,8 @@ export const locations = [
     "address": "YENİ MAHALLESİ ATATÜRK CADDESİ NO: 15",
     "contract": true,
     "latitude": 42.02558399999999,
-    "longitude": 35.151457
+    "longitude": 35.151457,
+    "iletisim": "02167472232"
   },
   {
     "name": "AĞAOĞLU ECZANESİ",
@@ -18500,7 +20350,8 @@ export const locations = [
     "address": "KALABA MAHALLESİ SARIKAMIŞ ŞEHİTLERİ SOKAK NO: 4/B-C",
     "contract": true,
     "latitude": 39.9758932,
-    "longitude": 32.8672136
+    "longitude": 32.8672136,
+    "iletisim": "03122129900"
   },
   {
     "name": "ARDA ECZANESİ",
@@ -18510,7 +20361,8 @@ export const locations = [
     "address": "TOROS MAHALLESİ TURGUT ÖZAL BULVARI BL İNTÖR APARTMANI ALTI NO: 185/C",
     "contract": true,
     "latitude": 37.0476535,
-    "longitude": 35.2993489
+    "longitude": 35.2993489,
+    "iletisim": "03222326155"
   },
   {
     "name": "ACIBADEM PLUS ECZANESİ",
@@ -18520,7 +20372,8 @@ export const locations = [
     "address": "ACIBADEM MAHALLESİ ACIBADEM CADDESİ NO: 116/A",
     "contract": true,
     "latitude": 41.0010726,
-    "longitude": 29.0405965
+    "longitude": 29.0405965,
+    "iletisim": "02163265072"
   },
   {
     "name": "MUDANYA DERMAN ECZANESİ",
@@ -18530,7 +20383,8 @@ export const locations = [
     "address": "GÜZELYALI SİTELER MAHALLESİ BURSA ASFALTI CADDESİ MARMARA YAZLIK EVLERİ B BLOK NO:162/2B",
     "contract": true,
     "latitude": 40.3711592,
-    "longitude": 28.8913781
+    "longitude": 28.8913781,
+    "iletisim": "02245440627"
   },
   {
     "name": "FİNANSKENT ECZANESİ",
@@ -18540,7 +20394,8 @@ export const locations = [
     "address": "FİNANSKENT MAHALLESİ FİNANS CADDESİ SARPHAN FİNANS MERKEZ C BLOK NO: 5C/12",
     "contract": true,
     "latitude": 41.0049289,
-    "longitude": 29.1064711
+    "longitude": 29.1064711,
+    "iletisim": "02167711600"
   },
   {
     "name": "AYDA ECZANESİ",
@@ -18550,7 +20405,8 @@ export const locations = [
     "address": "BULGURLU MAHALLESİ ÖZİLHAN SOKAK NO: 9A",
     "contract": true,
     "latitude": 41.016601,
-    "longitude": 29.0793148
+    "longitude": 29.0793148,
+    "iletisim": "02166508192"
   },
   {
     "name": "MELETLİ ECZANESİ",
@@ -18560,7 +20416,8 @@ export const locations = [
     "address": "KALKANCI MAHALLESİ 602. SOKAK NO: 9-1 İLKADIM SAMSUN",
     "contract": true,
     "latitude": 41.3156682,
-    "longitude": 36.3134564
+    "longitude": 36.3134564,
+    "iletisim": "03624451445"
   },
   {
     "name": "BULVAR 216 ECZANESİ",
@@ -18570,7 +20427,8 @@ export const locations = [
     "address": "BARBAROS MAHALLESİ MOR ZAMBAK SOKAK NO: 9/A-13",
     "contract": true,
     "latitude": 41.19562,
-    "longitude": 32.622654
+    "longitude": 32.622654,
+    "iletisim": "02166885756"
   },
   {
     "name": "KÜBRA ECZANESİ",
@@ -18580,7 +20438,8 @@ export const locations = [
     "address": "ESKİSARAY MAHALLESİ 702. SOKAK NO : 31/B",
     "contract": true,
     "latitude": 37.7617382,
-    "longitude": 38.2718673
+    "longitude": 38.2718673,
+    "iletisim": "04162131013"
   },
   {
     "name": "LİMON ECZANESİ",
@@ -18590,7 +20449,8 @@ export const locations = [
     "address": "BOSTANLI MAHALLESİ GİRNE BULVARI NO: 51/3B",
     "contract": true,
     "latitude": 38.4559938,
-    "longitude": 27.1065449
+    "longitude": 27.1065449,
+    "iletisim": "02323693726"
   },
   {
     "name": "SEVGİ ECZANESİ",
@@ -18600,7 +20460,8 @@ export const locations = [
     "address": "CUMHURİYET MAHALLESİ ATATÜRK CADDESİ NO: 59/A",
     "contract": true,
     "latitude": 39.5837929,
-    "longitude": 32.1401986
+    "longitude": 32.1401986,
+    "iletisim": "02825056404"
   },
   {
     "name": "İPEKYOLU ECZANESİ",
@@ -18610,7 +20471,8 @@ export const locations = [
     "address": "ÇARŞI MAHALLESİ MARAŞ CADDESİ NO: 48/B",
     "contract": true,
     "latitude": 41.0062948,
-    "longitude": 39.72441999999999
+    "longitude": 39.72441999999999,
+    "iletisim": "04623261607"
   },
   {
     "name": "BUSE KÖSE ECZANESİ",
@@ -18620,7 +20482,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAHALLESİ NİHAVENT SOKAK KALYONCU APARTMANI A BLOK NO: 6/B",
     "contract": true,
     "latitude": 38.687501,
-    "longitude": 35.555568
+    "longitude": 35.555568,
+    "iletisim": "03524382323"
   },
   {
     "name": "BESTE ECZANESİ",
@@ -18630,7 +20493,8 @@ export const locations = [
     "address": "KÜÇÜKESAT MAHALLESİ ESAT CADDESİ NO: 111/D",
     "contract": true,
     "latitude": 39.90757,
-    "longitude": 32.865999
+    "longitude": 32.865999,
+    "iletisim": "03124481778"
   },
   {
     "name": "ÖZTÜRK ECZANESİ",
@@ -18640,7 +20504,8 @@ export const locations = [
     "address": "YENİ MAHALLE CENGİZ TOPEL CADDESİ NO: 187",
     "contract": true,
     "latitude": 41.0729979,
-    "longitude": 28.9011474
+    "longitude": 28.9011474,
+    "iletisim": "02126184512"
   },
   {
     "name": "ONUR ECZANESİ",
@@ -18650,7 +20515,8 @@ export const locations = [
     "address": "ORHANTEPE MAHALLESİ BANKALAR CADDESİ NO: 33-A",
     "contract": true,
     "latitude": 40.9095717,
-    "longitude": 29.1648474
+    "longitude": 29.1648474,
+    "iletisim": "03266184045"
   },
   {
     "name": "EFSUN ECZANESİ",
@@ -18660,7 +20526,8 @@ export const locations = [
     "address": "ÖRNEK MAH. YUNUS EMRE CAD. NO:62/B",
     "contract": true,
     "latitude": 40.9985995,
-    "longitude": 29.0805638
+    "longitude": 29.0805638,
+    "iletisim": "02163246231"
   },
   {
     "name": "HİLAL ECZANESİ",
@@ -18670,7 +20537,8 @@ export const locations = [
     "address": "VADİ MAHALLESİ 97013. SOKAK NARLIDERE SİTESİ A BLOK NO: 23/A",
     "contract": true,
     "latitude": 38.3640698,
-    "longitude": 26.9734685
+    "longitude": 26.9734685,
+    "iletisim": "03442153400"
   },
   {
     "name": "İKBAL ECZANESİ",
@@ -18680,7 +20548,8 @@ export const locations = [
     "address": "ÇAMLIK MAHALLESİ İKBAL CADDESİ NO: 97/A",
     "contract": true,
     "latitude": 41.0078493,
-    "longitude": 29.1263884
+    "longitude": 29.1263884,
+    "iletisim": "02165409072"
   },
   {
     "name": "ARI ECZANESİ",
@@ -18690,7 +20559,8 @@ export const locations = [
     "address": "HAZNEDAR MAHALLESİ MARMARA CADDESİ ALTINTAŞ SOKAK NO: 24/B",
     "contract": true,
     "latitude": 41.0093795,
-    "longitude": 28.872957
+    "longitude": 28.872957,
+    "iletisim": "02125043643"
   },
   {
     "name": "HAKAN ECZANESİ",
@@ -18700,7 +20570,8 @@ export const locations = [
     "address": "KAVAKLI MAHALLESİ YEŞİLYURT CADDESİ NO :17/2T/205",
     "contract": true,
     "latitude": 40.9842631,
-    "longitude": 28.6574217
+    "longitude": 28.6574217,
+    "iletisim": "05059183392"
   },
   {
     "name": "ADALET ECZANESİ",
@@ -18710,7 +20581,8 @@ export const locations = [
     "address": "ADALET MAHALLESİ 10142. SOKAK NO: 111/A",
     "contract": true,
     "latitude": 37.7830863,
-    "longitude": 29.025253
+    "longitude": 29.025253,
+    "iletisim": "02582571707"
   },
   {
     "name": "ENSAR ECZANESİ",
@@ -18720,7 +20592,8 @@ export const locations = [
     "address": "KEMALİYE MAH 1190.SOKAK 6-A HENDEK SAKARYA",
     "contract": true,
     "latitude": 40.795053,
-    "longitude": 30.744706
+    "longitude": 30.744706,
+    "iletisim": "02645030908"
   },
   {
     "name": "SOĞUKKUYU PARK ECZANESİ",
@@ -18730,7 +20603,8 @@ export const locations = [
     "address": "SOĞUKKUYU MAHALLESİ FAKÜLTE CADDESİ NO: 5/A",
     "contract": true,
     "latitude": 40.217343,
-    "longitude": 29.006429
+    "longitude": 29.006429,
+    "iletisim": "02242494906"
   },
   {
     "name": "BAŞKENT ECZANESİ",
@@ -18740,7 +20614,8 @@ export const locations = [
     "address": "AKŞEMSETTİN MAHALLESİ SARAY CADDESİ NO: 6/G",
     "contract": true,
     "latitude": 37.884956,
-    "longitude": 32.4565919
+    "longitude": 32.4565919,
+    "iletisim": "03124596221"
   },
   {
     "name": "CEBECİ BİLGE ECZANESİ",
@@ -18750,7 +20625,8 @@ export const locations = [
     "address": "FAKÜLTELER MAHALLESİ CEMAL GÜRSEL CADDESİ NO: 81/C",
     "contract": true,
     "latitude": 39.9311783,
-    "longitude": 32.8752623
+    "longitude": 32.8752623,
+    "iletisim": "03125620202"
   },
   {
     "name": "DENİZ ŞEHREMİNİ ECZANESİ",
@@ -18760,7 +20636,8 @@ export const locations = [
     "address": "ŞEHREMİNİ MAH. BÜYÜK SARAY MEYDANI CAD. NO:11",
     "contract": true,
     "latitude": 41.0159416,
-    "longitude": 28.9301799
+    "longitude": 28.9301799,
+    "iletisim": "02125889006"
   },
   {
     "name": "KAYA ECZANESİ",
@@ -18770,7 +20647,8 @@ export const locations = [
     "address": "MERKEZ MAHALLESİ HAKKI EGE CADDESİ NO: 16",
     "contract": true,
     "latitude": 36.7675196,
-    "longitude": 28.8011705
+    "longitude": 28.8011705,
+    "iletisim": "02526925599"
   },
   {
     "name": "DAMLA ECZANESİ",
@@ -18780,7 +20658,8 @@ export const locations = [
     "address": "POSTANE MAHALLESİ TAHAFFUZHANE CADDESİ NO: 12A",
     "contract": true,
     "latitude": 40.8176995,
-    "longitude": 29.3034084
+    "longitude": 29.3034084,
+    "iletisim": "02822625737"
   },
   {
     "name": "ONUR ECZANESİ",
@@ -18790,7 +20669,8 @@ export const locations = [
     "address": "NUMUNE MAHALLESİ DOKTOR SADIK AHMET CADDESİ NO: 200/B GELİŞİM HASTANESİ KARŞISI",
     "contract": true,
     "latitude": 36.56470480000001,
-    "longitude": 36.1585649
+    "longitude": 36.1585649,
+    "iletisim": "03266184045"
   },
   {
     "name": "HATIRA ECZANESİ",
@@ -18800,7 +20680,8 @@ export const locations = [
     "address": "KIZILAY MAHALLESİ KUMRULAR CADDESİ NO: 12/A",
     "contract": true,
     "latitude": 39.919999,
-    "longitude": 32.8507345
+    "longitude": 32.8507345,
+    "iletisim": "03124180296"
   },
   {
     "name": "MERİÇ ECZANESİ",
@@ -18810,7 +20691,8 @@ export const locations = [
     "address": "AKÇAĞLAN MAHALLESİ YUNUS EMRE CADDESİ NO: 8/D",
     "contract": true,
     "latitude": 39.7674342,
-    "longitude": 30.5257938
+    "longitude": 30.5257938,
+    "iletisim": "02822610760"
   },
   {
     "name": "SEVEROĞLU ECZANESİ",
@@ -18820,7 +20702,8 @@ export const locations = [
     "address": "CUMHURİYET MAHALLESİ ŞEHİT ONBAŞI ENVER DURMAZ CADDESİ NO: 4/2",
     "contract": true,
     "latitude": 36.5874791,
-    "longitude": 36.1624057
+    "longitude": 36.1624057,
+    "iletisim": "03266146626"
   },
   {
     "name": "BAĞLICA SAĞLIK ECZANESİ",
@@ -18830,7 +20713,8 @@ export const locations = [
     "address": "BAĞLICA MAHALLESİ ETİMESGUT BULVARI NO: 116/A",
     "contract": true,
     "latitude": 39.8947899,
-    "longitude": 32.6471282
+    "longitude": 32.6471282,
+    "iletisim": "03129995443"
   },
   {
     "name": "ŞEHİR ECZANESİ",
@@ -18840,7 +20724,8 @@ export const locations = [
     "address": "YILDIZ MAHALLESİ KAZIM KARABEKİR CADDESİ ULUSOY APARTMANI NO: 58/A",
     "contract": true,
     "latitude": 36.8827594,
-    "longitude": 30.769476
+    "longitude": 30.769476,
+    "iletisim": "02422377176"
   },
   {
     "name": "EZGİ ECZANESİ",
@@ -18850,7 +20735,8 @@ export const locations = [
     "address": "BAĞLICA MAHALLESİ BAĞLICA BULVARI NO: 6BD",
     "contract": true,
     "latitude": 39.8944463,
-    "longitude": 32.6316696
+    "longitude": 32.6316696,
+    "iletisim": "03129998044"
   },
   {
     "name": "ASLIHAN ECZANESİ",
@@ -18860,7 +20746,8 @@ export const locations = [
     "address": "NÜYÜKŞEHİR MAHALLESİ CUMHURİYET CADDESİ NO: 21E/A",
     "contract": true,
     "latitude": 41.003313,
-    "longitude": 28.643657
+    "longitude": 28.643657,
+    "iletisim": "02129796393"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -18870,7 +20757,8 @@ export const locations = [
     "address": "YENİ MAHALLESİ ŞEHİT TEĞMEN HALİL DEMİRÖRS CADDESİ NO: 12/B",
     "contract": true,
     "latitude": 37.718336,
-    "longitude": 30.282333
+    "longitude": 30.282333,
+    "iletisim": "02323813135"
   },
   {
     "name": "İLKNUR COŞKUN ECZANESİ",
@@ -18880,7 +20768,8 @@ export const locations = [
     "address": "OSMANGAZİ MAHALLES, YAVUZ CADDESİ NO: 350/C",
     "contract": true,
     "latitude": 38.4672,
-    "longitude": 27.1858342
+    "longitude": 27.1858342,
+    "iletisim": "02323470303"
   },
   {
     "name": "İREM ECZANESİ",
@@ -18890,7 +20779,8 @@ export const locations = [
     "address": "SAĞLIK MAHALLESİ DODURGA CADDESİ KUTLU APARTMANI NO: 55/E",
     "contract": true,
     "latitude": 40.732541,
-    "longitude": 31.608209
+    "longitude": 31.608209,
+    "iletisim": "03742229988"
   },
   {
     "name": "HAKAN ECZANESİ",
@@ -18900,7 +20790,8 @@ export const locations = [
     "address": "BAĞCILAR MAHALLESİ YENİ HAL 2. CADDE NEVROZ SİTESİ ALTI A BLOK NO 21AD",
     "contract": true,
     "latitude": 37.9190856,
-    "longitude": 40.1619038
+    "longitude": 40.1619038,
+    "iletisim": "05059183392"
   },
   {
     "name": "YAĞIZ KAYDA ECZANESİ",
@@ -18910,7 +20801,8 @@ export const locations = [
     "address": "SAĞLIK MAHALLESİ ŞÜHEDA CADDESİ NO: 86/D",
     "contract": true,
     "latitude": 38.4792308,
-    "longitude": 28.1396518
+    "longitude": 28.1396518,
+    "iletisim": "02367120088"
   },
   {
     "name": "TUĞÇE ECZANESİ",
@@ -18920,7 +20812,8 @@ export const locations = [
     "address": "FENERBAHÇE MAHALLESİ HASAN ALİ YÜCEL SOKAK NO: 15/A",
     "contract": true,
     "latitude": 40.9724596,
-    "longitude": 29.0542381
+    "longitude": 29.0542381,
+    "iletisim": "02163638785"
   },
   {
     "name": "YAŞAM ECZANESİ",
@@ -18930,7 +20823,8 @@ export const locations = [
     "address": "TUNA MAHALLESİ 1690. SOKAK NO: 65/A",
     "contract": true,
     "latitude": 38.4578079,
-    "longitude": 27.1195899
+    "longitude": 27.1195899,
+    "iletisim": "02166509418"
   },
   {
     "name": "ÖNCÜ ECZANESİ",
@@ -18940,7 +20834,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAHALLESİ HAMDİPAŞA SOKAK ÖNCÜ APARTMANI NO: 2/6",
     "contract": true,
     "latitude": 41.2779666,
-    "longitude": 36.3413042
+    "longitude": 36.3413042,
+    "iletisim": "03629997689"
   },
   {
     "name": "GÖNÜL ECZANESİ",
@@ -18950,7 +20845,8 @@ export const locations = [
     "address": "ALACAATLI MAH.3316 SOK.TERRA SİTE 2E/F7 ÇAYYOLU ÇANKAYA ANKARA",
     "contract": true,
     "latitude": 39.8583679,
-    "longitude": 32.6797906
+    "longitude": 32.6797906,
+    "iletisim": "05337670112"
   },
   {
     "name": "BAŞAK ECZANESİ",
@@ -18960,7 +20856,8 @@ export const locations = [
     "address": "KÖPRÜLÜ VEYSİPAŞA MAHALLESİ BATI GAZI BULVARI NO: 84/A",
     "contract": true,
     "latitude": 37.8520302,
-    "longitude": 27.8399117
+    "longitude": 27.8399117,
+    "iletisim": "05437242233"
   },
   {
     "name": "SİNCAN MEYDAN ECZANESİ",
@@ -18970,7 +20867,8 @@ export const locations = [
     "address": "ATATÜRK MAHALLESİ ANKARA CADDESİ NO: 36/C",
     "contract": true,
     "latitude": 39.9632027,
-    "longitude": 32.5798028
+    "longitude": 32.5798028,
+    "iletisim": "03128735555"
   },
   {
     "name": "BORA ECZANESİ",
@@ -18980,7 +20878,8 @@ export const locations = [
     "address": "Kızılay Mahallesi Sümer 2.cadde No:29/B Çankaya/ANKARA",
     "contract": true,
     "latitude": 39.921527,
-    "longitude": 32.849771
+    "longitude": 32.849771,
+    "iletisim": "05011217152"
   },
   {
     "name": "YENİKÖY ECZANESİ",
@@ -18990,7 +20889,8 @@ export const locations = [
     "address": "Yeniköy Mahallesi Atatürk Caddesi No:504/1",
     "contract": true,
     "latitude": 37.0282314,
-    "longitude": 30.6007025
+    "longitude": 30.6007025,
+    "iletisim": "02424213051"
   },
   {
     "name": "BÜŞRA SIRAKAYA ECZANESİ",
@@ -19000,7 +20900,8 @@ export const locations = [
     "address": "KONAK MAHALLESİ MERKEZ (120) SOKAK NO: 25/B",
     "contract": true,
     "latitude": 40.1947191,
-    "longitude": 29.142355
+    "longitude": 29.142355,
+    "iletisim": "02244083828"
   },
   {
     "name": "ELİF ATA ECZANESİ",
@@ -19010,7 +20911,8 @@ export const locations = [
     "address": "TERAKKİ MAHALLESİ CUMHURİYET CADDESİ NO: 75-D",
     "contract": true,
     "latitude": 41.449985,
-    "longitude": 31.78384
+    "longitude": 31.78384,
+    "iletisim": "03722221015"
   },
   {
     "name": "OYLUM ECZANESİ",
@@ -19020,7 +20922,8 @@ export const locations = [
     "address": "YENİMAHALLE MAHALLESİ GENERAL KANİ ELİTEZ SOKAK NO: 5/B",
     "contract": true,
     "latitude": 40.9799043,
-    "longitude": 28.8816261
+    "longitude": 28.8816261,
+    "iletisim": "02126601101"
   },
   {
     "name": "MİRA ECZANESİ",
@@ -19030,7 +20933,8 @@ export const locations = [
     "address": "GÜNEŞEVLER MAHALLESİ TÜRKMEN CADDESİ NO: 4/A",
     "contract": true,
     "latitude": 39.9710646,
-    "longitude": 32.8924709
+    "longitude": 32.8924709,
+    "iletisim": "05422606472"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -19040,7 +20944,8 @@ export const locations = [
     "address": "SUNGUR MAHALLESİ İLHAN DARENDELİOĞLU CADDESİ NO: 9/B",
     "contract": true,
     "latitude": 38.556664,
-    "longitude": 37.490605
+    "longitude": 37.490605,
+    "iletisim": "02744124152"
   },
   {
     "name": "BİZİM ECZANESİ",
@@ -19050,7 +20955,8 @@ export const locations = [
     "address": "İSKELE MAHALLESİ ATATÜRK 3. SOKAK GONCA PASAJ ÜST KAT NO: 1A",
     "contract": true,
     "latitude": 39.566558,
-    "longitude": 26.7540648
+    "longitude": 26.7540648,
+    "iletisim": "02663950607"
   },
   {
     "name": "YAKACIK DERMAN ECZANESİ",
@@ -19060,7 +20966,8 @@ export const locations = [
     "address": "YAKACIK ÇARŞI MAHALLESİ ENİS AKAYGEN SOKAK NO: 7/B",
     "contract": true,
     "latitude": 40.9165544,
-    "longitude": 29.220506
+    "longitude": 29.220506,
+    "iletisim": "02165767642"
   },
   {
     "name": "YAREN ECZANESİ",
@@ -19070,7 +20977,8 @@ export const locations = [
     "address": "İSTASYON MAHALLESİ MÜCAHİT OKUR CADDESİ 1414 SOKAK NO: 24/A",
     "contract": true,
     "latitude": 40.785969,
-    "longitude": 29.412207
+    "longitude": 29.412207,
+    "iletisim": "05382633866"
   },
   {
     "name": "NİDA ECZANESİ",
@@ -19080,7 +20988,8 @@ export const locations = [
     "address": "KORU MAHALLESİ 2598. SOKAK EMA ASMA BAHÇE SİTE ÇARŞISI NO: 4-E",
     "contract": true,
     "latitude": 39.8854007,
-    "longitude": 32.6816218
+    "longitude": 32.6816218,
+    "iletisim": "03122420491"
   },
   {
     "name": "NEŞE ECZANESİ",
@@ -19090,7 +20999,8 @@ export const locations = [
     "address": "ATA MAHALLESİ 761. SOKAK NO: 1B",
     "contract": true,
     "latitude": 39.9843157,
-    "longitude": 32.7982148
+    "longitude": 32.7982148,
+    "iletisim": "03125031060"
   },
   {
     "name": "GÜNEŞ ECZANESİ",
@@ -19100,7 +21010,8 @@ export const locations = [
     "address": "GÜNEŞLİ MAHALLESİ HAMZA AKBAŞ CADDESİ NO: 9/G",
     "contract": true,
     "latitude": 38.2106044,
-    "longitude": 37.1789358
+    "longitude": 37.1789358,
+    "iletisim": "02322275349"
   },
   {
     "name": "LA VİDA ECZANESİ",
@@ -19110,7 +21021,8 @@ export const locations = [
     "address": "ALKENT 2000 MAHALLESİ HADIMKÖY YOLU CADDESİ B BLOK NO : 151/2A",
     "contract": true,
     "latitude": 41.0710755,
-    "longitude": 28.6215982
+    "longitude": 28.6215982,
+    "iletisim": "02128307035"
   },
   {
     "name": "ERKUT ECZANESİ",
@@ -19120,7 +21032,8 @@ export const locations = [
     "address": "ADALET MAHALLESİ MANAS BULVARI NO:30/B",
     "contract": true,
     "latitude": 38.4510945,
-    "longitude": 27.1786628
+    "longitude": 27.1786628,
+    "iletisim": "02324624862"
   },
   {
     "name": "MEYDAN KIZILAY ECZANESİ",
@@ -19130,7 +21043,8 @@ export const locations = [
     "address": "CUMHURİYET MAHALLESİ ZİYA GÖKALP CADDESİ NO: 9/B",
     "contract": true,
     "latitude": 39.9210801,
-    "longitude": 32.855582
+    "longitude": 32.855582,
+    "iletisim": "03124324343"
   },
   {
     "name": "DENİZER ECZANESİ",
@@ -19140,7 +21054,8 @@ export const locations = [
     "address": "FIRAT MAHALLESİ İPEK CADDESİ NO: 41/A",
     "contract": true,
     "latitude": 38.344108,
-    "longitude": 38.328658
+    "longitude": 38.328658,
+    "iletisim": "04223220079"
   },
   {
     "name": "ERTEM ECZANESİ",
@@ -19150,7 +21065,8 @@ export const locations = [
     "address": "AKARCA MAHALLESİ 895. SOKAK NO: 2/A",
     "contract": true,
     "latitude": 36.6564546,
-    "longitude": 29.1207049
+    "longitude": 29.1207049,
+    "iletisim": "02526131311"
   },
   {
     "name": "BEYAZ ECZANESİ",
@@ -19160,7 +21076,8 @@ export const locations = [
     "address": "NERGİZ MAHALLESİ 1775. SOKAK NO: 187/B",
     "contract": true,
     "latitude": 38.4621718,
-    "longitude": 27.1053568
+    "longitude": 27.1053568,
+    "iletisim": "02323819043"
   },
   {
     "name": "CADDE ECZANESİ",
@@ -19170,7 +21087,8 @@ export const locations = [
     "address": "HOŞNUDİYE MAHALLESİ İSMET İNÖNÜ 1. BULVAR NO: 14/C",
     "contract": true,
     "latitude": 39.7805741,
-    "longitude": 30.5110649
+    "longitude": 30.5110649,
+    "iletisim": "02222214010"
   },
   {
     "name": "VEGA ECZANESİ",
@@ -19180,7 +21098,8 @@ export const locations = [
     "address": "HALKAPINAR MAHALLESİ 1558/1 SOKAK NO: 4N",
     "contract": true,
     "latitude": 38.3229328,
-    "longitude": 27.132111
+    "longitude": 27.132111,
+    "iletisim": "02325029848"
   },
   {
     "name": "MTY ECZANESİ",
@@ -19190,7 +21109,8 @@ export const locations = [
     "address": "CUMHURİYET MAHALLESİ CENGİZ TOPEL CADDESİ NO: 17/D",
     "contract": true,
     "latitude": 40.23559669999999,
-    "longitude": 33.0292404
+    "longitude": 33.0292404,
+    "iletisim": "03128386000"
   },
   {
     "name": "YILDIZ ECZANESİ",
@@ -19200,7 +21120,8 @@ export const locations = [
     "address": "TECDE MAHALLESİ İSMET PAŞA CADDESİ NO: 201/A",
     "contract": true,
     "latitude": 38.3283141,
-    "longitude": 38.2928352
+    "longitude": 38.2928352,
+    "iletisim": "03123231234"
   },
   {
     "name": "GÜNDOĞAN ECZANESİ",
@@ -19210,7 +21131,8 @@ export const locations = [
     "address": "TEPEALTI MAHALLESİ İVEDİK CADDESİ NO: 266/A",
     "contract": true,
     "latitude": 39.9642218,
-    "longitude": 32.8028156
+    "longitude": 32.8028156,
+    "iletisim": "05537554605"
   },
   {
     "name": "ÖNTAN ECZANESİ",
@@ -19220,7 +21142,8 @@ export const locations = [
     "address": "YILDIRIM MAHALLESİ YILDIRIM CADDESİ NO: 11",
     "contract": true,
     "latitude": 39.6498938,
-    "longitude": 27.8829179
+    "longitude": 27.8829179,
+    "iletisim": "02662430505"
   },
   {
     "name": "SOLEY ECZANESİ",
@@ -19230,7 +21153,8 @@ export const locations = [
     "address": "KOZYATAĞI MAHALLESİ SEDA SOKAK NO: 11A",
     "contract": true,
     "latitude": 40.9662819,
-    "longitude": 29.0994713
+    "longitude": 29.0994713,
+    "iletisim": "02163803978"
   },
   {
     "name": "AREL ECZANESİ",
@@ -19240,7 +21164,8 @@ export const locations = [
     "address": "MEHMET AKİF ERSOY MAHALLESİ 274. SOKAK NO: 1B/128",
     "contract": true,
     "latitude": 39.9630045,
-    "longitude": 32.7725816
+    "longitude": 32.7725816,
+    "iletisim": "03129999426"
   },
   {
     "name": "YÜZGEÇ ECZANESİ",
@@ -19250,7 +21175,8 @@ export const locations = [
     "address": "GÜNEYKENT MAH. 19546.BULV. B BLOK NO:12/1B",
     "contract": true,
     "latitude": 38.6298412,
-    "longitude": 39.1520692
+    "longitude": 39.1520692,
+    "iletisim": "04245029673"
   },
   {
     "name": "İNCEK PRESTİJ ECZANESİ",
@@ -19260,7 +21186,8 @@ export const locations = [
     "address": "ALACAATLI MAHALLESİ 3341. SOKAK NO: 1/8-B",
     "contract": true,
     "latitude": 39.8372609,
-    "longitude": 32.7044381
+    "longitude": 32.7044381,
+    "iletisim": "05546525933"
   },
   {
     "name": "BULVAR İSTANBUL ECZANESİ",
@@ -19270,7 +21197,8 @@ export const locations = [
     "address": "BAŞAKŞEHİR MAHALLESİ İSHAKPAŞA SOKAK NO: 3I/18",
     "contract": true,
     "latitude": 41.0947904,
-    "longitude": 28.770712
+    "longitude": 28.770712,
+    "iletisim": "05373478719"
   },
   {
     "name": "MUCİZE ECZANESİ",
@@ -19280,7 +21208,8 @@ export const locations = [
     "address": "YENİ BATI MAHALLESİ 5407 CADDESİ NO: 31",
     "contract": true,
     "latitude": 39.9868323,
-    "longitude": 32.6583256
+    "longitude": 32.6583256,
+    "iletisim": "05068603925"
   },
   {
     "name": "OĞUZHAN SAZ ECZANESİ",
@@ -19290,7 +21219,8 @@ export const locations = [
     "address": "AKŞEMSETTİN MAHALLESİ BOSNA CADDESİ HUZUR SOKAK NO: 4/1",
     "contract": true,
     "latitude": 39.9679476,
-    "longitude": 32.8864877
+    "longitude": 32.8864877,
+    "iletisim": "03122680602"
   },
   {
     "name": "AYDIN ECZANESİ",
@@ -19300,7 +21230,8 @@ export const locations = [
     "address": "ERENKÖY MAHALLESİ ÇAMLIKÖŞK SOKAK NO: 5A",
     "contract": true,
     "latitude": 40.9780035,
-    "longitude": 29.0759792
+    "longitude": 29.0759792,
+    "iletisim": "02562251346"
   },
   {
     "name": "TOLGANUR ECZANESİ",
@@ -19310,7 +21241,8 @@ export const locations = [
     "address": "GÜNEŞEVLER MAHALLESİ 128. CADDE NO: 1/A-B",
     "contract": true,
     "latitude": 39.9716605,
-    "longitude": 32.888816
+    "longitude": 32.888816,
+    "iletisim": "03123181816"
   },
   {
     "name": "BETÜL ECZANESİ",
@@ -19320,7 +21252,8 @@ export const locations = [
     "address": "CENNET MAHALLESİ ALPARSLAN CADDESİ NO : 11/A",
     "contract": true,
     "latitude": 40.9866012,
-    "longitude": 28.7824306
+    "longitude": 28.7824306,
+    "iletisim": "02124243832"
   },
   {
     "name": "NURSEL ECZANESİ",
@@ -19330,7 +21263,8 @@ export const locations = [
     "address": "MUAMMER AKSOY CD. ÇEKMECE MH. KOCAELİ KONTEYNER KENT İÇİ",
     "contract": true,
     "latitude": 36.226921,
-    "longitude": 36.131592
+    "longitude": 36.131592,
+    "iletisim": "05352073000"
   },
   {
     "name": "ÇAĞLA 365 ECZANESİ",
@@ -19340,7 +21274,8 @@ export const locations = [
     "address": "BİRLİK MAHALLESİ 428. CADE NO: 41/B202",
     "contract": true,
     "latitude": 39.8757883,
-    "longitude": 32.8701507
+    "longitude": 32.8701507,
+    "iletisim": "03124500277"
   },
   {
     "name": "CANKIZ ECZANESİ",
@@ -19350,7 +21285,8 @@ export const locations = [
     "address": "ERENKÖY MAHALLESİ ERENKÖY İSTASYON CADDESİ NO: 35/C",
     "contract": true,
     "latitude": 40.9751874,
-    "longitude": 29.0792902
+    "longitude": 29.0792902,
+    "iletisim": "02168037343"
   },
   {
     "name": "SİNEM ÖZLEM ECZANESİ",
@@ -19360,7 +21296,8 @@ export const locations = [
     "address": "KAZIM DİRİK MAHALLESİ MUSTAFA KEMAL CADDESİ NO: 119/G",
     "contract": true,
     "latitude": 38.4611434,
-    "longitude": 27.2043894
+    "longitude": 27.2043894,
+    "iletisim": "02323739231"
   },
   {
     "name": "DİYET PLUS ECZANESİ",
@@ -19370,7 +21307,8 @@ export const locations = [
     "address": "KÜÇÜKBAKKALKÖY MAHALLESİ ŞERİF ALİ CADDESİ NO: 26/B",
     "contract": true,
     "latitude": 40.9831393,
-    "longitude": 29.1181745
+    "longitude": 29.1181745,
+    "iletisim": "05412492956"
   },
   {
     "name": "MAYA ECZANESİ",
@@ -19380,7 +21318,8 @@ export const locations = [
     "address": "BARBAROS MAHALLESİ ŞEBBOY SOKAK NO: G-1-1-D",
     "contract": true,
     "latitude": 40.9964415,
-    "longitude": 29.1031481
+    "longitude": 29.1031481,
+    "iletisim": "02165101050"
   },
   {
     "name": "SEYHAN ECZANESİ",
@@ -19390,7 +21329,8 @@ export const locations = [
     "address": "ATATÜRK MAHALLESİ ÇAVUŞBAŞI CADDESİ NO: 80/A",
     "contract": true,
     "latitude": 41.0281041,
-    "longitude": 29.09433199999999
+    "longitude": 29.09433199999999,
+    "iletisim": "02165155520"
   },
   {
     "name": "KAVAKLI ECZANESİ",
@@ -19400,7 +21340,8 @@ export const locations = [
     "address": "KASAPLAR MAHALLESİ ŞEYH ŞAMİL CADDESİ NO: 18/1",
     "contract": true,
     "latitude": 36.7929984,
-    "longitude": 31.4276104
+    "longitude": 31.4276104,
+    "iletisim": "02427461416"
   },
   {
     "name": "IHLAMUR ECZANESİ",
@@ -19410,7 +21351,8 @@ export const locations = [
     "address": "5 NİSAN MAHALLESİ 2015.SOKAK NO: 8/D",
     "contract": true,
     "latitude": 37.6001631,
-    "longitude": 36.8756543
+    "longitude": 36.8756543,
+    "iletisim": "05405042804"
   },
   {
     "name": "ÖRNEK ECZANESİ",
@@ -19420,7 +21362,8 @@ export const locations = [
     "address": "SULTAN ORHAN MAHALLESİ İLYAS BEY CADDESİ NO: 31/A",
     "contract": true,
     "latitude": 40.8005264,
-    "longitude": 29.4398922
+    "longitude": 29.4398922,
+    "iletisim": "02626421520"
   },
   {
     "name": "DAĞDEVİREN ECZANESİ",
@@ -19430,7 +21373,8 @@ export const locations = [
     "address": "SARAYLAR MAHALLESİ SALTAK CADDESİ NO: 16/A",
     "contract": true,
     "latitude": 37.78244110000001,
-    "longitude": 29.0832946
+    "longitude": 29.0832946,
+    "iletisim": "02582614564"
   },
   {
     "name": "MENEKŞE ECZANESİ",
@@ -19440,7 +21384,8 @@ export const locations = [
     "address": "TEPEKULE MAHALLESİ 2084/8. SOKAK NO: 43/A",
     "contract": true,
     "latitude": 38.4650304,
-    "longitude": 27.179266
+    "longitude": 27.179266,
+    "iletisim": "02742161642"
   },
   {
     "name": "İSTANBUL ECZANESİ",
@@ -19450,7 +21395,8 @@ export const locations = [
     "address": "YENİ BATI MAHALLESİ SEZAİ KARAKOÇ CADDESİ NO: 3/H",
     "contract": true,
     "latitude": 39.9861491,
-    "longitude": 32.6600183
+    "longitude": 32.6600183,
+    "iletisim": "03125129986"
   },
   {
     "name": "FERAH ECZANESİ",
@@ -19460,7 +21406,8 @@ export const locations = [
     "address": "ESATPAŞA MAHALLESİ GÜZEL BAHAR SOKAK NO: 2A",
     "contract": true,
     "latitude": 40.99919209999999,
-    "longitude": 29.0863087
+    "longitude": 29.0863087,
+    "iletisim": "02165047762"
   },
   {
     "name": "OCAK ECZANESİ",
@@ -19470,7 +21417,8 @@ export const locations = [
     "address": "OCAK ECZANESİ. SÜMER MAHALLESİ İZMİR BULVARI NO: 26/A . ÖZEL ODAK HAST YANI",
     "contract": true,
     "latitude": 37.785374,
-    "longitude": 29.09275
+    "longitude": 29.09275,
+    "iletisim": "05449192537"
   },
   {
     "name": "AYDIN ECZANESİ",
@@ -19480,7 +21428,8 @@ export const locations = [
     "address": "KIZILAY MAHALLESİ NECATİBEY CADDESİ NO: 47/B",
     "contract": true,
     "latitude": 39.9231678,
-    "longitude": 32.84886
+    "longitude": 32.84886,
+    "iletisim": "02562251346"
   },
   {
     "name": "CAN ECZANESİ",
@@ -19490,7 +21439,8 @@ export const locations = [
     "address": "REŞATBEY MAHALLESİ GAZETECİ SİNAN TANYILDIZ SOKAK NO: 28/B",
     "contract": true,
     "latitude": 36.994516,
-    "longitude": 35.3269851
+    "longitude": 35.3269851,
+    "iletisim": "05416702223"
   },
   {
     "name": "ÇAĞRI ECZANESİ",
@@ -19500,7 +21450,8 @@ export const locations = [
     "address": "ERKMEN MAHALLESİ ŞEHİTLER CADDESİ NO: 117/G",
     "contract": true,
     "latitude": 38.75886000000001,
-    "longitude": 30.483379
+    "longitude": 30.483379,
+    "iletisim": "02726128107"
   },
   {
     "name": "KARINCA ECZANESİ",
@@ -19510,7 +21461,8 @@ export const locations = [
     "address": "KUTLU MAHALLESİ DEREBOYU CADDESİ NO: 44B",
     "contract": true,
     "latitude": 39.9177562,
-    "longitude": 32.9000741
+    "longitude": 32.9000741,
+    "iletisim": "03123672306"
   },
   {
     "name": "ARVEN ECZANESİ",
@@ -19520,7 +21472,8 @@ export const locations = [
     "address": "KONUTKENT MAHALLESİ DUMLUPINAR BULVARI NO: 399 Z : 22 ELYA CENTER AVM",
     "contract": true,
     "latitude": 39.8755544,
-    "longitude": 32.6518375
+    "longitude": 32.6518375,
+    "iletisim": "05339692809"
   },
   {
     "name": "KUTLU ECZANESİ",
@@ -19530,7 +21483,8 @@ export const locations = [
     "address": "KIZILAY MAHALLESİ GAZİ MUSTAFA KEMAL BULVARI NO: 29/A",
     "contract": true,
     "latitude": 39.9233447,
-    "longitude": 32.8491866
+    "longitude": 32.8491866,
+    "iletisim": "03122310744"
   },
   {
     "name": "PARK MİRA ECZANESİ",
@@ -19540,7 +21494,8 @@ export const locations = [
     "address": "BATI SİTESİ MAHALLESİ 2336. SOKAK NO: 3D/C",
     "contract": true,
     "latitude": 39.962525,
-    "longitude": 32.6955964
+    "longitude": 32.6955964,
+    "iletisim": "03122456269"
   },
   {
     "name": "GÖKÇE ECZANESİ",
@@ -19550,7 +21505,8 @@ export const locations = [
     "address": "KIZILIRMAK MAHALLESİ 30-14. SOKAK NO: 5",
     "contract": true,
     "latitude": 39.7420546,
-    "longitude": 37.027785
+    "longitude": 37.027785,
+    "iletisim": "02268111357"
   },
   {
     "name": "NİŞANTAŞI ECZANESİ",
@@ -19560,7 +21516,8 @@ export const locations = [
     "address": "YİRMİİKİGÜN MAHALLESİ ŞEHİT ALİ MÜLAZİMOĞLU CADDESİ NO: 64C",
     "contract": true,
     "latitude": 37.5864049,
-    "longitude": 36.8593018
+    "longitude": 36.8593018,
+    "iletisim": "05540072297"
   },
   {
     "name": "EDA ECZANESİ",
@@ -19570,7 +21527,8 @@ export const locations = [
     "address": "ÖZGÜRLÜK MAHALLESİ ADNAN KAHVECİ CADDESİ NO: 12/D",
     "contract": true,
     "latitude": 40.8282976,
-    "longitude": 29.3767274
+    "longitude": 29.3767274,
+    "iletisim": "05329229727"
   },
   {
     "name": "ANZEL MİRA ECZANESİ",
@@ -19580,7 +21538,8 @@ export const locations = [
     "address": "FIRAT MAHALLESİ 507. SOKAK NO: 43",
     "contract": true,
     "latitude": 37.9262065,
-    "longitude": 40.1637377
+    "longitude": 40.1637377,
+    "iletisim": "04122526262"
   },
   {
     "name": "İNCEK YAĞMUR ECZANESİ",
@@ -19590,7 +21549,8 @@ export const locations = [
     "address": "İNCEK MAHALLESİ DEMİR SOKAK NO: 15/AB",
     "contract": true,
     "latitude": 39.8078549,
-    "longitude": 32.6980432
+    "longitude": 32.6980432,
+    "iletisim": "03124850080"
   },
   {
     "name": "SULTAN KOÇ ECZANESİ",
@@ -19600,7 +21560,8 @@ export const locations = [
     "address": "TALAYTEPE MAHALLESİ 4005. SOKAK NO: 1/A",
     "contract": true,
     "latitude": 37.962833,
-    "longitude": 40.1214621
+    "longitude": 40.1214621,
+    "iletisim": "05414598384"
   },
   {
     "name": "MAYIS ECZANESİ",
@@ -19610,7 +21571,8 @@ export const locations = [
     "address": "CUMHURİYE MAHALLESİ CENGİZ TOPEL CADDESİ NO: 16/A",
     "contract": true,
     "latitude": 39.777569,
-    "longitude": 30.517994
+    "longitude": 30.517994,
+    "iletisim": "02222338467"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -19620,7 +21582,8 @@ export const locations = [
     "address": "BOSTANCIK MAHALLESİ ATATÜRK CADDESİ NO: 368",
     "contract": true,
     "latitude": 36.164353,
-    "longitude": 36.133682
+    "longitude": 36.133682,
+    "iletisim": "02744124152"
   },
   {
     "name": "YAMAN ECZANESİ",
@@ -19630,7 +21593,8 @@ export const locations = [
     "address": "MERKEZ MAHALLESİ ATATÜRK CADDESİ NO: 35/A",
     "contract": true,
     "latitude": 40.0352802,
-    "longitude": 32.9006244
+    "longitude": 32.9006244,
+    "iletisim": "03123281808"
   },
   {
     "name": "KESKİN ECZANESİ",
@@ -19640,7 +21604,8 @@ export const locations = [
     "address": "ÇEKMECE MAHALLESİ 321. SOKAK NO: 14",
     "contract": true,
     "latitude": 36.2092985,
-    "longitude": 36.1288438
+    "longitude": 36.1288438,
+    "iletisim": "05464280348"
   },
   {
     "name": "EMET ECZANESİ",
@@ -19650,7 +21615,8 @@ export const locations = [
     "address": "ÖMERAĞA MAHALLESİ NACİ, GİRGİNSOY SOKAK NO: 3/A",
     "contract": true,
     "latitude": 40.759922,
-    "longitude": 29.9292405
+    "longitude": 29.9292405,
+    "iletisim": "02623235422"
   },
   {
     "name": "KARÇİÇEĞİ ECZANESİ",
@@ -19660,7 +21626,8 @@ export const locations = [
     "address": "ERGAZİ MAHALLESİ 1820. CADDE NO: 101/B18",
     "contract": true,
     "latitude": 39.9594276,
-    "longitude": 32.7042254
+    "longitude": 32.7042254,
+    "iletisim": "03122553435"
   },
   {
     "name": "ETLİK ÇİÇEK ECZANESİ",
@@ -19670,7 +21637,8 @@ export const locations = [
     "address": "AŞAĞI EĞLENCE MAHALLESİ HALİL SEZAİ ERKUT CADDESİ NO: 6/AA",
     "contract": true,
     "latitude": 39.9693408,
-    "longitude": 32.8313212
+    "longitude": 32.8313212,
+    "iletisim": "03123369696"
   },
   {
     "name": "YENİ BATI ECZANESİ",
@@ -19680,7 +21648,8 @@ export const locations = [
     "address": "YENİ BATI MAHALLESİ SEZAİ KARAKOÇ CADDESİ NO:9/B",
     "contract": true,
     "latitude": 39.9876159,
-    "longitude": 32.6616712
+    "longitude": 32.6616712,
+    "iletisim": "03123125252"
   },
   {
     "name": "CANAN ECZANESİ",
@@ -19690,7 +21659,8 @@ export const locations = [
     "address": "CÜNEYTBEY MAHALLESİ 638. SOKAK NO: 1/A",
     "contract": true,
     "latitude": 38.3721879,
-    "longitude": 27.1432463
+    "longitude": 27.1432463,
+    "iletisim": "02327827876"
   },
   {
     "name": "HAYAT AĞACI ECZANESİ",
@@ -19700,7 +21670,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAHALLESİ TAŞKENT CADDESİ NO: 58/B",
     "contract": true,
     "latitude": 39.926695,
-    "longitude": 32.829476
+    "longitude": 32.829476,
+    "iletisim": "03122136788"
   },
   {
     "name": "KİZA ECZANESİ",
@@ -19710,7 +21681,8 @@ export const locations = [
     "address": "ONUR MAHALLESİ TURHAN CEMAL BERİKER BULVARI KİZA İŞ MERKEZİ A5 BLOK NO: 437",
     "contract": true,
     "latitude": 36.996122,
-    "longitude": 35.2576143
+    "longitude": 35.2576143,
+    "iletisim": "03224572723"
   },
   {
     "name": "AYBERK ECZANESİ",
@@ -19720,7 +21692,8 @@ export const locations = [
     "address": "KİREMİTHANE MAHALLESİ 4413. SOKAK NO: 1/A",
     "contract": true,
     "latitude": 36.795596,
-    "longitude": 34.623163
+    "longitude": 34.623163,
+    "iletisim": "03242335115"
   },
   {
     "name": "MİTHATPAŞA ECZANESİ",
@@ -19730,7 +21703,8 @@ export const locations = [
     "address": "GÖZTEPE MAHALLESİ MİTHAT PAŞA CADDESİ NO: 897/D",
     "contract": true,
     "latitude": 38.3978737,
-    "longitude": 27.088295
+    "longitude": 27.088295,
+    "iletisim": "02322483332"
   },
   {
     "name": "UMUT ECZANESİ",
@@ -19740,7 +21714,8 @@ export const locations = [
     "address": "KARARGAHTEPE MAHALLESİ SELÇUKLU CADDESİ NO: 50/B",
     "contract": true,
     "latitude": 39.9709318,
-    "longitude": 32.8568023
+    "longitude": 32.8568023,
+    "iletisim": "05431862302"
   },
   {
     "name": "MERYEM ECZANESİ",
@@ -19750,7 +21725,8 @@ export const locations = [
     "address": "BAĞLARBAŞI MAHALLESİ BAĞDAT CADDESİ NO: 449D",
     "contract": true,
     "latitude": 40.922719,
-    "longitude": 29.1348335
+    "longitude": 29.1348335,
+    "iletisim": "05336882558"
   },
   {
     "name": "ARZU ECZANESİ",
@@ -19760,7 +21736,8 @@ export const locations = [
     "address": "Göktürk Merkez Mah.Telekom Sokak No:1/B Eyüpsultan/İstanbul",
     "contract": true,
     "latitude": 41.1774134,
-    "longitude": 28.886657
+    "longitude": 28.886657,
+    "iletisim": "03782281128"
   },
   {
     "name": "BAŞAK YAĞMUR ECZANESİ",
@@ -19770,7 +21747,8 @@ export const locations = [
     "address": "HOŞDERE CADDESİ 94/B AYRANCI MAH. ÇANKAYA/ANKARA",
     "contract": true,
     "latitude": 39.8936727,
-    "longitude": 32.8469492
+    "longitude": 32.8469492,
+    "iletisim": "03124679959"
   },
   {
     "name": "KÜÇÜKBEY ECZANESİ",
@@ -19780,7 +21758,8 @@ export const locations = [
     "address": "Yunusemre Mah. Yonca Sok. Raşidoğlu Apt.8/1 Palandöken/ERZURUM",
     "contract": true,
     "latitude": 39.8742116,
-    "longitude": 41.2807934
+    "longitude": 41.2807934,
+    "iletisim": "04423192500"
   },
   {
     "name": "GÜRSOY ECZANESİ",
@@ -19790,7 +21769,8 @@ export const locations = [
     "address": "MALATYA PARK AVM İNÖNÜ MAHALLESİ ÇEVRE SOKAK NO: 4 Z:6",
     "contract": true,
     "latitude": 38.35033310000001,
-    "longitude": 38.2976427
+    "longitude": 38.2976427,
+    "iletisim": "05301640256"
   },
   {
     "name": "YASEMİN",
@@ -19800,7 +21780,8 @@ export const locations = [
     "address": "Hacıhalil Mah. Hükümet Caddesi No:88/B",
     "contract": true,
     "latitude": 40.7973956,
-    "longitude": 29.4359809
+    "longitude": 29.4359809,
+    "iletisim": "05432507641"
   },
   {
     "name": "FAKÜLTE ECZANESİ",
@@ -19810,7 +21791,8 @@ export const locations = [
     "address": "ÇEPNİ MAH.İNÖNÜ CAD. NO:172/I",
     "contract": true,
     "latitude": 40.5331688,
-    "longitude": 34.9288418
+    "longitude": 34.9288418,
+    "iletisim": "03643330309"
   },
   {
     "name": "NİSA ECZANESİ",
@@ -19820,7 +21802,8 @@ export const locations = [
     "address": "YÜZÜNCÜ YIL MAH.HACI BEKTAŞ VELİ BULV. NO:82/1 C",
     "contract": true,
     "latitude": 37.0347759,
-    "longitude": 35.2415136
+    "longitude": 35.2415136,
+    "iletisim": "03226121894"
   },
   {
     "name": "İSTASYON ECZANESİ",
@@ -19830,7 +21813,8 @@ export const locations = [
     "address": "İNÖNÜ MAH. ABDULKADİR ERİŞ CAD. NO:29/A",
     "contract": true,
     "latitude": 38.295459,
-    "longitude": 38.247475
+    "longitude": 38.247475,
+    "iletisim": "04222110944"
   },
   {
     "name": "PAPATYA ECZANESİ",
@@ -19840,7 +21824,8 @@ export const locations = [
     "address": "BAĞLAR MAH. YILDIZTEPE CAD. NO:44/A",
     "contract": true,
     "latitude": 40.7529343,
-    "longitude": 30.3957551
+    "longitude": 30.3957551,
+    "iletisim": "02367131991"
   },
   {
     "name": "HAKKI KAN ECZANESİ",
@@ -19850,7 +21835,8 @@ export const locations = [
     "address": "EMİNCELER MAH. EMİNCELER SOK. NO:174-4",
     "contract": true,
     "latitude": 36.917399,
-    "longitude": 31.10444699999999
+    "longitude": 31.10444699999999,
+    "iletisim": "02427222423"
   },
   {
     "name": "DEVA ECZANESİ",
@@ -19860,7 +21846,8 @@ export const locations = [
     "address": "ORHANİYE MAH. İSMET ÇATAK CAD. NO:57",
     "contract": true,
     "latitude": 37.2154095,
-    "longitude": 28.3685259
+    "longitude": 28.3685259,
+    "iletisim": "04462233323"
   },
   {
     "name": "BAŞKENT ECZANESİ",
@@ -19870,7 +21857,8 @@ export const locations = [
     "address": "TURAN GÜNEŞ BULVARI YILDIZEVLER MAH. NO : 48/D",
     "contract": true,
     "latitude": 39.8742386,
-    "longitude": 32.8626138
+    "longitude": 32.8626138,
+    "iletisim": "03124596221"
   },
   {
     "name": "SU ECZANESİ",
@@ -19880,7 +21868,8 @@ export const locations = [
     "address": "DOĞU MAH. İLHAMİ SOYSAL BULV. NO:8/C",
     "contract": true,
     "latitude": 40.87823660000001,
-    "longitude": 29.2374793
+    "longitude": 29.2374793,
+    "iletisim": "03124186654"
   },
   {
     "name": "ZENCEFİL ECZANESİ",
@@ -19890,7 +21879,8 @@ export const locations = [
     "address": "ARAP HASAN MAH. 235.SOK. NO:116/A",
     "contract": true,
     "latitude": 38.4014966,
-    "longitude": 27.1132613
+    "longitude": 27.1132613,
+    "iletisim": "02329664046"
   },
   {
     "name": "BERİL ECZANESİ",
@@ -19900,7 +21890,8 @@ export const locations = [
     "address": "YEŞİLKENT MAH. MAHMUT ÇAVUŞ CAD. NO:135/5",
     "contract": true,
     "latitude": 40.683717,
-    "longitude": 29.926136
+    "longitude": 29.926136,
+    "iletisim": "02623424327"
   },
   {
     "name": "KIVANÇ ECZANSİ",
@@ -19910,7 +21901,8 @@ export const locations = [
     "address": "YENİ MAHALLE MAHALLESİ NO:108",
     "contract": true,
     "latitude": 38.49392,
-    "longitude": 27.05071
+    "longitude": 27.05071,
+    "iletisim": "02325048878"
   },
   {
     "name": "TEKEREK ECZANESİ",
@@ -19920,7 +21912,8 @@ export const locations = [
     "address": "HAYDARBEY MAH. KARASU BULV. NO:32/C",
     "contract": true,
     "latitude": 37.5833243,
-    "longitude": 36.8698167
+    "longitude": 36.8698167,
+    "iletisim": "03445027784"
   },
   {
     "name": "KARAKAYA ECZANESİ",
@@ -19930,7 +21923,8 @@ export const locations = [
     "address": "YAVUZ SELİM MAH. HASTANE CAD. NO:50/E",
     "contract": true,
     "latitude": 37.786899,
-    "longitude": 38.619005
+    "longitude": 38.619005,
+    "iletisim": "04167258573"
   },
   {
     "name": "KOZYATAĞI E5 ECZANESİ",
@@ -19940,7 +21934,8 @@ export const locations = [
     "address": "KOZAYATAĞI MAH. BAYAR CAD. NO:88/B",
     "contract": true,
     "latitude": 40.97006409999999,
-    "longitude": 29.1010237
+    "longitude": 29.1010237,
+    "iletisim": "02163628638"
   },
   {
     "name": "ÖMÜR ECZANESİ",
@@ -19950,7 +21945,8 @@ export const locations = [
     "address": "GAZİPAŞA CAD. NO:89",
     "contract": true,
     "latitude": 38.299473,
-    "longitude": 31.175805
+    "longitude": 31.175805,
+    "iletisim": "02464415557"
   },
   {
     "name": "ÇAĞLAR ECZANESİ",
@@ -19960,7 +21956,8 @@ export const locations = [
     "address": "KOSOVA MAH. SEHER SOK. NO:11/D",
     "contract": true,
     "latitude": 37.9793402,
-    "longitude": 32.5219025
+    "longitude": 32.5219025,
+    "iletisim": "03322610306"
   },
   {
     "name": "PAMUK ECZANESİ",
@@ -19970,7 +21967,8 @@ export const locations = [
     "address": "MERKEZ MAH. TAYYARECİ MEHMET ALİBEY SOK. NO:4F İÇ KAPI NO:2",
     "contract": true,
     "latitude": 41.0585472,
-    "longitude": 28.9862425
+    "longitude": 28.9862425,
+    "iletisim": "02122480619"
   },
   {
     "name": "FATOŞ ECZANESİ",
@@ -19980,7 +21978,8 @@ export const locations = [
     "address": "DEMİRKÖPRÜ MAH. 6182 SOK. NO:2A",
     "contract": true,
     "latitude": 38.4676248,
-    "longitude": 27.0972332
+    "longitude": 27.0972332,
+    "iletisim": "02323361155"
   },
   {
     "name": "LOTUS ANGORA ECZANESİ",
@@ -19990,7 +21989,8 @@ export const locations = [
     "address": "MUTLUKENT MAH. ANGORA BULV. NO:154/A",
     "contract": true,
     "latitude": 39.885662,
-    "longitude": 32.71557
+    "longitude": 32.71557,
+    "iletisim": "03122363696"
   },
   {
     "name": "ÇAĞAN ECZANESİ",
@@ -20000,7 +22000,8 @@ export const locations = [
     "address": "ÖRTÜLÜPINAR MAH. İNÖNÜ BULV. NO:42/A",
     "contract": true,
     "latitude": 39.7450644,
-    "longitude": 37.0104112
+    "longitude": 37.0104112,
+    "iletisim": "03462215807"
   },
   {
     "name": "SAYDAM ECZANESİ",
@@ -20010,7 +22011,8 @@ export const locations = [
     "address": "29 EKİM MAH. 4.CAD. NO:36/D",
     "contract": true,
     "latitude": 38.5472067,
-    "longitude": 27.0425377
+    "longitude": 27.0425377,
+    "iletisim": "05308164553"
   },
   {
     "name": "ŞİŞLİ FULYA ECZANESİ",
@@ -20020,7 +22022,8 @@ export const locations = [
     "address": "MERKEZ MAH. ABİDE-İ HÜRRİYET CAD. NO:193/A",
     "contract": true,
     "latitude": 41.0636748,
-    "longitude": 28.9875069
+    "longitude": 28.9875069,
+    "iletisim": "02122968733"
   },
   {
     "name": "ORGANİK ECZANESİ",
@@ -20030,7 +22033,8 @@ export const locations = [
     "address": "HACI İLBEY MAH. ANAFARTALAR CAD. NO:48/V",
     "contract": true,
     "latitude": 39.6458731,
-    "longitude": 27.8796481
+    "longitude": 27.8796481,
+    "iletisim": "02662230323"
   },
   {
     "name": "ZEYNEP ECZANESİ",
@@ -20040,7 +22044,8 @@ export const locations = [
     "address": "TEPECİKLER MAH. KONYALI ALİBEY CAD. NO:143/A",
     "contract": true,
     "latitude": 40.5219725,
-    "longitude": 30.2945362
+    "longitude": 30.2945362,
+    "iletisim": "02645173022"
   },
   {
     "name": "ECE YAĞMUR ECZANESİ",
@@ -20050,7 +22055,8 @@ export const locations = [
     "address": "İLKBAHAR MAH. DOĞUKENT CAD. NO:733 B/C",
     "contract": true,
     "latitude": 39.86055,
-    "longitude": 32.8560679
+    "longitude": 32.8560679,
+    "iletisim": "03122416763"
   },
   {
     "name": "ARİF ECZANESİ",
@@ -20060,7 +22066,8 @@ export const locations = [
     "address": "AYDINLAR MAH. ŞEHİT EMRE SOK. NO:49",
     "contract": true,
     "latitude": 40.91753200000001,
-    "longitude": 38.392653
+    "longitude": 38.392653,
+    "iletisim": "04542112121"
   },
   {
     "name": "ÖYKÜ ECZANESİ",
@@ -20070,7 +22077,8 @@ export const locations = [
     "address": "ESATOĞLU MAH. ESAT CAD. 91/D",
     "contract": true,
     "latitude": 39.909436,
-    "longitude": 32.863948
+    "longitude": 32.863948,
+    "iletisim": "03124252626"
   },
   {
     "name": "SEVGİYOLU ECZANESİ",
@@ -20080,7 +22088,8 @@ export const locations = [
     "address": "MİTHATPAŞA MAH. MİTHATPAŞA CAD. NO:116",
     "contract": true,
     "latitude": 38.4849673,
-    "longitude": 28.1367527
+    "longitude": 28.1367527,
+    "iletisim": "05325099789"
   },
   {
     "name": "EGE AYTAP ECZANESİ",
@@ -20090,7 +22099,8 @@ export const locations = [
     "address": "CEVATPAŞA MAH. 2.ÇANAKÇILAR SOK. NO:21/1",
     "contract": true,
     "latitude": 40.1513143,
-    "longitude": 26.4114546
+    "longitude": 26.4114546,
+    "iletisim": "02862124565"
   },
   {
     "name": "HANDE NUR ECZANESİ",
@@ -20100,7 +22110,8 @@ export const locations = [
     "address": "KARTALTEPE MAH. LİMON ÇİÇEĞİ SOK. NO:4/A",
     "contract": true,
     "latitude": 40.995821,
-    "longitude": 28.8705016
+    "longitude": 28.8705016,
+    "iletisim": "02125716079"
   },
   {
     "name": "TİJEN ECZANESİ",
@@ -20110,7 +22121,8 @@ export const locations = [
     "address": "KÜÇÜKBAKKALKÖY MAH. BAŞÖĞRETMEN CAD. KASTELLİ İŞ MERKEZİ NO:15 F",
     "contract": true,
     "latitude": 40.980113,
-    "longitude": 29.1128774
+    "longitude": 29.1128774,
+    "iletisim": "02165739846"
   },
   {
     "name": "SUBAŞI ECZANESİ",
@@ -20120,7 +22132,8 @@ export const locations = [
     "address": "MİMAR SİNAN MAH. IŞILAY SAYGIN SOK. NO:2/A",
     "contract": true,
     "latitude": 38.432812,
-    "longitude": 27.146996
+    "longitude": 27.146996,
+    "iletisim": "02324633271"
   },
   {
     "name": "CENNET ECZANESİ",
@@ -20130,7 +22143,8 @@ export const locations = [
     "address": "KİREMİTLİ MAH. ŞEHİT BİNBAŞI CENGİZ TOYTUNÇ CAD. NO:16/2",
     "contract": true,
     "latitude": 37.0674932,
-    "longitude": 30.2006436
+    "longitude": 30.2006436,
+    "iletisim": "02426431838"
   },
   {
     "name": "BAL ECZANESİ",
@@ -20140,7 +22154,8 @@ export const locations = [
     "address": "MERDİVENKÖY MAH. HIZIRBEY CAD. NO:160D",
     "contract": true,
     "latitude": 40.9839494,
-    "longitude": 29.063309
+    "longitude": 29.063309,
+    "iletisim": "02323308992"
   },
   {
     "name": "ÇETİNBAŞ ECZANESİ",
@@ -20150,7 +22165,8 @@ export const locations = [
     "address": "GİRNE MAH. GİRNE BULV. NO:60/A",
     "contract": true,
     "latitude": 37.8499214,
-    "longitude": 27.8263094
+    "longitude": 27.8263094,
+    "iletisim": "02562147245"
   },
   {
     "name": "VERESELİ YÜKSEL ECZANESİ",
@@ -20160,7 +22176,8 @@ export const locations = [
     "address": "MERKEZ MAH. Y.KEMAL YAŞAR CAD. NO:73B",
     "contract": true,
     "latitude": 37.02499299999999,
-    "longitude": 37.977476
+    "longitude": 37.977476,
+    "iletisim": "04146522660"
   },
   {
     "name": "KARS ECZANESİ",
@@ -20170,7 +22187,8 @@ export const locations = [
     "address": "YUSUFPAŞA MAH. KAZIM PAŞA CAD. NO:129/E",
     "contract": true,
     "latitude": 40.6013378,
-    "longitude": 43.0974525
+    "longitude": 43.0974525,
+    "iletisim": "04742232400"
   },
   {
     "name": "DİLA ECZANESİ",
@@ -20180,7 +22198,8 @@ export const locations = [
     "address": "YILDIZEVLER MAH. RABİNDRANATH TAGORE CAD. NO:8B",
     "contract": true,
     "latitude": 39.8784642,
-    "longitude": 32.8608853
+    "longitude": 32.8608853,
+    "iletisim": "02165216120"
   },
   {
     "name": "MENEKŞE ECZANESİ",
@@ -20190,7 +22209,8 @@ export const locations = [
     "address": "ALİPAŞA MAH. KUŞ SOK. NO:2C",
     "contract": true,
     "latitude": 39.4163387,
-    "longitude": 29.9933463
+    "longitude": 29.9933463,
+    "iletisim": "02742161642"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -20200,7 +22220,8 @@ export const locations = [
     "address": "YENİ MAH. DEMİREL BULV. NO:58/A",
     "contract": true,
     "latitude": 36.739536,
-    "longitude": 29.91720999999999
+    "longitude": 29.91720999999999,
+    "iletisim": "02323813135"
   },
   {
     "name": "İPEK ECZANESİ",
@@ -20210,7 +22231,8 @@ export const locations = [
     "address": "GÖZTEPE MAH. MİTHATPAŞA CAD. 95 SOK. NO:3/E",
     "contract": true,
     "latitude": 38.4144802,
-    "longitude": 27.1441227
+    "longitude": 27.1441227,
+    "iletisim": "05334009510"
   },
   {
     "name": "MARMARA ECZANESİ",
@@ -20220,7 +22242,8 @@ export const locations = [
     "address": "GÜNEY MAH. ALBAY SOK. NO:14/C",
     "contract": true,
     "latitude": 40.759715,
-    "longitude": 29.7872519
+    "longitude": 29.7872519,
+    "iletisim": "02625264657"
   },
   {
     "name": "SENA KÜLEKÇİ ECZANESİ",
@@ -20230,7 +22253,8 @@ export const locations = [
     "address": "İBRAHİMLİ MAH. SUAT AKINAL CAD. NO:3/A",
     "contract": true,
     "latitude": 37.0827445,
-    "longitude": 37.321267
+    "longitude": 37.321267,
+    "iletisim": "05373728989"
   },
   {
     "name": "ANIL ECZANESİ",
@@ -20240,7 +22264,8 @@ export const locations = [
     "address": "YENİ MAHALLE İSTASYON CAD. NO:49/B",
     "contract": true,
     "latitude": 39.9171066,
-    "longitude": 28.1548479
+    "longitude": 28.1548479,
+    "iletisim": "02668654118"
   },
   {
     "name": "USLU ECZANESİ",
@@ -20250,7 +22275,8 @@ export const locations = [
     "address": "FEYZULLAH MAH. ŞEHİT HİKMET ALP CAD. ADATEPE SİTESİ B1 BLOK 38/A",
     "contract": true,
     "latitude": 44.8180749,
-    "longitude": 20.4047095
+    "longitude": 20.4047095,
+    "iletisim": "02164595950"
   },
   {
     "name": "İPEK GÜNDÜZ ECZANESİ",
@@ -20260,7 +22286,8 @@ export const locations = [
     "address": "SOKULLU MAH. AHMET HAŞİM CAD. NO:55/C",
     "contract": true,
     "latitude": 39.8879459,
-    "longitude": 32.8332276
+    "longitude": 32.8332276,
+    "iletisim": "03129997931"
   },
   {
     "name": "NİL ECZANESİ",
@@ -20270,7 +22297,8 @@ export const locations = [
     "address": "AŞAĞI SÖĞÜTÖNÜ MAH. 1500.BULVAR 15/D",
     "contract": true,
     "latitude": 39.8132476,
-    "longitude": 30.4415242
+    "longitude": 30.4415242,
+    "iletisim": "02223140064"
   },
   {
     "name": "NİLGÜN ÖNCEL ECZANESİ",
@@ -20280,7 +22308,8 @@ export const locations = [
     "address": "PİRİREİS MAH. İSMET İNÖNÜ CAD. NO:36/B",
     "contract": true,
     "latitude": 36.5901891,
-    "longitude": 36.1602967
+    "longitude": 36.1602967,
+    "iletisim": "03266162010"
   },
   {
     "name": "YÜZYIL ECZANESİ",
@@ -20290,7 +22319,8 @@ export const locations = [
     "address": "LİSELER MAH. HÜKÜMET CAD. NO:88/C",
     "contract": true,
     "latitude": 41.1269249,
-    "longitude": 37.2882028
+    "longitude": 37.2882028,
+    "iletisim": "04523238849"
   },
   {
     "name": "MERVE ECZANESİ",
@@ -20300,7 +22330,8 @@ export const locations = [
     "address": "YİRMİİKİGÜN MAH. GENÇ OSMAN CAD. NO:40/B",
     "contract": true,
     "latitude": 37.586358,
-    "longitude": 36.8612459
+    "longitude": 36.8612459,
+    "iletisim": "03445029970"
   },
   {
     "name": "DENİZİM ECZANESİ",
@@ -20310,7 +22341,8 @@ export const locations = [
     "address": "NASUH AKAR MAH. ZİYABEY CAD. 1407.SOK. DOSTLAR SİTESİ CBLOK 1/A BALGAT",
     "contract": true,
     "latitude": 39.9128354,
-    "longitude": 32.8248754
+    "longitude": 32.8248754,
+    "iletisim": "03122851307"
   },
   {
     "name": "EROL YÜCEL ECZANESİ",
@@ -20320,7 +22352,8 @@ export const locations = [
     "address": "MİMARSİNAN MAH. İSMAİL TURAN BULV. NO:20/10",
     "contract": true,
     "latitude": 36.4866892,
-    "longitude": 36.3364176
+    "longitude": 36.3364176,
+    "iletisim": "05303908131"
   },
   {
     "name": "KAAN ÖYKÜ ECZANESİ",
@@ -20330,7 +22363,8 @@ export const locations = [
     "address": "YALI MAH. 6418.SOK NO:34/1B",
     "contract": true,
     "latitude": 38.4695563,
-    "longitude": 27.0927531
+    "longitude": 27.0927531,
+    "iletisim": "02325369537"
   },
   {
     "name": "NİDAPARK CADDE ECZANESİ",
@@ -20340,7 +22374,8 @@ export const locations = [
     "address": "ÇİNAR MAH. RIFKI TONGSİR CAD. NO:113 NİDAPARK KÜÇÜKYALI HEYBELİ B5/244",
     "contract": true,
     "latitude": 40.9470211,
-    "longitude": 29.1200281
+    "longitude": 29.1200281,
+    "iletisim": "02167717282"
   },
   {
     "name": "MOZAİK ECZANESİ",
@@ -20350,7 +22385,8 @@ export const locations = [
     "address": "ATAKENT MAH. 1468.CADDE NO:1/4 ELVANKENT",
     "contract": true,
     "latitude": 39.9576479,
-    "longitude": 32.6129322
+    "longitude": 32.6129322,
+    "iletisim": "03122602530"
   },
   {
     "name": "KOZA ECZANESİ",
@@ -20360,7 +22396,8 @@ export const locations = [
     "address": "ÖRNEKKÖY MAH. BAŞ PEHLİVAN KARAALİ CAD. NO:22/B",
     "contract": true,
     "latitude": 38.4776321,
-    "longitude": 27.1101747
+    "longitude": 27.1101747,
+    "iletisim": "02323625692"
   },
   {
     "name": "YENİ DAMLA ECZANESİ",
@@ -20370,7 +22407,8 @@ export const locations = [
     "address": "FATİH MAH. KADIOĞLU SOK. NO:25/13",
     "contract": true,
     "latitude": 40.0444533,
-    "longitude": 32.9039672
+    "longitude": 32.9039672,
+    "iletisim": "03125272713"
   },
   {
     "name": "GÜNİZ ECZANESİ",
@@ -20380,7 +22418,8 @@ export const locations = [
     "address": "GENERAL DOKTOR TEVFİK SAĞLAM CAD. 7/A ETLİK",
     "contract": true,
     "latitude": 39.96923,
-    "longitude": 32.840877
+    "longitude": 32.840877,
+    "iletisim": "03123210090"
   },
   {
     "name": "BUCA ITIR ECZANESİ",
@@ -20390,7 +22429,8 @@ export const locations = [
     "address": "VALİ RAHMİ BEY MAH. ÖZMEN CAD. NO:112",
     "contract": true,
     "latitude": 38.3847736,
-    "longitude": 27.166914
+    "longitude": 27.166914,
+    "iletisim": "02324488893"
   },
   {
     "name": "ALTINDAĞ ECZANESİ",
@@ -20400,7 +22440,8 @@ export const locations = [
     "address": "ŞEYH ŞAMİL MAH. DOSTELİ CAD. 54/D",
     "contract": true,
     "latitude": 37.944588,
-    "longitude": 32.5024291
+    "longitude": 32.5024291,
+    "iletisim": "05073356420"
   },
   {
     "name": "ÖZEKİNCİ ECZANESİ",
@@ -20410,7 +22451,8 @@ export const locations = [
     "address": "ÇAMLIK MAH. SAĞLIK CAD. NO:27/B",
     "contract": true,
     "latitude": 37.4287838,
-    "longitude": 29.3355917
+    "longitude": 29.3355917,
+    "iletisim": "02585021520"
   },
   {
     "name": "KAHRAMANLAR ECZANESİ",
@@ -20420,7 +22462,8 @@ export const locations = [
     "address": "RABİA ANA MAH. KIRMACI HALİT PAŞA SOK. NO:3",
     "contract": true,
     "latitude": 39.8998375,
-    "longitude": 41.2754678
+    "longitude": 41.2754678,
+    "iletisim": "04422152470"
   },
   {
     "name": "TAŞ ECZANESİ",
@@ -20430,7 +22473,8 @@ export const locations = [
     "address": "ESENLİK MAH. ANT CAD. NO:23/A",
     "contract": true,
     "latitude": 38.3963759,
-    "longitude": 27.1133323
+    "longitude": 27.1133323,
+    "iletisim": "02322624757"
   },
   {
     "name": "GÜNDÜZALP ECZANESİ",
@@ -20440,7 +22484,8 @@ export const locations = [
     "address": "ATATÜRK MAH. ZEYNEL ABİDİN TONGUÇ CAD. NO:13/5",
     "contract": true,
     "latitude": 37.71308,
-    "longitude": 30.23152499999999
+    "longitude": 30.23152499999999,
+    "iletisim": "02482339933"
   },
   {
     "name": "İPEK KAHYA ECZANESİ",
@@ -20450,7 +22495,8 @@ export const locations = [
     "address": "KURTULUŞ MAH. DEMOKRASİ SOK. SULTAN APT. NO:4/B",
     "contract": true,
     "latitude": 37.0008551,
-    "longitude": 35.3220775
+    "longitude": 35.3220775,
+    "iletisim": "05358421727"
   },
   {
     "name": "YASEMİN ECZANESİ",
@@ -20460,7 +22506,8 @@ export const locations = [
     "address": "TEPEBAŞI MAH. SANATORYUM CAD. NO:174/B",
     "contract": true,
     "latitude": 39.9935964,
-    "longitude": 32.8590396
+    "longitude": 32.8590396,
+    "iletisim": "03582184038"
   },
   {
     "name": "KARADENİZ ECZANESİ",
@@ -20470,7 +22517,8 @@ export const locations = [
     "address": "SÜTLÜCE MAH. SOMA CAD. NO:66/A",
     "contract": true,
     "latitude": 39.6331767,
-    "longitude": 27.8790576
+    "longitude": 27.8790576,
+    "iletisim": "02662449497"
   },
   {
     "name": "ALPER ECZANESİ",
@@ -20480,7 +22528,8 @@ export const locations = [
     "address": "SOĞANLI MAH. MUSTAFA KEMAL PAŞA CAD. NO:112/A",
     "contract": true,
     "latitude": 41.0084812,
-    "longitude": 28.8541448
+    "longitude": 28.8541448,
+    "iletisim": "02125074451"
   },
   {
     "name": "NİHAL ECZANESİ",
@@ -20490,7 +22539,8 @@ export const locations = [
     "address": "YILDIZEVLER MAH. CEZAYİR CAD. NO:5D",
     "contract": true,
     "latitude": 39.872307,
-    "longitude": 32.8598341
+    "longitude": 32.8598341,
+    "iletisim": "03124415838"
   },
   {
     "name": "AKÇELTİK ECZANESİ",
@@ -20500,7 +22550,8 @@ export const locations = [
     "address": "YUNUS EMRE MAH. 4156.SOK. NO:42-44/A",
     "contract": true,
     "latitude": 38.374406,
-    "longitude": 27.131133
+    "longitude": 27.131133,
+    "iletisim": "02322375169"
   },
   {
     "name": "ARIÇ ECZANESİ",
@@ -20510,7 +22561,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. İSMET İNÖNÜ BLV. 93/B",
     "contract": true,
     "latitude": 36.789681,
-    "longitude": 34.6028624
+    "longitude": 34.6028624,
+    "iletisim": "05333323055"
   },
   {
     "name": "ZAFER ECZANESİ",
@@ -20520,7 +22572,8 @@ export const locations = [
     "address": "KEMERKAYA MAH. SAHİL CAD. GÜRKÖK APT. 25",
     "contract": true,
     "latitude": 41.0080058,
-    "longitude": 39.7288345
+    "longitude": 39.7288345,
+    "iletisim": "04623223233"
   },
   {
     "name": "BELGİN ÇIRAK ECZANESİ",
@@ -20530,7 +22583,8 @@ export const locations = [
     "address": "HÜRRİYET MAH. MENDERES CAD. NO:311/B",
     "contract": true,
     "latitude": 38.3961973,
-    "longitude": 27.1484916
+    "longitude": 27.1484916,
+    "iletisim": "05078629994"
   },
   {
     "name": "YONCA ECZANESİ",
@@ -20540,7 +22594,8 @@ export const locations = [
     "address": "ATAKÖY 7.8.9.10.KISIM NİLÜFER SOK. NO:3/A",
     "contract": true,
     "latitude": 40.9888505,
-    "longitude": 28.8452928
+    "longitude": 28.8452928,
+    "iletisim": "02125598304"
   },
   {
     "name": "NESLİHAN ECZANESİ",
@@ -20550,7 +22605,8 @@ export const locations = [
     "address": "ATALAR MAH. ÜSKÜDAR CAD. NO:103/A",
     "contract": true,
     "latitude": 40.9013399,
-    "longitude": 29.1672376
+    "longitude": 29.1672376,
+    "iletisim": "02164883657"
   },
   {
     "name": "BEYOĞLU ECZANESİ",
@@ -20560,7 +22616,8 @@ export const locations = [
     "address": "İNCİLİPINAR MAH. NAİL BİLEN CAD. UĞUR PLAZA NO:5 İÇ KAPI NO:25",
     "contract": true,
     "latitude": 37.0705945,
-    "longitude": 37.3692556
+    "longitude": 37.3692556,
+    "iletisim": "05467459070"
   },
   {
     "name": "NAZ ECZANESİ",
@@ -20570,7 +22627,8 @@ export const locations = [
     "address": "ÇANKAYA MAH. İNÖNÜ CAD. NO:328/A",
     "contract": true,
     "latitude": 38.40173900000001,
-    "longitude": 27.1034
+    "longitude": 27.1034,
+    "iletisim": "02325036633"
   },
   {
     "name": "HİPOKRAT ECZANESİ",
@@ -20580,7 +22638,8 @@ export const locations = [
     "address": "BAĞLARBAŞI MAH. FEYZULLAH CAD. NO:28/A",
     "contract": true,
     "latitude": 40.9278088,
-    "longitude": 29.1381017
+    "longitude": 29.1381017,
+    "iletisim": "05321517658"
   },
   {
     "name": "YAZBAHAR ECZANESİ",
@@ -20590,7 +22649,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAH. TAŞKENT CAD. NO:67/A",
     "contract": true,
     "latitude": 39.9263098,
-    "longitude": 32.8299816
+    "longitude": 32.8299816,
+    "iletisim": "03122157249"
   },
   {
     "name": "FATİH ECZANESİ",
@@ -20600,7 +22660,8 @@ export const locations = [
     "address": "AYANOĞLU MAH. KIRŞEHİR CAD. NO:58/A",
     "contract": true,
     "latitude": 39.6372287,
-    "longitude": 34.4650846
+    "longitude": 34.4650846,
+    "iletisim": "03545165151"
   },
   {
     "name": "SPİL ECZANESİ",
@@ -20610,7 +22671,8 @@ export const locations = [
     "address": "ADNAN MENDERES MAH. 132.SOK. NO:11/D",
     "contract": true,
     "latitude": 38.6149934,
-    "longitude": 27.4605389
+    "longitude": 27.4605389,
+    "iletisim": "02365034054"
   },
   {
     "name": "ŞİŞLİ DERMAN ECZANESİ",
@@ -20620,7 +22682,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. ABİDE-İ HÜRRİYET CAD. NO:3/C",
     "contract": true,
     "latitude": 41.0531123,
-    "longitude": 28.9838041
+    "longitude": 28.9838041,
+    "iletisim": "02123202171"
   },
   {
     "name": "TUNUSOĞLU ECZANESİ",
@@ -20630,7 +22693,8 @@ export const locations = [
     "address": "İNÖNÜ MAH. FARUK NUHOĞLU SOK. LALE SİTESİ NO:7F",
     "contract": true,
     "latitude": 41.3964365,
-    "longitude": 33.7834811
+    "longitude": 33.7834811,
+    "iletisim": "05462123716"
   },
   {
     "name": "BAHAR ECZANESİ",
@@ -20640,7 +22704,8 @@ export const locations = [
     "address": "BOSTANLI MAH. CEMAL BÜLBÜL SOK. NO:7B",
     "contract": true,
     "latitude": 38.4587445,
-    "longitude": 27.0979435
+    "longitude": 27.0979435,
+    "iletisim": "02124150510"
   },
   {
     "name": "ANKİRA ECZANESİ",
@@ -20650,7 +22715,8 @@ export const locations = [
     "address": "MEHMET AKİF ERSOY MAH. VATAN CAD. 93/C NO:158 DEMETEVLER",
     "contract": true,
     "latitude": 39.9707327,
-    "longitude": 32.7772108
+    "longitude": 32.7772108,
+    "iletisim": "03125025098"
   },
   {
     "name": "ÇAMLIK ECZANESİ",
@@ -20660,7 +22726,8 @@ export const locations = [
     "address": "FİKRİ ALTAY MAH. 6183.SOK. NO:26/A",
     "contract": true,
     "latitude": 38.472912,
-    "longitude": 27.100264
+    "longitude": 27.100264,
+    "iletisim": "02329991874"
   },
   {
     "name": "YAŞAM ECZANESİ",
@@ -20670,7 +22737,8 @@ export const locations = [
     "address": "BULGURLU MAH. İZZETTİNBEY CAD. NO:4/B",
     "contract": true,
     "latitude": 41.0224487,
-    "longitude": 29.0805081
+    "longitude": 29.0805081,
+    "iletisim": "02166509418"
   },
   {
     "name": "MERMERKAYA ECZANESİ",
@@ -20680,7 +22748,8 @@ export const locations = [
     "address": "SANAYİ MAH. 6004.CAD. NO:77/C",
     "contract": true,
     "latitude": 38.720489,
-    "longitude": 35.48259700000001
+    "longitude": 35.48259700000001,
+    "iletisim": "05333771990"
   },
   {
     "name": "İDİL ECZANESİ",
@@ -20690,7 +22759,8 @@ export const locations = [
     "address": "ÇİFTLİKKÖY MAH. MİMAR SİNAN CAD. NO:25",
     "contract": true,
     "latitude": 36.76013349999999,
-    "longitude": 34.4967366
+    "longitude": 34.4967366,
+    "iletisim": "05448864888"
   },
   {
     "name": "BİRCE ECZANESİ",
@@ -20700,7 +22770,8 @@ export const locations = [
     "address": "PİRİ MEHMET PAŞA MAH. İNÖNÜ CAD. SEZGİNER APT. NO:8A",
     "contract": true,
     "latitude": 41.0751522,
-    "longitude": 28.2453529
+    "longitude": 28.2453529,
+    "iletisim": "02123836464"
   },
   {
     "name": "OSMANCIK ECZANESİ",
@@ -20710,7 +22781,8 @@ export const locations = [
     "address": "ESENTEPE MAH. SADRİ TURAN CAD. NO:60/1",
     "contract": true,
     "latitude": 40.9802203,
-    "longitude": 34.8025528
+    "longitude": 34.8025528,
+    "iletisim": "03646116121"
   },
   {
     "name": "ANADOLU ECZANESİ",
@@ -20720,7 +22792,8 @@ export const locations = [
     "address": "YENİ ÖMERLİ MAH. ATATÜRK BULV. NO:74/B",
     "contract": true,
     "latitude": 36.9204469,
-    "longitude": 34.8805859
+    "longitude": 34.8805859,
+    "iletisim": "03246240054"
   },
   {
     "name": "SİPAHİ ECZANESİ",
@@ -20730,7 +22803,8 @@ export const locations = [
     "address": "ATATÜRK CAD. ÇİFTLİK SOK. NO:14/B",
     "contract": true,
     "latitude": 40.9385663,
-    "longitude": 29.1410407
+    "longitude": 29.1410407,
+    "iletisim": "02164611592"
   },
   {
     "name": "CEVAHİR ECZANESİ",
@@ -20740,7 +22814,8 @@ export const locations = [
     "address": "YEŞİLBAHÇE MAH. AVNİ TOLUNAY CAD. CEVAHİR APT. 74/B",
     "contract": true,
     "latitude": 36.8698691,
-    "longitude": 30.7249362
+    "longitude": 30.7249362,
+    "iletisim": "02423166667"
   },
   {
     "name": "IHLAMUR ECZANESİ",
@@ -20750,7 +22825,8 @@ export const locations = [
     "address": "ZÜHTÜPAŞA MAH. RECEP PEKER CAD. NO:34/A KIZILTOPRAK",
     "contract": true,
     "latitude": 40.9851394,
-    "longitude": 29.0377709
+    "longitude": 29.0377709,
+    "iletisim": "05405042804"
   },
   {
     "name": "MAMAK ÇARŞI ECZANESİ",
@@ -20760,7 +22836,8 @@ export const locations = [
     "address": "HÜSEYİNGAZİ MAH. MAMAK CAD. 163/D",
     "contract": true,
     "latitude": 39.9330921,
-    "longitude": 32.9086386
+    "longitude": 32.9086386,
+    "iletisim": "03123687630"
   },
   {
     "name": "FINDIK ECZANESİ",
@@ -20770,7 +22847,8 @@ export const locations = [
     "address": "PARSANA MAH. BELKIS SOK. NO:21/H",
     "contract": true,
     "latitude": 37.9522485,
-    "longitude": 32.483495
+    "longitude": 32.483495,
+    "iletisim": "03322650123"
   },
   {
     "name": "ÇARE ECZANESİ",
@@ -20780,7 +22858,8 @@ export const locations = [
     "address": "AKİF İNAN MAH. ALPARSLAN TÜRKEŞ BLV. LALEZAR APT ALTI NO:11/A",
     "contract": true,
     "latitude": 37.5752755,
-    "longitude": 36.9228223
+    "longitude": 36.9228223,
+    "iletisim": "03442159596"
   },
   {
     "name": "BELİZ EREN ECZANESİ",
@@ -20790,7 +22869,8 @@ export const locations = [
     "address": "FATİH MAH. GALİPOĞLU CAD. NO:52/3E 3.BLOK",
     "contract": true,
     "latitude": 40.6298368,
-    "longitude": 29.950926
+    "longitude": 29.950926,
+    "iletisim": "05057878511"
   },
   {
     "name": "ÇINARALTI ECZANESİ",
@@ -20800,7 +22880,8 @@ export const locations = [
     "address": "MİTHATPAŞA CAD. NO:44/B",
     "contract": true,
     "latitude": 39.9210375,
-    "longitude": 32.8582555
+    "longitude": 32.8582555,
+    "iletisim": "03124333319"
   },
   {
     "name": "ANKA ECZANESİ",
@@ -20810,7 +22891,8 @@ export const locations = [
     "address": "ÇINARLI MAH. ŞEHİT POLİS FETHİ SEKİN CAD. NO:3/B",
     "contract": true,
     "latitude": 38.4504904,
-    "longitude": 27.1785376
+    "longitude": 27.1785376,
+    "iletisim": "02325033444"
   },
   {
     "name": "ÇAMLICA ECZANESİ",
@@ -20820,7 +22902,8 @@ export const locations = [
     "address": "TAŞKESENLİ BLOKLARI N BLOK NO:2 DADAŞKENT",
     "contract": true,
     "latitude": 39.94579,
-    "longitude": 41.105188
+    "longitude": 41.105188,
+    "iletisim": "04423273533"
   },
   {
     "name": "FİNANS ŞEHİR ECZANESİ",
@@ -20830,7 +22913,8 @@ export const locations = [
     "address": "FİNANSKENT MAH. PROF.HASAN KÜÇÜK CAD. NO:5F",
     "contract": true,
     "latitude": 41.0028851,
-    "longitude": 29.1174971
+    "longitude": 29.1174971,
+    "iletisim": "05443330030"
   },
   {
     "name": "İNCİ ECZANESİ",
@@ -20840,7 +22924,8 @@ export const locations = [
     "address": "KONAK MAH. FEVZİ PAŞA BLV. NO:6",
     "contract": true,
     "latitude": 38.4223584,
-    "longitude": 27.1315708
+    "longitude": 27.1315708,
+    "iletisim": "02324454386"
   },
   {
     "name": "ATEŞ ECZANESİ",
@@ -20850,7 +22935,8 @@ export const locations = [
     "address": "23 NİSAN MAH. ÜNİVERSİTE BLV. NO:1",
     "contract": true,
     "latitude": 37.0472228,
-    "longitude": 37.3312907
+    "longitude": 37.3312907,
+    "iletisim": "03422519512"
   },
   {
     "name": "DENİZ ECZANESİ",
@@ -20860,7 +22946,8 @@ export const locations = [
     "address": "LALAPAŞA MAH. HASTANELER CAD. NO:25/B",
     "contract": true,
     "latitude": 39.910001,
-    "longitude": 41.264742
+    "longitude": 41.264742,
+    "iletisim": "02663241355"
   },
   {
     "name": "DOĞA ECZANESİ",
@@ -20870,7 +22957,8 @@ export const locations = [
     "address": "AKİF İNAN MAH. ALPARSLAN TÜRKEŞ BLV. NO:25/C",
     "contract": true,
     "latitude": 37.5874259,
-    "longitude": 36.8917358
+    "longitude": 36.8917358,
+    "iletisim": "05063565981"
   },
   {
     "name": "BİLGEN ECZANESİ",
@@ -20880,7 +22968,8 @@ export const locations = [
     "address": "SAHRAYICEDİT MAH. TAŞLIYOL SOK. NO:2/1A",
     "contract": true,
     "latitude": 40.981333,
-    "longitude": 29.0788103
+    "longitude": 29.0788103,
+    "iletisim": "05323684745"
   },
   {
     "name": "MERİÇ ECZANESİ",
@@ -20890,7 +22979,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. BÜŞRA SOK. NO:22/30",
     "contract": true,
     "latitude": 40.9832521,
-    "longitude": 27.5703863
+    "longitude": 27.5703863,
+    "iletisim": "02822610760"
   },
   {
     "name": "ECEM ECZANESİ",
@@ -20900,7 +22990,8 @@ export const locations = [
     "address": "YAYLA MAH. VATAN CAD. NO:72/1 İÇ KAPI NO:3",
     "contract": true,
     "latitude": 40.8268362,
-    "longitude": 29.3074188
+    "longitude": 29.3074188,
+    "iletisim": "02167712657"
   },
   {
     "name": "YUSUF ECZANESİ",
@@ -20910,7 +23001,8 @@ export const locations = [
     "address": "MİMAR SİNAN MAH. 1420 SOK. NO:100/D",
     "contract": true,
     "latitude": 38.432761,
-    "longitude": 27.1498368
+    "longitude": 27.1498368,
+    "iletisim": "02324630894"
   },
   {
     "name": "SİBEL ECZANESİ",
@@ -20920,7 +23012,8 @@ export const locations = [
     "address": "BARBAROS MAH. SEDEF SOK. NO:21/1",
     "contract": true,
     "latitude": 40.1297481,
-    "longitude": 26.4118274
+    "longitude": 26.4118274,
+    "iletisim": "02862184035"
   },
   {
     "name": "ATLAS ECZANESİ",
@@ -20930,7 +23023,8 @@ export const locations = [
     "address": "YAYLA MAH. ÇAMLIK CAD. NO:47/1B",
     "contract": true,
     "latitude": 41.73988689999999,
-    "longitude": 27.1399808
+    "longitude": 27.1399808,
+    "iletisim": "02882140071"
   },
   {
     "name": "NUR KARATAŞ ECZANESİ",
@@ -20940,7 +23034,8 @@ export const locations = [
     "address": "MODA CAD. 106/A",
     "contract": true,
     "latitude": 40.9852881,
-    "longitude": 29.0247865
+    "longitude": 29.0247865,
+    "iletisim": "02167550687"
   },
   {
     "name": "CADDE LARA ECZANESİ",
@@ -20950,7 +23045,8 @@ export const locations = [
     "address": "ŞİRİNYALI MAHALLESİ İSMET GÖKŞEN CADDESİ KAYATEPE APT. NO: 43/A",
     "contract": true,
     "latitude": 36.858972,
-    "longitude": 30.7365406
+    "longitude": 30.7365406,
+    "iletisim": "05073356248"
   },
   {
     "name": "CADDEBOSTAN ECZANESİ",
@@ -20960,7 +23056,8 @@ export const locations = [
     "address": "İBRAHİMLİ MAH. NACİ TOPÇUOĞLU BLV. NO:16/A",
     "contract": true,
     "latitude": 37.0752463,
-    "longitude": 37.3231256
+    "longitude": 37.3231256,
+    "iletisim": "05072276532"
   },
   {
     "name": "YAREN ECZANESİ",
@@ -20970,7 +23067,8 @@ export const locations = [
     "address": "SAHİL MAHALLESİ İSMAİL ÖRAN SK. NO:3A yaren eczanesi KÜÇÜKKUYU",
     "contract": true,
     "latitude": 39.5471933,
-    "longitude": 26.6032128
+    "longitude": 26.6032128,
+    "iletisim": "05382633866"
   },
   {
     "name": "AYTAÇ ECZANESİ",
@@ -20980,7 +23078,8 @@ export const locations = [
     "address": "PİRİMEHMET MAH. 1724.SOK. NO:6",
     "contract": true,
     "latitude": 37.7679479,
-    "longitude": 30.552114
+    "longitude": 30.552114,
+    "iletisim": "02462238125"
   },
   {
     "name": "YEŞİL ECZANESİ",
@@ -20990,7 +23089,8 @@ export const locations = [
     "address": "YENİMAHALLE MAH. ATATÜRK 3.KISIM BULV. NO:189/A",
     "contract": true,
     "latitude": 41.2797031,
-    "longitude": 36.3360667
+    "longitude": 36.3360667,
+    "iletisim": "05308396405"
   },
   {
     "name": "VERESELİ CELAYİR ECZANESİ",
@@ -21000,7 +23100,8 @@ export const locations = [
     "address": "8 KASIM MAH. NAZİF BALKAN CAD. 42/A1 BLOK",
     "contract": true,
     "latitude": 41.3929761,
-    "longitude": 27.357558
+    "longitude": 27.357558,
+    "iletisim": "02884150155"
   },
   {
     "name": "ÜNSAL ECZANESİ",
@@ -21010,7 +23111,8 @@ export const locations = [
     "address": "GAZİPAŞA mahallesi atatürk bulvarı 16/c",
     "contract": true,
     "latitude": 40.1433125,
-    "longitude": 29.9792534
+    "longitude": 29.9792534,
+    "iletisim": "05323600225"
   },
   {
     "name": "YALÇIN ECZANESİ",
@@ -21020,7 +23122,8 @@ export const locations = [
     "address": "SAHİL MAH. ŞEHİT POLİS MEMURU ABDÜLHAMİT KAYA CAD. NO:20",
     "contract": true,
     "latitude": 40.6603202,
-    "longitude": 29.31010359999999
+    "longitude": 29.31010359999999,
+    "iletisim": "02263524350"
   },
   {
     "name": "NİŞANTAŞI ECZANESİ",
@@ -21030,7 +23133,8 @@ export const locations = [
     "address": "KÜÇÜKKOLPINAR MAH. NİŞANTAŞI CAD. NO:65/A ATAKUM/SAMSUN",
     "contract": true,
     "latitude": 41.31973470000001,
-    "longitude": 36.2821274
+    "longitude": 36.2821274,
+    "iletisim": "05540072297"
   },
   {
     "name": "DİRİL ECZANESİ",
@@ -21040,7 +23144,8 @@ export const locations = [
     "address": "MİMAR SİNAN MAH. 1359.SOK. NO:1/A",
     "contract": true,
     "latitude": 38.4330997,
-    "longitude": 27.1495692
+    "longitude": 27.1495692,
+    "iletisim": "02324640181"
   },
   {
     "name": "PLATİN ECZANESİ",
@@ -21050,7 +23155,8 @@ export const locations = [
     "address": "KAZIMDİRİK MAH. 367/7.SOKAK NO:14/1",
     "contract": true,
     "latitude": 38.4480612,
-    "longitude": 27.2060166
+    "longitude": 27.2060166,
+    "iletisim": "02224087251"
   },
   {
     "name": "DEMET ECZANESİ",
@@ -21060,7 +23166,8 @@ export const locations = [
     "address": "ÇAYDAÇIRA MAH. CİHANGÜL SOK. NO:36/A",
     "contract": true,
     "latitude": 38.6673178,
-    "longitude": 39.2554552
+    "longitude": 39.2554552,
+    "iletisim": "04242470418"
   },
   {
     "name": "KEMERKAYA AKIN ECZANESİ",
@@ -21070,7 +23177,8 @@ export const locations = [
     "address": "KEMERKAYA MAH. HALKEVİ CAD. NO:25/A",
     "contract": true,
     "latitude": 41.00685259999999,
-    "longitude": 39.7276696
+    "longitude": 39.7276696,
+    "iletisim": "04622200444"
   },
   {
     "name": "ELİT ECZANESİ",
@@ -21080,7 +23188,8 @@ export const locations = [
     "address": "BAĞDAT CAD. NO:209/A KADIKÖY",
     "contract": true,
     "latitude": 40.973642,
-    "longitude": 29.05648
+    "longitude": 29.05648,
+    "iletisim": "02163632020"
   },
   {
     "name": "MAVİ ECZANESİ",
@@ -21090,7 +23199,8 @@ export const locations = [
     "address": "ATAŞEHİR MAH. 8211/9.SOKAK NO:11/1B",
     "contract": true,
     "latitude": 38.486316,
-    "longitude": 27.055629
+    "longitude": 27.055629,
+    "iletisim": "05423622498"
   },
   {
     "name": "LİLA ECZANESİ",
@@ -21100,7 +23210,8 @@ export const locations = [
     "address": "DEDEBAŞI MAH. 6120.SOKAK NO:8C",
     "contract": true,
     "latitude": 38.4699575,
-    "longitude": 27.1059893
+    "longitude": 27.1059893,
+    "iletisim": "02125109570"
   },
   {
     "name": "CADDE 322 ECZANESİ",
@@ -21110,7 +23221,8 @@ export const locations = [
     "address": "TOROS MAH. BARIŞ MANÇO BULV. NO:2/A",
     "contract": true,
     "latitude": 37.0470027,
-    "longitude": 35.2988356
+    "longitude": 35.2988356,
+    "iletisim": "05340853839"
   },
   {
     "name": "GÖKÇE ECZANESİ",
@@ -21120,7 +23232,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAH. FATİH CAD. NO:50 C-D",
     "contract": true,
     "latitude": 40.65636569999999,
-    "longitude": 29.2634026
+    "longitude": 29.2634026,
+    "iletisim": "02268111357"
   },
   {
     "name": "BERRA ECZANESİ",
@@ -21130,7 +23243,8 @@ export const locations = [
     "address": "CAMİ MAHALLESİ KARAASLAN CADDESİ ACAK APARTMANI NO: 45/E",
     "contract": true,
     "latitude": 40.7611909,
-    "longitude": 29.379402
+    "longitude": 29.379402,
+    "iletisim": "02627450262"
   },
   {
     "name": "ÜSTÜN ECZANESİ",
@@ -21140,7 +23254,8 @@ export const locations = [
     "address": "BATI MAH. KARANFİL SOK. NO:37",
     "contract": true,
     "latitude": 40.8771451,
-    "longitude": 29.2326057
+    "longitude": 29.2326057,
+    "iletisim": "05318359949"
   },
   {
     "name": "NOVA ECZANESİ",
@@ -21150,7 +23265,8 @@ export const locations = [
     "address": "tahtakale mah. abdi ipekçi caddesi no 4/2B",
     "contract": true,
     "latitude": 41.059088,
-    "longitude": 28.7147368
+    "longitude": 28.7147368,
+    "iletisim": "02326835062"
   },
   {
     "name": "ÖZGE ECZANESİ",
@@ -21160,7 +23276,8 @@ export const locations = [
     "address": "CÜNEYTBEY MAH. 683.SOK. NO:3AA",
     "contract": true,
     "latitude": 38.2393167,
-    "longitude": 27.1369303
+    "longitude": 27.1369303,
+    "iletisim": "02325028584"
   },
   {
     "name": "BEŞTEPE ECZANESİ",
@@ -21170,7 +23287,8 @@ export const locations = [
     "address": "BEŞTEPE MAH. 37.SOKAK NO:1/A",
     "contract": true,
     "latitude": 39.9230083,
-    "longitude": 32.8058607
+    "longitude": 32.8058607,
+    "iletisim": "03122121646"
   },
   {
     "name": "MECLİS ECZANESİ",
@@ -21180,7 +23298,8 @@ export const locations = [
     "address": "MECLİS MAH. TERAZİLER CAD. NO:6B",
     "contract": true,
     "latitude": 41.0127496,
-    "longitude": 29.1964372
+    "longitude": 29.1964372,
+    "iletisim": "05540112930"
   },
   {
     "name": "LOKMAN HEKİM ECZANESİ",
@@ -21190,7 +23309,8 @@ export const locations = [
     "address": "ZEYTİNLİK MAH. FİŞEKHANE CAD. FİŞEK APT. NO:30/B",
     "contract": true,
     "latitude": 40.9781957,
-    "longitude": 28.8720596
+    "longitude": 28.8720596,
+    "iletisim": "02125836370"
   },
   {
     "name": "NİSA ECZANESİ",
@@ -21200,7 +23320,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. ORHAN EKİNCİ BULV. NO:33/B Z:19",
     "contract": true,
     "latitude": 37.0145535,
-    "longitude": 35.8258794
+    "longitude": 35.8258794,
+    "iletisim": "03226121894"
   },
   {
     "name": "BESTEKAR ECZANESİ",
@@ -21210,7 +23331,8 @@ export const locations = [
     "address": "BESTEKAR CAD. NO:96 KAVAKLIDERE",
     "contract": true,
     "latitude": 39.9058148,
-    "longitude": 32.8600072
+    "longitude": 32.8600072,
+    "iletisim": "03124661965"
   },
   {
     "name": "BAŞAK ECZANESİ",
@@ -21220,7 +23342,8 @@ export const locations = [
     "address": "MİMARSİNAN MAH. ALPARSLAN BLV. PARK APT. NO:23",
     "contract": true,
     "latitude": 41.3307545,
-    "longitude": 36.2696741
+    "longitude": 36.2696741,
+    "iletisim": "05437242233"
   },
   {
     "name": "TURUNCU ECZANESİ",
@@ -21230,7 +23353,8 @@ export const locations = [
     "address": "YENİCAMİİ MAH. İSTASYON CAD. SADIKAĞA APT. NO:108/A",
     "contract": true,
     "latitude": 37.75196100000001,
-    "longitude": 27.405666
+    "longitude": 27.405666,
+    "iletisim": "02565128188"
   },
   {
     "name": "NOVA ECZANESİ",
@@ -21240,7 +23364,8 @@ export const locations = [
     "address": "KARACAOĞLAN MAH. 6253.SOK. NO:12/D",
     "contract": true,
     "latitude": 38.471175,
-    "longitude": 27.094586
+    "longitude": 27.094586,
+    "iletisim": "02326835062"
   },
   {
     "name": "YEŞİLBAHAR ECZANESİ",
@@ -21250,7 +23375,8 @@ export const locations = [
     "address": "KOZYATAGI MAH KORKUT SOKAK 6/A KADIKOY BOSTANCI",
     "contract": true,
     "latitude": 40.9661658,
-    "longitude": 29.1006929
+    "longitude": 29.1006929,
+    "iletisim": "02163606154"
   },
   {
     "name": "YENİ HAYAT ECZANESİ",
@@ -21260,7 +23386,8 @@ export const locations = [
     "address": "MUSTAFAPAŞA MAH. YENİ BAĞDAT CAD. 712 SOK. NO:2",
     "contract": true,
     "latitude": 40.8002779,
-    "longitude": 29.4308728
+    "longitude": 29.4308728,
+    "iletisim": "02626423232"
   },
   {
     "name": "MUTLULUK ECZANESİ",
@@ -21270,7 +23397,8 @@ export const locations = [
     "address": "BUHARA MAH. EDİPOĞLU CAD. NO:131/D",
     "contract": true,
     "latitude": 37.9419785,
-    "longitude": 32.4894743
+    "longitude": 32.4894743,
+    "iletisim": "05438461619"
   },
   {
     "name": "SEVAL ECZANESİ",
@@ -21280,7 +23408,8 @@ export const locations = [
     "address": "ERTUĞRUL GAZİ MAH. MİLLET CAD. C BLOK NO:16",
     "contract": true,
     "latitude": 37.1830159,
-    "longitude": 38.8091192
+    "longitude": 38.8091192,
+    "iletisim": "05527981098"
   },
   {
     "name": "DURU SU ECZANESİ",
@@ -21290,7 +23419,8 @@ export const locations = [
     "address": "UĞUR MUMCU MAH. 8968.SOK. NO:11/A",
     "contract": true,
     "latitude": 38.5230403,
-    "longitude": 27.0439027
+    "longitude": 27.0439027,
+    "iletisim": "02328390004"
   },
   {
     "name": "SENA ECZANESİ",
@@ -21300,7 +23430,8 @@ export const locations = [
     "address": "FUATMOREL MAH. İSMET İNÖNÜ BULV. EKİNCİ KONSEPT F BLOK NO:330/E",
     "contract": true,
     "latitude": 36.81646,
-    "longitude": 34.5722198
+    "longitude": 34.5722198,
+    "iletisim": "03125027362"
   },
   {
     "name": "HÜRREM ECZANESİ",
@@ -21310,7 +23441,8 @@ export const locations = [
     "address": "REŞADİYE MAH. SALİH OMURTAK CAD. NO:107/B",
     "contract": true,
     "latitude": 41.15916989999999,
-    "longitude": 27.8038918
+    "longitude": 27.8038918,
+    "iletisim": "02826514287"
   },
   {
     "name": "İLKAY ECZANESİ",
@@ -21320,7 +23452,8 @@ export const locations = [
     "address": "KADINLAR DENİZİ MAH. YÜKSEL YALOVA CAD. NO:46/15",
     "contract": true,
     "latitude": 37.8519844,
-    "longitude": 27.2511546
+    "longitude": 27.2511546,
+    "iletisim": "02566111444"
   },
   {
     "name": "ÇAĞIL ECZANESİ",
@@ -21330,7 +23463,8 @@ export const locations = [
     "address": "30 AĞUSTOS AMH. 4.CADDE NO:293",
     "contract": true,
     "latitude": 38.5532789,
-    "longitude": 27.0465078
+    "longitude": 27.0465078,
+    "iletisim": "02329999406"
   },
   {
     "name": "BARDAKÇI ECZANESİ",
@@ -21340,7 +23474,8 @@ export const locations = [
     "address": "ŞEYH ŞAMİL MAH. KAPI SOK. NO:1/A",
     "contract": true,
     "latitude": 37.9445847,
-    "longitude": 32.50201940000001
+    "longitude": 32.50201940000001,
+    "iletisim": "03323202233"
   },
   {
     "name": "BURÇİN ECZANESİ",
@@ -21350,7 +23485,8 @@ export const locations = [
     "address": "GÜNDOĞAN MAH. ŞEHİT UĞUR ÖZTOP CAD. NO:5/1",
     "contract": true,
     "latitude": 37.12922289999999,
-    "longitude": 27.346339
+    "longitude": 27.346339,
+    "iletisim": "02523877286"
   },
   {
     "name": "NEFES ECZANESİ",
@@ -21360,7 +23496,8 @@ export const locations = [
     "address": "YENİMAHALLE ADNAN MENDERES BULV. NO:2 İÇ KAPI:201",
     "contract": true,
     "latitude": 41.2493202,
-    "longitude": 32.6827988
+    "longitude": 32.6827988,
+    "iletisim": "05322820142"
   },
   {
     "name": "ERGUVAN ECZANESİ",
@@ -21370,7 +23507,8 @@ export const locations = [
     "address": "ALTINTEPE MAH. BAĞDAT CAD. NO:79/D",
     "contract": true,
     "latitude": 40.9514325,
-    "longitude": 29.1023628
+    "longitude": 29.1023628,
+    "iletisim": "05423226330"
   },
   {
     "name": "YAĞIZ ECZANESİ",
@@ -21380,7 +23518,8 @@ export const locations = [
     "address": "FEYZULLAH MAH. BAĞDAT CAD. NO:262/B",
     "contract": true,
     "latitude": 40.9342269,
-    "longitude": 29.1252298
+    "longitude": 29.1252298,
+    "iletisim": "05526408010"
   },
   {
     "name": "UMAY ECZANESİ",
@@ -21390,7 +23529,8 @@ export const locations = [
     "address": "TUNALI MAH. SAKARYA 2.CADDE NO:94/C",
     "contract": true,
     "latitude": 39.7872801,
-    "longitude": 30.5187852
+    "longitude": 30.5187852,
+    "iletisim": "05305110026"
   },
   {
     "name": "DERYA GÜLPINAR ECZANESİ",
@@ -21400,7 +23540,8 @@ export const locations = [
     "address": "İHSANİYE MAH. BARBAROS CAD. ATALAY 9 AKSOY SİTESİ NO:18/A",
     "contract": true,
     "latitude": 40.21829719999999,
-    "longitude": 28.98205429999999
+    "longitude": 28.98205429999999,
+    "iletisim": "02242470949"
   },
   {
     "name": "SOLİ ECZANESİ",
@@ -21410,7 +23551,8 @@ export const locations = [
     "address": "MERKEZ MAH. ZEYTİNLİ CAD. NO: 6/A",
     "contract": true,
     "latitude": 36.7364682,
-    "longitude": 34.5158271
+    "longitude": 34.5158271,
+    "iletisim": "05468973300"
   },
   {
     "name": "RAUF BEY",
@@ -21420,7 +23562,8 @@ export const locations = [
     "address": "ÜNİVERSİTELER MAH. 1597.CAD. NO:52/C",
     "contract": true,
     "latitude": 39.8849246,
-    "longitude": 32.7594653
+    "longitude": 32.7594653,
+    "iletisim": "03123323211"
   },
   {
     "name": "SERENAY ECZANESİ",
@@ -21430,7 +23573,8 @@ export const locations = [
     "address": "AKÇAY MAH. CENGİZ TOPEL CAD. NO:35/C",
     "contract": true,
     "latitude": 40.47391,
-    "longitude": 32.649889
+    "longitude": 32.649889,
+    "iletisim": "05389227957"
   },
   {
     "name": "LUNA ECZANESİ",
@@ -21440,7 +23584,8 @@ export const locations = [
     "address": "MANSUROĞLU MAH. 286.SOK NO:24/A",
     "contract": true,
     "latitude": 38.455212,
-    "longitude": 27.1817537
+    "longitude": 27.1817537,
+    "iletisim": "02329998634"
   },
   {
     "name": "SEVGİ ECZANESİ",
@@ -21450,7 +23595,8 @@ export const locations = [
     "address": "GÜRSELPAŞA MAH. ŞEHİT POLİS ŞAHİN POLAT AYDIN DR.İBRAHİM ÇAKMAK KNT. B BLOK 30/1B",
     "contract": true,
     "latitude": 37.0160021,
-    "longitude": 35.2596466
+    "longitude": 35.2596466,
+    "iletisim": "02825056404"
   },
   {
     "name": "MELİSA ECZANESİ",
@@ -21460,7 +23606,8 @@ export const locations = [
     "address": "OVACIK MAH. 548.CAD. NO:21/B",
     "contract": true,
     "latitude": 40.01826,
-    "longitude": 32.8253741
+    "longitude": 32.8253741,
+    "iletisim": "05355110548"
   },
   {
     "name": "AÇIKBAŞ ECZANESİ",
@@ -21470,7 +23617,8 @@ export const locations = [
     "address": "GÜNEYKENT MAH. 102208 CAD. NO:3",
     "contract": true,
     "latitude": 37.0155559,
-    "longitude": 37.315904
+    "longitude": 37.315904,
+    "iletisim": NaN
   },
   {
     "name": "YILMAZ ECZANESİ",
@@ -21480,7 +23628,8 @@ export const locations = [
     "address": "ÇAYBAŞI MAH. ALİ ÇETİNKAYA CAD.ADEM APT. NO:144/B",
     "contract": true,
     "latitude": 36.8861447,
-    "longitude": 30.719188
+    "longitude": 30.719188,
+    "iletisim": "02423129365"
   },
   {
     "name": "ABAY ECZANESİ",
@@ -21490,7 +23639,8 @@ export const locations = [
     "address": "ÇAYBAŞI MAH. ALİ ÇETİNKAYA CAD. NO:166/B",
     "contract": true,
     "latitude": 36.887265,
-    "longitude": 30.7253
+    "longitude": 30.7253,
+    "iletisim": "05431962229"
   },
   {
     "name": "AYŞE DAL ECZANESİ",
@@ -21500,7 +23650,8 @@ export const locations = [
     "address": "CUMHURİYET CAD. NO:24-28C",
     "contract": true,
     "latitude": 41.03120879999999,
-    "longitude": 28.8302176
+    "longitude": 28.8302176,
+    "iletisim": "02128773434"
   },
   {
     "name": "AYÇA ECZANESİ",
@@ -21510,7 +23661,8 @@ export const locations = [
     "address": "DAVUTLAR MAH. MENDERES CAD. 94/B",
     "contract": true,
     "latitude": 37.7333029,
-    "longitude": 27.2854006
+    "longitude": 27.2854006,
+    "iletisim": "02566572500"
   },
   {
     "name": "ÇAĞLAYAN ECZANESİ",
@@ -21520,7 +23672,8 @@ export const locations = [
     "address": "GÜRSELPAŞA MAH. 6.CADDE NO:6/A",
     "contract": true,
     "latitude": 37.0204453,
-    "longitude": 35.2545653
+    "longitude": 35.2545653,
+    "iletisim": "03222620095"
   },
   {
     "name": "NİSAN BİR ECZANESİ",
@@ -21530,7 +23683,8 @@ export const locations = [
     "address": "İNÖNÜ MAH. 1771.SOK. 18/1 BATIKENT",
     "contract": true,
     "latitude": 39.9554052,
-    "longitude": 32.7214144
+    "longitude": 32.7214144,
+    "iletisim": "03122521316"
   },
   {
     "name": "YALIM ECZANESİ",
@@ -21540,7 +23694,8 @@ export const locations = [
     "address": "HOŞDERE CAD. NO:45/B",
     "contract": true,
     "latitude": 39.8991474,
-    "longitude": 32.8491637
+    "longitude": 32.8491637,
+    "iletisim": "03124672747"
   },
   {
     "name": "YENİ PALMİYE ECZANESİ",
@@ -21550,7 +23705,8 @@ export const locations = [
     "address": "OBA MAH. 9.SOK. MİMOZA APT. NO:5/A",
     "contract": true,
     "latitude": 36.544443,
-    "longitude": 31.995408
+    "longitude": 31.995408,
+    "iletisim": "02425122714"
   },
   {
     "name": "ÇENGELKÖY YAŞAM ECZANESİ",
@@ -21560,7 +23716,8 @@ export const locations = [
     "address": "GÜZELTEPE MAHALLESİ ZÜBEYDE HANIM CADDESİ NO:47/B",
     "contract": true,
     "latitude": 41.0562257,
-    "longitude": 29.0738212
+    "longitude": 29.0738212,
+    "iletisim": "05397494841"
   },
   {
     "name": "ATAŞEHİR ECZANESİ",
@@ -21570,7 +23727,8 @@ export const locations = [
     "address": "ELLİBEŞEVLER MAH. BEKİR SAMİ BEY SOK. NO:1H",
     "contract": true,
     "latitude": 40.66893700000001,
-    "longitude": 35.844972
+    "longitude": 35.844972,
+    "iletisim": "03585024455"
   },
   {
     "name": "EGE ECZANESİ",
@@ -21580,7 +23738,8 @@ export const locations = [
     "address": "YAKACIK YENİ MAH. SAMANDIRA CAD. AKAY APT. NO:23/A",
     "contract": true,
     "latitude": 40.929021,
-    "longitude": 29.221426
+    "longitude": 29.221426,
+    "iletisim": "05405101020"
   },
   {
     "name": "VELUX ECZANESİ",
@@ -21590,7 +23749,8 @@ export const locations = [
     "address": "İNÖNÜ MAH. 1729.CAD. VELUX AVM 4/14 NO:37",
     "contract": true,
     "latitude": 39.9461725,
-    "longitude": 32.7371785
+    "longitude": 32.7371785,
+    "iletisim": "03122237378"
   },
   {
     "name": "YENİKALE ECZANESİ",
@@ -21600,7 +23760,8 @@ export const locations = [
     "address": "ÇAMTEPE MAH. MİTHATPAŞA CAD. NO:193/B",
     "contract": true,
     "latitude": 38.3938975,
-    "longitude": 27.0138141
+    "longitude": 27.0138141,
+    "iletisim": "02322391717"
   },
   {
     "name": "FORUM SERAP ECZANESİ",
@@ -21610,7 +23771,8 @@ export const locations = [
     "address": "KALKINMA MAH. DEVLET KARAYOLU CAD. NO:111 FORUM AVM",
     "contract": true,
     "latitude": 40.9982175,
-    "longitude": 39.7572819
+    "longitude": 39.7572819,
+    "iletisim": "04622295526"
   },
   {
     "name": "ERÜST ECZANESİ",
@@ -21620,7 +23782,8 @@ export const locations = [
     "address": "ÇAYBAŞI MAH. 1359.SOK. 1.MURAT APT. NO:4/A",
     "contract": true,
     "latitude": 36.8872817,
-    "longitude": 30.7245038
+    "longitude": 30.7245038,
+    "iletisim": "02423218494"
   },
   {
     "name": "SELVE ECZANESİ",
@@ -21630,7 +23793,8 @@ export const locations = [
     "address": "DENİZKÖŞKLER MAH. REŞİTPAŞA CAD. 31/A",
     "contract": true,
     "latitude": 40.9789697,
-    "longitude": 28.7255553
+    "longitude": 28.7255553,
+    "iletisim": "02126950011"
   },
   {
     "name": "MERKEZ ECZANESİ",
@@ -21640,7 +23804,8 @@ export const locations = [
     "address": "İCADİYE MAH. ŞEHİT HASAN AKTAR CAD. NO:1/A",
     "contract": true,
     "latitude": 40.9605048,
-    "longitude": 35.6496204
+    "longitude": 35.6496204,
+    "iletisim": "02642790801"
   },
   {
     "name": "VİTAMİN ECZANESİ",
@@ -21650,7 +23815,8 @@ export const locations = [
     "address": "MURATPAŞA MAH. BAYIR SOK. NO:1/A",
     "contract": true,
     "latitude": 41.046096,
-    "longitude": 28.9034316
+    "longitude": 28.9034316,
+    "iletisim": "02126748718"
   },
   {
     "name": "ASRIN ECZANESİ",
@@ -21660,7 +23826,8 @@ export const locations = [
     "address": "İSMET KAPTAN MAH. ŞAİR EŞREF BULV. NO:13/A",
     "contract": true,
     "latitude": 38.4259597,
-    "longitude": 27.1392989
+    "longitude": 27.1392989,
+    "iletisim": "02324461310"
   },
   {
     "name": "CEMRE ECZANESİ",
@@ -21670,7 +23837,8 @@ export const locations = [
     "address": "KAYABAŞI MAHALLESI ALBAYRAK SOKAK AVRASYA KONUTLARI SITESI D2 BLOK NO/9TA BAŞAKŞEHIR/ İSTANBUL",
     "contract": true,
     "latitude": 41.1053137,
-    "longitude": 28.7726529
+    "longitude": 28.7726529,
+    "iletisim": "05337033143"
   },
   {
     "name": "BİZİM MAHALLE ECZANESİ",
@@ -21680,7 +23848,8 @@ export const locations = [
     "address": "HALKALI MERKEZ EMLAK KONUT BİZİM MAH. 1.ETAP 1.KISIM 1438 SOK. 2DF NO:93",
     "contract": true,
     "latitude": 41.0269679,
-    "longitude": 28.7773746
+    "longitude": 28.7773746,
+    "iletisim": "02125998199"
   },
   {
     "name": "ÇINAR ECZANESİ",
@@ -21690,7 +23859,8 @@ export const locations = [
     "address": "SÖĞÜTÖZÜ MAH. 2176 CAD. PLATİN TOWER NO:7/K",
     "contract": true,
     "latitude": 39.91,
-    "longitude": 32.7977778
+    "longitude": 32.7977778,
+    "iletisim": "03123123334"
   },
   {
     "name": "ULUKAYA ECZANESİ",
@@ -21700,7 +23870,8 @@ export const locations = [
     "address": "MERMERLİ MAH. 1415.SOK. 11/B",
     "contract": true,
     "latitude": 38.613242,
-    "longitude": 27.068206
+    "longitude": 27.068206,
+    "iletisim": "02328316160"
   },
   {
     "name": "AREN ECZANESİ",
@@ -21710,7 +23881,8 @@ export const locations = [
     "address": "BÜYÜKESAT MAH. UĞURMUMCU CAD. NO:52/A",
     "contract": true,
     "latitude": 39.892839,
-    "longitude": 32.8760003
+    "longitude": 32.8760003,
+    "iletisim": "03124400105"
   },
   {
     "name": "POZİTİF ECZANE",
@@ -21720,7 +23892,8 @@ export const locations = [
     "address": "VALİ RAHMİ BEY MAH. MENDERES CAD. NO:91/B",
     "contract": true,
     "latitude": 38.390292,
-    "longitude": 27.163175
+    "longitude": 27.163175,
+    "iletisim": "05053495543"
   },
   {
     "name": "SARP ECZANESİ",
@@ -21730,7 +23903,8 @@ export const locations = [
     "address": "AYDINLAR MAH. HÜRRİYET CAD. 164 A-B DİKMEN",
     "contract": true,
     "latitude": 39.878018,
-    "longitude": 32.835566
+    "longitude": 32.835566,
+    "iletisim": "03124790090"
   },
   {
     "name": "GÜLŞEN ECZANESİ",
@@ -21740,7 +23914,8 @@ export const locations = [
     "address": "MERKEZ MAH. FERAH SOK. NO:5/A",
     "contract": true,
     "latitude": 41.0584333,
-    "longitude": 28.9124857
+    "longitude": 28.9124857,
+    "iletisim": "02126147316"
   },
   {
     "name": "NANE ECZANESİ",
@@ -21750,7 +23925,8 @@ export const locations = [
     "address": "AKÇAY MAH. CENGİZ TOPEL CAD. STAD APT. NO:33/A",
     "contract": true,
     "latitude": 40.4732716,
-    "longitude": 32.6491765
+    "longitude": 32.6491765,
+    "iletisim": "05344269156"
   },
   {
     "name": "DENİZ ECZANESİ",
@@ -21760,7 +23936,8 @@ export const locations = [
     "address": "YILDIZEVLER MAH. TURAN GÜNEŞ BULV. NO:28/C",
     "contract": true,
     "latitude": 39.874111,
-    "longitude": 32.8620784
+    "longitude": 32.8620784,
+    "iletisim": "02663241355"
   },
   {
     "name": "KALE ECZANESİ",
@@ -21770,7 +23947,8 @@ export const locations = [
     "address": "MERDİVENKÖY MAH. RESSAM SALİH ERİMEZ CAD. NO:36/B",
     "contract": true,
     "latitude": 40.98582529999999,
-    "longitude": 29.0695605
+    "longitude": 29.0695605,
+    "iletisim": "02163024668"
   },
   {
     "name": "İPEK ÖZTÜRK ECZANESİ",
@@ -21780,7 +23958,8 @@ export const locations = [
     "address": "YEŞİLCE MAH. DESTEK SOK. NO:44/B",
     "contract": true,
     "latitude": 41.0940342,
-    "longitude": 28.999879
+    "longitude": 28.999879,
+    "iletisim": "05423753494"
   },
   {
     "name": "GALEN ECZANESİ",
@@ -21790,7 +23969,8 @@ export const locations = [
     "address": "CAMİKEBİR MAH. KEMAL ARIKAN CAD. NO:9/C",
     "contract": true,
     "latitude": 37.8616126,
-    "longitude": 27.2597902
+    "longitude": 27.2597902,
+    "iletisim": "02566121234"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -21800,7 +23980,8 @@ export const locations = [
     "address": "ÇARŞI MAH. KAYSERİ CAD. NO:5",
     "contract": true,
     "latitude": 39.193667,
-    "longitude": 35.246833
+    "longitude": 35.246833,
+    "iletisim": "02323813135"
   },
   {
     "name": "PARK YILDIZ ECZANESİ",
@@ -21810,7 +23991,8 @@ export const locations = [
     "address": "YAŞAMKENT MAH. 3158.CAD. NO:55",
     "contract": true,
     "latitude": 39.8647364,
-    "longitude": 32.652746
+    "longitude": 32.652746,
+    "iletisim": "03122176020"
   },
   {
     "name": "DÜNYA ECZANESİ",
@@ -21820,7 +24002,8 @@ export const locations = [
     "address": "FENERYOLU MAH. YILDIRAY SOK. KORU APT. NO:2/B",
     "contract": true,
     "latitude": 40.9826318,
-    "longitude": 29.0553
+    "longitude": 29.0553,
+    "iletisim": "02165679302"
   },
   {
     "name": "SELİN ECZANESİ",
@@ -21830,7 +24013,8 @@ export const locations = [
     "address": "BAHÇEŞEHİR 1.KISIM MAH. KEMAL SUNAL CAD. DEFNE 03 SİTESİ VİLLA 11 NO:9/B",
     "contract": true,
     "latitude": 41.0641726,
-    "longitude": 28.68733989999999
+    "longitude": 28.68733989999999,
+    "iletisim": "02126693040"
   },
   {
     "name": "MEYDAN ECZANESİ",
@@ -21840,7 +24024,8 @@ export const locations = [
     "address": "İSTİKLAL MAH. 5.DİNÇ SOK. NO:3",
     "contract": true,
     "latitude": 40.2217176,
-    "longitude": 29.00596939999999
+    "longitude": 29.00596939999999,
+    "iletisim": "05348283250"
   },
   {
     "name": "ERBAY ECZANESİ",
@@ -21850,7 +24035,8 @@ export const locations = [
     "address": "UĞUREVLER MAH. 312.SOK. STARLİFE SİTESİ 18/A",
     "contract": true,
     "latitude": 38.7421272,
-    "longitude": 35.5385474
+    "longitude": 35.5385474,
+    "iletisim": "05324597229"
   },
   {
     "name": "SELÇUK ECZANESİ",
@@ -21860,7 +24046,8 @@ export const locations = [
     "address": "MÜFTÜ MAH. ŞEHİT ÖMER HALİSDEMİR BULV. NO:20/1-2",
     "contract": true,
     "latitude": 41.2737287,
-    "longitude": 31.4317754
+    "longitude": 31.4317754,
+    "iletisim": "03723224122"
   },
   {
     "name": "CANSU ECZANESİ",
@@ -21870,7 +24057,8 @@ export const locations = [
     "address": "KÜLTÜR MAH. DEMOKRASİ MEYDANI NO:2/A",
     "contract": true,
     "latitude": 38.799561,
-    "longitude": 26.97074
+    "longitude": 26.97074,
+    "iletisim": "02326161270"
   },
   {
     "name": "DANIŞ ECZANESİ",
@@ -21880,7 +24068,8 @@ export const locations = [
     "address": "SALACAK MAH. DR.SITKI ÖZFERENDECİ SOK. NO:29/A",
     "contract": true,
     "latitude": 41.0152727,
-    "longitude": 29.0140047
+    "longitude": 29.0140047,
+    "iletisim": "02163347294"
   },
   {
     "name": "FIRAT ECZANESİ",
@@ -21890,7 +24079,8 @@ export const locations = [
     "address": "KARAAĞAÇ MAH. 755 SOK. NO:11",
     "contract": true,
     "latitude": 39.7419555,
-    "longitude": 39.4939016
+    "longitude": 39.4939016,
+    "iletisim": "04462240204"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -21900,7 +24090,8 @@ export const locations = [
     "address": "İZZETBEY MAH. ALPARSLAN TÜRKEŞ CAD. NO:30/C",
     "contract": true,
     "latitude": 37.5718665,
-    "longitude": 32.7819107
+    "longitude": 32.7819107,
+    "iletisim": "02744124152"
   },
   {
     "name": "PINAR ECZANESİ",
@@ -21910,7 +24101,8 @@ export const locations = [
     "address": "PINAR ECZANESİ GELİŞİM MAHALLESİ BELEDİYE DÜKKANLARI ESKİ DEVLET HASTANESİ KARŞISI :6",
     "contract": true,
     "latitude": 36.9754676,
-    "longitude": 28.6877262
+    "longitude": 28.6877262,
+    "iletisim": "05549159175"
   },
   {
     "name": "MERT ECZANESİ",
@@ -21920,7 +24112,8 @@ export const locations = [
     "address": "ESENEVLER MAH. NİŞANTAŞI CAD. NO:31/B",
     "contract": true,
     "latitude": 41.3243097,
-    "longitude": 36.2962067
+    "longitude": 36.2962067,
+    "iletisim": "03624388152"
   },
   {
     "name": "UĞUR ECZANESİ",
@@ -21930,7 +24123,8 @@ export const locations = [
     "address": "KORKUTREİS MAH. CİHAN SOK. NO:22/3",
     "contract": true,
     "latitude": 39.9267457,
-    "longitude": 32.8521129
+    "longitude": 32.8521129,
+    "iletisim": "03122307595"
   },
   {
     "name": "EGE ECZANESİ",
@@ -21940,7 +24134,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. NADİR SOK. NO:2A/16",
     "contract": true,
     "latitude": 41.0146154,
-    "longitude": 28.6355164
+    "longitude": 28.6355164,
+    "iletisim": "05405101020"
   },
   {
     "name": "IHLAMUR ECZANESİ",
@@ -21950,7 +24145,8 @@ export const locations = [
     "address": "MİMAR SİNAN MAH. MİMAR SİNAN CAD. NO:85/A",
     "contract": true,
     "latitude": 41.0307348,
-    "longitude": 29.1881842
+    "longitude": 29.1881842,
+    "iletisim": "05405042804"
   },
   {
     "name": "BENGÜ ECZANESİ",
@@ -21960,7 +24156,8 @@ export const locations = [
     "address": "ADNAN MENDERES MAH. ORHAN DOĞAN CAD. DOĞANŞEHİR 6.ETAP NO:5/B",
     "contract": true,
     "latitude": 38.093415,
-    "longitude": 37.878116
+    "longitude": 37.878116,
+    "iletisim": "05546551860"
   },
   {
     "name": "YAŞAR ECZANESİ",
@@ -21970,7 +24167,8 @@ export const locations = [
     "address": "HAŞİM KILIÇ MAH. BEDRİ AYDIN 2.SOK. NO:1/1",
     "contract": true,
     "latitude": 39.6393632,
-    "longitude": 34.4683371
+    "longitude": 34.4683371,
+    "iletisim": "03545161017"
   },
   {
     "name": "İNCEK IHLAMUR ECZANESİ",
@@ -21980,7 +24178,8 @@ export const locations = [
     "address": "TAŞPINAR MAH. TAŞPINAR KÜME EVLERİ NO:536 E BLOK 3-4",
     "contract": true,
     "latitude": 39.7522498,
-    "longitude": 32.7608002
+    "longitude": 32.7608002,
+    "iletisim": "05367362271"
   },
   {
     "name": "İKİ KAPILI ECZANESİ",
@@ -21990,7 +24189,8 @@ export const locations = [
     "address": "ALTINOVA MAH. İSTANBUL CAD. NO:410 D SKYTOWER",
     "contract": true,
     "latitude": 40.2259868,
-    "longitude": 29.0666069
+    "longitude": 29.0666069,
+    "iletisim": "02245047434"
   },
   {
     "name": "ELİFİN ECZANESİ",
@@ -22000,7 +24200,8 @@ export const locations = [
     "address": "AYDINLAR MAH. DİKMEN CAD. 258/A",
     "contract": true,
     "latitude": 39.8801271,
-    "longitude": 32.8383782
+    "longitude": 32.8383782,
+    "iletisim": "05320563144"
   },
   {
     "name": "TUBA ECZANESİ",
@@ -22010,7 +24211,8 @@ export const locations = [
     "address": "ZEYTİNKÖY MAH. ACIPAYAM BULV. NO:7/B",
     "contract": true,
     "latitude": 37.738921,
-    "longitude": 29.113859
+    "longitude": 29.113859,
+    "iletisim": "02582660646"
   },
   {
     "name": "KUZEYYAKA ECZANESİ",
@@ -22020,7 +24222,8 @@ export const locations = [
     "address": "KUZEYYAKA MAH. GÖKSU CAD. NO:70/A",
     "contract": true,
     "latitude": 36.9348736,
-    "longitude": 30.7073855
+    "longitude": 30.7073855,
+    "iletisim": "02423250333"
   },
   {
     "name": "VEYSANOĞLU ECZANESİ",
@@ -22030,7 +24233,8 @@ export const locations = [
     "address": "BAHRİYE ÜÇOK MAH. GİRNE BULV. NO:76",
     "contract": true,
     "latitude": 38.45909049999999,
-    "longitude": 27.1076843
+    "longitude": 27.1076843,
+    "iletisim": "02323648588"
   },
   {
     "name": "BOTANİK ECZANESİ",
@@ -22040,7 +24244,8 @@ export const locations = [
     "address": "ORAN MAH. FERİT RECAİ ERTUĞRUL CAD.",
     "contract": true,
     "latitude": 39.8491294,
-    "longitude": 32.8290547
+    "longitude": 32.8290547,
+    "iletisim": "02128095154"
   },
   {
     "name": "KUZEYYAKA ECZANESİ",
@@ -22050,7 +24255,8 @@ export const locations = [
     "address": "KUZEYYAKA MAH. GÖKSU CAD. NO:70/A",
     "contract": true,
     "latitude": 36.9348736,
-    "longitude": 30.7073855
+    "longitude": 30.7073855,
+    "iletisim": "02423250333"
   },
   {
     "name": "SEZENLER ECZANESİ",
@@ -22060,7 +24266,8 @@ export const locations = [
     "address": "KORKUTREİS MAH. SEZENLER CAD. NO:3/B KIZILAY",
     "contract": true,
     "latitude": 39.9253955,
-    "longitude": 32.8521594
+    "longitude": 32.8521594,
+    "iletisim": "03122292906"
   },
   {
     "name": "1919 ECZANESİ",
@@ -22070,7 +24277,8 @@ export const locations = [
     "address": "ATAKENT MAH. 3417.CAD. NO:93/A",
     "contract": true,
     "latitude": 41.3372758,
-    "longitude": 36.2416993
+    "longitude": 36.2416993,
+    "iletisim": "05013662122"
   },
   {
     "name": "YASEMİN ECZANESİ",
@@ -22080,7 +24288,8 @@ export const locations = [
     "address": "YÜZEVLER MAH. MUSTAFA KEMAL PAŞA CAD. 41/A",
     "contract": true,
     "latitude": 40.6501452,
-    "longitude": 35.8293271
+    "longitude": 35.8293271,
+    "iletisim": "03582184038"
   },
   {
     "name": "ZELİHA ÖDEMİŞ ECZANESİ",
@@ -22090,7 +24299,8 @@ export const locations = [
     "address": "ŞEYHKERAMETTİN MAH. İNCEDAYI SOK. NO:7/B",
     "contract": true,
     "latitude": 40.9170311,
-    "longitude": 38.3847987
+    "longitude": 38.3847987,
+    "iletisim": "04542023202"
   },
   {
     "name": "KAMİL ECZANESİ",
@@ -22100,7 +24310,8 @@ export const locations = [
     "address": "23 NİSAN MAH. 251.SOK. KAMİL ECZANESİ NO:7/B-C",
     "contract": true,
     "latitude": 40.218204,
-    "longitude": 28.9433745
+    "longitude": 28.9433745,
+    "iletisim": "02244701964"
   },
   {
     "name": "CAN DENİZ ECZANESİ",
@@ -22110,7 +24321,8 @@ export const locations = [
     "address": "ATATÜRK MAH. KUTSAL SOK. NO:3/C",
     "contract": true,
     "latitude": 39.9627624,
-    "longitude": 32.5812617
+    "longitude": 32.5812617,
+    "iletisim": "03122701912"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -22120,7 +24332,8 @@ export const locations = [
     "address": "KIZILAY MAH. 13 ŞUBAT CAD. NO:12/A",
     "contract": true,
     "latitude": 39.7452049,
-    "longitude": 39.4862048
+    "longitude": 39.4862048,
+    "iletisim": "03247141116"
   },
   {
     "name": "AYŞENUR ECZANESİ",
@@ -22130,7 +24343,8 @@ export const locations = [
     "address": "DÖŞEME MAH. CUMHURİYET CAD. NO:73/A",
     "contract": true,
     "latitude": 36.9949186,
-    "longitude": 35.3194337
+    "longitude": 35.3194337,
+    "iletisim": "05010869379"
   },
   {
     "name": "FARALYA ECZANESİ",
@@ -22140,7 +24354,8 @@ export const locations = [
     "address": "HAŞİMİŞCAN MAH. RECEP PEKER CAD. NO:4/A",
     "contract": true,
     "latitude": 36.8852346,
-    "longitude": 30.70945549999999
+    "longitude": 30.70945549999999,
+    "iletisim": "02423454848"
   },
   {
     "name": "BAL ECZANESİ",
@@ -22150,7 +24365,8 @@ export const locations = [
     "address": "YALI MAH. 6439.SOK. NO:62/B",
     "contract": true,
     "latitude": 38.4680657,
-    "longitude": 27.0883386
+    "longitude": 27.0883386,
+    "iletisim": "02323308992"
   },
   {
     "name": "NESLİ YAŞAM ECZANESİ",
@@ -22160,7 +24376,8 @@ export const locations = [
     "address": "AYRANCI MAH. REŞAT NURİ CAD. TEZCAN APT. NO:2/A",
     "contract": true,
     "latitude": 39.9000204,
-    "longitude": 32.8465259
+    "longitude": 32.8465259,
+    "iletisim": "03128060202"
   },
   {
     "name": "AİLE ECZANESİ",
@@ -22170,7 +24387,8 @@ export const locations = [
     "address": "YILDIRIM BEYAZIT MAH. SUNAY SOK. NO:13/B",
     "contract": true,
     "latitude": 38.7300087,
-    "longitude": 35.5434097
+    "longitude": 35.5434097,
+    "iletisim": "05388681684"
   },
   {
     "name": "SAFRAN ECZANESİ",
@@ -22180,7 +24398,8 @@ export const locations = [
     "address": "OSMANGAZİ MAH. ALSANCAK CAD. NO:122/A",
     "contract": true,
     "latitude": 40.986075,
-    "longitude": 29.248069
+    "longitude": 29.248069,
+    "iletisim": "05400723726"
   },
   {
     "name": "HALİÇ ECZANESİ",
@@ -22190,7 +24409,8 @@ export const locations = [
     "address": "İMRAHOR CAD NO:2/2C SÜTLÜCE MAHALLESİ ( JAPON OFİSLERİNİN ALTI ) HALİÇ ECZANESİ",
     "contract": true,
     "latitude": 41.0536957,
-    "longitude": 28.9444349
+    "longitude": 28.9444349,
+    "iletisim": "05366598996"
   },
   {
     "name": "BALIM ECZANESİ",
@@ -22200,7 +24420,8 @@ export const locations = [
     "address": "SELİMİYE MAH. HAREM İSKELESİ CAD. KUDRET PALAS APT. B BLOK NO:21/A",
     "contract": true,
     "latitude": 41.0301998,
-    "longitude": 28.9098376
+    "longitude": 28.9098376,
+    "iletisim": "05069716225"
   },
   {
     "name": "ALTUNAY ECZANESİ",
@@ -22210,7 +24431,8 @@ export const locations = [
     "address": "NERGİZ MAH. 2004. SOK. NO:3/A",
     "contract": true,
     "latitude": 38.4608249,
-    "longitude": 27.1051901
+    "longitude": 27.1051901,
+    "iletisim": "02323369280"
   },
   {
     "name": "MEFTUN ECZANESİ",
@@ -22220,7 +24442,8 @@ export const locations = [
     "address": "EMNİYET MAH. HİPODROM CAD. MERJEZ ANKARA M2 BLOK NO:61",
     "contract": true,
     "latitude": 39.9424281,
-    "longitude": 32.8347143
+    "longitude": 32.8347143,
+    "iletisim": "03122630053"
   },
   {
     "name": "İLKE ECZANESİ",
@@ -22230,7 +24453,8 @@ export const locations = [
     "address": "BOSTANCI MAH. BALKAN SOK. NO:6/A",
     "contract": true,
     "latitude": 40.9608543,
-    "longitude": 29.1038745
+    "longitude": 29.1038745,
+    "iletisim": "05399614046"
   },
   {
     "name": "ENES ECZANESİ",
@@ -22240,7 +24464,8 @@ export const locations = [
     "address": "KOCATEPE MAH. İNKILAP SOK. NO:22/E",
     "contract": true,
     "latitude": 39.9202458,
-    "longitude": 32.8570103
+    "longitude": 32.8570103,
+    "iletisim": "05461906332"
   },
   {
     "name": "BAYRAM ECZANESİ",
@@ -22250,7 +24475,8 @@ export const locations = [
     "address": "ÇAMTEPE MAH. MİTHAT PAŞA CAD. NO:241/A",
     "contract": true,
     "latitude": 38.3940847,
-    "longitude": 27.0105047
+    "longitude": 27.0105047,
+    "iletisim": "02322394939"
   },
   {
     "name": "FSM PLAZA ECZANESİ",
@@ -22260,7 +24486,8 @@ export const locations = [
     "address": "İHSANİYE MAH. FATİH SULTAN MEHMET BULV. NO:14/B/H-1",
     "contract": true,
     "latitude": 40.2168764,
-    "longitude": 28.9775719
+    "longitude": 28.9775719,
+    "iletisim": "02245032030"
   },
   {
     "name": "DAKA ECZANESİ",
@@ -22270,7 +24497,8 @@ export const locations = [
     "address": "BEŞKÖPRÜ MAH. ATATÜRK BULV. NO:120/A",
     "contract": true,
     "latitude": 36.839928,
-    "longitude": 28.763381
+    "longitude": 28.763381,
+    "iletisim": "02522822220"
   },
   {
     "name": "PLATİN ECZANESİ",
@@ -22280,7 +24508,8 @@ export const locations = [
     "address": "İSTİKLAL MAH. MUSTAFA KEMAL ATATÜRK CAD. NO:122/D",
     "contract": true,
     "latitude": 39.7744161,
-    "longitude": 30.5122845
+    "longitude": 30.5122845,
+    "iletisim": "02224087251"
   },
   {
     "name": "LOTUS ECZANESİ",
@@ -22290,7 +24519,8 @@ export const locations = [
     "address": "MEHMETÇİK MAH. EYYÜP CENAP GÜLPINAR BULV. 1FA",
     "contract": true,
     "latitude": 37.230878,
-    "longitude": 38.725776
+    "longitude": 38.725776,
+    "iletisim": "05075200055"
   },
   {
     "name": "BAHAR ECZANESİ",
@@ -22300,7 +24530,8 @@ export const locations = [
     "address": "ATAKENT MAH. ALEMDAĞ CAD. 374/A",
     "contract": true,
     "latitude": 41.0228443,
-    "longitude": 29.1130164
+    "longitude": 29.1130164,
+    "iletisim": "02124150510"
   },
   {
     "name": "NATURA ECZANESİ",
@@ -22310,7 +24541,8 @@ export const locations = [
     "address": "ATATÜRK MAH. GİRNE CAD. NO:42/A",
     "contract": true,
     "latitude": 40.9871966,
-    "longitude": 29.1316441
+    "longitude": 29.1316441,
+    "iletisim": "05418320633"
   },
   {
     "name": "UHUD ECZANESİ",
@@ -22320,7 +24552,8 @@ export const locations = [
     "address": "TOZKOPARAN MAH. KURUL SOK. NO:2/2F",
     "contract": true,
     "latitude": 41.0165118,
-    "longitude": 28.8959146
+    "longitude": 28.8959146,
+    "iletisim": "02124823747"
   },
   {
     "name": "BULVAR BEYTEPE ECZANESİ",
@@ -22330,7 +24563,8 @@ export const locations = [
     "address": "BEYTEPE MAH. KANUNİ SULTAN SÜLEYMAN BULV. NO:72/AF",
     "contract": true,
     "latitude": 39.871767,
-    "longitude": 32.7024114
+    "longitude": 32.7024114,
+    "iletisim": "05438780105"
   },
   {
     "name": "ATAKANBEY ECZANESİ",
@@ -22340,7 +24574,8 @@ export const locations = [
     "address": "İSTASYON MAH. CUMHURİYET CAD. NO:130/1",
     "contract": true,
     "latitude": 41.2797031,
-    "longitude": 36.3360667
+    "longitude": 36.3360667,
+    "iletisim": "03622335557"
   },
   {
     "name": "CEYDA ECZANESİ",
@@ -22350,7 +24585,8 @@ export const locations = [
     "address": "YALI MAH. 6418.SOK. NO:2/A",
     "contract": true,
     "latitude": 38.4706297,
-    "longitude": 27.0936524
+    "longitude": 27.0936524,
+    "iletisim": "02323303500"
   },
   {
     "name": "AYŞEM ECANESİ",
@@ -22360,7 +24596,8 @@ export const locations = [
     "address": "AŞAĞI EĞLENCE MAH. GENERAL DOKTOR TEVFİK SAĞLAM CAD. NO:65/B",
     "contract": true,
     "latitude": 39.9736749,
-    "longitude": 32.8419548
+    "longitude": 32.8419548,
+    "iletisim": "05300793850"
   },
   {
     "name": "DEVA ECZANESİ",
@@ -22370,7 +24607,8 @@ export const locations = [
     "address": "ERGENEKON MAH. ADNAN ERCAN CAD. NO:3/A",
     "contract": true,
     "latitude": 39.746797,
-    "longitude": 39.491124
+    "longitude": 39.491124,
+    "iletisim": "04462233323"
   },
   {
     "name": "NAR ECZANESİ",
@@ -22380,7 +24618,8 @@ export const locations = [
     "address": "ABDURRAHMANGAZİ MAH. EBUBEKİR CAD. NO:38 SAMANDIRA",
     "contract": true,
     "latitude": 40.9937775,
-    "longitude": 29.2317078
+    "longitude": 29.2317078,
+    "iletisim": "02165619907"
   },
   {
     "name": "OYA ECZANESİ",
@@ -22390,7 +24629,8 @@ export const locations = [
     "address": "KALABA MAH. SANATORYUM CAD. NO:222/D",
     "contract": true,
     "latitude": 39.9993906,
-    "longitude": 32.8569179
+    "longitude": 32.8569179,
+    "iletisim": "03123818818"
   },
   {
     "name": "NİSA KOÇAK ECZANESİ",
@@ -22400,7 +24640,8 @@ export const locations = [
     "address": "MÜCAHİTLER MAH. ALİ FUAT CEBESOY BULV. NO:70/B",
     "contract": true,
     "latitude": 37.0738803,
-    "longitude": 37.3620118
+    "longitude": 37.3620118,
+    "iletisim": "03423212626"
   },
   {
     "name": "ASLI ULAŞ ECZANESİ",
@@ -22410,7 +24651,8 @@ export const locations = [
     "address": "YENİBARAJ MAH. ŞEHİT YÜZBAŞI BÜLENT ANGIN BULV. NO:94/A",
     "contract": true,
     "latitude": 37.0265406,
-    "longitude": 35.3141274
+    "longitude": 35.3141274,
+    "iletisim": "03224581110"
   },
   {
     "name": "NEXT LEVEL ECZANESİ",
@@ -22420,7 +24662,8 @@ export const locations = [
     "address": "KIZILIRMAK MAH. DUMLUPINAR BULV. NEXT LEVEL AVM NO:48",
     "contract": true,
     "latitude": 39.911559,
-    "longitude": 32.811621
+    "longitude": 32.811621,
+    "iletisim": "05059385410"
   },
   {
     "name": "KARDELEN ECZANESİ",
@@ -22430,7 +24673,8 @@ export const locations = [
     "address": "AKARCA MAH. YERGUZLAR CAD. NO:30/C",
     "contract": true,
     "latitude": 36.6553815,
-    "longitude": 29.1226101
+    "longitude": 29.1226101,
+    "iletisim": "02525021928"
   },
   {
     "name": "YENİ KIŞLA ECZANESİ",
@@ -22440,7 +24684,8 @@ export const locations = [
     "address": "FIRAT MAH. PROF.DR. SEZAİ YILMAZ SOK. NO:13/A",
     "contract": true,
     "latitude": 38.344569,
-    "longitude": 38.3307969
+    "longitude": 38.3307969,
+    "iletisim": "05523234419"
   },
   {
     "name": "DERMAN ECZANESİ",
@@ -22450,7 +24695,8 @@ export const locations = [
     "address": "YAVUZ MAH. HÜKÜMET CAD. NO:123",
     "contract": true,
     "latitude": 40.9770273,
-    "longitude": 27.5086
+    "longitude": 27.5086,
+    "iletisim": "02822625876"
   },
   {
     "name": "DAMLA ECZANESİ",
@@ -22460,7 +24706,8 @@ export const locations = [
     "address": "ERTUĞRUL MAH. PEŞTEMALCİ CAD. NO:71/A",
     "contract": true,
     "latitude": 40.9758349,
-    "longitude": 27.509592
+    "longitude": 27.509592,
+    "iletisim": "02822625737"
   },
   {
     "name": "ESRA ECZANESİ",
@@ -22470,7 +24717,8 @@ export const locations = [
     "address": "HAYRETTİNPAŞA MAH. ATATÜRK BULV. 114/E",
     "contract": true,
     "latitude": 39.316794,
-    "longitude": 26.691338
+    "longitude": 26.691338,
+    "iletisim": "05325031065"
   },
   {
     "name": "HELİN ECZANESİ",
@@ -22480,7 +24728,8 @@ export const locations = [
     "address": "AYANOĞLU MAH. KIRŞEHİR CAD. NO:56/B",
     "contract": true,
     "latitude": 39.637405,
-    "longitude": 34.4656424
+    "longitude": 34.4656424,
+    "iletisim": "03545160505"
   },
   {
     "name": "BÜYÜK ÇARŞI ECZANESİ",
@@ -22490,7 +24739,8 @@ export const locations = [
     "address": "ERGENE MAH. 538.SOK. NO:17",
     "contract": true,
     "latitude": 38.466783,
-    "longitude": 27.2188529
+    "longitude": 27.2188529,
+    "iletisim": "05325525506"
   },
   {
     "name": "TUTKU ECZANESİ",
@@ -22500,7 +24750,8 @@ export const locations = [
     "address": "GÖKSU MAH. ATATÜRK BULV. NO:53/B",
     "contract": true,
     "latitude": 36.380385,
-    "longitude": 33.9330307
+    "longitude": 33.9330307,
+    "iletisim": "03247142756"
   },
   {
     "name": "ATASOY ECZANESİ",
@@ -22510,7 +24761,8 @@ export const locations = [
     "address": "HAL MAH. TURGUT ÖZAL BULV. NO:39",
     "contract": true,
     "latitude": 36.824552,
-    "longitude": 34.6544192
+    "longitude": 34.6544192,
+    "iletisim": "03242352726"
   },
   {
     "name": "SİBEL GULUZADE ECZANESİ",
@@ -22520,7 +24772,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. HALASKARGAZİ CAD. NO:87/D",
     "contract": true,
     "latitude": 41.0524407,
-    "longitude": 28.9871348
+    "longitude": 28.9871348,
+    "iletisim": "05326848092"
   },
   {
     "name": "GAMZE ECZANESİ",
@@ -22530,7 +24783,8 @@ export const locations = [
     "address": "BAŞAK MH. DELİORMAN CAD. VATANKENT SİTESİ J26 NO:1GC",
     "contract": true,
     "latitude": 41.1002211,
-    "longitude": 28.7993324
+    "longitude": 28.7993324,
+    "iletisim": "05464858881"
   },
   {
     "name": "KANDİLLİ AYŞE ECZANESİ",
@@ -22540,7 +24794,8 @@ export const locations = [
     "address": "KÜÇÜKSU MAH. RASATHANE CAD. NO:53/A İÇ KAPI NO:1 ÜSKÜDAR İSTANBUL",
     "contract": true,
     "latitude": 41.064482,
-    "longitude": 29.066385
+    "longitude": 29.066385,
+    "iletisim": "02163087070"
   },
   {
     "name": "NİLSU ECZANESİ",
@@ -22550,7 +24805,8 @@ export const locations = [
     "address": "KÜÇÜKBAKKALKÖY MAH. CENGİZTOPEL CAD. NO:38/A",
     "contract": true,
     "latitude": 40.9823973,
-    "longitude": 29.1193561
+    "longitude": 29.1193561,
+    "iletisim": "02165722829"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -22560,7 +24816,8 @@ export const locations = [
     "address": "CAMİ ATİK MAH. HÜRRİYET CAD. NO:1",
     "contract": true,
     "latitude": 40.8934499,
-    "longitude": 26.9042427
+    "longitude": 26.9042427,
+    "iletisim": "02323813135"
   },
   {
     "name": "NEVA ECZANESİ",
@@ -22570,7 +24827,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. MEŞECİK SOK. ALBAYRAK APT. NO:31/A",
     "contract": true,
     "latitude": 41.0189417,
-    "longitude": 29.0576298
+    "longitude": 29.0576298,
+    "iletisim": "03124362799"
   },
   {
     "name": "YENİ AYÇİN ECZANESİ",
@@ -22580,7 +24838,8 @@ export const locations = [
     "address": "YUKARI BAHÇELİEVLER MAH. ŞEHİT H.TEMEL KUĞUOĞLU CAD. NO:16/A",
     "contract": true,
     "latitude": 39.9242725,
-    "longitude": 32.8284527
+    "longitude": 32.8284527,
+    "iletisim": "03122122227"
   },
   {
     "name": "ÜNLÜ AKAY ECZANESİ",
@@ -22590,7 +24849,8 @@ export const locations = [
     "address": "KAVAKLIDERE MAH. TUNUS CAD. 10/E",
     "contract": true,
     "latitude": 39.9121698,
-    "longitude": 32.8553699
+    "longitude": 32.8553699,
+    "iletisim": "03124258555"
   },
   {
     "name": "KONYA ECZANESİ",
@@ -22600,7 +24860,8 @@ export const locations = [
     "address": "AYDOĞDU MAH. SÖĞÜTLÜ SOK. 77/B",
     "contract": true,
     "latitude": 37.859527,
-    "longitude": 32.4826369
+    "longitude": 32.4826369,
+    "iletisim": "03323228999"
   },
   {
     "name": "SAĞLIK ECZANESİ",
@@ -22610,7 +24871,8 @@ export const locations = [
     "address": "ULUOYMAK MAH. MEHMET ERSOY CAD. NO:6/1",
     "contract": true,
     "latitude": 38.988333,
-    "longitude": 29.3929415
+    "longitude": 29.3929415,
+    "iletisim": "02744124152"
   },
   {
     "name": "DOĞA ECZANESİ",
@@ -22620,7 +24882,8 @@ export const locations = [
     "address": "BULGURLU MAH. SÖĞÜTLÜÇAYIR CAD. NO:21AB",
     "contract": true,
     "latitude": 41.0162131,
-    "longitude": 29.0830996
+    "longitude": 29.0830996,
+    "iletisim": "05063565981"
   },
   {
     "name": "UYGUR ECZANESİ",
@@ -22630,7 +24893,8 @@ export const locations = [
     "address": "BARBAROS MAH. REFİK TULGA CAD. NO:3",
     "contract": true,
     "latitude": 38.4353135,
-    "longitude": 27.1831574
+    "longitude": 27.1831574,
+    "iletisim": "02325202898"
   },
   {
     "name": "EYLÜL ECZANESİ",
@@ -22640,7 +24904,8 @@ export const locations = [
     "address": "KIZILAY MAH. SÜMER 2.CAD NO:25/A",
     "contract": true,
     "latitude": 39.92172600000001,
-    "longitude": 32.84997
+    "longitude": 32.84997,
+    "iletisim": "03122299679"
   },
   {
     "name": "5 CADDE ECZANESİ",
@@ -22650,7 +24915,8 @@ export const locations = [
     "address": "İSTİKLAL MAH. 5.CAD. PLATİK PARK SİTESİ E BLOK NO:26/A",
     "contract": true,
     "latitude": 38.610366,
-    "longitude": 27.069658
+    "longitude": 27.069658,
+    "iletisim": "05360899111"
   },
   {
     "name": "NİLHAN ECZANESİ",
@@ -22660,7 +24926,8 @@ export const locations = [
     "address": "KIZILIRMAK MAH. 1450.SOK. NO:16/64",
     "contract": true,
     "latitude": 39.9014006,
-    "longitude": 32.8127296
+    "longitude": 32.8127296,
+    "iletisim": "03123121187"
   },
   {
     "name": "AYDIN ECZANESİ",
@@ -22670,7 +24937,8 @@ export const locations = [
     "address": "KURTULUŞ MAH. 2011.SOK. NO:3/C",
     "contract": true,
     "latitude": 37.84586729999999,
-    "longitude": 27.8431983
+    "longitude": 27.8431983,
+    "iletisim": "02562251346"
   },
   {
     "name": "GÜLGÜN ECZANESİ",
@@ -22680,7 +24948,8 @@ export const locations = [
     "address": "YÜZÜNCÜYIL MAH. 85112.SOK NO:48",
     "contract": true,
     "latitude": 37.0416259,
-    "longitude": 35.2524387
+    "longitude": 35.2524387,
+    "iletisim": "03222567071"
   },
   {
     "name": "FORMÜL ECZANESİ",
@@ -22690,7 +24959,8 @@ export const locations = [
     "address": "FULYA MAH. AKINCI BAYIRI SOK. CİCİ HAN NO:4/A",
     "contract": true,
     "latitude": 41.066275,
-    "longitude": 28.9973576
+    "longitude": 28.9973576,
+    "iletisim": "02123568235"
   },
   {
     "name": "METRO ECZANESİ",
@@ -22700,7 +24970,8 @@ export const locations = [
     "address": "HASANPAŞA MAH. FATİH BULV. NO:47/A",
     "contract": true,
     "latitude": 40.968504,
-    "longitude": 29.2532208
+    "longitude": 29.2532208,
+    "iletisim": "02163983980"
   },
   {
     "name": "BURCU ECZANESİ",
@@ -22710,7 +24981,8 @@ export const locations = [
     "address": "EĞİTİM MAH. ATA CD.5/1A",
     "contract": true,
     "latitude": 38.3946472,
-    "longitude": 27.0580616
+    "longitude": 27.0580616,
+    "iletisim": "03682617888"
   },
   {
     "name": "GÜRSOY ECZANESİ",
@@ -22720,7 +24992,8 @@ export const locations = [
     "address": "İNÖNÜ MAH. ÇEVRE SOK. MALATYA PARK AVM NO:4 Z/6",
     "contract": true,
     "latitude": 38.3553627,
-    "longitude": 38.33352470000001
+    "longitude": 38.33352470000001,
+    "iletisim": "05301640256"
   },
   {
     "name": "ZEYNEP EMRE ECZANESİ",
@@ -22730,7 +25003,8 @@ export const locations = [
     "address": "YENİ MAH. 8200/4 SOK. PARK YAŞAM ATAŞEHİR SİT. NO:1/J",
     "contract": true,
     "latitude": 38.49663899999999,
-    "longitude": 27.054788
+    "longitude": 27.054788,
+    "iletisim": "02322031977"
   },
   {
     "name": "YILDIZ ECZANESİ",
@@ -22740,7 +25014,8 @@ export const locations = [
     "address": "AŞAĞI EĞLENCE MAH. ULUDERE CAD. NO:6-8 E",
     "contract": true,
     "latitude": 39.968812,
-    "longitude": 32.839533
+    "longitude": 32.839533,
+    "iletisim": "03123231234"
   },
   {
     "name": "ASİL ECZANESİ",
@@ -22750,7 +25025,8 @@ export const locations = [
     "address": "FAKÜLTELER MAH. CEMAL GÜRSEL CAD. NO:81/C",
     "contract": true,
     "latitude": 39.9311783,
-    "longitude": 32.8752623
+    "longitude": 32.8752623,
+    "iletisim": "03125620202"
   },
   {
     "name": "ŞEBNEM ENİSE ECZANESİ",
@@ -22760,7 +25036,8 @@ export const locations = [
     "address": "BAĞLARBAŞI MAH. İSTASYON CAD. NO:204",
     "contract": true,
     "latitude": 40.76203659999999,
-    "longitude": 29.388904
+    "longitude": 29.388904,
+    "iletisim": "02627453464"
   },
   {
     "name": "MURAT ENGİN ECZANESİ",
@@ -22770,7 +25047,8 @@ export const locations = [
     "address": "KURTULUŞ MAH. HÜSEYİN TÜMER CAD. NO:65/B",
     "contract": true,
     "latitude": 40.1101934,
-    "longitude": 27.6528594
+    "longitude": 27.6528594,
+    "iletisim": "02667621825"
   },
   {
     "name": "FENER ECZANESİ",
@@ -22780,7 +25058,8 @@ export const locations = [
     "address": "FENERBAHÇE MAH. DR. FARUK AYANOĞLU CAD. 25/A",
     "contract": true,
     "latitude": 40.9732527,
-    "longitude": 29.0454885
+    "longitude": 29.0454885,
+    "iletisim": "02163569515"
   },
   {
     "name": "BAHÇELİEVLER ECZANESİ",
@@ -22790,7 +25069,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAH. 1601.SOK. NO:19/A",
     "contract": true,
     "latitude": 37.8904175,
-    "longitude": 41.1312271
+    "longitude": 41.1312271,
+    "iletisim": "04882126065"
   },
   {
     "name": "MERKEZ HAYAT ECZANESİ",
@@ -22800,7 +25080,8 @@ export const locations = [
     "address": "HASANPAŞA MAH. FATİH BULV. NO:33FP/F66",
     "contract": true,
     "latitude": 40.9701829,
-    "longitude": 29.2516407
+    "longitude": 29.2516407,
+    "iletisim": "02167665063"
   },
   {
     "name": "GÖKHAN ECZANESİ",
@@ -22810,7 +25091,8 @@ export const locations = [
     "address": "TOPÇULAR MAH. ŞEHİT KUBİLAY SOK. NO:8/A",
     "contract": true,
     "latitude": 41.0423455,
-    "longitude": 28.9228856
+    "longitude": 28.9228856,
+    "iletisim": "02126742172"
   },
   {
     "name": "LİLA ECZANESİ",
@@ -22820,7 +25102,8 @@ export const locations = [
     "address": "MALTEPE MAH. 324.SOK. BEYAZ REZİDANS-2 CBLOK NO:4/CG",
     "contract": true,
     "latitude": 41.0158998,
-    "longitude": 28.9039823
+    "longitude": 28.9039823,
+    "iletisim": "02125109570"
   },
   {
     "name": "GİZEM ECZANESİ",
@@ -22830,7 +25113,8 @@ export const locations = [
     "address": "CAMİKEBİR MAH. ELVANBEY SOK. NO:18/B",
     "contract": true,
     "latitude": 40.5103331,
-    "longitude": 30.2870185
+    "longitude": 30.2870185,
+    "iletisim": "05315878991"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -22840,7 +25124,8 @@ export const locations = [
     "address": "PİRİMEHMET MAH. 112.CAD. NO:8/1",
     "contract": true,
     "latitude": 37.7634009,
-    "longitude": 30.5542197
+    "longitude": 30.5542197,
+    "iletisim": "03247141116"
   },
   {
     "name": "AYTAÇ ECZANESİ",
@@ -22850,7 +25135,8 @@ export const locations = [
     "address": "PİRİMEHMET MAH. 1724.SOK. NO:6",
     "contract": true,
     "latitude": 37.7679479,
-    "longitude": 30.552114
+    "longitude": 30.552114,
+    "iletisim": "02462238125"
   },
   {
     "name": "GÜNDOĞAR ECZANESİ",
@@ -22860,7 +25146,8 @@ export const locations = [
     "address": "ÖZEVLER MAHALLESİ İVEDİK CADDESİ NO: 163/C",
     "contract": true,
     "latitude": 39.970152,
-    "longitude": 32.785029
+    "longitude": 32.785029,
+    "iletisim": "03123465046"
   },
   {
     "name": "CEM ECZANESİ",
@@ -22870,7 +25157,8 @@ export const locations = [
     "address": "ATAPARK MAHALLESİ AŞIK VEYSEL CADDESİ NO: 24/A",
     "contract": true,
     "latitude": 40.0057188,
-    "longitude": 32.8464925
+    "longitude": 32.8464925,
+    "iletisim": "03123821277"
   },
   {
     "name": "DİLEK ECZANESİ",
@@ -22880,7 +25168,8 @@ export const locations = [
     "address": "KARAMAN MAH. 1777 KÜME EVLER NO:1/14-16",
     "contract": true,
     "latitude": 40.788855,
-    "longitude": 30.405954
+    "longitude": 30.405954,
+    "iletisim": "02642212545"
   },
   {
     "name": "DİLA ECZANESİ",
@@ -22890,7 +25179,8 @@ export const locations = [
     "address": "BURHANİYE MAH. ÇAMLICA CAD. NO:101/A",
     "contract": true,
     "latitude": 41.0332361,
-    "longitude": 29.050954
+    "longitude": 29.050954,
+    "iletisim": "02165216120"
   },
   {
     "name": "YENİ AYSUN ECZANESİ",
@@ -22900,7 +25190,8 @@ export const locations = [
     "address": "OSMANGAZİ MAH. ATLILAR CAD. NO:7/12",
     "contract": true,
     "latitude": 40.0076828,
-    "longitude": 32.857107
+    "longitude": 32.857107,
+    "iletisim": "03125808082"
   },
   {
     "name": "TUNA ECZANESİ",
@@ -22910,7 +25201,8 @@ export const locations = [
     "address": "ZUHURATBABA MAH. İNCİRLİ CAD. 21/A",
     "contract": true,
     "latitude": 40.9844841,
-    "longitude": 28.8721557
+    "longitude": 28.8721557,
+    "iletisim": "02126326254"
   },
   {
     "name": "MERKEZ ECZANESİ",
@@ -22920,7 +25212,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. UZUN ÇARŞI SOK. NO:35/A",
     "contract": true,
     "latitude": 40.779473,
-    "longitude": 30.401215
+    "longitude": 30.401215,
+    "iletisim": "02642790801"
   },
   {
     "name": "KOZYATAĞI CEM ECZANESİ",
@@ -22930,7 +25223,8 @@ export const locations = [
     "address": "KOZYATAĞI MAH. BAYAR CAD. ANADOLU SİT. A BLOK NO:38/B",
     "contract": true,
     "latitude": 41.0304667,
-    "longitude": 28.9093733
+    "longitude": 28.9093733,
+    "iletisim": "02163620082"
   },
   {
     "name": "HAYAT ECZANESİ",
@@ -22940,7 +25234,8 @@ export const locations = [
     "address": "AKSOY MAH. 1735.SOK NO:64",
     "contract": true,
     "latitude": 38.45630329999999,
-    "longitude": 27.1108677
+    "longitude": 27.1108677,
+    "iletisim": "02323813135"
   },
   {
     "name": "SEFERİHİSAR ECZANESİ",
@@ -22950,7 +25245,8 @@ export const locations = [
     "address": "CAMİKEBİR MAH. 48.SOK NO:5/A",
     "contract": true,
     "latitude": 38.1954905,
-    "longitude": 26.837173
+    "longitude": 26.837173,
+    "iletisim": "05368822952"
   },
   {
     "name": "DENİZ ECZANESİ",
@@ -22960,7 +25256,8 @@ export const locations = [
     "address": "KÜÇÜKKÖY MAH. MARAŞAL FEVZİ ÇAKMAK BULV. NO:3/A",
     "contract": true,
     "latitude": 39.3182961,
-    "longitude": 26.6978556
+    "longitude": 26.6978556,
+    "iletisim": "02663241355"
   },
   {
     "name": "ELİF ECZANESİ",
@@ -22970,7 +25267,8 @@ export const locations = [
     "address": "HACI İLYAS MAH. ULUSAL EGEMENLİK CAD. NO:15/D",
     "contract": true,
     "latitude": 37.3127803,
-    "longitude": 27.7795185
+    "longitude": 27.7795185,
+    "iletisim": "02525137133"
   },
   {
     "name": "EGE ARAS ECZANESİ",
@@ -22980,7 +25278,8 @@ export const locations = [
     "address": "ÇAMLIK MAH. 415/1 SOK. NO:3/A",
     "contract": true,
     "latitude": 38.3999268,
-    "longitude": 27.154669
+    "longitude": 27.154669,
+    "iletisim": "02324878748"
   },
   {
     "name": "YALI ECZANESİ",
@@ -22990,7 +25289,8 @@ export const locations = [
     "address": "YALI MAH. İSTİKBAL CAD. NO:28/A",
     "contract": true,
     "latitude": 38.3763592,
-    "longitude": 26.8918299
+    "longitude": 26.8918299,
+    "iletisim": "02322340734"
   },
   {
     "name": "GÜZELBAHÇE SAĞLIK ECZANESİ",
@@ -23000,7 +25300,8 @@ export const locations = [
     "address": "YALI MAH. MİTHAT PAŞA CAD. NO:126/B",
     "contract": true,
     "latitude": 38.3779028,
-    "longitude": 26.8899627
+    "longitude": 26.8899627,
+    "iletisim": "02322341713"
   },
   {
     "name": "OCAK ECZANESİ",
@@ -23010,7 +25311,8 @@ export const locations = [
     "address": "SAHABİYE MAH. BOYLAR SOK. 38/B",
     "contract": true,
     "latitude": 38.726437,
-    "longitude": 35.4905599
+    "longitude": 35.4905599,
+    "iletisim": "05449192537"
   },
   {
     "name": "AKICI ECZANESİ",
@@ -23020,7 +25322,8 @@ export const locations = [
     "address": "ÇOLAK İBRAHİM BEY MAH. 91.SOK. NO:19/H",
     "contract": true,
     "latitude": 38.3835913,
-    "longitude": 27.1733072
+    "longitude": 27.1733072,
+    "iletisim": "02322024468"
   },
   {
     "name": "BETÜLAY ECZANESİ",
@@ -23030,7 +25333,8 @@ export const locations = [
     "address": "İSTİKLAL MAH. DEMİRCİLER SOK. 10/B",
     "contract": true,
     "latitude": 39.7717576,
-    "longitude": 30.5158192
+    "longitude": 30.5158192,
+    "iletisim": "02224064626"
   },
   {
     "name": "GÜVEN ECZANESİ",
@@ -23040,7 +25344,8 @@ export const locations = [
     "address": "ŞEHİT OSMAN AVCI MAH. MALAZGİRT 1071.CAD. GÖKSU PRESTİJ SİT. NO:50A/21",
     "contract": true,
     "latitude": 39.978497,
-    "longitude": 32.6531763
+    "longitude": 32.6531763,
+    "iletisim": "03122802411"
   },
   {
     "name": "GÜNEŞ ECZANESİ",
@@ -23050,7 +25355,8 @@ export const locations = [
     "address": "KURUÇEŞME MAH. AHMET PİRİŞTİNA BULV. NO:84/A",
     "contract": true,
     "latitude": 38.3698871,
-    "longitude": 27.1935907
+    "longitude": 27.1935907,
+    "iletisim": "02322275349"
   },
   {
     "name": "ECE ECZANESİ",
@@ -23060,7 +25366,8 @@ export const locations = [
     "address": "HAMİDİYE MAH. FATİH CAD. NO:78/B",
     "contract": true,
     "latitude": 41.4308282,
-    "longitude": 27.0908591
+    "longitude": 27.0908591,
+    "iletisim": "02885120003"
   },
   {
     "name": "CANKAT ECZANESİ",
@@ -23070,7 +25377,8 @@ export const locations = [
     "address": "BARBAROS MAH. MÜTEVELLİ ÇEŞME CAD. ATAYURT SİT. 29/H",
     "contract": true,
     "latitude": 41.0140311,
-    "longitude": 29.0343208
+    "longitude": 29.0343208,
+    "iletisim": "02167598539"
   },
   {
     "name": "NEVA ECZANESİ",
@@ -23080,7 +25388,8 @@ export const locations = [
     "address": "MUHSİN ERTUĞRUL MAH. BELLİGÜN CAD. NO:12/C",
     "contract": true,
     "latitude": 39.9068976,
-    "longitude": 32.8696438
+    "longitude": 32.8696438,
+    "iletisim": "03124362799"
   },
   {
     "name": "POLAT ECZANESİ",
@@ -23090,7 +25399,8 @@ export const locations = [
     "address": "RAMİ CUMA MAH. BAĞLAR CAD. NO:5/A",
     "contract": true,
     "latitude": 41.04925739999999,
-    "longitude": 28.920565
+    "longitude": 28.920565,
+    "iletisim": "02123020443"
   },
   {
     "name": "KÖYMEN ECZANESİ",
@@ -23100,7 +25410,8 @@ export const locations = [
     "address": "AKINCILAR MAH. HÜRRİYET CAD. PASAJ NO:16/C",
     "contract": true,
     "latitude": 38.2302764,
-    "longitude": 27.971047
+    "longitude": 27.971047,
+    "iletisim": "02325442581"
   },
   {
     "name": "KARACA ECZANESİ",
@@ -23110,7 +25421,8 @@ export const locations = [
     "address": "BÜYÜKESAT MAH. UĞUR MUMCU CAD. NO:63/8",
     "contract": true,
     "latitude": 39.8937664,
-    "longitude": 32.8763785
+    "longitude": 32.8763785,
+    "iletisim": "03129990198"
   },
   {
     "name": "ŞİRİN ECZANESİ",
@@ -23120,7 +25432,8 @@ export const locations = [
     "address": "ŞENLİK MAH. DÜZ SOK. NO:60/H",
     "contract": true,
     "latitude": 39.999116,
-    "longitude": 32.870932
+    "longitude": 32.870932,
+    "iletisim": "03123392228"
   },
   {
     "name": "HACETTEPE ECZANESİ",
@@ -23130,7 +25443,8 @@ export const locations = [
     "address": "ATATÜRK MAH. AKTER SOK. NO:111",
     "contract": true,
     "latitude": 41.25195120000001,
-    "longitude": 32.6843758
+    "longitude": 32.6843758,
+    "iletisim": "03707253292"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -23140,7 +25454,8 @@ export const locations = [
     "address": "İZZETBEY MAH. HÜKÜMET CAD. NO:6/A",
     "contract": true,
     "latitude": 37.571023,
-    "longitude": 32.7831974
+    "longitude": 32.7831974,
+    "iletisim": "03247141116"
   },
   {
     "name": "BOTANİK ECZANESİ",
@@ -23150,7 +25465,8 @@ export const locations = [
     "address": "KAYABAŞI MAH. EVLİYA ÇELEBİ CAD. PARK MAREŞAL SİT. NO:3F/10ED",
     "contract": true,
     "latitude": 41.1152798,
-    "longitude": 28.7702762
+    "longitude": 28.7702762,
+    "iletisim": "02128095154"
   },
   {
     "name": "İNCİRLİ ZEHRA ECZANESİ",
@@ -23160,7 +25476,8 @@ export const locations = [
     "address": "İNCİRLİ MAH. YUNUS EMRE CAD. NO:61/A",
     "contract": true,
     "latitude": 39.9796988,
-    "longitude": 32.8462897
+    "longitude": 32.8462897,
+    "iletisim": "03123229299"
   },
   {
     "name": "ÜNİVERSİTE ECZANESİ",
@@ -23170,7 +25487,8 @@ export const locations = [
     "address": "HARBİYE MAH. HÜRRİYET CAD. NO:21/A",
     "contract": true,
     "latitude": 39.8928401,
-    "longitude": 32.8367235
+    "longitude": 32.8367235,
+    "iletisim": "03124800507"
   },
   {
     "name": "CUMHURİYET ECZANESİ",
@@ -23180,7 +25498,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. BAĞLARİÇİ SOK. NO:4/A",
     "contract": true,
     "latitude": 41.0217152,
-    "longitude": 29.0815915
+    "longitude": 29.0815915,
+    "iletisim": "02167472232"
   },
   {
     "name": "EMİN ECZANESİ",
@@ -23190,7 +25509,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. BİLGİÇ SOK. NO:1",
     "contract": true,
     "latitude": 41.053765,
-    "longitude": 28.982843
+    "longitude": 28.982843,
+    "iletisim": "02123439637"
   },
   {
     "name": "SÜRÜCÜ ECZANESİ",
@@ -23200,7 +25520,8 @@ export const locations = [
     "address": "TOROS MAH. ŞEHİTLER BULV. NO:79/B",
     "contract": true,
     "latitude": 37.0424905,
-    "longitude": 35.3023154
+    "longitude": 35.3023154,
+    "iletisim": "05378727326"
   },
   {
     "name": "NİMET ECZANESİ",
@@ -23210,7 +25531,8 @@ export const locations = [
     "address": "AZİZİYE MAH. 932.SOK. NO:12/A",
     "contract": true,
     "latitude": 40.84229029999999,
-    "longitude": 31.1352747
+    "longitude": 31.1352747,
+    "iletisim": "03805236505"
   },
   {
     "name": "VATAN ECZANESİ",
@@ -23220,7 +25542,8 @@ export const locations = [
     "address": "İSMETPAŞA MAH. HASTANE 1.SOK. NO:32/B",
     "contract": true,
     "latitude": 41.561959,
-    "longitude": 35.905686
+    "longitude": 35.905686,
+    "iletisim": "03625321725"
   },
   {
     "name": "AHENK ECZANESİ",
@@ -23230,7 +25553,8 @@ export const locations = [
     "address": "YALI MAH. İSTİKBAL CAD. NO:19/B",
     "contract": true,
     "latitude": 38.3771549,
-    "longitude": 26.8922952
+    "longitude": 26.8922952,
+    "iletisim": "02326081108"
   },
   {
     "name": "GÜNEŞLİ ECZANESİ",
@@ -23240,7 +25564,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. ATATÜRK. CAD. NO:3/A",
     "contract": true,
     "latitude": 36.6480887,
-    "longitude": 29.3626785
+    "longitude": 29.3626785,
+    "iletisim": "02526561400"
   },
   {
     "name": "SENA ECZANESİ",
@@ -23250,7 +25575,8 @@ export const locations = [
     "address": "BALGAT MAH. ZİYABEY CAD. NO:14/A",
     "contract": true,
     "latitude": 39.9112345,
-    "longitude": 32.8204326
+    "longitude": 32.8204326,
+    "iletisim": "03125027362"
   },
   {
     "name": "BUSE UYSAL ECZANESİ",
@@ -23260,7 +25586,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. HASTANE CAD. NO:14/A",
     "contract": true,
     "latitude": 36.2722433,
-    "longitude": 32.308825
+    "longitude": 32.308825,
+    "iletisim": "05326268864"
   },
   {
     "name": "İSTANBUL FİNANS MERKEZİ ECZANESİ",
@@ -23270,7 +25597,8 @@ export const locations = [
     "address": "FİNANSKENT MAH. FİNANS CAD. NO:2/C",
     "contract": true,
     "latitude": 41.0051484,
-    "longitude": 29.1056608
+    "longitude": 29.1056608,
+    "iletisim": "02165044464"
   },
   {
     "name": "ESİN ECZANESİ",
@@ -23280,7 +25608,8 @@ export const locations = [
     "address": "ŞİFA MAH. İNÖNÜ CAD. 73/B",
     "contract": true,
     "latitude": 40.8277168,
-    "longitude": 29.3572161
+    "longitude": 29.3572161,
+    "iletisim": "05388416297"
   },
   {
     "name": "AYAYDIN ECZANESİ",
@@ -23290,7 +25619,8 @@ export const locations = [
     "address": "TALAYTEPE MAH. 4007.SOK. NO:15/DF",
     "contract": true,
     "latitude": 37.962833,
-    "longitude": 40.1214621
+    "longitude": 40.1214621,
+    "iletisim": "05075602100"
   },
   {
     "name": "KUL ECZANESİ",
@@ -23300,7 +25630,8 @@ export const locations = [
     "address": "GİRNE MAH. BAŞÖĞRETMEN CAD. NO:27/B",
     "contract": true,
     "latitude": 40.9400871,
-    "longitude": 29.1421761
+    "longitude": 29.1421761,
+    "iletisim": "02163705251"
   },
   {
     "name": "ARZU ECZANESİ",
@@ -23310,7 +25641,8 @@ export const locations = [
     "address": "ORTA MAH. SU TERAZİSİ SOK. NO:21/A",
     "contract": true,
     "latitude": 41.6325535,
-    "longitude": 32.3383835
+    "longitude": 32.3383835,
+    "iletisim": "03782281128"
   },
   {
     "name": "CUBES ÇUKURAMBAR ECZANESİ",
@@ -23320,7 +25652,8 @@ export const locations = [
     "address": "ÇUKURAMBAR MAH. 1424.CAD. B2BLOK NO:6/2-7 CUBES PLAZA",
     "contract": true,
     "latitude": 39.9030034,
-    "longitude": 32.8068514
+    "longitude": 32.8068514,
+    "iletisim": "05370224082"
   },
   {
     "name": "ERKEN ECZANESİ",
@@ -23330,7 +25663,8 @@ export const locations = [
     "address": "BASIN SİTESİ MAH. İNÖNÜ CAD. NO:427/C",
     "contract": true,
     "latitude": 38.401141,
-    "longitude": 27.099531
+    "longitude": 27.099531,
+    "iletisim": "02322311161"
   },
   {
     "name": "OKSİJEN ECZANESİ",
@@ -23340,7 +25674,8 @@ export const locations = [
     "address": "ÖRNEKKÖY MAH. 1847.SOK. NO:30/A",
     "contract": true,
     "latitude": 38.4755774,
-    "longitude": 27.1112554
+    "longitude": 27.1112554,
+    "iletisim": "02323663565"
   },
   {
     "name": "RABİA AY ECZANESİ",
@@ -23350,7 +25685,8 @@ export const locations = [
     "address": "BAHÇELİEVLER MAH. 156.CAD. NO:3-13 İYAŞPARK AVM",
     "contract": true,
     "latitude": 37.7816317,
-    "longitude": 30.5445218
+    "longitude": 30.5445218,
+    "iletisim": "05550071995"
   },
   {
     "name": "ARIKAN ECZANESİ",
@@ -23360,7 +25696,8 @@ export const locations = [
     "address": "IŞIKLAR MAH. KOCAMANOĞLU CAD. NO:2/8",
     "contract": true,
     "latitude": 37.41496530000001,
-    "longitude": 41.3739581
+    "longitude": 41.3739581,
+    "iletisim": "04824641025"
   },
   {
     "name": "FINDIKLI ECZANESİ",
@@ -23370,7 +25707,8 @@ export const locations = [
     "address": "FINDIKLI MAH. ÇINAR CAD. NO:13/A",
     "contract": true,
     "latitude": 40.9699526,
-    "longitude": 29.1397126
+    "longitude": 29.1397126,
+    "iletisim": "02167665170"
   },
   {
     "name": "HACETTEPE CEREN ECZANESİ",
@@ -23380,7 +25718,8 @@ export const locations = [
     "address": "SAĞLIK MAH. CELAL BAYAR BULV. NO:19",
     "contract": true,
     "latitude": 39.928863,
-    "longitude": 32.8594964
+    "longitude": 32.8594964,
+    "iletisim": "05331683333"
   },
   {
     "name": "GÜLHANE ECZANESİ",
@@ -23390,7 +25729,8 @@ export const locations = [
     "address": "OSMANAĞA MAH. SÖĞÜTLÜÇEŞME CAD. NO:21/B",
     "contract": true,
     "latitude": 40.9910632,
-    "longitude": 29.0269747
+    "longitude": 29.0269747,
+    "iletisim": "02163381297"
   },
   {
     "name": "TEMMUZ ECZANESİ",
@@ -23400,7 +25740,8 @@ export const locations = [
     "address": "TOPRAKLIK MAH. 630.SOK. NO:25/F",
     "contract": true,
     "latitude": 37.7848783,
-    "longitude": 29.0897046
+    "longitude": 29.0897046,
+    "iletisim": "05455632020"
   },
   {
     "name": "ÖMER ECZANESİ",
@@ -23410,7 +25751,8 @@ export const locations = [
     "address": "BULGURLU MAH. ALEMDAĞ CAD. ADAKLI SİT. NO:102/AB",
     "contract": true,
     "latitude": 41.0187259,
-    "longitude": 29.0794468
+    "longitude": 29.0794468,
+    "iletisim": "02164612691"
   },
   {
     "name": "İNCESU TARMAN ECZANESİ",
@@ -23420,7 +25762,8 @@ export const locations = [
     "address": "ÖN CEBECİ MAH. MAHMUT ESAT BOZKURT CAD. NO:25/A",
     "contract": true,
     "latitude": 39.92218159999999,
-    "longitude": 32.8647948
+    "longitude": 32.8647948,
+    "iletisim": "03124316580"
   },
   {
     "name": "NOTA ECZANESİ",
@@ -23430,7 +25773,8 @@ export const locations = [
     "address": "BAHRİYE ÜÇOK MAH. GİRNE BULVARI NO:166/A",
     "contract": true,
     "latitude": 38.464236,
-    "longitude": 27.1088724
+    "longitude": 27.1088724,
+    "iletisim": "02323651404"
   },
   {
     "name": "IŞILAY ECZANESİ",
@@ -23440,7 +25784,8 @@ export const locations = [
     "address": "ÖZERLER MAH. FATİH CAD. TORKAN İŞ MERKEZİ NO:14/A",
     "contract": true,
     "latitude": 41.4075843,
-    "longitude": 27.3535681
+    "longitude": 27.3535681,
+    "iletisim": "02884174534"
   },
   {
     "name": "MERSİN ECZANESİ",
@@ -23450,7 +25795,8 @@ export const locations = [
     "address": "İHSANİYE MAH. KUVAİ MİLLİYE CAD. AKARSU PLAZA NO:109/F",
     "contract": true,
     "latitude": 15.454166,
-    "longitude": 18.732207
+    "longitude": 18.732207,
+    "iletisim": "03243371017"
   },
   {
     "name": "SEVGİ ECZANESİ",
@@ -23460,7 +25806,8 @@ export const locations = [
     "address": "YENİÇİFTLİK MAH. ATATÜRK 36 SOK. NO:1/B",
     "contract": true,
     "latitude": 41.0101523,
-    "longitude": 27.8428651
+    "longitude": 27.8428651,
+    "iletisim": "02825056404"
   },
   {
     "name": "SELİN SATAR ECZANESİ",
@@ -23470,7 +25817,8 @@ export const locations = [
     "address": "KARAAĞAÇ KONARLI MAH. UĞUR MUMCU 9.CAD. NO:351",
     "contract": true,
     "latitude": 36.5762669,
-    "longitude": 36.1409616
+    "longitude": 36.1409616,
+    "iletisim": "03266160506"
   },
   {
     "name": "TAYLI ECZANESİ",
@@ -23480,7 +25828,8 @@ export const locations = [
     "address": "BEYMELEK MAH. ÇAYBAŞI SOK. NO:6/A",
     "contract": true,
     "latitude": 36.2418989,
-    "longitude": 30.016199
+    "longitude": 30.016199,
+    "iletisim": "02428721676"
   },
   {
     "name": "ODABAŞ ECZANESİ",
@@ -23490,7 +25839,8 @@ export const locations = [
     "address": "BUHARAEVLER MAH. DR. SADIK AHMET CAD. NO:66/A",
     "contract": true,
     "latitude": 40.570435,
-    "longitude": 34.945544
+    "longitude": 34.945544,
+    "iletisim": "05074272019"
   },
   {
     "name": "BİLGE ECZANESİ",
@@ -23500,7 +25850,8 @@ export const locations = [
     "address": "YAYLA MAH. ALİ İHSAN PAŞA CAD. NO:35/A",
     "contract": true,
     "latitude": 40.8281431,
-    "longitude": 29.3082153
+    "longitude": 29.3082153,
+    "iletisim": "02164468206"
   },
   {
     "name": "ZÜLKADİROĞLU ECZANESİ",
@@ -23510,7 +25861,8 @@ export const locations = [
     "address": "BELEDİYE EVLERİ MAH. DOKTOR SADIK AHMET BULV. NO:81-82",
     "contract": true,
     "latitude": 37.0467799,
-    "longitude": 35.2538569
+    "longitude": 35.2538569,
+    "iletisim": "05079909999"
   },
   {
     "name": "TEVHİD ECZANESİ",
@@ -23520,7 +25872,8 @@ export const locations = [
     "address": "İSKENDERPAŞA MAH. KIZTAŞI CAD. GÜRSOY İŞHANI NO:7/B",
     "contract": true,
     "latitude": 41.015634,
-    "longitude": 28.9503601
+    "longitude": 28.9503601,
+    "iletisim": "05059983339"
   },
   {
     "name": "POLATKAN ECZANESİ",
@@ -23530,7 +25883,8 @@ export const locations = [
     "address": "SELAHADDİN EYYÜBİ MAH. 224.SOK. NO:1/7B",
     "contract": true,
     "latitude": 37.1689131,
-    "longitude": 38.7983161
+    "longitude": 38.7983161,
+    "iletisim": "05324101767"
   },
   {
     "name": "RÜMEYSA ECZANESİ",
@@ -23540,7 +25894,8 @@ export const locations = [
     "address": "AŞKAN MAH. HALİL ÇAVUŞ SOK. NO:7A",
     "contract": true,
     "latitude": 37.8663903,
-    "longitude": 32.4488125
+    "longitude": 32.4488125,
+    "iletisim": "05064618734"
   },
   {
     "name": "AKKAYA ECZANESİ",
@@ -23550,7 +25905,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. UĞUR MUMCU CAD. NO:22/A",
     "contract": true,
     "latitude": 38.6742286,
-    "longitude": 29.4058825
+    "longitude": 29.4058825,
+    "iletisim": "02762163836"
   },
   {
     "name": "BEŞİKTAŞ ECZANESİ",
@@ -23560,7 +25916,8 @@ export const locations = [
     "address": "CİHANNÜMA MAH. BARBAROS BULV. NO:35/A",
     "contract": true,
     "latitude": 41.0455117,
-    "longitude": 29.007125
+    "longitude": 29.007125,
+    "iletisim": "02128308640"
   },
   {
     "name": "AKBAY ECZANESİ",
@@ -23570,7 +25927,8 @@ export const locations = [
     "address": "HAMİTABAT MAH. MEHMET YAVAŞ CAD. NO:17",
     "contract": true,
     "latitude": 37.6154749,
-    "longitude": 28.0586873
+    "longitude": 28.0586873,
+    "iletisim": "02567116373"
   },
   {
     "name": "KÜÇÜKESAT ECZANESİ",
@@ -23580,7 +25938,8 @@ export const locations = [
     "address": "BARBAROS MAH. ESAT CAD. NO:66/D",
     "contract": true,
     "latitude": 39.9095452,
-    "longitude": 32.862874
+    "longitude": 32.862874,
+    "iletisim": "03124189023"
   },
   {
     "name": "CANSU KAHRAMAN ECZANESİ",
@@ -23590,7 +25949,8 @@ export const locations = [
     "address": "OSMANAĞA MAH. GENERAL ASIM GÜNDÜZ CAD. NO:44/A",
     "contract": true,
     "latitude": 40.9885787,
-    "longitude": 29.0285594
+    "longitude": 29.0285594,
+    "iletisim": "02164145444"
   },
   {
     "name": "FLORA ECZANESİ",
@@ -23600,7 +25960,8 @@ export const locations = [
     "address": "23 NİSAN MAH. KÖROĞLU CAD. NO:5B/B",
     "contract": true,
     "latitude": 40.2175528,
-    "longitude": 28.9452026
+    "longitude": 28.9452026,
+    "iletisim": "05395163222"
   },
   {
     "name": "NAR AĞACI ECZANESİ",
@@ -23610,7 +25971,8 @@ export const locations = [
     "address": "FENERYOLU MAH. FAHRETTİN KERİM GÖKAY CAD. NO:68/A",
     "contract": true,
     "latitude": 40.986441,
-    "longitude": 29.046634
+    "longitude": 29.046634,
+    "iletisim": "02168041002"
   },
   {
     "name": "BAHAR ECZANESİ",
@@ -23620,7 +25982,8 @@ export const locations = [
     "address": "MALTEPE MAH. BEGONYA SOK. 1F/C",
     "contract": true,
     "latitude": 40.9994233,
-    "longitude": 29.096303
+    "longitude": 29.096303,
+    "iletisim": "02124150510"
   },
   {
     "name": "DOĞAN ECZANESİ",
@@ -23630,7 +25993,8 @@ export const locations = [
     "address": "İSMETPAŞA MAH. İNÖNÜ CAD. NO:4/B",
     "contract": true,
     "latitude": 41.221412,
-    "longitude": 31.95446699999999
+    "longitude": 31.95446699999999,
+    "iletisim": "03725561088"
   },
   {
     "name": "ALTINKUM ECZANESİ",
@@ -23640,7 +26004,8 @@ export const locations = [
     "address": "NERGİZ MAH. 1775/2. SOK. NO:8/A",
     "contract": true,
     "latitude": 38.46230500000001,
-    "longitude": 27.104886
+    "longitude": 27.104886,
+    "iletisim": "02325043334"
   },
   {
     "name": "29 EKİM ECZANESİ",
@@ -23650,7 +26015,8 @@ export const locations = [
     "address": "MEHMET AKİF ERSOY MAH. 29 EKİM BULV. NO:40/A D:9",
     "contract": true,
     "latitude": 37.780189,
-    "longitude": 29.065357
+    "longitude": 29.065357,
+    "iletisim": "02585023470"
   },
   {
     "name": "MELİS HANLI ECZANESİ",
@@ -23660,7 +26026,8 @@ export const locations = [
     "address": "ERENKÖY MAH. ÖMER PAŞA SOK. NO:54/A",
     "contract": true,
     "latitude": 40.9742092,
-    "longitude": 29.0704962
+    "longitude": 29.0704962,
+    "iletisim": "02165507777"
   },
   {
     "name": "BURCU ECZANESİ",
@@ -23670,7 +26037,8 @@ export const locations = [
     "address": "MEYDANKAPI MAH. İTFAİYE CAD. NO:3",
     "contract": true,
     "latitude": 42.0267876,
-    "longitude": 35.1504133
+    "longitude": 35.1504133,
+    "iletisim": "03682617888"
   },
   {
     "name": "AŞIROĞLU ECZANESİ",
@@ -23680,7 +26048,8 @@ export const locations = [
     "address": "BAYRAMOĞLU MAH. FATİH SULTAN MEHMET CAD. NO:172/A",
     "contract": true,
     "latitude": 40.7894268,
-    "longitude": 29.3663311
+    "longitude": 29.3663311,
+    "iletisim": "02626535361"
   },
   {
     "name": "ŞİFA ECZANESİ",
@@ -23690,7 +26059,8 @@ export const locations = [
     "address": "SARICALAR MAH. TÜRKMENLİ SOK. NO:3/12",
     "contract": true,
     "latitude": 36.3891227,
-    "longitude": 33.9499154
+    "longitude": 33.9499154,
+    "iletisim": "03247141116"
   },
   {
     "name": "DERYA ECZANESİ",
@@ -23700,7 +26070,8 @@ export const locations = [
     "address": "EGE MAH. 470.SOK. 22/BD",
     "contract": true,
     "latitude": 37.86156769999999,
-    "longitude": 27.2881858
+    "longitude": 27.2881858,
+    "iletisim": "02566180508"
   },
   {
     "name": "SU ECZANESİ",
@@ -23710,7 +26081,8 @@ export const locations = [
     "address": "KIZILAY MAH. KUMRULAR CAD. NO:16/A",
     "contract": true,
     "latitude": 39.9204164,
-    "longitude": 32.8500328
+    "longitude": 32.8500328,
+    "iletisim": "03124186654"
   },
   {
     "name": "PARÇAL ECZANESİ",
@@ -23720,7 +26092,8 @@ export const locations = [
     "address": "BEYTEPE MAH. KANUNİ SULTAN SÜLEYMAN BULV. NO:67/AJ",
     "contract": true,
     "latitude": 39.8700594,
-    "longitude": 32.7044222
+    "longitude": 32.7044222,
+    "iletisim": "03129790081"
   },
   {
     "name": "YENİŞEHİR ELİF ECZANESİ",
@@ -23730,7 +26103,8 @@ export const locations = [
     "address": "SİTE MAH. ATAY CAD. NO:96/B",
     "contract": true,
     "latitude": 41.008719,
-    "longitude": 29.109444
+    "longitude": 29.109444,
+    "iletisim": "02165336489"
   },
   {
     "name": "HUZUR ECZANESİ",
@@ -23740,7 +26114,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. MENDERES CAD. NO:49/B",
     "contract": true,
     "latitude": 38.4828699,
-    "longitude": 28.1507837
+    "longitude": 28.1507837,
+    "iletisim": "02367162626"
   },
   {
     "name": "PAPATYA ECZANESİ",
@@ -23750,7 +26125,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. MENDERES CAD. NO:43/",
     "contract": true,
     "latitude": 38.4836319,
-    "longitude": 28.1507695
+    "longitude": 28.1507695,
+    "iletisim": "02367131991"
   },
   {
     "name": "KEKİK ECZANESİ",
@@ -23760,7 +26136,8 @@ export const locations = [
     "address": "KAYIŞDAĞI MAH. RACİ CAD. NO:3/A",
     "contract": true,
     "latitude": 40.987829,
-    "longitude": 29.14465209999999
+    "longitude": 29.14465209999999,
+    "iletisim": "02164209678"
   },
   {
     "name": "VERA ECZANESİ",
@@ -23770,7 +26147,8 @@ export const locations = [
     "address": "ODUNLUK MAH. LEFKOŞE CAD. NO:1/E",
     "contract": true,
     "latitude": 40.2088407,
-    "longitude": 28.9926382
+    "longitude": 28.9926382,
+    "iletisim": "02242428372"
   },
   {
     "name": "SEDA ECZANESİ",
@@ -23780,7 +26158,8 @@ export const locations = [
     "address": "CUMHURİYET MAH. MENDERES CAD. NO:49/A",
     "contract": true,
     "latitude": 38.4828699,
-    "longitude": 28.1507837
+    "longitude": 28.1507837,
+    "iletisim": "02367133100"
   },
   {
     "name": "BARIŞ ECZANESİ",
@@ -23790,7 +26169,8 @@ export const locations = [
     "address": "ORTABAYIR MAH. TALATPAŞA CAD. NO:10/D",
     "contract": true,
     "latitude": 41.0798493,
-    "longitude": 29.0067949
+    "longitude": 29.0067949,
+    "iletisim": "02128122101"
   },
   {
     "name": "ATAŞEN ECZANESİ",
@@ -23800,7 +26180,8 @@ export const locations = [
     "address": "TUNA MAH. 1690.SOK. NO:8",
     "contract": true,
     "latitude": 38.4561056,
-    "longitude": 27.1189486
+    "longitude": 27.1189486,
+    "iletisim": "02323815600"
   },
   {
     "name": "PANDORA ECZANESİ",
@@ -23810,9 +26191,9 @@ export const locations = [
     "address": "UNCUBOZKÖY MAH. 5526.SOK. NO:12/B",
     "contract": true,
     "latitude": 38.6119335,
-    "longitude": 27.3818762
+    "longitude": 27.3818762,
+    "iletisim": "02362370707"
   },
-
 
   {
     "name": "ÖZEL BALDENT AĞIZ VE DİŞ SAĞLIĞI POLİKLİNİĞİ ÇAN ŞUBESİ",
