@@ -311,7 +311,7 @@ import React, { useState, useEffect } from 'react';
                  </div>
                  <button
                    onClick={() => getDirections(location)}
-                   className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+                   className="yol-tarifi-btn"
                  >
                    Yol Tarifi
                  </button>
