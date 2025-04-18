@@ -7,7 +7,7 @@ import React, { useState, useEffect } from 'react';
    const [selectedType, setSelectedType] = useState('all');
    const [selectedContract, setSelectedContract] = useState('all');
    const [filteredLocations, setFilteredLocations] = useState([]);
-   const [showList, setShowList] = useState(false);
+   const [showList, setShowList] = useState(false)
    const [message, setMessage] = useState('Lütfen konum seçin veya konumunuzu kullanın');
  
    // Benzersiz şehirleri al
@@ -302,7 +302,7 @@ import React, { useState, useEffect } from 'react';
                    <p className="text-gray-600 mb-2">{location.type === 'hastane' ? 'Hastane' : 'Eczane'}</p>
                    <p className="text-gray-600 mb-2">{location.address}</p>
                    <p className="text-gray-600">{location.district}, {location.city}</p>
-                   <p className="text-gray-600 mb-2"> İletişim: {location.iletisim ? location.iletisim : 'İletişim bilgisi yok'}</p>
+                   <p className="text-gray-600 mb-2"> İletişim: {location.iletisim ? (<a href={`tel:${location.iletisim}`} className="text-blue-600 hover:underline">{location.iletisim}</a>) : 'İletişim bilgisi yok'}</p>
                    <span className={`inline-block px-2 py-1 rounded text-sm ${
                      location.contract ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800'
                    } mt-2`}>
