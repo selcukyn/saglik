@@ -302,6 +302,7 @@ import React, { useState, useEffect } from 'react';
                    <p className="text-gray-600 mb-2">{location.type === 'hastane' ? 'Hastane' : 'Eczane'}</p>
                    <p className="text-gray-600 mb-2">{location.address}</p>
                    <p className="text-gray-600">{location.district}, {location.city}</p>
+                   <p className="text-gray-600 mb-2"> İletişim: {location.iletisim ? location.iletisim : 'İletişim bilgisi yok'}</p>
                    <span className={`inline-block px-2 py-1 rounded text-sm ${
                      location.contract ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800'
                    } mt-2`}>
