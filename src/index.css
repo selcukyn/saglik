@@ -10,3 +10,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.yol-tarifi-btn {
+  width: 150px; /* Sabit genişlik */
+  height: 50px; /* Sabit yükseklik */
+  font-size: 16px; /* Tutarlı yazı boyutu */
+  padding: 10px; /* Tutarlı iç boşluk */
+  box-sizing: border-box; /* Her şey dahil */
+}
