@@ -1,7 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { locations } from './data/locations';
+import ErrorBoundary from './ErrorBoundary'; // Yeni ErrorBoundary bileşenini dahil edin
+import AppContent from './AppContent'; // App bileşeninin içeriğini ayrı bir bileşene taşıyoruz
+
 
 function App() {
+
+  
   const [selectedCity, setSelectedCity] = useState('');
   const [selectedDistrict, setSelectedDistrict] = useState('');
   const [selectedType, setSelectedType] = useState('all');
@@ -174,7 +179,8 @@ function App() {
     filterLocations();
   }, [selectedCity, selectedDistrict, selectedType, selectedContract]);
 
-  return (
+  return ( 
+   <ErrorBoundary>
     <div className="container mx-auto px-4 py-8">
       <h1 className="text-3xl font-bold mb-8 text-center text-blue-600">
         Sağlık Merkezi Arama
@@ -308,6 +314,8 @@ function App() {
         </div>
       )}
     </div>
+  </ErrorBoundary>
+
   );
 }
 
