@@ -13,7 +13,9 @@ import React, { useState, useEffect } from 'react';
    // Benzersiz şehirleri al
   // const cities = [...new Set(locations.map(loc => loc.city))].sort();
  //  const cities = [...new Set(locations.map(loc => loc.city))].sort();
-     const cities = [...new Set(locations.map(loc => loc.city))].sort((a, b) => a.localeCompare(b, 'tr'));
+     //const cities = [...new Set(locations.map(loc => loc.city))].sort((a, b) => a.localeCompare(b, 'tr'));
+     const cities = [...new Set(locations.map(loc => loc.city).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'tr'));
+
  
    // Seçili şehre göre ilçeleri al
 //   const districts = [...new Set(locations
@@ -23,9 +25,15 @@ import React, { useState, useEffect } from 'react';
     // .filter(loc => loc.city === selectedCity)
    //  .map(loc => loc.district))].sort();
  
-     const districts = [...new Set(locations
-       .filter(loc => loc.city === selectedCity)
-       .map(loc => loc.district))].sort((a, b) => a.localeCompare(b, 'tr'));
+    // const districts = [...new Set(locations
+    //   .filter(loc => loc.city === selectedCity)
+     //  .map(loc => loc.district))].sort((a, b) => a.localeCompare(b, 'tr'));
+
+          const districts = [...new Set(locations
+            .filter(loc => loc.city === selectedCity)
+            .map(loc => loc.district)
+            .filter(Boolean))].sort((a, b) => a.localeCompare(b, 'tr'));
+
    
    // Konum sıfırlama
    const resetFilters = () => {
