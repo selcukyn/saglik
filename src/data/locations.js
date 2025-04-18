@@ -14486,7 +14486,7 @@ export const locations = [
     "name": "TUTKUN ECZANESİ",
     "type": "eczane",
     "city": "ANKARA",
-    "district": "ÇATALCA",
+    "district": "ÇANKAYA",
     "address": "ALACAATLI MAH. ŞEHİT EREN BÜLBÜL CAD. BEKER PLAZA NO: 42/B19",
     "contract": true,
     "latitude": 39.8541785,
