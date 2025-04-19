@@ -298,7 +298,7 @@ import React, { useState, useEffect } from 'react';
   <div key={index} className="bg-white shadow-md rounded px-6 py-4 flex flex-col h-full">
     {/* Ana içerik */}
     <div className="flex-grow">
-      <h2 className="text-xl font-bold mb-2">{location.name}</h2>
+      <h2 className="text-xl font-bold mb-2 truncate" title={location.name}>{location.name}</h2>
       <p className="text-gray-600 mb-2">{location.type === 'hastane' ? 'Hastane' : 'Eczane'}</p>
       <p className="text-gray-600 mb-2">{location.address}</p>
       <p className="text-gray-600">{location.district}, {location.city}</p>
