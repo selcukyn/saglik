@@ -12,11 +12,33 @@ body {
 }
 
 .yol-tarifi-btn {
-  width: 150px; /* Sabit genişlik */
-  height: 50px; /* Sabit yükseklik */
-  font-size: 16px; /* Tutarlı yazı boyutu */
-  padding: 10px; /* Tutarlı iç boşluk */
-  box-sizing: border-box; /* Her şey dahil */
+  width: 150px;
+  height: 50px;
+  font-size: 16px;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: #3b82f6;  /* Mavi renk (bg-blue-500) */
+  color: white;
+  font-weight: 600;
+  border-radius: 0.5rem;
+  transition: all 0.2s ease-in-out;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.yol-tarifi-btn:hover {
+  background-color: #2563eb;  /* Koyu mavi renk (bg-blue-600) */
+  transform: translateY(-1px);
+  box-shadow: 0 6px 8px -1px rgba(0, 0, 0, 0.1), 0 4px 6px -1px rgba(0, 0, 0, 0.06);
+}
+
+.yol-tarifi-btn:active {
+  transform: translateY(0);
+  background-color: #1d4ed8;  /* Daha koyu mavi renk (bg-blue-700) */
 }
 
 @media (max-width: 768px) {
