@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
- import { locations } from './data/locations';
+import { FaHospital, FaPills, FaDirections } from 'react-icons/fa';  // Yeni eklenen satır
+import { locations } from './data/locations';
  
  function App() {
    const [selectedCity, setSelectedCity] = useState('');
@@ -294,12 +295,24 @@ import React, { useState, useEffect } from 'react';
  
 {showList && (
   <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 auto-rows-fr">
+   
 {filteredLocations.map((location, index) => (
   <div key={index} className="bg-white shadow-md rounded px-6 py-4 flex flex-col h-full">
-    {/* Ana içerik */}
     <div className="flex-grow">
       <h2 className="text-xl font-bold mb-2 truncate" title={location.name}>{location.name}</h2>
-      <p className="text-gray-600 mb-2">{location.type === 'hastane' ? 'Hastane' : 'Eczane'}</p>
+      <p className="text-gray-600 mb-2 flex items-center gap-2">
+        {location.type === 'hastane' ? (
+          <>
+            <FaHospital className="text-blue-600 text-lg" />
+            <span>Hastane</span>
+          </>
+        ) : (
+          <>
+            <FaPills className="text-red-600 text-lg" />
+            <span>Eczane</span>
+          </>
+        )}
+      </p>
       <p className="text-gray-600 mb-2">{location.address}</p>
       <p className="text-gray-600">{location.district}, {location.city}</p>
       <p className="text-gray-600 mb-2">
@@ -311,7 +324,6 @@ import React, { useState, useEffect } from 'react';
       </p>
     </div>
 
-    {/* Footer - her zaman altta sabit */}
     <div className="border-t pt-3 mt-3">
       <div className="flex items-center justify-between">
         <span className={`inline-block px-2 py-1 rounded text-sm ${
@@ -321,9 +333,10 @@ import React, { useState, useEffect } from 'react';
         </span>
         <button
           onClick={() => getDirections(location)}
-          className="yol-tarifi-btn"
+          className="yol-tarifi-btn flex items-center gap-2"
         >
-          Yol Tarifi
+          <FaDirections className="text-lg" />
+          <span>Yol Tarifi</span>
         </button>
       </div>
     </div>
