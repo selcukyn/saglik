@@ -171,7 +171,7 @@ function App() {
 
       {/* Footer */}
       <footer className="text-center text-gray-500 mt-8">
-        Sitenin tasarımı: Selçuk Yıldıran
+        Site tasarımı: Selçuk Yıldıran
       </footer>
     </div>
   );
