@@ -292,8 +292,8 @@ import React, { useState, useEffect } from 'react';
          </div>
        )}
  
-       {showList && (
-         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+{showList && (
+  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 auto-rows-fr">
 {filteredLocations.map((location, index) => (
   <div key={index} className="bg-white shadow-md rounded px-6 py-4 flex flex-col h-full">
     {/* Ana içerik */}
