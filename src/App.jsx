@@ -295,23 +295,25 @@ import React, { useState, useEffect } from 'react';
        {showList && (
          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
 {filteredLocations.map((location, index) => (
-  <div key={index} className="bg-white shadow-md rounded px-6 py-4">
-    <div className="flex flex-col">
-      <div>
-        <h2 className="text-xl font-bold mb-2">{location.name}</h2>
-        <p className="text-gray-600 mb-2">{location.type === 'hastane' ? 'Hastane' : 'Eczane'}</p>
-        <p className="text-gray-600 mb-2">{location.address}</p>
-        <p className="text-gray-600">{location.district}, {location.city}</p>
-        <p className="text-gray-600 mb-2">
-          İletişim: {location.iletisim ? (
-            <a href={`tel:${location.iletisim}`} className="text-blue-600 hover:underline">
-              {location.iletisim}
-            </a>
-          ) : 'Belirtilmemiş'}
-        </p>
-      </div>
-      
-      <div className="mt-3 flex items-center gap-3">
+  <div key={index} className="bg-white shadow-md rounded px-6 py-4 flex flex-col h-full">
+    {/* Ana içerik */}
+    <div className="flex-grow">
+      <h2 className="text-xl font-bold mb-2">{location.name}</h2>
+      <p className="text-gray-600 mb-2">{location.type === 'hastane' ? 'Hastane' : 'Eczane'}</p>
+      <p className="text-gray-600 mb-2">{location.address}</p>
+      <p className="text-gray-600">{location.district}, {location.city}</p>
+      <p className="text-gray-600 mb-2">
+        İletişim: {location.iletisim ? (
+          <a href={`tel:${location.iletisim}`} className="text-blue-600 hover:underline">
+            {location.iletisim}
+          </a>
+        ) : 'Belirtilmemiş'}
+      </p>
+    </div>
+
+    {/* Footer - her zaman altta sabit */}
+    <div className="border-t pt-3 mt-3">
+      <div className="flex items-center justify-between">
         <span className={`inline-block px-2 py-1 rounded text-sm ${
           location.contract ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800'
         }`}>
